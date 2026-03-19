@@ -1,0 +1,42 @@
+AI Agent 后端研发工程师
+
+全职  /  北京市  /  2人   /  技术-服务端开发-服务端开发  /  2026-03-09发布
+
+学历要求
+
+硕士
+
+工作年限
+
+0-3年
+
+所属部门
+
+有道事业群-升学课程事业部-研发组
+
+
+扫一扫分享该职位
+
+职位描述
+1. 智能体系统架构设计与开发：设计并实现教育场景的 AI Agent 后端服务架构，支持任务规划、工具调用、多步推理等核心能力,构建高可用的智能体运行时环境
+2. 上下文工程与记忆系统：设计 Agent 的上下文管理机制（Context Engineering）和记忆系统，结合向量数据库（Milvus/Pinecone）实现高效检索，优化上下文窗口利用效率
+3. MCP 协议与 Skill 集成：基于 MCP（Model Context Protocol）等标准协议设计工具调用层，构建可复用的 Skill 能力库，集成内外部 API、数据库等资源
+4. 后端服务开发与 API 设计：开发高性能 RESTful/gRPC API，支持流式传输（Streaming）、异步任务处理，与现有业务系统进行集成对接
+5. 稳定性与可观测性保障：建立监控、日志、追踪体系（Prometheus/Grafana），针对大模型调用异常设计降级策略，保障系统 SLA
+6. 技术跟进与创新：快速跟进 AI Agent 领域最新技术（Agent Skills、上下文工程、多智能体协作等），探索新技术在业务场景的落地应用
+职位要求
+1. 基础能力（必需）
+后端工程能力
+- 1年以上后端开发经验，熟练使用 Python（必须）
+- 扎实的计算机基础，熟悉 FastAPI/Flask/Django 等框架
+- 熟悉微服务架构、Kubernetes 容器化部署
+- 熟练使用 MySQL/PostgreSQL、Redis、Kafka/RabbitMQ 等基础组件
+- 了解向量数据库（Milvus/Pinecone/Qdrant）
+2. AI Agent 能力（必需）
+- 至少 1 年 AI Agent 或 LLM 应用开发经验
+- 深入理解并使用过 LangChain、LangGraph、LlamaIndex 等主流 Agent 框架至少一种，了解任务编排、工具调用、状态管理等核心机制
+- 理解上下文工程（Context Engineering）的核心概念，能够设计高效的上下文管理策略
+- 了解或使用过 MCP（Model Context Protocol）或类似标准协议
+- 具备 Agent Skills 设计与编排能力，能够将业务能力抽象为可复用的技能包
+- 熟悉 Prompt Engineering 和 RAG（检索增强生成）的工程实现
+- 熟悉主流大模型 API（OpenAI/Claude/Gemini/文心一言/通义千问等）
