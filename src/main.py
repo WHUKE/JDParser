@@ -7,6 +7,9 @@
     # 使用 DeepSeek LLM 解析（需要设置环境变量 DEEPSEEK_API_KEY）
     python -m src.main --mode llm
 
+    # 使用 Langbase 解析
+    python -m src.main --mode langbase
+
     # 指定输入/输出目录
     python -m src.main --mode llm --input data/raw --output data/parsed
 """
@@ -25,9 +28,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="JD 知识抽取工具")
     parser.add_argument(
         "--mode",
-        choices=["regex", "llm"],
+        choices=["regex", "llm", "langbase"],
         default="llm",
-        help="解析模式: regex=仅正则, llm=DeepSeek+正则 (默认: llm)",
+        help="解析模式: regex=仅正则, llm=DeepSeek+正则, langbase=Langbase+正则 (默认: llm)",
     )
     parser.add_argument(
         "--input",
@@ -44,7 +47,7 @@ def main() -> None:
     parser.add_argument(
         "--api-key",
         default=None,
-        help="DeepSeek API Key (也可通过环境变量 DEEPSEEK_API_KEY 设置)",
+        help="API Key (DeepSeek 通过 DEEPSEEK_API_KEY 环境变量, Langbase 通过 LANGBASE_API_KEY 环境变量)",
     )
     parser.add_argument(
         "--verbose", "-v",
@@ -62,10 +65,18 @@ def main() -> None:
     )
 
     # API Key
-    api_key = args.api_key or os.environ.get("DEEPSEEK_API_KEY")
-    if args.mode == "llm" and not api_key:
-        print("错误: LLM 模式需要设置 DEEPSEEK_API_KEY 环境变量或使用 --api-key 参数")
-        sys.exit(1)
+    if args.mode == "llm":
+        api_key = args.api_key or os.environ.get("DEEPSEEK_API_KEY")
+        if not api_key:
+            print("错误: LLM 模式需要设置 DEEPSEEK_API_KEY 环境变量或使用 --api-key 参数")
+            sys.exit(1)
+    elif args.mode == "langbase":
+        api_key = args.api_key or os.environ.get("LANGBASE_API_KEY")
+        if not api_key:
+            print("错误: Langbase 模式需要设置 LANGBASE_API_KEY 环境变量或使用 --api-key 参数")
+            sys.exit(1)
+    else:
+        api_key = None
 
     # 执行
     pipeline = Pipeline.create(mode=args.mode, api_key=api_key)
