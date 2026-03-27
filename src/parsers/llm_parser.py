@@ -11,8 +11,8 @@ from typing import Any
 
 from openai import OpenAI
 
-from src import config
-from src.models import JobDescription
+from src.core import config
+from src.core.models import JobDescription
 from src.parsers.base import BaseParser
 from src.parsers.regex_parser import RegexParser
 

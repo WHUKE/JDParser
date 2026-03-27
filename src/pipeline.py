@@ -4,9 +4,9 @@ import json
 import logging
 from pathlib import Path
 
-from src import config
-from src.models import JobDescription
-from src.normalizer import normalize_skills
+from src.core import config
+from src.core.models import JobDescription
+from src.core.normalizer import normalize_skills
 from src.parsers import BaseParser, RegexParser, LLMParser, LangbaseParser
 
 logger = logging.getLogger(__name__)

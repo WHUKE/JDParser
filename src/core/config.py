@@ -3,7 +3,7 @@
 from pathlib import Path
 
 # ── 路径配置 ──
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw"
 PARSED_DATA_DIR = PROJECT_ROOT / "data" / "parsed"
 

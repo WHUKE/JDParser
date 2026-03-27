@@ -3,7 +3,7 @@
 from abc import ABC, abstractmethod
 from typing import Any
 
-from src.models import JobDescription, Skill
+from src.core.models import JobDescription, Skill
 
 
 class BaseParser(ABC):

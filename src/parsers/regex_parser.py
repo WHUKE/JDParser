@@ -5,7 +5,7 @@
 """
 
 import re
-from src.models import JobDescription
+from src.core.models import JobDescription
 from src.parsers.base import BaseParser
 
 

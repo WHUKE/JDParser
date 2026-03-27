@@ -5,7 +5,7 @@
 """
 
 import re
-from src.models import Skill
+from src.core.models import Skill
 
 
 # ── 归一化映射表 ──
