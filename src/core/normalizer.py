@@ -230,6 +230,10 @@ def normalize_skills(skills: list[Skill]) -> list[Skill]:
         normalized = normalize_skill_name(skill.name)
         skill.name = normalized
 
+        # 归一化 parent 字段，确保父技能名称与技能名称使用同一规范
+        if skill.parent:
+            skill.parent = normalize_skill_name(skill.parent)
+
         # 去重：相同名称只保留第一个
         if normalized.lower() not in seen:
             seen.add(normalized.lower())
