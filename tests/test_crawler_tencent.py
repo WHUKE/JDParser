@@ -144,3 +144,4 @@ def test_tencent_crawler_writes_raw_files_and_manifest():
     manifest_lines = (tmp_path / "manifest.jsonl").read_text(encoding="utf-8").splitlines()
     assert len(manifest_lines) == 1
     assert json.loads(manifest_lines[0])["status"] == "success"
+    assert fake_session.calls[0][1]["parentCategoryId"] == "40001"

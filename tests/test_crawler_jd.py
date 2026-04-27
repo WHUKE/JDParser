@@ -98,5 +98,9 @@ def test_jd_crawler_writes_raw_files_and_manifest():
     assert len(manifest_lines) == 1
     assert json.loads(manifest_lines[0])["source"] == "jd"
     assert fake_session.calls[0][1]["jobSearch"] == ""
+    assert fake_session.calls[0][1]["jobTypeJson"] == '["YANFA"]'
+    assert fake_session.calls[0][1]["workCityJson"] == "[]"
+    assert fake_session.calls[0][1]["depTypeJson"] == "[]"
     assert fake_session.calls[1][1]["pageIndex"] == "1"
     assert fake_session.calls[1][1]["pageSize"] == "10"
+    assert fake_session.calls[1][1]["jobTypeJson"] == '["YANFA"]'

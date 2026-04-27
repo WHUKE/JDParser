@@ -1,0 +1,20 @@
+前端开发工程师（多端）
+北京市
+研发类
+
+业务线：京东科技
+公司：京东
+发布时间：2026-04-20
+
+岗位描述
+1、精通 React Native 框架，熟练运用 React Hooks、Context API 等进行组件化开发
+2、精通 JavaScript (ES6+) 及 TypeScript 语言，深入理解其核心概念和设计模式
+3、熟练掌握至少一种主流状态管理方案，如 Redux (Toolkit)、MobX、Zustand 或 Recoil
+4、具备一定原生开发能力（iOS: Swift/Objective-C，Android: Kotlin/Java），能够独立开发或封装原生模块（Native Modules）和原生 UI 组件，以满足复杂业务需求
+5、熟练使用 Metro、Fastlane、CodePush 等工具进行应用构建、打包、发布和热更新。具备良好的 Git 版本控制习惯和代码审查（Code Review）经验
+6、具备主动探索和使用 AI 工具（如 Copilot, Cursor, ChatGPT 等）辅助日常开发经验。
+
+任职要求
+1、有 React Native 具备主导参与跨端应用完整研发生命周期经验，负责基于 React Native 框架进行跨平台应用(Web/iOS/Android)产品开发
+2、具备良好的逻辑思维能力、分析问题和解决复杂问题的能力，对新技术(AI)有强烈的求知欲和快速学习能力。
+3、具备优秀的沟通表达能力、跨团队协作精神和项目管理意识，能够有效推动项目进展。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。

@@ -31,6 +31,7 @@ class TencentCrawler(BaseCrawler):
     SEARCH_URL = "https://careers.tencent.com/search.html"
     LIST_API_URL = "https://careers.tencent.com/tencentcareer/api/post/Query"
     DETAIL_API_URL = "https://careers.tencent.com/tencentcareer/api/post/ByPostId"
+    TECH_PARENT_CATEGORY_ID = "40001"
 
     def __init__(
         self,
@@ -145,7 +146,7 @@ class TencentCrawler(BaseCrawler):
             "bgIds": "",
             "productId": "",
             "categoryId": "",
-            "parentCategoryId": "",
+            "parentCategoryId": self.TECH_PARENT_CATEGORY_ID,
             "attrId": "",
             "keyword": keyword,
             "pageIndex": page_index,

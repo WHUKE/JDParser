@@ -30,6 +30,7 @@ class JdCrawler(BaseCrawler):
     ROOT_URL = "https://zhaopin.jd.com/web/job/job_info_list/3"
     LIST_API_URL = "https://zhaopin.jd.com/web/job/job_list"
     COUNT_API_URL = "https://zhaopin.jd.com/web/job/job_count"
+    TECH_JOB_TYPE_CODES = ["YANFA"]
 
     def __init__(
         self,
@@ -39,6 +40,9 @@ class JdCrawler(BaseCrawler):
         timeout: int = 20,
     ):
         self.root_url = root_url
+        self.job_type_codes = self.TECH_JOB_TYPE_CODES
+        self.city_codes: list[str] = []
+        self.dept_codes: list[str] = []
         self.timeout = timeout
         self.session = session or requests.Session()
         self.session.headers.update(
@@ -139,10 +143,10 @@ class JdCrawler(BaseCrawler):
         data = {
             "pageIndex": str(page_index),
             "pageSize": str(page_size),
-            "workCityJson": "[]",
-            "jobTypeJson": "[]",
+            "workCityJson": self._json_filter(self.city_codes),
+            "jobTypeJson": self._json_filter(self.job_type_codes),
             "jobSearch": keyword,
-            "depTypeJson": "[]",
+            "depTypeJson": self._json_filter(self.dept_codes),
         }
         total_count = self.fetch_total_count(keyword=keyword)
         posts = self._post_json(self.LIST_API_URL, data=data, referer=self.root_url)
@@ -154,10 +158,10 @@ class JdCrawler(BaseCrawler):
         payload = self._post_json(
             self.COUNT_API_URL,
             data={
-                "workCityJson": "[]",
-                "jobTypeJson": "[]",
+                "workCityJson": self._json_filter(self.city_codes),
+                "jobTypeJson": self._json_filter(self.job_type_codes),
                 "jobSearch": keyword,
-                "depTypeJson": "[]",
+                "depTypeJson": self._json_filter(self.dept_codes),
             },
             referer=self.root_url,
         )
@@ -204,6 +208,10 @@ class JdCrawler(BaseCrawler):
     @staticmethod
     def _detail_url(post_id: str) -> str:
         return f"https://zhaopin.jd.com/web/job-info-detail?requementId={post_id}"
+
+    @staticmethod
+    def _json_filter(values: list[str]) -> str:
+        return json.dumps([value for value in values if value], ensure_ascii=False)
 
     @staticmethod
     def _clean_text(value: Any) -> str | None:

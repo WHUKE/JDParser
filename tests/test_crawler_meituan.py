@@ -110,5 +110,6 @@ def test_meituan_crawler_writes_raw_files_and_manifest():
     manifest_lines = (tmp_path / "manifest.jsonl").read_text(encoding="utf-8").splitlines()
     assert len(manifest_lines) == 1
     assert json.loads(manifest_lines[0])["source"] == "meituan"
+    assert fake_session.calls[0][1]["jfJgList"] == [{"code": "11001", "subCode": []}]
     assert fake_session.calls[0][1]["jobType"] == [{"code": "3", "subCode": []}]
     assert fake_session.calls[1][1]["jobUnionId"] == "2384830163"

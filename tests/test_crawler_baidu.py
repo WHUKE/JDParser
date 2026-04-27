@@ -110,3 +110,4 @@ def test_baidu_crawler_writes_raw_files_and_manifest():
     assert len(manifest_lines) == 1
     assert json.loads(manifest_lines[0])["source"] == "baidu"
     assert fake_session.calls[0][1]["recruitType"] == "SOCIAL"
+    assert fake_session.calls[0][1]["postType"] == "1"

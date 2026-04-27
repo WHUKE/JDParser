@@ -30,6 +30,7 @@ class MeituanCrawler(BaseCrawler):
     ROOT_URL = "https://zhaopin.meituan.com/web/position"
     LIST_API_URL = "https://zhaopin.meituan.com/api/official/job/getJobList"
     DETAIL_API_URL = "https://zhaopin.meituan.com/api/official/job/getJobDetail"
+    TECH_JF_JG_LIST = [{"code": "11001", "subCode": []}]
 
     def __init__(
         self,
@@ -144,7 +145,7 @@ class MeituanCrawler(BaseCrawler):
                 "keywords": keyword,
                 "cityList": [],
                 "department": [],
-                "jfJgList": [],
+                "jfJgList": self.TECH_JF_JG_LIST,
                 "jobType": [{"code": "3", "subCode": []}],
                 "typeCode": [],
                 "specialCode": [],

@@ -1,0 +1,19 @@
+Android Software Engineer（J93907）
+深圳市,新加坡
+技术
+
+业务线：MEG
+公司：百度
+更新时间：2026-04-10
+
+工作职责
+1、Design and implement the features of mobile application
+2、Collaborate with cross-functional teams to create a world-class mobile experience
+3、Optimize application performance and user experience on the Android platforms
+4、Promote robust and maintainable code, and deliver high-quality projects on schedule
+
+任职要求
+1、Bachelor's degree in Computer Science or equivalent majors with 2 years of experience in native Android development
+2、Proficiency in Java or Kotlin, expert in Android SDK, Jetpack Components
+3、Ability to understand and debug large and complex codebases
+4、Good team communication and collaboration skills

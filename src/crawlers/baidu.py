@@ -30,6 +30,7 @@ class BaiduCrawler(BaseCrawler):
     ROOT_URL = "https://talent.baidu.com/jobs/social"
     SEARCH_URL = "https://talent.baidu.com/jobs/social-list"
     LIST_API_URL = "https://talent.baidu.com/httservice/getPostListNew"
+    TECH_POST_TYPE = "1"
 
     def __init__(
         self,
@@ -142,7 +143,7 @@ class BaiduCrawler(BaseCrawler):
                 "workPlace": "",
                 "pageSize": str(page_size),
                 "keyWord": keyword,
-                "postType": "",
+                "postType": self.TECH_POST_TYPE,
                 "curPage": str(page_index),
                 "projectType": "",
             },
