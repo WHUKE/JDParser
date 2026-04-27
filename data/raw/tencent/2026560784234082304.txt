@@ -1,0 +1,25 @@
+生态发展部-应用研究工程师
+上海
+技术
+不限
+
+业务线：IEG
+所属产品：生态赋能-其他(IEG)-轻游戏合集
+更新时间：2026年04月27日
+
+业务介绍
+渴望为世界带来新意的人，早已对描绘未来的“热词”不陌生——人工智能、机器学习、数据科学等等。腾讯始终在业界前沿不断探索，积极布局，并为优秀的你提供无限广阔的舞台。我们坚信科技的不断革新，最终能带来美好的、撼动人心的改变。
+
+工作职责
+1、负责游戏创作场景下Agent的架构设计与效果优化，优化工具调用、上下文管理、任务分解链路，提升端到端创作成功率与可控性
+2、探索Agentic RL与Post-Training在游戏开发领域的应用，构建CodeRL、Reward System等Agentic RL Infra；通过SFT、RLHF、DPO等手段对模型进行游戏创作领域任务的后训练
+3、构建面向游戏开发全流程的Context Engineering系统，设计并落地游戏项目级上下文管理方案：包括但不限于资产库索引、关卡布局语义化表示、设计文档/策划案的结构化召回、历史修改记录的压缩与注入等，确保Agent在长链路任务中的准确性
+4、搭建端到端Agent评测体系与数据闭环，定义游戏创作场景的自动/半自动评估指标；探索日志回放、用户行为反馈转训练数据、模型与数据共进化的Self-Improving机制
+5、持续跟踪LLM、多模态、Multi-Agent、Code Generation、AI游戏开发工具链前沿进展，能够将前沿技术落地至项目，形成专利/论文/方法论沉淀。
+
+任职要求
+1、硕士及以上学历，计算机/AI/软件工程/游戏开发相关背景，具备顶级会议论文者优先
+2、熟悉Agentic RL、Post-Training技术栈（SFT、RLHF、DPO、RLVR），有实际项目经验
+3、扎实的Python工程能力，熟悉至少一种Agent框架（LangGraph、LlamaIndex、OpenAI Agents SDK、AutoGen等）
+4、深入理解Agent架构设计（Multi-Agent协作、Context Management、Tool-Calling、ReAct/CodeAct），熟悉MCP、Function Call等交互协议
+5、具备大模型应用全链路经验：从Prompt Engineering、RAG、推理策略，到模型适配、效果归因与实验设计。

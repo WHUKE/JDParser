@@ -1,0 +1,22 @@
+agent开发工程师
+北京市
+研发类
+
+业务线：京东健康
+公司：京东
+发布时间：2026-04-27
+
+岗位描述
+1、负责健康医疗场景下智能体（Agent）的架构设计与实现，熟练运用 LangChain 或 LlamaIndex 等框架，进行复杂链路的编排、工具调用（Function Calling/Tool Use）及状态管理
+2、基于 SSE、WebSocket、MCP等技术，优化医疗对话式交互体验，解决大模型流式输出的稳定性与并发问题，确保健康咨询的实时性体验
+3、承担 Context Engineer 职责，优化上下文管理机制，设计RAG（检索增强生成）策略，解决医疗长文本、多轮对话中的信息遗忘与幻觉问题，提升上下文利用效率
+4、负责AI Agent的评测体系建设，设计自动化测试用例，对Agent的调用成功率、工具选择准确率、输出安全性进行量化评估与压测
+5、对接主流大模型（GPT系列、DeepSeek、Kimi、Qwen等），针对医疗术语的准确性进行Prompt Engineering及微调数据准备。
+
+任职要求
+1、计算机相关专业本科及以上学历，3年以上后端或AI应用开发经验，扎实的Java、Python编程能力，熟悉异步编程（Asyncio），具备良好的代码规范意识
+2、深入理解 LangChain 或 Semantic Kernel 的核心组件（Agent Executors, Tools, Memory, Callbacks），有实际生产项目落地经验
+3、熟悉 SSE 协议，有高并发流式接口的调优经验，了解如何处理中断、重连及流式token的安全过滤
+4、Context Engineering：熟悉RAG各环节（Chunking, Embedding, 重排），有处理长上下文（Long Context）压缩、记忆管理（短期/长期记忆）的实际经验
+5、Harness Engineering：理解AI应用的测试方法论，有构建Agent评测集、制定评估指标（如精确率、召回率、工具调用准确率）的经验
+6、有医疗信息化（HIS/EMR）或互联网医疗行业经验者优先，具备医学知识图谱构建或医疗NLP经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。
