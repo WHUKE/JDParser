@@ -5,9 +5,7 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "移动开发",
-  "job_sub_category": "iOS",
   "job_level": "初级",
-  "company_name": "抖音",
   "responsibilities": [
     "负责公司移动应用产品的设计、开发、测试、维护和优化工作",
     "与产品经理、设计师和其他开发人员协作，确保产品符合用户需求和期望",
@@ -92,19 +90,13 @@
       "skill_type": "soft"
     },
     {
-      "name": "独立完成任务",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
       "name": "抗压能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队合作",
+      "name": "团队合作精神",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -121,7 +113,7 @@
       "name": "客户端开发",
       "proficiency": "不限",
       "category": "移动开发",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

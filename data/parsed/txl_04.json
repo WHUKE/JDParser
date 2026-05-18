@@ -3,10 +3,10 @@
   "job_title": "全栈开发工程师-飞书办公套件",
   "location": "北京/广州/深圳/杭州",
   "education": "本科",
-  "experience": "不限",
+  "experience": "应届",
   "employment_type": "实习",
-  "job_category": "前端开发",
-  "job_sub_category": "全栈开发",
+  "job_category": "全栈开发",
+  "job_sub_category": "音视频",
   "job_level": "初级",
   "company_name": "字节跳动",
   "workmode": "现场",
@@ -16,13 +16,6 @@
     "持续关注用户体验，与产品和设计一起不断改进产品的易用性"
   ],
   "required_skills": [
-    {
-      "name": "软件开发",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
     {
       "name": "操作系统",
       "proficiency": "熟悉",
@@ -98,11 +91,11 @@
   ],
   "preferred_skills": [
     {
-      "name": "音视频",
+      "name": "音视频底层机制",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "其他",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "WebRTC",
@@ -122,20 +115,20 @@
       "name": "前后端交互原理",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "API与协议",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "全栈开发",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "独立项目开发",
+      "name": "独立开发完整项目",
       "proficiency": "不限",
       "category": "项目管理",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

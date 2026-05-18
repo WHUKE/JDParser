@@ -11,87 +11,92 @@
   "company_name": "字节跳动",
   "workmode": "现场",
   "responsibilities": [
-    "参与电商业务相关产品的前端开发，覆盖Web应用、多端组件库、数据可视化等方向",
-    "与产品经理、设计师、后端工程师协作，提升产品用户体验，打造卓越互联网产品",
-    "关注前端前沿技术发展，将新知识传递给团队并转化到潜在项目中"
+    "参与字节跳动电商业务相关产品的前端开发，覆盖Web应用、多端组件库、数据可视化等多个方向",
+    "与产品经理、设计师、后端工程师一起，提升产品的用户体验，打造卓越的互联网产品",
+    "关注前端前沿技术发展，能够将新知识传递给团队，并且转化到潜在项目中"
   ],
   "required_skills": [
     {
       "name": "JavaScript",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "ECMAScript 6",
-      "proficiency": "掌握",
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "JavaScript"
-    },
-    {
       "name": "HTML",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "DOM",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "网络协议",
-      "proficiency": "掌握",
-      "category": "API与协议",
+      "name": "HTTP协议",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
       "skill_type": "hard"
     },
     {
       "name": "Web安全",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "安全",
       "skill_type": "hard"
     },
     {
-      "name": "设计能力",
-      "proficiency": "良好",
+      "name": "代码质量",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "编码能力",
-      "proficiency": "良好",
+      "name": "技术热情",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "产品意识",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "积极乐观",
-      "proficiency": "不限",
+      "name": "积极心态",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "认真负责",
-      "proficiency": "不限",
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -109,19 +114,7 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "构建工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Web项目开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "小程序开发",
-      "proficiency": "不限",
-      "category": "移动开发",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

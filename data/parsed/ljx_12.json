@@ -6,11 +6,11 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "高并发、分布式系统、微服务",
+  "job_sub_category": "高并发",
+  "job_level": "高级",
   "company_name": "快手",
-  "workmode": "现场",
   "responsibilities": [
-    "负责快手核心产品（短视频、直播、电商）后端系统设计与开发",
+    "负责核心产品后端系统设计与开发",
     "参与高并发场景下的架构设计，保障系统稳定性和高性能",
     "负责内容推荐、用户增长、支付交易等核心服务的开发与优化",
     "推动微服务架构改造，提升系统可维护性和研发效率",
@@ -40,7 +40,8 @@
     },
     {
       "name": "高并发系统开发",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
@@ -63,37 +64,35 @@
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "版本控制",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "MySQL",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "Redis",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "缓存",
       "skill_type": "hard"
     },
     {
       "name": "Kafka",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "消息队列",
       "skill_type": "hard"
     },
     {
       "name": "问题分析和解决能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "线上问题定位",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
@@ -101,7 +100,7 @@
       "name": "分布式存储",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "大数据",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
@@ -130,58 +129,62 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "机器学习"
     },
     {
       "name": "模型服务化",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "机器学习"
     },
     {
-      "name": "短视频",
+      "name": "短视频业务",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "直播",
+      "name": "直播业务",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "电商",
+      "name": "电商业务",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
       "name": "推荐系统",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "机器学习",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "内容理解",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "domain"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
     },
     {
       "name": "开源项目贡献",
       "proficiency": "不限",
-      "category": "通用技能",
+      "category": "其他",
       "skill_type": "soft"
     },
     {
       "name": "技术博客撰写",
       "proficiency": "不限",
-      "category": "通用技能",
+      "category": "其他",
       "skill_type": "soft"
     }
   ],

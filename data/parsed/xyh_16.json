@@ -9,9 +9,9 @@
   "headcount": 1,
   "publish_date": "2026-03-06",
   "job_category": "技术-前端及客户端开发-桌面端开发",
-  "job_sub_category": "Windows客户端开发",
   "job_level": "中级",
   "company_name": "网易",
+  "workmode": "现场",
   "responsibilities": [
     "参与网易游戏平台产品的设计与研发",
     "参与Windows客户端业务组件化设计与开发",
@@ -26,32 +26,18 @@
       "skill_type": "hard"
     },
     {
-      "name": "STL",
+      "name": "C++ STL",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "编程语言",
       "skill_type": "hard",
       "parent": "C++"
     },
     {
-      "name": "算法",
+      "name": "常用算法和数据结构",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据结构",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Windows",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "操作系统",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -59,19 +45,17 @@
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "操作系统",
-      "skill_type": "hard",
-      "parent": "Windows"
+      "skill_type": "hard"
     },
     {
       "name": "Windows UI消息机制",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "Windows"
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
-      "name": "进程间通信",
+      "name": "Windows进程间通信",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "操作系统",
@@ -88,7 +72,7 @@
       "name": "HTTP",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
@@ -115,16 +99,15 @@
       "name": "DuiLib",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "WinUI",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "Windows"
+      "category": "前端框架",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

@@ -6,12 +6,11 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "运维",
-  "job_sub_category": "AI基础设施",
+  "job_sub_category": "数据中心网络",
   "job_level": "初级",
   "company_name": "字节跳动",
-  "workmode": "现场",
   "responsibilities": [
-    "负责超大规模AI/数据集群网络建设运维工作",
+    "负责字节跳动业界先进的超大规模AI/数据集群网络建设运维工作",
     "参与日常值班，处理业务问题",
     "开发自动化工具或平台，提高运维效率，规范操作流程"
   ],
@@ -38,71 +37,80 @@
       "skill_type": "hard"
     },
     {
+      "name": "网络设备操作",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务逻辑抽象",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "求知欲",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
       "name": "Python",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "不限",
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Shell",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "不限",
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Go",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "不限",
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "Linux",
+      "name": "Linux系统管理",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
-      "name": "网络协议栈",
+      "name": "底层网络协议栈原理",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "网络",
       "skill_type": "hard"
-    },
-    {
-      "name": "自动化运维",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "逻辑分析能力",
-      "proficiency": "优秀",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "优秀",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "优秀",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "网络架构",
       "proficiency": "不限",
-      "category": "网络",
-      "skill_type": "domain"
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
       "name": "白盒交换机",
@@ -129,10 +137,10 @@
       "skill_type": "soft"
     },
     {
-      "name": "应急问题排查",
+      "name": "故障排查",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "通用技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

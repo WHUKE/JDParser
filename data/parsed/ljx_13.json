@@ -10,7 +10,6 @@
   "job_sub_category": "SRE",
   "job_level": "中级",
   "company_name": "快手",
-  "workmode": "现场",
   "responsibilities": [
     "保障快手核心业务系统7×24小时稳定运行",
     "设计与开发自动化运维平台、监控系统、故障自愈工具",
@@ -77,25 +76,29 @@
     },
     {
       "name": "分布式系统",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "微服务架构",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "故障排查",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "问题分析与解决能力",
-      "proficiency": "良好",
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -105,7 +108,7 @@
       "name": "混沌工程",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
@@ -119,7 +122,7 @@
       "name": "容量评估",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -137,24 +140,24 @@
       "skill_type": "hard"
     },
     {
-      "name": "大模型",
+      "name": "大模型运维",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "智能告警",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
       "name": "根因分析",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -179,28 +182,39 @@
       "skill_type": "hard"
     },
     {
-      "name": "自动化运维平台",
+      "name": "大规模分布式系统运维",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "架构模式",
+      "skill_type": "domain"
     },
     {
-      "name": "监控系统",
+      "name": "自动化运维平台开发",
       "proficiency": "不限",
       "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "故障自愈工具",
+      "name": "监控系统开发",
       "proficiency": "不限",
       "category": "DevOps工具",
       "skill_type": "hard"
+    },
+    {
+      "name": "故障自愈工具开发",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运维智能化",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
     },
     {
       "name": "数据驱动运维",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "其他",
+      "proficiency": "不限",
+      "category": "数据处理",
       "skill_type": "domain"
     }
   ],

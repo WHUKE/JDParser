@@ -13,12 +13,12 @@
   "job_category": "技术-技术运维-DBA",
   "job_sub_category": "数据库运维",
   "job_level": "中级",
-  "company_name": "网易游戏",
+  "company_name": "网易",
   "responsibilities": [
-    "负责网易游戏数据库日常运维工作，包括数据库配置管理、版本升级、扩容等",
+    "负责网易游戏数据库日常运维工作，包括不限于数据库配置管理、版本升级、扩容等",
     "负责数据库集群监控、用户问题跟踪分析和处理，保障业务稳定",
     "响应用户需求，根据项目需求设计并制定数据库解决方案",
-    "参与数据库工具、组件、数据库运维管控平台等开发，提高服务自动化率和管理效率"
+    "参与数据库工具、组件、数据库运维管控平台等开发，提高服务自动化率、管理效率"
   ],
   "required_skills": [
     {
@@ -43,25 +43,53 @@
       "skill_type": "hard"
     },
     {
-      "name": "MongoDB",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "数据库",
-      "skill_type": "hard"
-    },
-    {
       "name": "数据库基本原理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "数据库",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "Linux",
+      "name": "数据库常见操作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Linux操作系统",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
       "skill_type": "hard"
+    },
+    {
+      "name": "问题定位能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "现网问题处理经验",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "运维",
+      "skill_type": "domain"
     },
     {
       "name": "计算机硬件设备",
@@ -81,83 +109,55 @@
       "name": "TCP/IP",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "网络知识",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
       "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "Shell",
-      "proficiency": "不限",
+      "name": "网络知识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "脚本编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
-    },
-    {
-      "name": "Python",
-      "proficiency": "不限",
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Go",
-      "proficiency": "不限",
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "问题定位能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "分析能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "解决问题能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
     },
     {
       "name": "沟通表达能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "服务意识",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队合作",
-      "proficiency": "较强",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "突发事件处理能力",
+      "name": "团队合作意识",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
+      "name": "快速处理突发事件的能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
       "name": "抗压能力",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -171,16 +171,39 @@
       "skill_type": "hard"
     },
     {
-      "name": "大型数据库管理",
-      "proficiency": "不限",
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大型数据库管理经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据库",
       "skill_type": "domain"
     },
     {
-      "name": "AI应用",
-      "proficiency": "不限",
+      "name": "AI应用经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "domain"
+      "skill_type": "tool"
     }
   ],
   "raw_requirements": [

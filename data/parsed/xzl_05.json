@@ -11,11 +11,8 @@
   "job_level": "高级",
   "target_group": "常规社招",
   "responsibilities": [
-    "负责平台业务底层基础架构的技术规划、设计与演进",
-    "带领团队构建高可用、高性能、可扩展的基础平台",
-    "支撑公司平台相关业务的快速发展与持续创新",
-    "承担基础设施团队技术Leader角色，提供技术深度与架构视野",
-    "推动跨团队协作与技术领导"
+    "负责平台业务的底层基础架构的技术规划、设计与演进",
+    "带领团队构建高可用、高性能、可扩展的基础平台，支撑公司平台相关业务的快速发展与持续创新"
   ],
   "required_skills": [
     {
@@ -43,7 +40,7 @@
       "name": "性能优化",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "其他",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
@@ -81,10 +78,18 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "基础设施即代码"
     },
     {
       "name": "云计算架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云平台",
       "proficiency": "精通",
       "proficiency_rank": 4,
       "category": "云平台",
@@ -92,24 +97,27 @@
     },
     {
       "name": "阿里云",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "云平台",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "云平台"
     },
     {
       "name": "AWS",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "云平台",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "云平台"
     },
     {
       "name": "Google Cloud",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "云平台",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "云平台"
     },
     {
       "name": "DevOps",
@@ -123,20 +131,16 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "DevOps"
     },
     {
       "name": "GitOps",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "后端基础能力建设",
-      "proficiency": "不限",
-      "category": "后端框架",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "CI/CD"
     },
     {
       "name": "网关",
@@ -163,41 +167,53 @@
       "name": "性能监测",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "高可用架构设计",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大型互联网系统架构",
-      "proficiency": "不限",
+      "name": "基础架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "架构模式",
       "skill_type": "domain"
     },
     {
-      "name": "游戏运维平台",
-      "proficiency": "不限",
+      "name": "运维平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "高可用设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大型系统架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "团队领导",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "跨团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "技术沟通",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -215,13 +231,31 @@
       "skill_type": "soft"
     },
     {
+      "name": "技术沟通",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
       "name": "结果导向",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "持续学习",
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"

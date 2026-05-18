@@ -3,25 +3,25 @@
   "job_title": "资深后端开发工程师 （支付方向）",
   "location": "上海",
   "education": "本科",
-  "experience": "3年",
+  "experience": "3-5年",
   "experience_min": 3,
-  "experience_max": 3,
+  "experience_max": 5,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "微服务",
+  "job_sub_category": "支付系统",
   "job_level": "高级",
   "company_name": "米哈游",
   "responsibilities": [
     "负责支付、提现、商品、营销等核心系统的开发与维护，为公司旗下多款游戏的全球用户打造最优的付费体验",
-    "深度参与团队负责的微服务架构设计，推动高并发、高可用性、可维护性、可拓展性、鲁棒性相关工程实践落地",
-    "主导并推动AI能力在支付研发、运维、支持场景中的落地，包括AI代码生成、代码重构、代码评审、技术方案辅助设计及支付领域智能Agent构建",
-    "支持服务稳定性建设，包括监控搭建、SOP流程完善、故障排查、应急响应等",
-    "阅读支付渠道文档，并与渠道对接人员完成英语沟通"
+    "深度参与团队负责的微服务的架构设计，坚持团队在高并发、高可用性、可维护性、可拓展性、鲁棒性上的高标准，并推动优秀的工程实践落地",
+    "基于公司的AI能力基建，主导并推动AI能力在支付研发、运维、支持场景中的落地",
+    "支持服务的稳定性建设，包括搭建监控、SOP流程完善、故障排查、应急响应等"
   ],
   "required_skills": [
     {
       "name": "Go",
-      "proficiency": "优先",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
     },
@@ -33,76 +33,21 @@
       "skill_type": "hard"
     },
     {
-      "name": "高并发",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "高可用",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
       "name": "服务治理",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "服务监控",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "全链路压测",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "混沌工程",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "CI/CD",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "灰度发布",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "多集群环境",
-      "proficiency": "不限",
-      "category": "容器与编排",
-      "skill_type": "hard"
-    },
-    {
-      "name": "流量染色",
-      "proficiency": "不限",
-      "category": "网络",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Web应用开发",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "HTTP",
+      "name": "HTTP协议",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "API与协议",
@@ -116,7 +61,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "缓存",
+      "name": "缓存技术",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "缓存",
@@ -130,15 +75,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "AI",
-      "proficiency": "掌握",
+      "name": "大模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大语言模型",
-      "proficiency": "掌握",
-      "category": "深度学习",
       "skill_type": "hard"
     },
     {
@@ -150,173 +90,133 @@
     },
     {
       "name": "MCP Server",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "RAG",
-      "proficiency": "不限",
+      "name": "RAG（检索增强生成）",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "Prompt Engineering",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "监控",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "SOP流程",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "故障排查",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "应急响应",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "英语",
-      "proficiency": "流利",
-      "category": "通用技能",
-      "skill_type": "language"
-    },
-    {
-      "name": "独立负责",
-      "proficiency": "不限",
+      "name": "项目管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "需求讨论",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "soft"
+      "name": "英语",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "language"
     },
     {
-      "name": "技术设计",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试",
-      "proficiency": "不限",
+      "name": "全链路压测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "交付",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "soft"
+      "name": "混沌工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "灰度发布",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多集群环境",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流量染色",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "支付网关",
+      "name": "支付网关集成",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "支付服务提供商集成",
+      "name": "财务系统开发",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "卡组集成",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "财务软件开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "会计软件开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI工具落地",
+      "name": "AI工具落地实践",
       "proficiency": "不限",
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "问答机器人",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "阿里云",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "云平台",
       "skill_type": "hard"
     },
     {
       "name": "AWS",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "云平台",
       "skill_type": "hard"
     },
     {
-      "name": "PaaS",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "云平台",
-      "skill_type": "hard"
-    },
-    {
-      "name": "IaaS",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "云平台",
-      "skill_type": "hard"
-    },
-    {
-      "name": "计算机安全",
-      "proficiency": "深入了解",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "加解密算法",
-      "proficiency": "深入了解",
+      "name": "加密算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "安全",
       "skill_type": "hard"
     },
     {
       "name": "哈希算法",
-      "proficiency": "深入了解",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "安全",
       "skill_type": "hard"
     },
     {
       "name": "密钥管理服务",
-      "proficiency": "深入了解",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "安全",
       "skill_type": "hard"
     }

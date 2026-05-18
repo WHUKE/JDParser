@@ -1,7 +1,7 @@
 {
   "source_file": "lyq_05.txt",
   "job_title": "测试开发工程师",
-  "location": "杭州、北京、上海、深圳",
+  "location": "杭州/北京/上海/深圳",
   "education": "本科",
   "experience": "2年以上",
   "experience_min": 2,
@@ -10,13 +10,12 @@
   "job_sub_category": "自动化测试",
   "job_level": "中级",
   "company_name": "阿里巴巴",
-  "workmode": "现场",
   "responsibilities": [
-    "参与产品全流程测试，包括需求评审、用例设计、执行、缺陷跟踪和质量分析",
-    "开发自动化测试框架、工具与平台，实现功能测试、性能测试和接口自动化测试",
-    "保障分布式系统、云原生应用的稳定性与高可用性，制定测试策略",
-    "推动测试流程优化，提升测试效率与产品质量，降低线上故障发生率",
-    "与开发、产品团队协作，参与质量回溯，推动问题闭环解决"
+    "参与产品全流程测试（需求评审、用例设计、执行、缺陷跟踪、质量分析）。",
+    "开发自动化测试框架、工具与平台，实现功能/性能/接口自动化测试。",
+    "保障分布式系统、云原生应用的稳定性与高可用性，制定测试策略。",
+    "推动测试流程优化，提升测试效率与产品质量，降低线上故障发生率。",
+    "与开发、产品团队协作，参与质量回溯，推动问题闭环解决。"
   ],
   "required_skills": [
     {
@@ -70,43 +69,29 @@
     },
     {
       "name": "接口测试",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "性能测试",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "功能测试",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "问题定位",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "分析能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "线上问题排查",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
+      "name": "问题定位与分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -134,10 +119,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "云原生测试环境",
+      "name": "云原生",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
@@ -151,7 +136,7 @@
       "name": "测试数据构造",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
@@ -162,35 +147,35 @@
       "skill_type": "hard"
     },
     {
-      "name": "分布式系统",
+      "name": "分布式系统测试",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "微服务架构",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "电商",
-      "proficiency": "不限",
-      "category": "其他",
+      "category": "测试工具",
       "skill_type": "domain"
     },
     {
-      "name": "云服务",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "微服务测试",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "测试工具",
       "skill_type": "domain"
     },
     {
-      "name": "中间件",
+      "name": "电商测试",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "云服务测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "中间件测试",
+      "proficiency": "不限",
+      "category": "测试工具",
       "skill_type": "domain"
     },
     {
@@ -201,13 +186,8 @@
     },
     {
       "name": "测试工具开发",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试框架开发",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "测试工具",
       "skill_type": "hard"
     },
@@ -216,13 +196,13 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "项目管理",
-      "skill_type": "hard"
+      "skill_type": "soft"
     },
     {
       "name": "全链路质量保障",
       "proficiency": "不限",
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

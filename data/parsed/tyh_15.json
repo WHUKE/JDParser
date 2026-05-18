@@ -7,43 +7,16 @@
   "job_category": "AI/机器学习",
   "job_sub_category": "运筹优化",
   "job_level": "初级",
-  "company_name": "TikTok Shop",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "参与电商业务供应链及物流全链路智能化体系建设，负责面向业务的数据挖掘及算法模型迭代",
-    "结合电商底层数据，通过数据挖掘、运筹优化、机器学习、深度学习、统计推断等算法手段，对电商履约链路各环节进行质量、成本和效率优化",
-    "围绕仓储规划布局、出入库效率优化、物流路径优化、备货与调拨计划、虚假发货、用户投诉、末端妥投失败、虚假派送、用户差评等业务问题建立优化方案",
-    "深入理解电商业务场景，与产品研发及运营团队合作，挖掘业务流程中的优化点，建立优化模型并设计优化求解算法，对决策进行优化"
+    "参与字节跳动电商业务供应链及物流全链路智能化体系建设，负责面向业务的数据挖掘及算法模型迭代",
+    "结合电商底层数据，通过数据挖掘、运筹优化、机器学习、深度学习、统计推断等算法手段，对电商的履约链路各环节进行质量、成本和效率上的优化，业务包括但不限于：仓储规划布局、出入库效率优化、物流路径优化、备货&调拨计划、商家虚假发货、用户投诉、末端妥投失败、虚假派送、用户差评等",
+    "深入理解电商业务场景，与产品研发及运营团队合作，挖掘电商业务流程中的优化点，建立优化模型并设计优化求解算法，对决策进行优化"
   ],
   "required_skills": [
     {
       "name": "机器学习",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "统计推断",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分类算法",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "回归算法",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "聚类算法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "机器学习",
@@ -57,15 +30,17 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据挖掘",
-      "proficiency": "不限",
-      "category": "数据处理",
+      "name": "统计学",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "运筹优化",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "数据挖掘",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
@@ -83,33 +58,30 @@
       "skill_type": "hard"
     },
     {
-      "name": "机器学习平台",
+      "name": "机器学习/深度学习平台",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "编码能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "数据分析能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
       "name": "团队合作",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "沟通技巧",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -124,110 +96,20 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "电商",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "供应链",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "物流",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
-      "name": "数据挖掘",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "机器学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "深度学习",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "KDD",
+      "name": "顶会论文发表",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "NeurIPS",
+      "name": "数据挖掘/机器学习竞赛经历",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
-    },
-    {
-      "name": "WWW",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "SIGIR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "WSDM",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICML",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "IJCAI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AAAI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "RecSys",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "论文发表",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "算法竞赛",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

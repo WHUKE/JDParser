@@ -3,13 +3,13 @@
   "job_title": "数据测试工程师（数据平台）",
   "location": "上海",
   "education": "本科",
-  "experience": "1年及以上",
+  "experience": "1年以上",
   "experience_min": 1,
-  "experience_max": 1,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "大数据测试",
+  "job_sub_category": "数据平台",
   "job_level": "初级",
+  "workmode": "现场",
   "responsibilities": [
     "负责数据采集、数据处理、数据分析、数据可视化等全流程测试，包括需求分析、测试设计、用例编写、测试执行和缺陷跟踪，保障数据链路的准确性、完整性和稳定性",
     "设计和开发自动化测试脚本，提升大数据测试效率和覆盖率",
@@ -20,74 +20,10 @@
   ],
   "required_skills": [
     {
-      "name": "大数据测试",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据平台测试",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
       "name": "SQL",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "数据库",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据验证",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试方法",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试流程",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试用例设计",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "缺陷分析",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "缺陷定位",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "不限",
-      "category": "测试工具",
       "skill_type": "hard"
     },
     {
@@ -112,32 +48,86 @@
       "skill_type": "hard"
     },
     {
+      "name": "大数据技术栈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "测试方法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "测试用例设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缺陷分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据验证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
       "name": "沟通能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队协作能力",
-      "proficiency": "良好",
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "学习能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "责任心",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "细致认真",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -152,20 +142,20 @@
     {
       "name": "数据治理",
       "proficiency": "不限",
-      "category": "数据处理",
+      "category": "大数据",
       "skill_type": "domain"
     },
     {
       "name": "数据安全",
       "proficiency": "不限",
       "category": "安全",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "数据可视化",
       "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
+      "category": "大数据",
+      "skill_type": "domain"
     },
     {
       "name": "性能测试",
@@ -177,22 +167,32 @@
       "name": "压力测试",
       "proficiency": "不限",
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "性能测试"
     },
     {
       "name": "数据安全测试",
       "proficiency": "不限",
       "category": "安全",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "数据安全"
     },
     {
       "name": "数据血缘",
       "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "domain"
+      "category": "大数据",
+      "skill_type": "domain",
+      "parent": "数据治理"
     },
     {
       "name": "数据质量监控",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain",
+      "parent": "数据治理"
+    },
+    {
+      "name": "数据分析",
       "proficiency": "不限",
       "category": "数据处理",
       "skill_type": "hard"
@@ -201,7 +201,7 @@
       "name": "数据挖掘",
       "proficiency": "不限",
       "category": "机器学习",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "机器学习",

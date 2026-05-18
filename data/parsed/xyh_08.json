@@ -11,10 +11,11 @@
   "job_category": "技术-服务端开发-服务端开发",
   "job_sub_category": "推荐系统",
   "job_level": "资深",
+  "workmode": "现场",
   "responsibilities": [
-    "负责推荐服务端开发与架构设计，根据业务需求完成设计、开发以及文档编写等工作",
-    "负责推荐系统的持续优化工作，满足高可用、高性能、高扩展性等需求",
-    "跟进行业技术趋势，推动大数据与AI技术在推荐业务场景的落地"
+    "负责推荐服务端开发与架构设计，完成设计、开发以及文档编写",
+    "负责推荐系统持续优化，满足高可用、高性能、高扩展性需求",
+    "跟进行业技术趋势，推动大数据与AI技术在推荐场景落地"
   ],
   "required_skills": [
     {
@@ -32,7 +33,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "程序设计",
+      "name": "程序设计能力",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "通用技能",
@@ -46,14 +47,14 @@
       "skill_type": "hard"
     },
     {
-      "name": "Apache Kafka",
+      "name": "Kafka",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "消息队列",
       "skill_type": "hard"
     },
     {
-      "name": "Apache Dubbo",
+      "name": "Dubbo",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "后端框架",
@@ -67,17 +68,17 @@
       "skill_type": "hard"
     },
     {
-      "name": "Apache ZooKeeper",
+      "name": "ZooKeeper",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "后端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "Apache HBase",
+      "name": "HBase",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
@@ -88,51 +89,44 @@
       "skill_type": "hard"
     },
     {
-      "name": "大数据技术生态",
+      "name": "Hadoop",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "大数据",
       "skill_type": "hard"
     },
     {
-      "name": "Hadoop",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
       "name": "Apache Spark",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "大数据",
       "skill_type": "hard"
     },
     {
       "name": "Apache Flink",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "大数据",
       "skill_type": "hard"
     },
     {
-      "name": "分布式计算框架",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
       "name": "沟通表达能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "技术洞察力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -144,8 +138,23 @@
       "skill_type": "tool"
     },
     {
-      "name": "学习能力",
-      "proficiency": "不限",
+      "name": "持续学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术探索能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术推广能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -153,47 +162,38 @@
   "preferred_skills": [
     {
       "name": "Prompt Engineering",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "结构化 Prompt 编写",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "Prompt Engineering"
-    },
-    {
-      "name": "AI Agent",
-      "proficiency": "不限",
+      "name": "AI Agent搭建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "自动化工作流",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "AI最佳实践",
-      "proficiency": "不限",
+      "name": "自动化工作流搭建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
-    },
-    {
-      "name": "Prompt 库维护",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "tool",
-      "parent": "Prompt Engineering"
     },
     {
       "name": "知识库维护",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "tool"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "最佳实践沉淀",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

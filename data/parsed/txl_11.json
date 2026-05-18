@@ -9,18 +9,17 @@
   "job_sub_category": "电商分析",
   "job_level": "初级",
   "company_name": "TikTok Shop",
-  "workmode": "现场",
   "responsibilities": [
-    "深入参与国际电商POP模式的数据科学团队日常工作，理解业务逻辑并通过数据洞察推动业务优化",
-    "负责业务经营分析，搭建指标体系，拆解指标关键过程，实时进行监控和异动归因，并推动业务团队优化动作",
-    "参与业务目标达成的多维度分析，包括供给、流量、用户等方向，提供策略支持、落地追踪、科学衡量和钱效优化"
+    "深入参与国际电商POP模式的数据科学团队的日常工作，理解业务逻辑并通过数据洞察推动业务优化",
+    "负责业务经营分析，搭建指标体系，拆解指标关键过程，实时进行监控和异动归因，对应到业务团队动作进行优化",
+    "深入参与业务侧目标达成的各维度分析，例如供给，流量，用户，提供策略支持，落地追踪，科学衡量，钱效优化"
   ],
   "required_skills": [
     {
       "name": "SQL",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "数据处理",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -31,14 +30,42 @@
       "skill_type": "hard"
     },
     {
+      "name": "Hive",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
       "name": "统计学",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "domain"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
-      "name": "A/B测试",
+      "name": "A/B实验",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "数据处理",
@@ -48,77 +75,64 @@
       "name": "商业分析模型",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "domain"
+      "category": "数据处理",
+      "skill_type": "hard"
     },
     {
-      "name": "指标拆解方法",
+      "name": "指标拆解",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "逻辑思维能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "业务理解能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "category": "数据处理",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "Hive",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Apache Spark",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
       "name": "电商业务",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
       "name": "内容业务",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "销售运营",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "电商销售经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "战略咨询",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "运营计划经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "团队协作",
-      "proficiency": "不限",
+      "name": "战略咨询经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨区域团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "沟通能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }

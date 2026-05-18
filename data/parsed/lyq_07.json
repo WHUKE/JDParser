@@ -8,7 +8,6 @@
   "experience_max": 3,
   "employment_type": "全职",
   "job_category": "前端开发",
-  "job_sub_category": "前端工程化",
   "job_level": "初级",
   "company_name": "百度",
   "workmode": "现场",
@@ -24,14 +23,14 @@
       "name": "HTML",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -40,14 +39,6 @@
       "proficiency_rank": 4,
       "category": "编程语言",
       "skill_type": "hard"
-    },
-    {
-      "name": "ECMAScript 6+",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "JavaScript"
     },
     {
       "name": "TypeScript",
@@ -95,38 +86,22 @@
       "name": "前端工程化",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "架构模式",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "跨浏览器适配",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "浏览器兼容性",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "跨终端适配",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "响应式设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
-    },
-    {
-      "name": "兼容性问题处理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "快速响应需求",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
@@ -134,18 +109,18 @@
       "name": "Node.js",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "后端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "服务端渲染",
+      "name": "SSR",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "静态站点生成",
+      "name": "SSG",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
@@ -155,49 +130,42 @@
       "name": "前端监控",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "测试工具",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据可视化",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "ECharts",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "D3.js",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "Canvas",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "前端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "WebGL",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "前端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -238,7 +206,7 @@
     {
       "name": "云平台",
       "proficiency": "不限",
-      "category": "云平台",
+      "category": "其他",
       "skill_type": "domain"
     },
     {
@@ -248,28 +216,28 @@
       "skill_type": "domain"
     },
     {
-      "name": "AI产品",
+      "name": "AI产品前端开发",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "组件库建设",
+      "name": "前端组件库建设",
       "proficiency": "不限",
-      "category": "前端框架",
-      "skill_type": "hard"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "工程化工具建设",
       "proficiency": "不限",
-      "category": "构建工具",
-      "skill_type": "hard"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "自动化测试平台建设",
       "proficiency": "不限",
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Go",
@@ -294,7 +262,8 @@
     },
     {
       "name": "全栈开发",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "hard"
     }

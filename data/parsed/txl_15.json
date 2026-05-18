@@ -6,14 +6,12 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "AI/机器学习",
-  "job_sub_category": "NLP",
+  "job_sub_category": "大模型应用",
   "job_level": "初级",
-  "company_name": "豆包",
-  "workmode": "现场",
   "responsibilities": [
-    "改进大模型在现实世界复杂任务中的效果，探索通用可规模化的方法，包括复杂推理、多模态、自主Agent、可扩展监督和大规模数据合成等方向",
-    "推动大模型技术在高难度场景中的前沿应用，包括Agent系统、专业咨询、科研协作、深度洞察、个性化教育等场景",
-    "面向广泛的现实世界高价值任务，设计科学严谨的量化评测体系，提升模型智能水平"
+    "专注改进大模型在现实世界复杂任务的效果，追求通用可规模化的方法，包括不限于复杂推理、多模态、自主Agent、以及可扩展监督和大规模数据合成等方法",
+    "推动大模型技术在高难度场景中的前沿应用，包括不限于Agent系统、专业咨询、科研协作、深度洞察、个性化教育等高价值场景",
+    "面向广泛的现实世界高价值任务，设计科学、严谨的量化评测体系，提升模型的智能水平"
   ],
   "required_skills": [
     {
@@ -28,36 +26,56 @@
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "机器学习"
     },
     {
       "name": "强化学习",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "机器学习"
     },
     {
-      "name": "探索能力",
-      "proficiency": "不限",
+      "name": "动手能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "动手能力",
-      "proficiency": "不限",
+      "name": "探索能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自驱力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "思维敏捷",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "追求本质",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "敢于挑战",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -69,88 +87,55 @@
       "skill_type": "hard"
     },
     {
-      "name": "监督微调",
+      "name": "监督微调(SFT)",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
+      "category": "机器学习",
       "skill_type": "hard",
       "parent": "大语言模型"
     },
     {
-      "name": "基于人类反馈的强化学习",
+      "name": "RLHF",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
+      "category": "机器学习",
       "skill_type": "hard",
       "parent": "大语言模型"
     },
     {
-      "name": "Agent",
+      "name": "Agent架构",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "AI工具",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "多模态",
+      "name": "多模态应用",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
+      "category": "机器学习",
       "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "ACL",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "EMNLP",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NAACL",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICML",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICLR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "技术创新",
-      "proficiency": "不限",
+      "name": "创新意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "主动学习",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "快速成长",
-      "proficiency": "不限",
+      "name": "快速学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }

@@ -4,133 +4,62 @@
   "location": "北京",
   "education": "本科",
   "experience": "不限",
-  "job_category": "运营",
-  "job_sub_category": "电商运营",
+  "job_category": "产品",
+  "job_sub_category": "电商推荐运营",
   "job_level": "初级",
   "company_name": "抖音集团",
   "responsibilities": [
-    "负责数据理想态标准建设，围绕电商场景关键决策链路定义好商品、好推荐、好图片的标准与衡量口径，持续提升用户体验与内容可信度",
-    "负责评测集与案例库搭建及持续运营，建立并运营电商评测集与典型案例库，制定覆盖策略与更新机制",
-    "负责问题发现、归因与策略闭环，基于评测结果、线上反馈与数据表现识别关键问题并推动产品、算法、规则迭代",
-    "负责数据质检运营，协助制定标注规范、评估标准、验收口径与质检流程，推动机标与人工复核协同机制落地",
-    "负责自动化评测与标注链路探索及效率提升，搭建自动化评测与标注工作流，推动高频评测与质检流程产品化、脚本化"
+    "负责数据理想态标准建设：参考行业产品，围绕用户在电商场景的关键决策链路（商品咨询/商品推荐/商品对比等），定义“好商品/好推荐/好图片”的标准与衡量口径，持续提升整体用户体验与内容可信度",
+    "负责评测集/案例库搭建与持续运营：建立并运营电商评测集与典型案例库，制定覆盖策略与更新机制，确保评测样本长期有效、具代表性、能真实反映线上问题",
+    "负责问题发现、归因与策略闭环：基于评测结果、线上反馈与数据表现，识别关键问题，完成分层归因，输出可落地的优化策略并推动产品/算法/规则迭代形成闭环",
+    "负责数据质检运营：协助制定标注规范、评估标准、验收口径与质检流程，推动“机标+人工复核”协同机制落地；建设抽检体系与一致性评估方法，保障内容质量稳定、口径一致、可追踪复盘",
+    "负责自动化评测/标注链路探索与效率提升：探索并搭建自动化评测/标注Workflow（Prompt、规则、工具链等），将高频评测与质检流程产品化/脚本化，提升评测效率与稳定性，沉淀可复用模板与方法论"
   ],
   "required_skills": [
     {
-      "name": "电商",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "大模型",
-      "proficiency": "深入理解",
-      "category": "AI工具",
-      "skill_type": "domain"
-    },
-    {
-      "name": "数据运营",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "内容质检",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "标注规范制定",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "评估标准制定",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "质量分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "问题归因",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "策略制定",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化评测",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Prompt",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "工作流设计",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "脚本化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "用户洞察",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "用户研究",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "domain"
     },
     {
-      "name": "导购能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "用户分层与画像",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电商导购能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "domain"
     },
     {
       "name": "种草文案撰写",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "商品测评报告撰写",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "KOL运营",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "逻辑表达能力",
+      "name": "商品测评报告撰写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "KOL运营",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "逻辑表达",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
@@ -138,73 +67,115 @@
     },
     {
       "name": "用户心理把握",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "情感共鸣能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "业务理解与数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "质量管控意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "业务理解能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "问题发现与归因",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "数据敏感度",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "大模型技术理解",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "独立思考",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "独立思考能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "主人翁意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自我驱动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队协作能力",
+      "name": "组织协调",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "组织协调能力",
+      "name": "复杂问题解决",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "复杂问题解决能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "适应快节奏",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "适应快节奏工作",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "Prompt工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化脚本编写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据标注规范制定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "质检流程设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
-      "skill_type": "soft"
+      "skill_type": "domain"
     }
   ],
   "preferred_skills": [],

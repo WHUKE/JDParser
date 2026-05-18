@@ -6,23 +6,16 @@
   "experience": "不限",
   "job_category": "AI/机器学习",
   "job_sub_category": "多模态大模型",
-  "job_level": "初级",
+  "job_level": "高级",
   "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "负责多模态大模型的研发和应用，探索超大规模模型，进行系统优化",
-    "研究多模态相关技术在豆包、智能助手、智能硬件等领域的应用和解决方案，包括多模态理解生成、视觉Agent等能力",
-    "负责数据建设、指令微调、偏好对齐、模型优化",
-    "推动相关应用落地，包括看图对话、问答、搜索、生成创作、逻辑推理、代码生成等",
-    "研究和探索人工智能技术在未来生活场景中的应用，研发新技术和新产品，提升智能交互体验"
+    "负责多模态大模型的研发和应用，探索超大规模模型和极致系统优化；研究相关技术在豆包、智能助手、智能硬件等领域的全新应用和解决方案，包括多模态理解生成、视觉Agent等",
+    "数据建设、指令微调、偏好对齐、模型优化",
+    "推动看图对话、问答、搜索、生成创作、逻辑推理、代码生成等应用落地",
+    "探索未来生活场景，研发以人工智能技术为核心的新技术、新产品，满足用户智能交互需求"
   ],
   "required_skills": [
-    {
-      "name": "C",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
     {
       "name": "C++",
       "proficiency": "熟练",
@@ -38,14 +31,91 @@
       "skill_type": "hard"
     },
     {
+      "name": "算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
       "name": "计算机视觉",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "机器学习",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AIGC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NLP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "算法竞赛经验",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学术论文发表",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "NLP",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "机器学习",
@@ -53,27 +123,6 @@
     },
     {
       "name": "CV",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AIGC",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NLP",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "强化学习",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "机器学习",
@@ -87,127 +136,25 @@
       "skill_type": "hard"
     },
     {
-      "name": "算法基础",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "RL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
       "skill_type": "hard"
     },
     {
-      "name": "代码能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分析能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "解决问题能力",
-      "proficiency": "不限",
+      "name": "分析解决问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自主探索能力",
-      "proficiency": "不限",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "沟通协作能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "积极主动",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
-    {
-      "name": "ACM/ICPC",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "NOI/IOI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "TopCoder",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "Kaggle",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "CVPR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "ECCV",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "ICCV",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "ICLR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "SIGGRAPH",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "SIGGRAPH Asia",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "强化学习",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "机器学习",
-      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

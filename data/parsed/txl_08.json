@@ -6,12 +6,12 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
-  "job_sub_category": "微前端",
-  "job_level": "中级",
+  "job_sub_category": "搜索",
+  "job_level": "高级",
   "company_name": "字节跳动",
   "workmode": "混合",
   "responsibilities": [
-    "参与公司搜索业务研发工作（Hybrid/Wap/Web）",
+    "参与公司搜索业务研发工作 (Hybrid/Wap/Web)",
     "参与搜索云平台建设，提供全链路配置、中台化、内容引入支持",
     "参与高并发SSR服务建设和运维，深入搜索性能优化与稳定性建设",
     "参与搜索微前端体系建设，研发工具链打造DevOps解决方案",
@@ -30,86 +30,95 @@
       "name": "CSS",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "HTML",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "协议",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "安全",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "网络",
+      "name": "网络协议",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "性能优化",
+      "name": "前端安全",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "React",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "Vue.js",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "服务意识",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "责任心",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "学习能力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队沟通",
-      "proficiency": "不限",
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "用户体验",
       "proficiency": "了解",
@@ -118,7 +127,7 @@
       "skill_type": "domain"
     },
     {
-      "name": "交互操作流程",
+      "name": "交互设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "通用技能",
@@ -139,23 +148,16 @@
       "skill_type": "hard"
     },
     {
-      "name": "微前端",
+      "name": "微前端架构设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
       "skill_type": "hard"
-    }
-  ],
-  "preferred_skills": [
-    {
-      "name": "Node.js",
-      "proficiency": "不限",
-      "category": "编程语言",
-      "skill_type": "hard"
     },
     {
-      "name": "服务端开发",
-      "proficiency": "不限",
+      "name": "Node.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
       "skill_type": "hard"
     }

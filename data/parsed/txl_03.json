@@ -5,88 +5,51 @@
   "education": "本科",
   "experience": "不限",
   "employment_type": "实习",
-  "job_category": "安全",
-  "job_sub_category": "云安全",
+  "job_category": "其他",
+  "job_sub_category": "云安全与AI安全",
   "job_level": "初级",
   "company_name": "字节跳动",
-  "workmode": "现场",
   "responsibilities": [
     "参与云平台网络隔离策略设计与实施，保障多租户环境安全隔离",
-    "跟踪AIGC安全风险，探索并落地防御方案",
-    "协助构建AI云原生应用安全防护体系",
-    "参与安全风险评估、安全培训和漏洞评估，主动识别和解决安全风险",
+    "跟踪AIGC安全风险（如LLM对抗攻击、数据泄露防护、智能体安全），探索并落地防御方案",
+    "协助构建AI云原生应用安全防护体系（LLM/MCP/Agent）",
+    "参与安全风险评估、安全培训和漏洞评估，以主动识别和解决安全风险",
     "与跨职能团队合作，将安全能力集成到云产品和底层基础设施中"
   ],
   "required_skills": [
     {
-      "name": "网络安全",
-      "proficiency": "理解",
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "DDoS",
+      "name": "网络安全攻防",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "安全",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "Web安全",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "容器安全",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
       "name": "Python",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Go",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Java",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "工具开发",
-      "proficiency": "具备",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
       "name": "系统性分析思维",
-      "proficiency": "具备",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "独立解决问题能力",
-      "proficiency": "具备",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "云计算",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "云平台",
-      "skill_type": "hard"
     },
     {
       "name": "虚拟化",
@@ -118,54 +81,6 @@
     },
     {
       "name": "学习能力",
-      "proficiency": "具备",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "AI安全",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AIGC安全",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "LLM",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "MCP",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Agent",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "风险评估",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "漏洞评估",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -173,72 +88,63 @@
   ],
   "preferred_skills": [
     {
-      "name": "云安全",
+      "name": "CTF竞赛经验",
       "proficiency": "不限",
-      "category": "安全",
+      "category": "其他",
       "skill_type": "domain"
-    },
-    {
-      "name": "CTF",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
     },
     {
       "name": "漏洞挖掘",
       "proficiency": "不限",
-      "category": "安全",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "CVE",
+      "name": "AI安全研究",
       "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "certification"
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "GitHub",
+      "name": "云安全研究",
       "proficiency": "不限",
-      "category": "版本控制",
-      "skill_type": "tool"
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
       "name": "安全工具开发",
       "proficiency": "不限",
-      "category": "安全",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "复现分析",
+      "name": "项目复现分析",
       "proficiency": "不限",
-      "category": "安全",
+      "category": "其他",
       "skill_type": "hard"
+    },
+    {
+      "name": "大模型安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "domain"
     },
     {
       "name": "提示注入",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "安全",
-      "skill_type": "domain"
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型安全"
     },
     {
       "name": "模型窃取",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "论文写作",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "专利撰写",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型安全"
     }
   ],
   "raw_requirements": [

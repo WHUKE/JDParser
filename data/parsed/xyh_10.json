@@ -11,15 +11,16 @@
   "headcount": 1,
   "publish_date": "2026-03-11",
   "job_category": "技术-数据分析与管理-数据挖掘",
-  "job_sub_category": "数据采集/网络爬虫",
-  "job_level": "中级",
-  "company_name": "有道",
+  "job_sub_category": "爬虫",
+  "job_level": "高级",
+  "company_name": "网易有道",
+  "workmode": "现场",
   "responsibilities": [
     "参与数据采集更新系统的设计和开发，进行多平台信息抓取、分析、存储",
     "负责各类海外平台的爬虫策略独立调研和落地工作，以资源储备量增长为核心目标，不断探索海外平台",
-    "负责数据类各类监控预警体系的设计和搭建",
-    "独立对接业务和产品，从数据角度挖掘增长机会",
-    "利用AI能力和Agent工具，为整体数据基座体系提升自动化水平"
+    "负责数据类的各类监控预警体系的设计和搭建",
+    "独立对接业务&产品，从数据角度挖掘增长机会",
+    "利用ai能力和agent工具，为整体数据基座体系提升自动化水平"
   ],
   "required_skills": [
     {
@@ -37,110 +38,66 @@
       "skill_type": "hard"
     },
     {
-      "name": "Web抓取原理",
+      "name": "Web Scraping",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
-      "name": "App抓取原理",
+      "name": "Anti-Scraping Techniques",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "反爬虫策略",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "封禁策略",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "安全",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "Selenium",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "hard"
+      "category": "数据处理",
+      "skill_type": "tool"
     },
     {
       "name": "Playwright",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "hard"
+      "category": "数据处理",
+      "skill_type": "tool"
     },
     {
       "name": "Puppeteer",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "hard"
+      "category": "数据处理",
+      "skill_type": "tool"
     },
     {
       "name": "Scrapy",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "后端框架",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编程能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "独立调研能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "业务沟通能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "category": "数据处理",
+      "skill_type": "tool"
     }
   ],
   "preferred_skills": [
     {
-      "name": "海外电商平台数据获取",
+      "name": "海外电商数据采集",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "海外社交平台数据获取",
+      "name": "海外社交平台数据采集",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "AI工具",
+      "name": "AI工具深度使用",
       "proficiency": "不限",
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Agent工具",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "利用AI解决数据问题",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
+      "skill_type": "tool"
     }
   ],
   "raw_requirements": [

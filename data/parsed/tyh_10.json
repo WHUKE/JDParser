@@ -5,17 +5,17 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "测试",
-  "job_sub_category": "AI应用测试",
+  "job_sub_category": "AI测试",
   "job_level": "初级",
   "company_name": "，和顶尖团队一起参与技术",
   "workmode": "现场",
   "responsibilities": [
-    "负责XR系统的AI应用的客户端和服务端质量保障工作，与产品研发团队配合完成不同应用场景下的算法评测工作",
-    "探索创新型模型评测方法，训练评测模型",
-    "分析业务产品需求和技术方案，负责测试场景和测试用例设计，制定合理高效的测试方案",
+    "负责XR系统的AI应用的客户端/服务端质量保障工作，与产品研发团队配合，完成不同应用场景下的算法评测工作",
+    "探索创新型模型评测方法，训练评测模型等",
+    "分析业务产品需求、技术方案，负责测试场景和测试用例的设计，制定合理高效的测试方案",
     "独立搭建并维护测试环境，执行测试用例，输出测试报告等相关文档，保证业务产品质量和进度",
     "发现、定位、跟踪产品缺陷，协同研发工程师快速解决问题",
-    "构建AI产品质量体系，对过程中的痛点难点提出改进方案，对生命周期各阶段质量进行全面把控，并通过开发测试工具平台提高测试效率"
+    "构建AI产品的质量体系，对过程中的痛点难点提出改进方案，对生命周期的各个阶段的质量进行全面把控，并通过开发测试工具平台，提高测试工作效率"
   ],
   "required_skills": [
     {
@@ -54,158 +54,119 @@
       "skill_type": "hard"
     },
     {
-      "name": "测试用例设计",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试方案设计",
-      "proficiency": "不限",
+      "name": "工程化落地能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "测试环境搭建",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "缺陷定位",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试报告编写",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "算法评测",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "模型评测",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "评测模型训练",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "质量保障",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "质量体系建设",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "工程化落地能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
       "name": "学习能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "分析能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "问题解决能力",
-      "proficiency": "不限",
+      "name": "解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "抽象能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "沟通能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "驱动能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "规划能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "推动能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自驱力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队合作",
-      "proficiency": "不限",
+      "name": "行业洞察",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术视野",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术前瞻性",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "抗压能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
-  "preferred_skills": [
-    {
-      "name": "计算机专业背景",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "软件工程专业背景",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "XR系统",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI应用",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    }
-  ],
+  "preferred_skills": [],
   "raw_requirements": [
     "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
     "熟悉一种或多种编程语言，例如：Python/Go/Java/Shell/C++等，具有工程化落地能力，有效提高测试工作效率；",

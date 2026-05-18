@@ -80,11 +80,15 @@ job_level 推断规则：
 - 高级：要求 5-8 年经验，需要架构设计或技术方案能力
 - 专家/资深：要求 8 年以上经验，需要技术决策或团队领导
 - 如果JD中明确写了级别（如P6/P7/T3等），直接映射
+
+输出严控：
+1. 严禁输出 schema 定义之外的任何字段（例如 proficiency_rank, experience_min 等）。
+2. 若某个信息在 schema 字段中不在已定义的取值范围内，则该信息不应出现在 JSON 中，应当被替换（例如 proficiency 取值中，解析的"掌握""熟练掌握"等词应当被替换为"熟练"）。
 """
 
 # ── DeepSeek API 配置 ──
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
+DEEPSEEK_MODEL = "deepseek-v4-pro"
 
 # ── LLM 请求配置 ──
 LLM_MAX_RETRIES = 3

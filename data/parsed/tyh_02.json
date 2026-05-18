@@ -6,27 +6,20 @@
   "experience": "不限",
   "job_category": "AI/机器学习",
   "job_sub_category": "推荐系统",
+  "job_level": "高级",
   "company_name": "抖音",
   "workmode": "现场",
   "responsibilities": [
-    "负责抖音APP的推荐算法、内容算法、对话算法及大数据工作",
-    "结合图神经网络与大语言模型构建用户全生命周期行为图谱，挖掘社交网络中的社团结构与跨域兴趣传播路径",
-    "通过跨域对比学习、对抗生成技术和强化学习构建内容兴趣到电商兴趣的隐式映射网络",
-    "利用大语言模型的Few-shot推理能力与元学习框架优化多模态小样本冷启动问题",
-    "基于大模型能力统一建模直播多目标分布偏差与动态权重，设计个性化融合策略提升实时推荐效率",
-    "通过用户兴趣画像建模与强化学习技术实时捕捉用户消费与兴趣变化，缓解兴趣密集问题",
-    "围绕图神经网络、大语言模型、多模态内容理解、小样本学习、元学习、多目标推荐系统、端到端深度学习等方向开展研究与应用"
+    "负责社交网络增强的跨域兴趣建模，结合图神经网络与大语言模型构建用户行为图谱",
+    "研究兴趣迁移与转化信号捕捉技术，通过跨域对比学习与对抗生成网络提升推荐精准性",
+    "优化多模态小样本冷启动问题，利用大模型Few-shot推理与元学习框架实现ID特征联合表征",
+    "设计多目标融合与长短期价值平衡策略，统一建模直播多目标分布偏差与动态权重",
+    "探索用户兴趣密集与兴趣探索问题，利用兴趣画像建模与强化学习实现实时兴趣捕捉",
+    "参与推荐系统架构设计与实现，推动端到端深度学习与多目标推荐系统落地"
   ],
   "required_skills": [
     {
-      "name": "C",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "C++",
+      "name": "C/C++",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "编程语言",
@@ -40,98 +33,21 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据结构",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "基础算法",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "数据结构和算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "机器学习",
       "proficiency": "不限",
       "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "推荐系统",
-      "proficiency": "不限",
-      "category": "机器学习",
       "skill_type": "domain"
     },
     {
-      "name": "图神经网络",
+      "name": "问题分析与解决能力",
       "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大语言模型",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "多模态内容理解",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "小样本学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "元学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "强化学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "对比学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "对抗生成",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "端到端深度学习",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "代码能力",
-      "proficiency": "优秀",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "问题分析能力",
-      "proficiency": "出色",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "问题解决能力",
-      "proficiency": "出色",
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -143,19 +59,7 @@
     },
     {
       "name": "沟通协作能力",
-      "proficiency": "良好",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "心理素质",
-      "proficiency": "出色",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "应变能力",
-      "proficiency": "出色",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -164,49 +68,85 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
+    },
+    {
+      "name": "应变能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "TPAMI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "CVPR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "ICCV",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "certification"
-    },
-    {
-      "name": "论文发表",
+      "name": "标准制定参与经验",
       "proficiency": "不限",
       "category": "通用技能",
       "skill_type": "soft"
     },
     {
-      "name": "标准组织提案经验",
+      "name": "图神经网络",
       "proficiency": "不限",
-      "category": "项目管理",
+      "category": "机器学习",
       "skill_type": "domain"
     },
     {
-      "name": "标准会议经验",
+      "name": "大语言模型",
       "proficiency": "不限",
-      "category": "项目管理",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "小样本学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "元学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多目标优化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "端到端深度学习",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "对比学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "生成对抗网络",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐系统架构",
+      "proficiency": "不限",
+      "category": "架构模式",
       "skill_type": "domain"
     }
   ],

@@ -7,13 +7,13 @@
   "experience_min": 5,
   "employment_type": "全职",
   "job_category": "AI/机器学习",
-  "job_sub_category": "大模型",
+  "job_sub_category": "大模型与智能体协同",
   "job_level": "高级",
   "company_name": "腾讯",
   "responsibilities": [
-    "负责QCLaw核心AI能力建设，包括智能体协同、LLM微调与优化、Agentic Workflow落地、多模态任务处理",
-    "设计AI应用隐私保护机制、Agent沙箱安全评级等算法能力，构建安全可信AI系统",
-    "搭建可解释算法评估体系与归因链路，通过数据驱动实现天/周/月级迭代优化",
+    "负责QCLaw核心AI能力建设：智能体协同、LLM微调与优化、Agentic Workflow落地、多模态任务处理",
+    "设计AI应用隐私保护机制和Agent沙箱安全评级等算法能力，构建安全可信AI系统",
+    "搭建可解释算法评估体系与归因链路，通过数据驱动实现迭代优化",
     "紧跟前沿AI技术趋势，探索AI创新应用，协同团队突破技术深度与广度",
     "负责算法模型工程化部署，与工程团队协作落地业务场景"
   ],
@@ -41,7 +41,8 @@
     },
     {
       "name": "深度学习",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "深度学习",
       "skill_type": "hard"
     },
@@ -50,20 +51,20 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "深度学习",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "多模态",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "深度学习",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "强化学习",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "深度学习",
       "skill_type": "hard"
     },
     {
@@ -82,56 +83,63 @@
     },
     {
       "name": "Prompt Engineering",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "大模型"
     },
     {
       "name": "Agent",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "论文阅读与复现能力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "前沿技术跟进能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "通用技能",
       "skill_type": "soft"
     },
     {
       "name": "工程能力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "通用技能",
       "skill_type": "soft"
     },
     {
-      "name": "快速跟进前沿技术",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
-    {
       "name": "大模型微调",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
-      "skill_type": "hard"
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型"
     },
     {
       "name": "RLHF",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
-      "skill_type": "hard"
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型微调"
     },
     {
       "name": "RLAIF",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
-      "skill_type": "hard"
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型微调"
     },
     {
       "name": "MCP协议",
@@ -141,7 +149,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "AI安全",
+      "name": "AI安全实践",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "安全",
@@ -152,27 +160,30 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "Agent"
     },
     {
       "name": "记忆系统",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "大模型"
     },
     {
-      "name": "RAG",
+      "name": "RAG技术栈",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "大模型"
     },
     {
       "name": "云原生",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "容器与编排",
+      "category": "云平台",
       "skill_type": "hard"
     },
     {
@@ -188,33 +199,23 @@
       "proficiency_rank": 1,
       "category": "深度学习",
       "skill_type": "hard"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICML",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ACL",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "开源项目贡献",
+      "name": "论文发表",
       "proficiency": "不限",
       "category": "通用技能",
       "skill_type": "soft"
     },
     {
-      "name": "全流程项目主导能力",
+      "name": "开源项目贡献",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
       "proficiency": "不限",
       "category": "项目管理",
       "skill_type": "soft"
@@ -234,10 +235,11 @@
       "skill_type": "hard"
     },
     {
-      "name": "算法工程化能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "name": "算法工程化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

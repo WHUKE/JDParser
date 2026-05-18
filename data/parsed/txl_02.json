@@ -3,19 +3,33 @@
   "job_title": "C++客户端开发工程师-豆包",
   "location": "北京/深圳/杭州",
   "education": "本科",
-  "experience": "不限",
+  "experience": "应届",
   "employment_type": "实习",
-  "job_category": "客户端开发",
-  "job_sub_category": "PC客户端",
+  "job_category": "前端开发",
+  "job_sub_category": "桌面客户端开发",
   "job_level": "初级",
   "company_name": "字节跳动",
   "workmode": "现场",
   "responsibilities": [
     "负责豆包PC产品研发开发工作",
-    "配合产品经理完成PC端能力系统研发和落地",
+    "配合PM完成PC端能力系统研发和落地",
     "为上下游和最终用户提供标准化服务，保证优质体验"
   ],
   "required_skills": [
+    {
+      "name": "计算机原理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
     {
       "name": "C++",
       "proficiency": "熟练",
@@ -24,49 +38,31 @@
       "skill_type": "hard"
     },
     {
-      "name": "计算机原理",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据结构",
-      "proficiency": "扎实",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "算法",
-      "proficiency": "扎实",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编程能力",
-      "proficiency": "扎实",
-      "category": "通用技能",
-      "skill_type": "hard"
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "Electron",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "Chromium",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
-      "name": "Qt",
+      "name": "QT",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
@@ -77,21 +73,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "macOS",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "操作系统",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Windows",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "操作系统",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Linux",
+      "name": "操作系统",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
@@ -102,89 +84,66 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "进程管理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "进程通信",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "C++编译原理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "C++"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "较强",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "好奇心",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "进取心",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "category": "编程语言",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "逆向工程",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "安全",
       "skill_type": "hard"
     },
     {
-      "name": "反编译",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "责任心",
-      "proficiency": "强",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "认真细致",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "团队沟通",
-      "proficiency": "良好",
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "积极乐观",
-      "proficiency": "不限",
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "细致",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }

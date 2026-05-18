@@ -4,87 +4,76 @@
   "location": "北京",
   "education": "本科",
   "experience": "不限",
-  "job_category": "移动开发",
-  "job_sub_category": "Android/iOS客户端开发",
+  "job_category": "客户端开发",
+  "job_sub_category": "移动开发",
   "job_level": "初级",
   "company_name": "TikTok",
   "responsibilities": [
-    "负责TikTok社交业务客户端（Android/iOS）的相关工作",
-    "进行短视频产品客户端功能迭代和开发",
-    "参与工程架构、构建工具、研发流程、业务架构、性能与体验相关工作",
+    "负责TikTok社交业务客户端(Android/iOS)的功能迭代和开发、工程架构、构建工具、研发流程、业务架构、性能与体验等",
     "探索AI在TikTok中的应用，例如自动化代码生成、智能调试工具、端模型等",
     "在指导下完成关键问题或技术的探索和攻坚，寻找技术创新点，赋能产品和业务研发"
   ],
   "required_skills": [
     {
-      "name": "Android",
-      "proficiency": "不限",
-      "category": "移动开发",
-      "skill_type": "hard"
-    },
-    {
-      "name": "iOS",
-      "proficiency": "不限",
-      "category": "移动开发",
-      "skill_type": "hard"
-    },
-    {
       "name": "计算机基础",
-      "proficiency": "扎实",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "网络基础",
-      "proficiency": "扎实",
+      "name": "网络",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "网络",
       "skill_type": "hard"
     },
     {
       "name": "软件开发",
-      "proficiency": "扎实",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "Java",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Kotlin",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Objective-C",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "C++",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "C",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "JavaScript",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
@@ -114,29 +103,17 @@
     },
     {
       "name": "编程习惯",
-      "proficiency": "良好",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编码思路",
-      "proficiency": "清晰",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "AI应用",
       "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "移动端开发",
+      "name": "移动端开发经验",
       "proficiency": "不限",
       "category": "移动开发",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

@@ -13,14 +13,14 @@
   "job_category": "技术-服务端开发-服务端开发",
   "job_sub_category": "AI Agent",
   "job_level": "中级",
-  "company_name": "有道",
+  "company_name": "网易有道",
   "responsibilities": [
-    "设计并实现教育场景的AI Agent后端服务架构，支持任务规划、工具调用、多步推理等核心能力，构建高可用的智能体运行时环境",
-    "设计Agent的上下文管理机制和记忆系统，结合向量数据库实现高效检索，优化上下文窗口利用效率",
-    "基于MCP等标准协议设计工具调用层，构建可复用的Skill能力库，集成内外部API、数据库等资源",
-    "开发高性能RESTful和gRPC API，支持流式传输、异步任务处理，并与现有业务系统集成对接",
-    "建立监控、日志、追踪体系，针对大模型调用异常设计降级策略，保障系统SLA",
-    "快速跟进AI Agent领域最新技术，探索新技术在业务场景的落地应用"
+    "智能体系统架构设计与开发：设计并实现教育场景的 AI Agent 后端服务架构，支持任务规划、工具调用、多步推理等核心能力，构建高可用的智能体运行时环境",
+    "上下文工程与记忆系统：设计 Agent 的上下文管理机制（Context Engineering）和记忆系统，结合向量数据库（Milvus/Pinecone）实现高效检索，优化上下文窗口利用效率",
+    "MCP 协议与 Skill 集成：基于 MCP（Model Context Protocol）等标准协议设计工具调用层，构建可复用的 Skill 能力库，集成内外部 API、数据库等资源",
+    "后端服务开发与 API 设计：开发高性能 RESTful/gRPC API，支持流式传输（Streaming）、异步任务处理，与现有业务系统进行集成对接",
+    "稳定性与可观测性保障：建立监控、日志、追踪体系（Prometheus/Grafana），针对大模型调用异常设计降级策略，保障系统 SLA",
+    "技术跟进与创新：快速跟进 AI Agent 领域最新技术（Agent Skills、上下文工程、多智能体协作等），探索新技术在业务场景的落地应用"
   ],
   "required_skills": [
     {
@@ -122,32 +122,23 @@
       "skill_type": "hard"
     },
     {
-      "name": "AI Agent",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "LLM应用开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
       "name": "LangChain",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "LangGraph",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "LlamaIndex",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
       "skill_type": "hard"
     },
@@ -155,27 +146,28 @@
       "name": "任务编排",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "AI工具",
+      "skill_type": "domain"
     },
     {
       "name": "工具调用",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "AI工具",
+      "skill_type": "domain"
     },
     {
       "name": "状态管理",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "AI工具",
+      "skill_type": "domain"
     },
     {
       "name": "上下文工程",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
       "skill_type": "domain"
     },
     {
@@ -186,9 +178,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "Agent Skills",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "Agent Skills设计与编排",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
       "skill_type": "domain"
     },
     {
@@ -196,78 +189,48 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "RAG",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "OpenAI",
+      "name": "OpenAI API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "Claude",
+      "name": "Claude API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "Gemini",
+      "name": "Gemini API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "文心一言",
+      "name": "文心一言 API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "通义千问",
+      "name": "通义千问 API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "RESTful API",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "gRPC",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Prometheus",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Grafana",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "计算机基础",
-      "proficiency": "扎实",
-      "category": "通用技能",
       "skill_type": "hard"
     }
   ],

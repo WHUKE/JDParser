@@ -9,54 +9,11 @@
   "job_level": "专家",
   "company_name": "字节跳动",
   "responsibilities": [
-    "作为研究型校招生，在热爱的课题方向上探索机器学习算法与系统领域最具挑战的长期关键问题",
-    "自由组建课题小组，开展研究合作",
-    "在充足的算力与数据资源支持下推进研究工作",
-    "参与长周期培养与成长计划，接受导师指导并与国内外顶尖学者交流"
+    "在你热爱的课题方向上，探索机器学习算法与系统领域最具挑战的长期关键问题",
+    "自由组建课题小组，享受充足的算力与数据资源支持",
+    "获得长周期的培养与成长，包括大牛导师深度指导和国内外顶尖学者交流机会"
   ],
   "required_skills": [
-    {
-      "name": "机器学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "人工智能",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "大模型",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "多模态理解与生成",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "代码能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据结构",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "基础算法",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
     {
       "name": "C",
       "proficiency": "熟练",
@@ -77,122 +34,58 @@
       "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
       "name": "自然语言处理",
       "proficiency": "不限",
-      "category": "机器学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
       "name": "语音合成",
       "proficiency": "不限",
-      "category": "深度学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
       "name": "语音识别",
       "proficiency": "不限",
-      "category": "深度学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
       "name": "音乐生成",
       "proficiency": "不限",
-      "category": "深度学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
-      "name": "ACL",
+      "name": "大模型",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "EMNLP",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NAACL",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICML",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICLR",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICASSP",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "Interspeech",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ACM/ICPC",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NOI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "IOI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "TopCoder",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "Kaggle",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
       "name": "强化学习",
       "proficiency": "不限",
-      "category": "机器学习",
+      "category": "AI/机器学习",
       "skill_type": "domain"
-    },
-    {
-      "name": "项目主导能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

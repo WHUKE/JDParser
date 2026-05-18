@@ -13,13 +13,14 @@
   "job_category": "技术-前端及客户端开发-web前端开发",
   "job_sub_category": "数据可视化",
   "job_level": "资深",
+  "workmode": "现场",
   "responsibilities": [
     "负责数据产品中心BI、管报、数据引擎等业务系统和平台的前端技术设计和开发工作",
     "关注系统质量、性能和体验，解决系统开发中的技术难点，并参与架构的持续升级",
-    "借助各类技术工具排查系统问题，给出初步方案并跟进解决",
-    "参与各系统需求分析和评审，给出技术可行性方案，并确保后续交付过程的准确性和还原度",
+    "能够高效的借助各类技术工具，排查系统问题，给出初步方案并跟进解决",
+    "参与各系统需求分析和评审，并给出技术可行性方案，并确保后续交付过程的准确性和还原度",
     "参与团队内前端基础设施建设，如数据可视化组件库封装",
-    "与团队内外做好协同，主动沟通工作，及时上报风险，按期保质保量交付需求"
+    "和团队内外做好协同，主动沟通工作，及时上报风险，按期保质保量交付需求"
   ],
   "required_skills": [
     {
@@ -33,150 +34,189 @@
       "name": "Canvas",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "ECharts",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "VTable",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "SpreadJS",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "源码分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "性能优化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "系统重构",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据可视化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "低代码平台",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "定制化开发",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "沟通能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "系统重构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
     },
     {
-      "name": "表达能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "数据平台开发经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "责任心",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "数据可视化项目经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "Owner意识",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "数据可视化平台开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "学习能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "数据可视化工具开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "主动性",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "低代码平台开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
-      "name": "问题解决能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
+      "name": "数据图表定制开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
     {
       "name": "AI技术",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "AI Coding",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "Agent",
-      "proficiency": "理解",
+      "name": "Agent概念",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "MCP",
-      "proficiency": "理解",
+      "name": "MCP概念",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "SDD",
+      "name": "SDD开发",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "项目管理",
+      "category": "其他",
       "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "表达能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工作务实",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "长期主义",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Owner意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主动性",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自动化思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
+  "preferred_skills": [],
   "raw_requirements": [
     "本科及以上学历，计算机相关专业，3年以上前端经验，有数据平台和数据可视化项目开发经验，具备较好的沟通和表达能力，责任心强，工作务实并坚持长期主义，对业务有Owner意识；",
     "扎实的前端技术基础，深入理解 React 底层机制，熟悉 Canvas、ECharts、VTable、SpreadJS 两种或以上技术；具备较强的源码分析能力，有大型项目性能优化和系统重构的经验；",

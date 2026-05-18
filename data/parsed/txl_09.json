@@ -3,31 +3,29 @@
   "job_title": "前端工程师-抖音运营与生态",
   "location": "杭州",
   "education": "本科",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
-  "job_sub_category": "前端架构, B端系统, 低代码, AI应用",
+  "job_sub_category": "B端系统",
   "job_level": "高级",
-  "company_name": "抖音",
   "workmode": "现场",
   "responsibilities": [
-    "负责抖音生态与运营相关产品的功能迭代与交付",
-    "完成多端（PC、小程序、APP）开发，保障跨终端兼容性与一致性体验",
-    "主导复杂业务场景下的前端架构设计，打造高可用、高性能的运营工作平台",
-    "推进组件化、工具链、全栈技术落地，提升团队研发效能",
-    "探索AI+运营技术方案，如智能配置、自动化审核、数据洞察，通过技术驱动业务提效",
+    "负责抖音生态与运营相关产品（创作者中心/运营平台/版权平台等）的功能迭代与交付，完成多端开发，保障跨终端兼容性与一致性体验",
+    "主导复杂业务场景下的前端架构设计，打造高可用、高性能的运营工作平台；推进组件化/工具链/全栈技术落地，提升团队研发效能",
+    "探索AI+运营技术方案（如智能配置/自动化审核/数据洞察），通过技术驱动业务提效",
     "研发低代码平台、领域驱动设计等解决方案，应对B端复杂业务场景挑战"
   ],
   "required_skills": [
     {
       "name": "算法",
-      "proficiency": "扎实",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "数据结构",
-      "proficiency": "扎实",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "hard"
     },
@@ -35,14 +33,14 @@
       "name": "HTML",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -54,13 +52,15 @@
     },
     {
       "name": "浏览器渲染原理",
-      "proficiency": "深入理解",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "性能优化",
-      "proficiency": "深入理解",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "其他",
       "skill_type": "hard"
     },
@@ -79,8 +79,9 @@
       "skill_type": "hard"
     },
     {
-      "name": "前端架构设计",
-      "proficiency": "不限",
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
@@ -93,21 +94,27 @@
     },
     {
       "name": "Express.js",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
-      "skill_type": "hard",
-      "parent": "Node.js"
+      "skill_type": "hard"
     },
     {
       "name": "Koa.js",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "后端框架",
-      "skill_type": "hard",
-      "parent": "Node.js"
+      "skill_type": "hard"
     },
     {
       "name": "问题拆解能力",
-      "proficiency": "优秀",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术洞察力",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -116,11 +123,13 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
-      "name": "B端复杂系统开发",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
+      "name": "B端系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "domain"
     },
@@ -132,7 +141,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "低代码平台",
+      "name": "低代码平台建设",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",
@@ -140,30 +149,32 @@
     },
     {
       "name": "前端工程化",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "微前端",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "CI/CD",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
       "name": "性能监控",
-      "proficiency": "不限",
-      "category": "测试工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
       "name": "Go",
       "proficiency": "熟练",
@@ -173,52 +184,46 @@
     },
     {
       "name": "AI工程化",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "模型接入",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI工程化"
+      "skill_type": "hard"
     },
     {
       "name": "Prompt工程",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI工程化"
+      "skill_type": "hard"
     },
     {
       "name": "AI应用开发",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI工程化"
-    },
-    {
-      "name": "开源项目贡献",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "技术写作",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "抖音生态业务",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "domain"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
-      "name": "开发者生态",
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术博客写作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抖音生态知识",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",

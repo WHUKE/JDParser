@@ -6,7 +6,6 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "分布式系统",
   "company_name": "腾讯",
   "responsibilities": [
     "深入理解业务需求和产品设计，高效地实现并优化产品功能",
@@ -46,21 +45,14 @@
       "skill_type": "hard"
     },
     {
-      "name": "TCP",
+      "name": "TCP/UDP网络协议",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "UDP",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "进程间通信",
+      "name": "进程间通讯编程",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
@@ -84,7 +76,7 @@
       "name": "软件工程",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -158,61 +150,41 @@
       "skill_type": "hard"
     },
     {
-      "name": "Key-Value存储",
+      "name": "Key-value存储",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "数据库",
       "skill_type": "hard"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "问题定位与解决",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "分布式系统",
-      "proficiency": "不限",
+      "name": "分布式系统设计与开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
-      "name": "负载均衡",
-      "proficiency": "不限",
+      "name": "负载均衡技术",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "容灾设计",
-      "proficiency": "不限",
+      "name": "系统容灾设计",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "高可用系统",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "Docker",
@@ -227,12 +199,6 @@
       "proficiency_rank": 1,
       "category": "容器与编排",
       "skill_type": "hard"
-    },
-    {
-      "name": "开源社区贡献",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

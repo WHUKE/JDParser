@@ -7,11 +7,12 @@
   "employment_type": "全职",
   "job_category": "程序&技术类",
   "job_sub_category": "驱动安全",
+  "job_level": "高级",
   "target_group": "常规社招",
   "responsibilities": [
-    "设计和开发游戏反外挂系统，开展客户端安全方向技术研究",
-    "增强反外挂系统客户端防护能力，包括驱动层保护、加固以及功能性检测方案制定",
-    "进行外挂分析，并设计开发对抗和检测方案"
+    "游戏反外挂系统设计和开发，客户端安全方向技术研究。",
+    "增强反外挂系统客户端防护能力，包括不限于驱动层保护、加固以及各种功能性检测方案制定。",
+    "外挂分析以及设计开发对抗和检测方案。"
   ],
   "required_skills": [
     {
@@ -22,7 +23,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "中断和异常",
+      "name": "中断与异常处理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
@@ -95,11 +96,11 @@
       "name": "驱动部署",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "操作系统",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "反外挂",
+      "name": "反外挂方案",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "安全",
@@ -110,14 +111,14 @@
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "测试工具",
-      "skill_type": "tool"
+      "skill_type": "hard"
     },
     {
       "name": "分析工具",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "测试工具",
-      "skill_type": "tool"
+      "category": "安全",
+      "skill_type": "hard"
     },
     {
       "name": "汇编语言",
@@ -130,13 +131,13 @@
       "name": "PE格式",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "逆向分析",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "安全",
       "skill_type": "hard"
     },
@@ -189,7 +190,7 @@
       "skill_type": "soft"
     },
     {
-      "name": "沟通交流",
+      "name": "沟通能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -211,7 +212,7 @@
     {
       "name": "PC端PVP游戏外挂对抗",
       "proficiency": "不限",
-      "category": "安全",
+      "category": "领域知识",
       "skill_type": "domain"
     }
   ],

@@ -5,8 +5,9 @@
   "education": "本科",
   "experience": "不限",
   "employment_type": "全职",
-  "job_category": "大数据",
+  "job_category": "数据开发",
   "job_sub_category": "数据仓库",
+  "job_level": "中级",
   "company_name": "字节跳动",
   "responsibilities": [
     "参与字节跳动大数据平台架构设计与开发",
@@ -34,7 +35,7 @@
       "name": "SQL",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "数据处理",
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
@@ -49,7 +50,8 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "大数据",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "Hadoop"
     },
     {
       "name": "Apache Spark",
@@ -66,10 +68,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据分析",
+      "name": "数据分析能力",
       "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "业务理解能力",
@@ -90,11 +92,9 @@
       "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
-      "name": "数据建模",
+      "name": "数据建模理论",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "数据处理",
@@ -106,7 +106,7 @@
       "proficiency_rank": 1,
       "category": "数据处理",
       "skill_type": "hard",
-      "parent": "数据建模"
+      "parent": "数据建模理论"
     },
     {
       "name": "机器学习",
@@ -119,47 +119,26 @@
       "name": "特征工程",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据可视化",
-      "proficiency": "不限",
       "category": "数据处理",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "机器学习"
     },
     {
       "name": "Tableau",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
       "skill_type": "tool"
     },
     {
       "name": "Superset",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
       "skill_type": "tool"
-    },
-    {
-      "name": "大模型应用",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "RAG",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "大模型应用"
-    },
-    {
-      "name": "DataCopilot",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "大模型应用"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "沟通能力",
       "proficiency": "不限",
@@ -173,10 +152,18 @@
       "skill_type": "soft"
     },
     {
-      "name": "互联网行业",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DataCopilot",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

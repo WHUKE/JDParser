@@ -6,7 +6,7 @@
   "experience": "，不限技术栈，更看重实际能力和项目成果",
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "AI工程化",
+  "job_level": "高级",
   "target_group": "常规社招",
   "responsibilities": [
     "负责公司内部基础设施、信息系统的新业务从0到1建设，独立完成需求分析、方案设计、全栈开发、测试及部署上线全流程",
@@ -14,48 +14,6 @@
     "探索AI时代下更高效的研发协作模式，减少传统岗位分工带来的协作损耗"
   ],
   "required_skills": [
-    {
-      "name": "Web全栈开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前端开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "后端开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据库",
-      "proficiency": "不限",
-      "category": "数据库",
-      "skill_type": "hard"
-    },
-    {
-      "name": "基础运维部署",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "中间件",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "AI工具链",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
     {
       "name": "Cursor",
       "proficiency": "熟练",
@@ -78,27 +36,10 @@
       "skill_type": "tool"
     },
     {
-      "name": "需求分析",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "方案设计",
-      "proficiency": "不限",
+      "name": "全栈开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "部署上线",
-      "proficiency": "不限",
-      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
@@ -112,52 +53,21 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "需求拆解",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "推动落地",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "独立钻研",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "技术判断力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "从0到1项目交付",
+      "name": "独立项目交付能力",
       "proficiency": "不限",
       "category": "项目管理",
-      "skill_type": "hard"
+      "skill_type": "soft"
     },
     {
       "name": "AI模型",
       "proficiency": "精通",
       "proficiency_rank": 4,
       "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "AI工具",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "AI工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

@@ -2,17 +2,17 @@
   "source_file": "xzl_15.txt",
   "job_title": "数据开发工程师（财务系统）",
   "location": "上海",
-  "education": "不限",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "程序&技术类",
   "job_sub_category": "数据仓库",
+  "job_level": "高级",
   "company_name": "米哈游",
+  "workmode": "现场",
   "responsibilities": [
-    "参与职能线系统数据仓库的设计、开发、运维，构建信息化业务数据指标体系",
-    "根据不同业务场景构建数据模型和业务指标体系，建立和完善日常业务数据报告体系，及时准确完整披露业务执行情况",
-    "主动理解并合理抽象业务需求，构造领域数据资产，与业务和研发团队紧密合作，提供数据分析和数据模型开发的技术解决方案",
-    "基于Flink、Spark等计算引擎完成实时和离线数仓建设，进行ETL开发，保障数据质量"
+    "参与数据仓库的设计、开发、运维，构建信息化业务数据指标体系",
+    "根据业务场景构建数据模型和业务指标体系，建立数据报告体系，披露业务执行情况",
+    "理解并抽象业务需求，构造领域数据资产，与业务和研发团队合作提供数据分析和数据模型开发解决方案",
+    "基于Flink/Spark等计算引擎完成实时/离线数仓建设，进行ETL开发，保障数据质量"
   ],
   "required_skills": [
     {
@@ -26,59 +26,62 @@
       "name": "Apache Flink",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "Apache Spark",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "Paimon",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
-      "name": "StarRocks",
+      "name": "Starrocks",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
-      "name": "数据仓库",
-      "proficiency": "深入了解",
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据仓库方法论",
+      "name": "数据仓库实施方法论",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "大数据",
-      "skill_type": "hard",
-      "parent": "数据仓库"
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据仓库体系",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
     },
     {
       "name": "Java",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Python",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Go",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
@@ -86,114 +89,97 @@
       "name": "编码能力",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "通用技能",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "故障排查",
+      "name": "Troubleshooting能力",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "理解沟通能力",
-      "proficiency": "不限",
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "业务理解能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "数据理解能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "domain"
     },
     {
       "name": "数据敏感度",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "学习能力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "海量数据处理",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard"
-    },
-    {
-      "name": "财务系统",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ETL",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "实时数仓",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard",
-      "parent": "数据仓库"
-    },
-    {
-      "name": "离线数仓",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard",
-      "parent": "数据仓库"
-    },
-    {
-      "name": "数据建模",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据质量",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据治理",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据处理",
       "skill_type": "hard"
     }
   ],
   "preferred_skills": [
     {
-      "name": "Apache Flink",
-      "proficiency": "不限",
-      "category": "大数据",
-      "skill_type": "hard"
+      "name": "数据治理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "财务数据治理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain",
+      "parent": "数据治理"
+    },
+    {
+      "name": "采购数据治理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain",
+      "parent": "数据治理"
+    },
+    {
+      "name": "人事数据治理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain",
+      "parent": "数据治理"
+    },
+    {
+      "name": "资产数据治理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain",
+      "parent": "数据治理"
     },
     {
       "name": "Flink源码阅读",
-      "proficiency": "不限",
-      "category": "大数据",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
       "skill_type": "hard",
       "parent": "Flink"
     },
@@ -203,62 +189,6 @@
       "proficiency_rank": 2,
       "category": "容器与编排",
       "skill_type": "hard"
-    },
-    {
-      "name": "财务数据治理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据治理"
-    },
-    {
-      "name": "采购数据治理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据治理"
-    },
-    {
-      "name": "人事数据治理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据治理"
-    },
-    {
-      "name": "资产数据治理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据治理"
-    },
-    {
-      "name": "财务数据仓库项目实施",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据仓库"
-    },
-    {
-      "name": "采购数据仓库项目实施",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据仓库"
-    },
-    {
-      "name": "人事数据仓库项目实施",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据仓库"
-    },
-    {
-      "name": "资产数据仓库项目实施",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "数据仓库"
     }
   ],
   "raw_requirements": [

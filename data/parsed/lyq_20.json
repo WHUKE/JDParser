@@ -76,54 +76,57 @@
       "skill_type": "hard"
     },
     {
-      "name": "分布式系统",
-      "proficiency": "不限",
+      "name": "分布式系统运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
       "skill_type": "domain"
     },
     {
-      "name": "微服务架构",
-      "proficiency": "不限",
+      "name": "微服务架构运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "故障排查",
-      "proficiency": "不限",
+      "name": "故障排查能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "问题分析与解决能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
       "name": "混沌工程",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "架构模式",
+      "skill_type": "domain"
     },
     {
       "name": "故障注入",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "混沌工程"
     },
     {
       "name": "容量评估",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "架构模式",
+      "skill_type": "domain"
     },
     {
-      "name": "压测技术",
+      "name": "压力测试",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
@@ -147,15 +150,15 @@
       "name": "智能告警",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "DevOps工具",
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "根因分析",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "通用技能",
-      "skill_type": "hard"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "AWS",
@@ -172,66 +175,62 @@
       "skill_type": "hard"
     },
     {
-      "name": "阿里云",
+      "name": "Alibaba Cloud",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "云平台",
       "skill_type": "hard"
     },
     {
-      "name": "混合云运维",
+      "name": "混合云",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "云平台",
-      "skill_type": "hard"
-    },
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
     {
-      "name": "游戏",
+      "name": "游戏运维",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "音视频",
+      "name": "音视频运维",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "自动化运维平台",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "监控系统",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "故障自愈工具",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "运维",
+      "name": "互联网业务大规模系统运维",
       "proficiency": "不限",
       "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化运维平台开发",
+      "proficiency": "不限",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
-      "name": "全链路质量保障",
+      "name": "监控系统开发",
       "proficiency": "不限",
-      "category": "测试工具",
+      "category": "DevOps工具",
       "skill_type": "hard"
+    },
+    {
+      "name": "故障自愈工具开发",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "全链路质量保障能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

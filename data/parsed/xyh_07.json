@@ -11,65 +11,26 @@
   "headcount": 1,
   "publish_date": "2026-03-16",
   "job_category": "技术-技术支持-技术支持",
-  "job_sub_category": "桌面运维",
-  "job_level": "中级",
+  "job_level": "高级",
   "workmode": "现场",
   "responsibilities": [
-    "负责输出专业、优质的IT技术支持，提供高效、贴心的IT现场解决服务",
-    "现场解决计算机软硬件、投影、电视、电话、文印、视频设备、多媒体终端、移动设备等相关问题",
-    "基于ITSM、ITIL标准化流程平台，按需解决和跟踪员工IT需求事件",
-    "负责电脑资产管理、配件管理，达成资产准确率",
-    "掌握计算机基础并支持Windows、Mac操作系统相关维护",
-    "根据业务需求持续学习新的知识和技能并灵活运用",
-    "完成主管安排的其他工作"
+    "输出专业、优质的IT技术支持，提供高效、贴心的IT现场解决服务",
+    "现场解决计算机软硬件、投影、电视、电话、文印、视频设备、多媒体终端、移动设备等问题",
+    "基于ITSM、ITIL标准化流程平台，解决和跟踪员工IT需求事件",
+    "负责电脑资产管理、配件管理，确保资产准确率",
+    "根据业务需求持续学习新知识技能并灵活运用，产出价值",
+    "主管安排的其他工作"
   ],
   "required_skills": [
     {
-      "name": "IT技术支持",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "现场技术支持",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "ITSM",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "ITIL",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "资产管理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "计算机硬件",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
       "name": "Windows",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
-      "name": "macOS",
+      "name": "Mac",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "操作系统",
@@ -83,21 +44,49 @@
       "skill_type": "hard"
     },
     {
-      "name": "办公软件",
+      "name": "计算机硬件",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Microsoft Office",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "通用技能",
+      "category": "工具",
       "skill_type": "tool"
     },
     {
+      "name": "ITSM",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ITIL",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "计算机基础",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
       "name": "沟通技巧",
-      "proficiency": "良好",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "良好",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -108,13 +97,11 @@
       "skill_type": "soft"
     },
     {
-      "name": "学习能力",
+      "name": "积极态度",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
       "name": "思维敏捷",
       "proficiency": "不限",
@@ -122,25 +109,34 @@
       "skill_type": "soft"
     },
     {
-      "name": "独立思考能力",
+      "name": "计算机网络",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "善于思考",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "问题发现能力",
+      "name": "勇于发现",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "总结能力",
+      "name": "勤于总结",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "分享能力",
+      "name": "乐于分享",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"

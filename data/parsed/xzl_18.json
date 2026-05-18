@@ -7,48 +7,54 @@
   "employment_type": "全职",
   "job_category": "程序&技术类",
   "job_sub_category": "游戏引擎",
+  "job_level": "高级",
   "target_group": "常规社招",
   "responsibilities": [
     "根据项目需求拓展引擎的子模块，如内存、文件、资源等",
-    "优化项目的CPU、内存、IO、多线程调度等",
+    "优化项目的CPU、内存、IO多线程调度等",
     "处理多平台的操作系统差异，包括Windows、iOS、Android、PlayStation、XBox",
-    "进行内存、加载的持续时间优化"
+    "内存、加载的持续时间优化"
   ],
   "required_skills": [
     {
       "name": "C++",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "计算机基础",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "数学能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "内存管理",
-      "proficiency": "深入了解",
-      "category": "其他",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "文件系统",
-      "proficiency": "深入了解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "资源管理",
-      "proficiency": "深入了解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
@@ -77,62 +83,57 @@
       "name": "PlayStation",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "Unity",
-      "proficiency": "不限",
-      "category": "游戏引擎",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "Unreal Engine",
-      "proficiency": "不限",
-      "category": "游戏引擎",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "引擎源码开发",
-      "proficiency": "不限",
+      "name": "自研引擎开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "沟通协作能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "学习能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "分析解决问题能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "责任心",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "多线程调度",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "性能优化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
     }
   ],
   "preferred_skills": [],

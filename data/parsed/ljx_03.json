@@ -6,11 +6,11 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "高并发, 分布式系统",
+  "job_sub_category": "高并发",
   "job_level": "中级",
   "company_name": "美团",
   "responsibilities": [
-    "参与美团海量业务后台系统的需求分析、功能设计与实现",
+    "参与美团海量业务（外卖、到店、物流、零售等）后台系统的需求分析、功能设计与实现",
     "负责高并发服务的性能优化、容量规划与故障排查",
     "与前端、产品、运维等多团队协作，交付可上线的业务功能",
     "参与核心系统的架构优化，保障系统7×24小时稳定运行",
@@ -49,42 +49,48 @@
       "name": "Redis",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "缓存",
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "SQL",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "性能调优",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "数据结构",
-      "proficiency": "掌握",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "掌握",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "操作系统",
-      "proficiency": "掌握",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "计算机网络",
-      "proficiency": "掌握",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "网络",
       "skill_type": "hard"
     },
@@ -97,27 +103,10 @@
     },
     {
       "name": "Git",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "版本控制",
       "skill_type": "hard"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "技术文档",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "tool"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
@@ -143,7 +132,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "高并发",
+      "name": "高并发处理",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
@@ -164,35 +153,34 @@
       "skill_type": "hard"
     },
     {
-      "name": "电商",
+      "name": "电商领域知识",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "domain"
     },
     {
-      "name": "本地生活服务",
+      "name": "本地生活服务领域知识",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "domain"
     },
     {
-      "name": "系统重构",
+      "name": "项目主导能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统重构经验",
       "proficiency": "不限",
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "AI",
+      "name": "大模型技术",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大模型",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "深度学习",
       "skill_type": "hard"
     }
   ],

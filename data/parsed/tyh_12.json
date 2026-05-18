@@ -9,7 +9,7 @@
   "job_level": "初级",
   "company_name": "我们，和优秀的人一起做有挑战的事，你的技术",
   "responsibilities": [
-    "负责抖音/抖音火山版等直播业务的内容理解，如图像、语音、多模态、LLM等模型的构建与优化",
+    "负责抖音/抖音火山版等直播业务的内容理解，如图像、语音、多模态、LLM等模型的构建与优化等工作",
     "负责直播关键场景的算法优化和实现，如用户激励、意图理解、内容生成等相关模型和服务的研发",
     "调研先进的机器学习模型和算法，寻找最优方案解决业务问题",
     "挖掘直播业务与数据的内在联系，通过数据和算法手段发现问题和解决问题"
@@ -58,75 +58,38 @@
       "skill_type": "hard"
     },
     {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
       "name": "神经网络",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "深度学习",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "深度学习"
     },
     {
-      "name": "图像处理",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "语音处理",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "多模态",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "大语言模型",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "内容理解",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "意图理解",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "内容生成",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分析和解决问题能力",
-      "proficiency": "不限",
+      "name": "分析与解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "沟通能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队合作能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -134,33 +97,31 @@
   "preferred_skills": [
     {
       "name": "计算机视觉",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "图形学",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "自然语言处理",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "强化学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "论文发表",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

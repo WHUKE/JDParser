@@ -9,11 +9,10 @@
   "job_sub_category": "分布式系统",
   "job_level": "初级",
   "company_name": "京东",
-  "workmode": "现场",
   "responsibilities": [
-    "负责相关系统或模块的业务需求分析，并参与核心系统的设计、开发与维护工作",
-    "参与核心系统的灵活性与稳定性建设，保障线上系统高可用性",
-    "探索学习后端开发领域最新技术，持续推动系统架构合理化",
+    "负责相关系统/模块的业务需求分析，参与核心系统的设计、开发与维护",
+    "参与核心系统的灵活性、稳定性建设，保障线上系统高可用",
+    "探索学习后端开发领域最新技术，推动系统架构合理化",
     "参与开放平台基础设施建设，包括API网关、消息网关、SDK等核心组件的设计与开发",
     "负责标准RESTful API接口的设计、开发、性能优化及安全保障"
   ],
@@ -54,28 +53,21 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据结构",
+      "name": "数据结构与算法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "算法",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "计算机系统结构",
+      "name": "计算机组成原理",
       "proficiency": "精通",
       "proficiency_rank": 4,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "网络",
+      "name": "计算机网络",
       "proficiency": "精通",
       "proficiency_rank": 4,
       "category": "网络",
@@ -90,44 +82,38 @@
     },
     {
       "name": "逻辑思维能力",
-      "proficiency": "不限",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队合作",
-      "proficiency": "不限",
+      "name": "团队合作精神",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "沟通能力",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
       "name": "分布式系统设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "高并发",
+      "name": "高并发系统开发",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "云原生",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Docker",
@@ -148,7 +134,7 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Redis",
@@ -163,29 +149,33 @@
       "proficiency_rank": 1,
       "category": "消息队列",
       "skill_type": "hard"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
-      "name": "AI",
+      "name": "人工智能",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "机器学习",
       "skill_type": "domain"
     },
     {
-      "name": "电商",
+      "name": "电商系统开发",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "接口安全",
-      "proficiency": "不限",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "安全",
       "skill_type": "hard"
     },
     {
       "name": "性能优化",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
       "skill_type": "hard"
     }
   ],

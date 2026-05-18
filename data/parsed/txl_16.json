@@ -6,40 +6,29 @@
   "experience": "不限",
   "employment_type": "实习",
   "job_category": "测试",
-  "job_sub_category": "测试开发",
+  "job_sub_category": "自动化测试",
   "job_level": "初级",
   "company_name": "TikTok Shop，在国际化研发团队中挑战自我！用技术",
-  "workmode": "现场",
   "responsibilities": [
-    "负责客户端/服务端产品质量相关或业务线测试与工具开发工作",
+    "主要负责客户端/服务端产品质量相关或业务线测试与工具开发工作",
     "深度参与产品研发项目，协同产品和研发团队高质量交付产品",
-    "进行日常项目线下测试与线上质量分析",
+    "日常项目线下测试与线上质量分析",
     "参与质量体系规划和建设",
-    "参与开发效率工具建设并保障技术项目质量"
+    "参与开发效率工具和保证技术项目质量"
   ],
   "required_skills": [
     {
-      "name": "计算机科学",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "软件质量保障",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "domain"
-    },
-    {
       "name": "数据结构",
-      "proficiency": "扎实",
-      "category": "其他",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "扎实",
-      "category": "其他",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -85,19 +74,19 @@
       "skill_type": "hard"
     },
     {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
       "name": "学习能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "问题发现能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "问题定位能力",
+      "name": "问题发现与定位",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -105,60 +94,53 @@
   ],
   "preferred_skills": [
     {
-      "name": "客户端开发",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "服务端开发",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试工具",
+      "name": "客户端测试工具",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
-      "name": "自动化框架",
+      "name": "服务端测试工具",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
+    },
+    {
+      "name": "自动化测试框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "tool"
     },
     {
       "name": "压测工具",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "大数据处理工具",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "大数据",
-      "skill_type": "hard"
+      "category": "数据处理",
+      "skill_type": "tool"
     },
     {
       "name": "CI/CD",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "测试环境管理",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "产品意识",
@@ -173,7 +155,7 @@
       "skill_type": "soft"
     },
     {
-      "name": "跨文化团队协作",
+      "name": "跨文化协作能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -185,7 +167,7 @@
       "skill_type": "soft"
     },
     {
-      "name": "Bug闭环推动能力",
+      "name": "Bug跟进与闭环",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"

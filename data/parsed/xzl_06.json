@@ -3,19 +3,19 @@
   "job_title": "云原生游戏运维",
   "location": "上海",
   "education": "本科",
-  "experience": "3年以上",
+  "experience": "3-5年",
   "experience_min": 3,
+  "experience_max": 5,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "云原生/游戏运维",
-  "job_level": "中级",
+  "job_sub_category": "游戏运维",
+  "job_level": "高级",
   "target_group": "常规社招",
-  "workmode": "现场",
   "responsibilities": [
     "负责线上游戏服务器的维护、更新、监控、报警和优化，保障业务稳定运行",
     "推进游戏运维规范、工作流程、应急预案的制订和落地",
     "负责运维自动化建设，持续提升运维效率",
-    "负责监控服务器和游戏状态，对突发事件快速响应、分析及故障管理",
+    "负责监控服务器和游戏状态、对突发事件快速响应、分析及故障管理",
     "发现运营风险及技术难点，优化业务流程，提升运维工作效率和服务质量"
   ],
   "required_skills": [
@@ -37,21 +37,21 @@
       "name": "运维自动化",
       "proficiency": "不限",
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Nightingale",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "Prometheus",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "阿里云",
@@ -97,35 +97,44 @@
     },
     {
       "name": "Docker",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "容器与编排",
       "skill_type": "hard"
     },
     {
       "name": "Kubernetes",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "容器与编排",
       "skill_type": "hard"
     },
     {
       "name": "etcd",
-      "proficiency": "不限",
-      "category": "容器与编排",
-      "skill_type": "hard",
-      "parent": "Kubernetes"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
     },
     {
       "name": "Istio",
-      "proficiency": "不限",
-      "category": "容器与编排",
-      "skill_type": "hard",
-      "parent": "Kubernetes"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
     },
     {
-      "name": "CDN",
+      "name": "CDN运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏运维",
       "proficiency": "不限",
-      "category": "网络",
-      "skill_type": "hard"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "沟通能力",
@@ -140,7 +149,7 @@
       "skill_type": "soft"
     },
     {
-      "name": "学习能力",
+      "name": "求知欲",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -150,18 +159,36 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "游戏运维",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
+      "name": "AWS EC2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "AWS"
+    },
+    {
+      "name": "AWS Aurora",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "AWS"
+    },
+    {
+      "name": "大流量运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
       "name": "容器化游戏运维",
-      "proficiency": "不限",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "其他",
       "skill_type": "domain"
     },
@@ -192,38 +219,6 @@
       "proficiency_rank": 4,
       "category": "容器与编排",
       "skill_type": "hard"
-    },
-    {
-      "name": "EC2",
-      "proficiency": "不限",
-      "category": "云平台",
-      "skill_type": "hard",
-      "parent": "AWS"
-    },
-    {
-      "name": "Aurora",
-      "proficiency": "不限",
-      "category": "云平台",
-      "skill_type": "hard",
-      "parent": "AWS"
-    },
-    {
-      "name": "AWS",
-      "proficiency": "不限",
-      "category": "云平台",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大流量",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "大带宽",
-      "proficiency": "不限",
-      "category": "网络",
-      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

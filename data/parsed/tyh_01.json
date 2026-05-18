@@ -5,28 +5,27 @@
   "education": "本科",
   "experience": "不限",
   "job_category": "前端开发",
-  "job_sub_category": "AI产品前端",
   "job_level": "初级",
   "company_name": "字节跳动",
   "responsibilities": [
     "负责AI产品的前端技术选型和开发工作",
-    "编写通用组件和类库，提升开发效率和质量",
-    "通过技术手段提升用户体验并满足高性能要求",
-    "优化前端功能设计，解决浏览器和终端设备的兼容性问题"
+    "通用组件、类库编写，提升开发效率和质量",
+    "通过技术手段，提升用户体验并满足高性能要求",
+    "优化前端功能设计，解决各种浏览器和终端设备的兼容性问题"
   ],
   "required_skills": [
     {
       "name": "HTML",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -68,7 +67,7 @@
       "name": "fs",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
+      "category": "后端框架",
       "skill_type": "hard",
       "parent": "Node.js"
     },
@@ -76,23 +75,23 @@
       "name": "HTTP",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "API与协议",
+      "category": "后端框架",
       "skill_type": "hard",
       "parent": "Node.js"
     },
     {
-      "name": "Buffer",
+      "name": "buffer",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
+      "category": "后端框架",
       "skill_type": "hard",
       "parent": "Node.js"
     },
     {
-      "name": "Events",
+      "name": "events",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "其他",
+      "category": "后端框架",
       "skill_type": "hard",
       "parent": "Node.js"
     },
@@ -118,46 +117,13 @@
       "skill_type": "hard"
     },
     {
-      "name": "代码能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "上层设计能力",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "前端技术",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前沿技术",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "好奇心",
+      "name": "学习能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
-  "preferred_skills": [
-    {
-      "name": "计算机专业",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    }
-  ],
+  "preferred_skills": [],
   "raw_requirements": [
     "2026届获得本科及以上学历，计算机专业优先；",
     "熟悉前端相关技术栈（HTML、CSS、JS），有扎实的代码功底和良好的上层设计能力；",

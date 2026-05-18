@@ -3,19 +3,15 @@
   "job_title": "前端开发工程师（协同文档/表格/多维表）",
   "location": "上海",
   "education": "不限",
-  "experience": "3年及以上",
+  "experience": "3年以上",
   "experience_min": 3,
-  "experience_max": 3,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "协同编辑器",
-  "job_level": "中级",
+  "job_sub_category": "在线协同编辑",
+  "job_level": "高级",
   "responsibilities": [
-    "负责在线协同文档、表格、多维表编辑器底层核心库及创新能力的开发",
-    "负责多人协同场景的渲染以及性能优化",
-    "负责编辑器 Node.js 层开发",
-    "处理文档 OT/CRDT 的冲突解决",
-    "负责多 Node.js 节点无状态服务的动态扩缩"
+    "负责在线协同文档/表格/多维表编辑器底层核心库及创新能力的开发，涉及多人协同场景的渲染以及性能优化等",
+    "负责编辑器nodejs层开发，处理文档ot/crdt的冲突解决、多nodejs节点无状态server动态扩缩等"
   ],
   "required_skills": [
     {
@@ -29,14 +25,14 @@
       "name": "HTML",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -54,34 +50,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "Node.js",
-      "proficiency": "不限",
-      "category": "后端框架",
-      "skill_type": "hard"
-    },
-    {
-      "name": "OT",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "CRDT",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Canvas",
-      "proficiency": "不限",
-      "category": "前端框架",
-      "skill_type": "hard"
-    },
-    {
       "name": "前端工程化",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "构建工具",
       "skill_type": "hard"
     },
     {
@@ -93,40 +65,22 @@
     },
     {
       "name": "Debug",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "性能优化",
+      "name": "编码规范",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "多人协同",
+      "name": "逻辑思维",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "文档编辑器",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "表格编辑器",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "多维表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "团队协作",
@@ -145,41 +99,35 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "编码习惯",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "严谨思维",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "AI技术",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
-      "name": "多人在线协同文档编辑器",
+      "name": "Canvas",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多人协同编辑",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "多人在线协同表格编辑器",
+      "name": "在线文档编辑器",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "多人在线协同多维表编辑器",
+      "name": "在线表格编辑器",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "在线多维表编辑器",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
@@ -187,43 +135,61 @@
     {
       "name": "协同算法",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
-      "name": "公式计算",
+      "name": "公式计算引擎",
       "proficiency": "不限",
       "category": "数据处理",
       "skill_type": "hard"
     },
     {
+      "name": "光标同步",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
       "name": "虚拟滚动",
       "proficiency": "不限",
-      "category": "前端框架",
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "开源项目",
+      "name": "列表分块渲染",
       "proficiency": "不限",
-      "category": "通用技能",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编辑器AI集成",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "开源项目贡献",
+      "proficiency": "不限",
+      "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "技术博客",
       "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "分布式数据服务",
+      "name": "分布式系统",
       "proficiency": "不限",
-      "category": "架构模式",
+      "category": "大数据",
       "skill_type": "hard"
     },
     {
       "name": "性能优化",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     }
   ],

@@ -3,10 +3,9 @@
   "job_title": "游戏测试开发工程师",
   "location": "杭州、广州、上海",
   "education": "本科",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "测试",
-  "job_sub_category": "自动化测试",
+  "job_sub_category": "游戏测试",
   "job_level": "中级",
   "company_name": "网易",
   "responsibilities": [
@@ -66,36 +65,17 @@
       "skill_type": "soft"
     },
     {
-      "name": "游戏崩溃排查",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "性能分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
       "name": "Charles",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "tool"
+      "skill_type": "hard"
     },
     {
       "name": "Fiddler",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "tool"
-    },
-    {
-      "name": "Android",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "移动开发",
       "skill_type": "hard"
     },
     {
@@ -103,15 +83,14 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "测试工具",
-      "skill_type": "tool",
-      "parent": "Android"
+      "skill_type": "hard"
     },
     {
       "name": "版本管理工具",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "版本控制",
-      "skill_type": "tool"
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
@@ -171,35 +150,17 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "DevOps工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "自动化构建",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "构建工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "游戏测试工具开发",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试框架开发",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "游戏质量保障",
-      "proficiency": "不限",
-      "category": "其他",
+      "category": "DevOps工具",
       "skill_type": "domain"
     },
     {
-      "name": "MMORPG",
+      "name": "MMORPG游戏",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",
@@ -218,12 +179,6 @@
       "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "domain"
-    },
-    {
-      "name": "热情",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

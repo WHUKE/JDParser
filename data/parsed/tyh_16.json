@@ -4,10 +4,11 @@
   "location": "成都",
   "education": "本科",
   "experience": "不限",
-  "job_category": "客户端开发",
-  "job_sub_category": "PC客户端",
+  "job_category": "前端开发",
+  "job_sub_category": "桌面客户端开发",
   "job_level": "初级",
   "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
     "负责豆包PC产品研发开发工作",
     "配合PM完成PC端能力系统研发和落地",
@@ -15,31 +16,24 @@
   ],
   "required_skills": [
     {
-      "name": "C++",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
       "name": "计算机原理",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "数据结构",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -50,10 +44,17 @@
       "skill_type": "hard"
     },
     {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
       "name": "Electron",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
@@ -64,17 +65,24 @@
       "skill_type": "hard"
     },
     {
-      "name": "Qt",
+      "name": "QT",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "浏览器渲染机制",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "前端框架",
+      "skill_type": "domain"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
       "skill_type": "hard"
     },
     {
@@ -82,42 +90,48 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "Windows",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "Linux",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "内存管理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "进程管理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
-      "name": "进程通信",
+      "name": "进程通讯",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "操作系统"
     },
     {
       "name": "C++编译原理",
@@ -127,15 +141,10 @@
       "skill_type": "hard"
     },
     {
-      "name": "逆向工程",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
       "name": "反编译",
-      "proficiency": "不限",
-      "category": "安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -147,20 +156,31 @@
     },
     {
       "name": "求知欲",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "好奇心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "进取心",
+      "name": "团队协作能力",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
@@ -174,34 +194,20 @@
       "skill_type": "soft"
     },
     {
-      "name": "团队沟通",
+      "name": "工作细致",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队协作",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "乐观",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
-  "preferred_skills": [
-    {
-      "name": "计算机",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "软件工程",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    }
-  ],
+  "preferred_skills": [],
   "raw_requirements": [
     "2026届获得本科及以上学历，计算机、软件工程等相关专业优先；",
     "深刻理解计算机原理，有良好的数据结构和算法基础，扎实的编程能力，有C++实际工程项目经验；",

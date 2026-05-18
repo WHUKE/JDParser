@@ -7,7 +7,7 @@
   "experience_min": 2,
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "搜索系统",
+  "job_sub_category": "搜索引擎",
   "job_level": "中级",
   "company_name": "字节跳动",
   "workmode": "现场",
@@ -16,7 +16,7 @@
     "负责搜索索引构建、召回排序、语义理解等核心模块设计与开发",
     "优化系统架构与性能，解决高并发、低延迟、海量数据处理等技术难题",
     "参与技术方案评审、代码Review，推动研发流程与质量体系建设",
-    "跟踪前沿技术，如向量检索、大模型推理优化，并推动技术创新落地"
+    "跟踪前沿技术（如向量检索、大模型推理优化），落地技术创新"
   ],
   "required_skills": [
     {
@@ -44,18 +44,18 @@
       "name": "数据结构",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "操作系统",
+      "name": "操作系统原理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "操作系统",
@@ -79,58 +79,52 @@
       "name": "Elasticsearch",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "数据库",
+      "category": "大数据",
       "skill_type": "hard"
     },
     {
       "name": "分布式系统",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "微服务架构",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "问题排查",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "性能调优",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
+      "name": "问题排查",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "独立解决问题能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "复杂问题解决",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "大语言模型",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
       "name": "大模型推理",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
-      "skill_type": "hard",
-      "parent": "大语言模型"
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "向量数据库",
@@ -144,13 +138,6 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Apache Flink",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "大数据",
       "skill_type": "hard"
     },
     {
@@ -185,7 +172,7 @@
       "name": "服务网格",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "架构模式",
+      "category": "云平台",
       "skill_type": "hard"
     },
     {
@@ -204,19 +191,25 @@
     {
       "name": "推荐系统",
       "proficiency": "不限",
-      "category": "机器学习",
+      "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "大模型工程化",
       "proficiency": "不限",
-      "category": "深度学习",
+      "category": "AI工具",
       "skill_type": "domain"
     },
     {
       "name": "系统重构",
       "proficiency": "不限",
-      "category": "架构模式",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -226,19 +219,13 @@
       "skill_type": "hard"
     },
     {
-      "name": "开源项目",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "技术写作",
+      "name": "开源项目参与",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "技术分享",
+      "name": "技术写作与分享",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"

@@ -2,12 +2,11 @@
   "source_file": "xzl_02.txt",
   "job_title": "大模型应用研发工程师（智能客服）",
   "location": "上海",
-  "education": "不限",
   "experience": "5年以上",
   "experience_min": 5,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "大语言模型应用",
+  "job_sub_category": "智能客服",
   "job_level": "高级",
   "company_name": "米哈游",
   "responsibilities": [
@@ -17,52 +16,45 @@
   "required_skills": [
     {
       "name": "分布式系统",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "大语言模型",
+      "name": "LLM",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "深度学习",
+      "category": "机器学习",
       "skill_type": "hard"
     },
     {
       "name": "RAG",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "AI工具",
-      "skill_type": "hard"
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
     },
     {
       "name": "Agent",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大模型落地",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI应用开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
     },
     {
       "name": "探索精神",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自我驱动力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -70,18 +62,6 @@
   "preferred_skills": [
     {
       "name": "智能客服",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "RAG",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大模型应用",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"

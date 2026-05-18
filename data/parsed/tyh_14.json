@@ -10,43 +10,43 @@
   "responsibilities": [
     "负责抖音产品的前端技术开发工作，包括移动端产品以及PC端产品",
     "完成用户功能设计和开发，确保浏览器或其他终端设备兼容性",
-    "通过技术手段优化前端性能，提升用户体验",
+    "通过技术手段，优化前端性能，提升用户体验",
     "设计研发通用组件、工具和类库，提升开发质量和效率"
   ],
   "required_skills": [
     {
+      "name": "计算机基础",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
       "name": "数据结构",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编程语言",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "HTML",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -57,45 +57,44 @@
       "skill_type": "hard"
     },
     {
-      "name": "前端技术开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "用户交互体验",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "通用技能",
-      "skill_type": "domain"
-    },
-    {
-      "name": "沟通协作",
-      "proficiency": "不限",
+      "name": "团队协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "逻辑思维能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "责任心",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "服务意识",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "积极乐观",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -116,10 +115,11 @@
       "skill_type": "hard"
     },
     {
-      "name": "Web项目开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
+      "name": "Web开发经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

@@ -11,16 +11,15 @@
   "headcount": 1,
   "publish_date": "2026-03-06",
   "job_category": "技术-前端及客户端开发-前端及客户端开发",
-  "job_sub_category": "React技术栈",
   "job_level": "高级",
   "responsibilities": [
     "负责核心业务线或复杂系统的开发，确保系统的可扩展性、可维护性和稳定性",
-    "主导或参与关键模块和复杂组件的开发，编写高质量、高性能、可复用的代码，并建立相应的技术规范和文档",
+    "作为团队核心成员，主导或参与关键模块和复杂组件的开发，编写高质量、高性能、可复用的代码，并建立相应的技术规范和文档",
     "深入研究和解决前端性能瓶颈，特别是在加载大量大型资源、复杂交互场景下的性能优化，持续提升应用性能和用户体验",
-    "实践AI辅助编程工具，探索AI技术在前端研发流程中的应用，以提升代码质量、开发效率和创新能力",
-    "攻克前端领域技术难题，调研、评估并引入前沿技术，推动前端团队技术进步",
-    "参与或主导前端工程化体系的建设与优化，包括开发流程、构建、部署、监控等，提升团队整体研发效率和质量",
-    "与产品经理、设计师、后端工程师等角色紧密协作，理解业务需求并提供前瞻性的技术解决方案"
+    "拥抱并实践 AI 辅助编程工具，探索 AI 技术在前端研发流程中的应用，以提升代码质量、开发效率和创新能力",
+    "攻克前端领域的技术难题，对前沿技术进行调研、评估并引入团队，推动整个前端团队的技术进步",
+    "参与或主导前端工程化体系的建设与优化，包括但不限于开发流程、构建、部署、监控等，提升团队的整体研发效率和质量",
+    "与产品经理、设计师、后端工程师等角色紧密协作，深刻理解业务需求，提供具有前瞻性的技术解决方案"
   ],
   "required_skills": [
     {
@@ -35,41 +34,6 @@
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "AI辅助编程工具",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "AI工具",
-      "skill_type": "tool"
-    },
-    {
-      "name": "大语言模型",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "浏览器渲染原理",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Web性能优化",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前端工程化",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -94,29 +58,25 @@
       "skill_type": "hard"
     },
     {
-      "name": "架构设计",
-      "proficiency": "不限",
-      "category": "架构模式",
+      "name": "浏览器性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "问题定位能力",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "AI编程工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
     },
     {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "name": "大语言模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
     }
   ],
   "preferred_skills": [
@@ -127,39 +87,21 @@
       "skill_type": "domain"
     },
     {
-      "name": "音视频",
+      "name": "音视频开发",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "3D平台",
+      "name": "3D开发",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "Lovart",
+      "name": "AI原生应用开发",
       "proficiency": "不限",
       "category": "AI工具",
-      "skill_type": "tool"
-    },
-    {
-      "name": "Claude Code",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "tool"
-    },
-    {
-      "name": "AI原生应用",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "domain"
-    },
-    {
-      "name": "开发工具类产品",
-      "proficiency": "不限",
-      "category": "其他",
       "skill_type": "domain"
     }
   ],

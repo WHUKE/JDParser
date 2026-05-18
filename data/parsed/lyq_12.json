@@ -1,7 +1,7 @@
 {
   "source_file": "lyq_12.txt",
   "job_title": "高级前端开发工程师（低代码方向）",
-  "location": "北京、上海、深圳",
+  "location": "北京,上海,深圳",
   "education": "本科",
   "experience": "3年以上",
   "experience_min": 3,
@@ -22,14 +22,14 @@
       "name": "HTML",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -38,14 +38,6 @@
       "proficiency_rank": 4,
       "category": "编程语言",
       "skill_type": "hard"
-    },
-    {
-      "name": "ECMAScript 6+",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "JavaScript"
     },
     {
       "name": "TypeScript",
@@ -70,8 +62,9 @@
     },
     {
       "name": "Node.js",
-      "proficiency": "不限",
-      "category": "后端框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -105,44 +98,14 @@
       "skill_type": "hard"
     },
     {
-      "name": "性能优化",
+      "name": "前端性能优化",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "需求分析",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "soft"
-    },
-    {
-      "name": "系统设计",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编码",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "用户体验",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "domain"
-    },
-    {
-      "name": "技术创新",
+      "name": "问题解决能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -161,21 +124,24 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain",
+      "parent": "低代码平台"
     },
     {
       "name": "表单引擎",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain",
+      "parent": "低代码平台"
     },
     {
       "name": "流程设计器",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain",
+      "parent": "低代码平台"
     },
     {
       "name": "前端工程化",
@@ -195,7 +161,7 @@
       "name": "组件库建设",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "前端框架",
       "skill_type": "hard"
     },
     {
@@ -226,38 +192,48 @@
       "proficiency_rank": 1,
       "category": "移动开发",
       "skill_type": "hard",
-      "parent": "React"
+      "parent": "跨端开发"
     },
     {
       "name": "WebAssembly",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "3D可视化",
+      "name": "3D可视化技术",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "无代码平台",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "前端架构设计",
-      "proficiency": "不限",
+      "name": "低代码平台前端架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "工程化工具",
-      "proficiency": "不限",
+      "name": "前端组件库建设",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端工程化工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化测试平台建设",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
@@ -283,7 +259,8 @@
     },
     {
       "name": "全栈开发",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "hard"
     }

@@ -7,13 +7,13 @@
   "experience_min": 5,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "RAG",
+  "job_sub_category": "RAG与智能体",
   "job_level": "高级",
   "responsibilities": [
-    "开发知识库与问答系统，搭建高性能文档解析、向量化与检索服务，保障企业知识的安全与精准问答",
-    "构建智能体平台后端，参与设计支持Agent编排、工具调用与技能扩展的核心框架与执行引擎",
-    "工程化落地AI能力，集成大语言模型，构建提示工程、工作流引擎与推理网关，支撑复杂AI场景",
-    "负责核心服务的设计、开发与运维，确保系统高可用与可扩展性，并与产品、算法团队高效协同"
+    "开发知识库与问答系统：搭建高性能文档解析、向量化与检索（RAG）服务，保障企业知识的安全与精准问答",
+    "构建智能体平台后端：参与设计支持Agent编排、工具调用与技能扩展的核心框架与执行引擎",
+    "工程化落地AI能力：集成大语言模型，构建提示工程、工作流引擎与推理网关，支撑复杂AI场景",
+    "保障系统与协作：负责核心服务的设计、开发与运维，确保高可用与可扩展性；与产品、算法团队高效协同"
   ],
   "required_skills": [
     {
@@ -31,47 +31,52 @@
       "skill_type": "hard"
     },
     {
-      "name": "智能体",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "企业知识库",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI工作流",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI调优",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "name": "智能体Agent开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "LLM应用后端",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "name": "企业知识库开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI工作流开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM应用后端开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
     },
     {
       "name": "RAG",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "Agent",
+      "name": "Agent框架",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
@@ -82,7 +87,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "分布式系统",
+      "name": "分布式系统原理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "架构模式",
@@ -90,34 +95,43 @@
     },
     {
       "name": "MySQL",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "Redis",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "缓存",
       "skill_type": "hard"
     },
     {
       "name": "Kafka",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "消息队列",
       "skill_type": "hard"
     },
     {
       "name": "高并发系统设计",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "系统设计",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
       "skill_type": "hard"
     },
@@ -133,7 +147,8 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "数据库",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "数据库"
     },
     {
       "name": "逻辑清晰",
@@ -154,7 +169,7 @@
       "skill_type": "soft"
     },
     {
-      "name": "团队协作",
+      "name": "团队协作能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -165,7 +180,7 @@
       "name": "模型算法",
       "proficiency": "不限",
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

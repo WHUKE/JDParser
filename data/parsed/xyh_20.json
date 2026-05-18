@@ -12,16 +12,17 @@
   "publish_date": "2026-03-04",
   "job_category": "技术-服务端开发-服务端开发",
   "job_sub_category": "AI Agent",
-  "job_level": "中级",
+  "job_level": "高级",
+  "workmode": "现场",
   "responsibilities": [
-    "负责音乐智能助手的AI Agent系统开发，包括意图识别、对话管理、任务规划等核心模块的设计与实现",
+    "负责音乐智能助手的 AI Agent 系统开发，包括意图识别、对话管理、任务规划等核心模块的设计与实现",
     "开发基于大语言模型的音乐推荐对话能力，实现自然语言驱动的歌曲搜索、歌单生成、风格探索等功能",
-    "构建Agent的记忆系统，实现个性化的上下文理解与用户画像积累",
+    "构建 Agent 的记忆系统（短期对话记忆、长期偏好记忆），实现个性化的上下文理解与用户画像积累",
     "参与情绪感知模块的开发，结合用户行为数据和上下文信号进行情绪状态推断",
-    "开发Agent的工具调用能力，对接内部推荐系统、搜索服务、内容平台等，实现端到端闭环",
-    "参与Prompt Engineering设计与优化，支撑人设系统和情感化回复的生成质量",
+    "开发 Agent 的工具调用能力，对接内部推荐系统、搜索服务、内容平台等，实现端到端闭环",
+    "参与 Prompt Engineering 设计与优化，支撑人设系统和情感化回复的生成质量",
     "关注大模型推理延迟优化，保障短交互场景下的响应速度和用户体验",
-    "跟踪AI Agent领域最新技术进展，快速验证并推动新技术在业务中的落地"
+    "跟踪 AI Agent 领域最新技术进展，快速验证并推动新技术在业务中的落地"
   ],
   "required_skills": [
     {
@@ -46,21 +47,14 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据结构",
+      "name": "数据结构与算法",
       "proficiency": "熟练",
       "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
-      "name": "算法",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大语言模型",
+      "name": "Large Language Model",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "机器学习",
@@ -81,7 +75,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "AI Agent",
+      "name": "Agent Development",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
@@ -119,13 +113,6 @@
       "name": "Function Calling",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Tool Use",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
@@ -133,21 +120,21 @@
       "name": "React",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "架构模式",
+      "category": "机器学习",
       "skill_type": "hard"
     },
     {
       "name": "记忆管理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "AI工具",
+      "category": "机器学习",
       "skill_type": "hard"
     },
     {
-      "name": "多轮对话上下文控制",
+      "name": "多轮对话管理",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "AI工具",
+      "category": "AI/机器学习",
       "skill_type": "hard"
     },
     {
@@ -172,89 +159,89 @@
       "skill_type": "hard"
     },
     {
-      "name": "高并发服务开发",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
       "name": "学习能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "技术敏感度",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "沟通协作能力",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "音乐",
+      "name": "音乐业务知识",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "内容推荐",
+      "name": "推荐系统",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "搜索",
+      "name": "搜索系统",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
       "name": "对话系统",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
       "name": "情感计算",
       "proficiency": "不限",
-      "category": "机器学习",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
-      "name": "自然语言处理",
+      "name": "NLP",
       "proficiency": "不限",
       "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "向量数据库",
-      "proficiency": "不限",
-      "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "Milvus",
       "proficiency": "不限",
       "category": "数据库",
-      "skill_type": "hard",
-      "parent": "向量数据库"
+      "skill_type": "tool"
     },
     {
       "name": "Chroma",
       "proficiency": "不限",
       "category": "数据库",
-      "skill_type": "hard",
-      "parent": "向量数据库"
+      "skill_type": "tool"
     },
     {
       "name": "知识库构建",
@@ -269,36 +256,16 @@
       "skill_type": "hard"
     },
     {
-      "name": "SFT",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard",
-      "parent": "大模型微调"
-    },
-    {
-      "name": "LoRA",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard",
-      "parent": "大模型微调"
-    },
-    {
       "name": "推理优化",
       "proficiency": "不限",
       "category": "机器学习",
       "skill_type": "hard"
     },
     {
-      "name": "开源贡献",
+      "name": "高并发系统设计",
       "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "技术博客写作",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
+      "category": "架构模式",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

@@ -3,18 +3,17 @@
   "job_title": "资深后端开发（文档协同）",
   "location": "上海",
   "education": "本科",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "分布式系统",
+  "job_sub_category": "文档协同",
   "job_level": "资深",
   "responsibilities": [
     "负责协同文档、在线表格、多维表等产品的后端架构设计和演进，确保系统的高性能、高可用性和可扩展性",
     "参与协同文档、在线表格和多维表的核心功能的后端开发与实现",
-    "负责协同算法（如 OT/CRDT）在文档、表格等不同场景下的选型、实现或优化，解决多人实时编辑中的数据冲突和一致性问题",
+    "深入研究实时协同场景，负责协同算法（如OT/CRDT）在文档、表格等不同场景下的选型、实现或优化，解决多人实时编辑中的数据冲突和一致性问题",
     "针对高并发协同编辑场景，设计和优化数据存储、长连接通信、消息分发等模块，持续提升系统性能和响应速度",
     "负责服务的稳定性建设，包括监控、告警、故障排查和应急响应",
-    "与前端工程师、产品经理、测试工程师紧密合作，理解业务需求，提供稳定可靠的后端服务支持，推动产品迭代"
+    "与前端工程师、产品经理、测试工程师紧密合作，深刻理解业务需求，提供稳定可靠的后端服务支持，共同推动产品迭代"
   ],
   "required_skills": [
     {
@@ -23,22 +22,6 @@
       "proficiency_rank": 4,
       "category": "编程语言",
       "skill_type": "hard"
-    },
-    {
-      "name": "协程",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "Golang"
-    },
-    {
-      "name": "通道",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "Golang"
     },
     {
       "name": "MySQL",
@@ -90,53 +73,53 @@
       "skill_type": "hard"
     },
     {
-      "name": "高并发",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "name": "高并发系统设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "高可用",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "name": "高可用系统设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "SLA",
+      "name": "OT（操作转换）",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "OT",
+      "name": "CRDT（无冲突复制数据类型）",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "CRDT",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
+      "name": "协同应用架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
       "name": "实时数据同步",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "数据处理",
-      "skill_type": "hard"
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
       "name": "状态管理",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard"
+      "category": "领域知识",
+      "skill_type": "domain"
     },
     {
       "name": "长连接服务",
@@ -146,102 +129,47 @@
       "skill_type": "hard"
     },
     {
-      "name": "监控",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "告警",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "故障排查",
-      "proficiency": "不限",
-      "category": "运维",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分析和解决问题能力",
-      "proficiency": "优秀",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
       "name": "沟通能力",
-      "proficiency": "良好",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作",
-      "proficiency": "良好",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "自驱力",
-      "proficiency": "不限",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术热情",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "协同办公",
+      "name": "协同办公产品后端开发经验",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
-    },
-    {
-      "name": "协同文档",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "在线表格",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "多维表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "Google Docs",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "tool"
-    },
-    {
-      "name": "Notion",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "tool"
-    },
-    {
-      "name": "飞书文档",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "tool"
-    },
-    {
-      "name": "Airtable",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "tool"
-    },
-    {
-      "name": "飞书多维表格",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "tool"
     }
   ],
   "raw_requirements": [

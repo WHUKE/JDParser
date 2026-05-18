@@ -6,7 +6,8 @@
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "高并发,分布式系统,微服务,推荐系统,流媒体",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
   "company_name": "哔哩哔哩",
   "workmode": "现场",
   "responsibilities": [
@@ -49,7 +50,7 @@
       "name": "Shell",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "编程语言",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
@@ -61,19 +62,22 @@
     },
     {
       "name": "MySQL",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "数据库",
       "skill_type": "hard"
     },
     {
       "name": "Redis",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "缓存",
       "skill_type": "hard"
     },
     {
       "name": "Kafka",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "消息队列",
       "skill_type": "hard"
     },
@@ -88,28 +92,19 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
+    },
     {
       "name": "分布式系统",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "高并发系统设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "视频流媒体",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "其他",
       "skill_type": "domain"
     },
     {
@@ -123,14 +118,14 @@
       "name": "HLS",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
       "name": "DASH",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
@@ -138,7 +133,7 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "机器学习",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "推荐系统",
@@ -146,66 +141,28 @@
       "proficiency_rank": 1,
       "category": "机器学习",
       "skill_type": "domain"
-    },
-    {
-      "name": "视频平台后端",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "直播平台后端",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ACG文化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "B站产品生态",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "领域知识",
       "skill_type": "domain"
     },
     {
       "name": "视频编解码",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "直播推拉流技术",
-      "proficiency": "不限",
-      "category": "网络",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大模型应用",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "内容理解",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "微服务架构",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
       "skill_type": "hard"
     }
   ],

@@ -5,17 +5,31 @@
   "education": "博士",
   "experience": "不限",
   "job_category": "AI/机器学习",
-  "job_sub_category": "风控",
-  "job_level": "初级",
+  "job_sub_category": "结构化数据大模型",
+  "job_level": "高级",
+  "company_name": "字节跳动",
+  "workmode": "现场",
   "responsibilities": [
-    "以风控数据为基础，优化提升大模型对结构化数据（序列数据、图数据）的理解与推理能力",
-    "研究结构化信息与自然语言语义空间的对齐方法，使模型同时理解数据结构和语义信息",
-    "设计适当的指令与方法，使大模型理解结构化数据中的结构信息",
-    "提升大语言模型在图学习下游任务中的逐步推理能力，推断复杂关系和属性",
-    "探索多种结构化数据的融合理解，重点研究图数据与序列数据的融合",
-    "研究大模型结构化数据理解、结构化数据RAG和思维链相关方向"
+    "负责风控场景下大模型与结构化数据融合的算法研发，提升模型对序列数据和图数据的理解推理能力",
+    "研究大模型结构化数据RAG、思维链等技术，解决黑灰产对抗中的风险识别问题",
+    "参与算法创新，发表顶尖论文，打造业界领先的风控算法体系",
+    "与团队合作，进行模型评估与优化"
   ],
   "required_skills": [
+    {
+      "name": "编程能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构和算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
     {
       "name": "Python",
       "proficiency": "熟练",
@@ -24,80 +38,16 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据结构",
-      "proficiency": "扎实",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "算法基础",
-      "proficiency": "扎实",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "机器学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "大语言模型",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "结构化数据理解",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "序列数据",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "图数据",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "RAG",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "思维链",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "风控",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "问题定义能力",
-      "proficiency": "不限",
+      "name": "问题定义与分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "分析能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "解决问题能力",
-      "proficiency": "不限",
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -109,12 +59,6 @@
     },
     {
       "name": "沟通协作能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "创新能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
@@ -134,48 +78,6 @@
       "proficiency_rank": 2,
       "category": "深度学习",
       "skill_type": "hard"
-    },
-    {
-      "name": "网络安全",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "domain"
-    },
-    {
-      "name": "人工智能",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "CCF-A论文发表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AAAI论文发表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NeurIPS论文发表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "SIGKDD论文发表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "SIGIR论文发表",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
     }
   ],
   "raw_requirements": [

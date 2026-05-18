@@ -3,13 +3,12 @@
   "job_title": "前端开发工程师",
   "location": "北京、杭州、广州",
   "education": "本科",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
-  "job_sub_category": "前端工程化",
+  "job_level": "高级",
   "company_name": "网易",
-  "workmode": "现场",
   "responsibilities": [
+    "负责网易有道及雷火事业群前端业务开发，参与在线教育、游戏等领域的前端架构建设",
     "负责业务前端架构设计与实现，保障产品高质量交付",
     "负责前端功能的开发、重构，保证代码的可维护性、可扩展性、性能高效以及兼容性良好",
     "参与前端工程化建设，搭建自动化构建、测试、部署体系",
@@ -21,14 +20,14 @@
       "name": "HTML",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "CSS",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "前端框架",
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
@@ -39,27 +38,11 @@
       "skill_type": "hard"
     },
     {
-      "name": "ECMAScript 6+",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "编程语言",
-      "skill_type": "hard",
-      "parent": "JavaScript"
-    },
-    {
       "name": "Vue.js",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "前端框架",
       "skill_type": "hard"
-    },
-    {
-      "name": "Vue 2",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "前端框架",
-      "skill_type": "hard",
-      "parent": "Vue.js"
     },
     {
       "name": "React",
@@ -70,98 +53,46 @@
     },
     {
       "name": "Webpack",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
       "skill_type": "hard"
     },
     {
       "name": "Vite",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
       "skill_type": "hard"
     },
     {
       "name": "Rollup",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
       "skill_type": "hard"
     },
     {
-      "name": "Loader",
-      "proficiency": "不限",
-      "category": "构建工具",
-      "skill_type": "hard",
-      "parent": "Webpack"
-    },
-    {
-      "name": "Plugin",
-      "proficiency": "不限",
-      "category": "构建工具",
-      "skill_type": "hard",
-      "parent": "Webpack"
-    },
-    {
-      "name": "浏览器缓存机制",
-      "proficiency": "不限",
+      "name": "浏览器缓存",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "HTTP",
-      "proficiency": "不限",
-      "category": "API与协议",
+      "name": "HTTP协议",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
       "skill_type": "hard"
     },
     {
       "name": "跨域处理",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "网络",
       "skill_type": "hard"
     },
-    {
-      "name": "前端架构设计",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前端工程化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化构建",
-      "proficiency": "不限",
-      "category": "构建工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化部署",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "性能优化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
     {
       "name": "TypeScript",
       "proficiency": "了解",
@@ -180,22 +111,18 @@
       "name": "前端性能监控",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
       "name": "错误日志上报",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "DevOps工具",
       "skill_type": "hard"
-    },
-    {
-      "name": "大型Web应用开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "移动端H5开发",
       "proficiency": "不限",
@@ -203,46 +130,43 @@
       "skill_type": "hard"
     },
     {
-      "name": "响应式开发",
+      "name": "响应式Web设计",
       "proficiency": "不限",
       "category": "前端框架",
       "skill_type": "hard"
     },
     {
       "name": "前端安全",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "安全",
       "skill_type": "hard"
     },
     {
-      "name": "性能优化",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "前端性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "Canvas",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "数据可视化",
       "skill_type": "hard"
     },
     {
       "name": "WebGL",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "前端框架",
+      "category": "数据可视化",
       "skill_type": "hard"
     },
     {
-      "name": "可视化开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "游戏前端技术",
-      "proficiency": "不限",
+      "name": "游戏前端开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "游戏引擎",
       "skill_type": "domain"
     }

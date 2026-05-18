@@ -4,8 +4,7 @@
   "location": "成都",
   "education": "本科",
   "experience": "不限",
-  "job_category": "运营",
-  "job_sub_category": "小程序运营",
+  "job_category": "产品",
   "job_level": "初级",
   "company_name": "抖音集团",
   "workmode": "现场",
@@ -13,46 +12,18 @@
     "结合平台产品能力及行业诉求，输出覆盖入驻、开发、经营全流程的小程序或AI智能体解决方案，推动内外部资源协同与合作落地",
     "对开发者开展客户关系维护、开发进度跟踪、能力需求挖掘的精细化管理，提供技术对接、内容指导、运营策略、权益申请等多维度支持，协助落地经营方案，加速上线流程并促进经营效果达成",
     "挖掘产品能力的新增需求、优化需求并识别规则问题，与行业运营、产品、研发、治理、销售等角色信息对齐，推动产品内测与全量推广工作",
-    "筛选业内优质开发者联合打造标杆案例，通过行业宣发扩大案例影响力，推动平台小程序与AI应用生态的建设与升级",
-    "负责售前咨询与客户管理",
-    "负责产品运营与生态建设"
+    "筛选业内优质开发者联合打造标杆案例，通过行业宣发扩大案例影响力，推动平台小程序/AI应用生态的建设与升级"
   ],
   "required_skills": [
     {
-      "name": "项目管理",
+      "name": "结构化分析能力",
       "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "结构化分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "解决方案设计",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "优秀",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "跨部门协作",
-      "proficiency": "优秀",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "推动能力",
-      "proficiency": "优秀",
+      "name": "跨部门沟通协调能力",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -61,93 +32,38 @@
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
-    },
-    {
-      "name": "业务分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "客户需求分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "经营数据分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分析报告撰写",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "小程序",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI智能体",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "AI工具",
-      "skill_type": "domain"
     }
   ],
   "preferred_skills": [
     {
-      "name": "互联网运营",
+      "name": "互联网运营经验",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "用户运营",
+      "name": "项目管理",
       "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "互联网运营"
+      "category": "项目管理",
+      "skill_type": "soft"
     },
     {
-      "name": "产品运营",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "互联网运营"
-    },
-    {
-      "name": "抖音生态",
+      "name": "抖音生态经验",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "小程序运营",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "小程序"
+      "name": "小程序开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
     },
     {
-      "name": "小程序",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI工具搭建",
-      "proficiency": "不限",
+      "name": "AI智能体开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     }

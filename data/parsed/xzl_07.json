@@ -3,65 +3,52 @@
   "job_title": "测试开发工程师 （游戏研发效能工具）",
   "location": "上海",
   "education": "本科",
-  "experience": "3年左右",
+  "experience": "3年",
   "experience_min": 3,
   "experience_max": 3,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "自动化测试",
+  "job_sub_category": "游戏研发效能工具",
   "job_level": "中级",
   "responsibilities": [
-    "参与游戏研发管线的项目管理平台及工具相关的质量保障工作，包括需求、开发、测试、发布及线上各阶段的质量把关及问题解决跟进，及时识别并有效防止风险",
-    "负责日常测试方案、测试计划制定，迭代项目跟进，以质量为核心，提升团队协作效率",
-    "通过自动化测试脚本（接口、UI等）、测试工具开发、AI能力等提升测试效率",
-    "负责团队专项测试任务推进，包括性能、安全、兼容性测试"
+    "参与游戏研发管线的项目管理平台及工具的质量保障工作，涵盖需求、开发、测试、发布及线上各阶段，识别并预防风险",
+    "负责制定测试方案、测试计划，跟进迭代项目，以质量为核心提升团队协作效率",
+    "通过编写自动化测试脚本（接口、UI等）、测试工具开发及AI能力应用提升测试效率",
+    "负责性能、安全、兼容性等专项测试任务的推进"
   ],
   "required_skills": [
     {
       "name": "软件测试",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Web端测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "APP端测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "服务端测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Python",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Go",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "接口自动化测试",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "UI自动化测试",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
       "skill_type": "hard"
     },
@@ -73,17 +60,17 @@
       "skill_type": "hard"
     },
     {
-      "name": "自动化测试工具",
+      "name": "自动化工具",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "自动化测试平台",
+      "name": "自动化平台",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "测试工具",
+      "category": "DevOps工具",
       "skill_type": "hard"
     },
     {
@@ -94,87 +81,82 @@
       "skill_type": "hard"
     },
     {
-      "name": "持续集成",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "DevOps工具",
-      "skill_type": "hard",
-      "parent": "CI/CD"
-    },
-    {
-      "name": "性能测试",
+      "name": "团队合作精神",
       "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "安全测试",
-      "proficiency": "不限",
-      "category": "安全",
-      "skill_type": "hard"
-    },
-    {
-      "name": "兼容性测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "项目管理",
-      "proficiency": "不限",
-      "category": "项目管理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队合作",
-      "proficiency": "良好",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "沟通能力",
-      "proficiency": "善于",
+      "name": "沟通协调能力",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "问题解决能力",
-      "proficiency": "较高",
+      "name": "问题推动解决能力",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "逻辑分析",
-      "proficiency": "较强",
+      "name": "逻辑分析能力",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "故障排查",
-      "proficiency": "较强",
-      "category": "其他",
-      "skill_type": "hard"
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "抗压能力",
-      "proficiency": "较强",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "富有激情",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "责任心",
-      "proficiency": "强",
+      "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "AI能力",
+      "name": "客观公正",
       "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
+      "category": "软技能",
+      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
+    {
+      "name": "Web测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "APP测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "服务端测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
     {
       "name": "游戏研发管线",
       "proficiency": "熟悉",

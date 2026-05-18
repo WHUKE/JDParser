@@ -7,16 +7,14 @@
   "experience_min": 3,
   "employment_type": "全职",
   "job_category": "测试",
-  "job_sub_category": "自动化测试",
   "job_level": "高级",
   "company_name": "美团",
-  "workmode": "现场",
   "responsibilities": [
-    "负责神会员业务相关产品迭代的前后端质量保证，制定测试方案、设计用例、执行测试、管理质量",
-    "深入理解业务与系统架构，分析质量风险，共建完备质量保证体系",
-    "开发自动化测试工具与平台，推进测试智能化与效能提升",
-    "参与持续集成与持续交付流程建设，提升交付效率与质量",
-    "跟踪线上问题，进行根因分析与闭环改进，降低故障发生率"
+    "负责神会员业务相关产品迭代的前后端质量保证，制定测试方案、设计用例、执行测试、管理质量。",
+    "深入理解业务与系统架构，分析质量风险，共建完备质量保证体系。",
+    "开发自动化测试工具与平台，推进测试智能化与效能提升。",
+    "参与持续集成/持续交付（CI/CD）流程建设，提升交付效率与质量。",
+    "跟踪线上问题，进行根因分析与闭环改进，降低故障发生率。"
   ],
   "required_skills": [
     {
@@ -56,19 +54,22 @@
     },
     {
       "name": "接口测试",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "性能测试",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "功能测试",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "测试工具",
       "skill_type": "hard"
     },
@@ -76,12 +77,13 @@
       "name": "前后端测试方法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "问题分析与定位能力",
-      "proficiency": "良好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "软技能",
       "skill_type": "soft"
     },
@@ -94,25 +96,15 @@
     },
     {
       "name": "Git",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "版本控制",
       "skill_type": "hard"
     },
     {
       "name": "Jenkins",
-      "proficiency": "掌握",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "CI/CD",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "DevOps工具",
       "skill_type": "hard"
     }
@@ -133,7 +125,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "混沌工程",
+      "name": "混沌工程实践",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
@@ -150,42 +142,46 @@
       "name": "测试数据构造",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "质量监控体系建设",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "电商",
-      "proficiency": "不限",
+      "name": "电商业务",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "会员业务",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "促销系统",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "支付链路测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard"
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "外卖平台",
+      "name": "外卖平台测试",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
@@ -212,13 +208,14 @@
       "name": "开发流程",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "项目管理",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "全链路质量保障",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
       "skill_type": "hard"
     }
   ],

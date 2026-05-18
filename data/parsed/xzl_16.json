@@ -1,7 +1,7 @@
 {
   "source_file": "xzl_16.txt",
   "job_title": "LLM Pretrain算法研究员",
-  "location": "上海、北京",
+  "location": "上海/北京",
   "education": "硕士",
   "experience": "不限",
   "employment_type": "全职",
@@ -10,29 +10,32 @@
   "job_level": "高级",
   "target_group": "常规社招",
   "responsibilities": [
-    "研究训练框架，快速定位训练中出现的问题，分析训练过程中的模型表现，并与基础设施团队合作保证训练策略的正确性",
-    "跟踪领域前沿技术，研究新型LLM模型架构，提升训练或推理的计算效率和模型性能",
-    "研究不同架构、数据、目标函数和优化方法等算法因素的Scaling Law，总结高效稳定的预训练策略",
-    "拓展模型在长文本理解和生成方面的能力"
+    "专研训练框架，快速定位训练中出现的问题，分析训练过程中的模型表现，跟infra team合作来保证训练策略的正确性",
+    "紧跟领域前沿技术，研究新型LLM模型架构，提升训练或推理的计算效率和模型性能",
+    "研究不同架构、数据、目标函数和优化方法等各个算法方面的scaling law，总结出高效稳定的预训练策略",
+    "拓展模型在长文本理解和生成的能力"
   ],
   "required_skills": [
     {
       "name": "自然语言处理",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
       "skill_type": "domain"
     },
     {
       "name": "大语言模型",
-      "proficiency": "不限",
-      "category": "其他",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
       "skill_type": "domain"
     },
     {
       "name": "机器学习",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
     },
     {
       "name": "PyTorch",
@@ -42,109 +45,66 @@
       "skill_type": "hard"
     },
     {
-      "name": "深度学习",
-      "proficiency": "不限",
-      "category": "深度学习",
+      "name": "编程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "代码能力",
-      "proficiency": "扎实",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
-      "name": "算法基础",
-      "proficiency": "扎实",
-      "category": "通用技能",
+      "name": "算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "沟通能力",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "协作能力",
-      "proficiency": "不限",
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "学习能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "创新能力",
-      "proficiency": "不限",
+      "name": "创新思维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "NeurIPS",
+      "name": "顶级会议论文发表",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "ICML",
+      "name": "编程竞赛获奖",
       "proficiency": "不限",
       "category": "其他",
-      "skill_type": "domain"
+      "skill_type": "certification"
     },
     {
-      "name": "ACL",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "大规模模型训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
       "skill_type": "domain"
-    },
-    {
-      "name": "EMNLP",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ACM/ICPC",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "NOI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "IOI",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "TopCoder",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "分布式训练",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "深度学习",
-      "skill_type": "hard"
     },
     {
       "name": "分布式训练框架",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "深度学习",
+      "category": "AI工具",
       "skill_type": "hard"
     },
     {
@@ -163,27 +123,24 @@
     },
     {
       "name": "MoE",
-      "proficiency": "不限",
-      "category": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
       "skill_type": "hard"
     },
     {
-      "name": "Sparse Attention",
-      "proficiency": "不限",
-      "category": "深度学习",
+      "name": "稀疏注意力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
       "skill_type": "hard"
     },
     {
-      "name": "长文本理解",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "长文本生成",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "name": "模型结构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
     }
   ],
   "raw_requirements": [

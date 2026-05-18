@@ -7,60 +7,64 @@
   "experience_min": 4,
   "employment_type": "全职",
   "job_category": "程序&技术类",
-  "job_sub_category": "Gameplay",
-  "job_level": "资深",
+  "job_sub_category": "UE5动作预研",
+  "job_level": "高级",
   "responsibilities": [
-    "设计、实现和维护Gameplay相关的系统和工具",
-    "与策划、美术、程序深度合作",
-    "编写清晰、可维护、高效运行的代码",
-    "进行性能分析和代码优化"
+    "设计，实现和维护gameplay相关的系统和工具",
+    "和策划，美术，程序深度合作",
+    "写清晰，可维护，高效运行的代码",
+    "性能分析和优化代码"
   ],
   "required_skills": [
     {
       "name": "Unreal Engine",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "游戏引擎",
       "skill_type": "hard"
     },
     {
-      "name": "网络框架",
+      "name": "UE网络框架",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "架构模式",
+      "category": "游戏引擎",
       "skill_type": "hard",
       "parent": "Unreal Engine"
     },
     {
-      "name": "大世界程序架构",
+      "name": "独立搭建网络框架",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "架构模式",
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UE大世界程序架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
       "skill_type": "hard",
       "parent": "Unreal Engine"
     },
     {
-      "name": "AI工具",
-      "proficiency": "深入了解",
+      "name": "实现AI工具寻路算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "寻路算法",
-      "proficiency": "深入了解",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "动画管线",
-      "proficiency": "深入了解",
-      "category": "其他",
+      "name": "UE动画管线",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "游戏引擎",
       "skill_type": "hard",
       "parent": "Unreal Engine"
     },
     {
-      "name": "动作游戏动画表现",
-      "proficiency": "深入了解",
+      "name": "高品质动作游戏动画表现需求",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "domain"
     },
@@ -69,12 +73,6 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "3D游戏Gameplay架构",
-      "proficiency": "不限",
-      "category": "架构模式",
       "skill_type": "hard"
     },
     {
@@ -94,23 +92,39 @@
     {
       "name": "Gameplay设计理解",
       "proficiency": "不限",
-      "category": "通用技能",
+      "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "沟通能力",
-      "proficiency": "优秀",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作能力",
-      "proficiency": "优秀",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "程序能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
       "category": "软技能",
       "skill_type": "soft"
     }
   ],
-  "preferred_skills": [],
+  "preferred_skills": [
+    {
+      "name": "3D游戏Gameplay架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    }
+  ],
   "raw_requirements": [
     "至少满足一点：精通UE的网络框架或独立搭建网络框架、精通UE的大世界程序架构、深入了解实现AI工具寻路算法、深入了解UE动画管线和高品质动作游戏动画表现需求；",
     "本科或以上学历，计算机相关专业，4年以上游戏开发工作经验，有UE相关和gameplay相关经验；",

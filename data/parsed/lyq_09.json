@@ -1,7 +1,7 @@
 {
   "source_file": "lyq_09.txt",
   "job_title": "AI算法工程师-大模型推理优化",
-  "location": "北京、上海、深圳",
+  "location": "北京/上海/深圳",
   "education": "硕士",
   "experience": "1年以上",
   "experience_min": 1,
@@ -10,6 +10,7 @@
   "job_sub_category": "大模型推理优化",
   "job_level": "中级",
   "company_name": "百度",
+  "workmode": "现场",
   "responsibilities": [
     "参与文心大模型推理框架（Paddle Inference）研发与优化",
     "负责模型量化、蒸馏、剪枝、投机解码等推理加速技术落地",
@@ -54,54 +55,61 @@
       "skill_type": "hard"
     },
     {
-      "name": "Paddle Inference",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "hard",
-      "parent": "PaddlePaddle"
-    },
-    {
       "name": "深度学习",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "深度学习",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "大模型架构",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "深度学习",
       "skill_type": "domain"
     },
     {
       "name": "推理流程",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "机器学习",
+      "category": "深度学习",
       "skill_type": "domain"
     },
     {
-      "name": "模型量化",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "name": "模型优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
       "skill_type": "hard"
     },
     {
-      "name": "知识蒸馏",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
+      "name": "模型量化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "模型优化"
+    },
+    {
+      "name": "模型蒸馏",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "模型优化"
     },
     {
       "name": "模型剪枝",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "模型优化"
     },
     {
       "name": "性能调优",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
@@ -120,36 +128,25 @@
       "skill_type": "hard"
     },
     {
-      "name": "GPU性能分析工具",
+      "name": "NVIDIA Nsight Systems",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "tool"
-    },
-    {
-      "name": "nsys",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "tool",
-      "parent": "GPU性能分析工具"
+      "category": "其他",
+      "skill_type": "hard"
     },
     {
       "name": "nvprof",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "测试工具",
-      "skill_type": "tool",
-      "parent": "GPU性能分析工具"
-    }
-  ],
-  "preferred_skills": [
+      "category": "其他",
+      "skill_type": "hard"
+    },
     {
-      "name": "分布式推理",
+      "name": "大模型分布式推理",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
-      "skill_type": "hard"
+      "category": "深度学习",
+      "skill_type": "domain"
     },
     {
       "name": "服务化部署",
@@ -159,7 +156,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "API网关",
+      "name": "API网关设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "API与协议",
@@ -169,21 +166,21 @@
       "name": "向量检索",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
+      "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "RAG",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
-      "skill_type": "domain"
+      "category": "深度学习",
+      "skill_type": "hard"
     },
     {
       "name": "多模态融合",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "机器学习",
+      "category": "深度学习",
       "skill_type": "domain"
     },
     {
@@ -198,68 +195,43 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "容器与编排",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "云原生"
     },
     {
       "name": "容器化部署",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "容器与编排",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "云原生"
     },
     {
       "name": "弹性扩缩容",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "容器与编排",
-      "skill_type": "hard"
-    },
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "云原生"
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "大模型推理优化",
       "proficiency": "不限",
-      "category": "机器学习",
+      "category": "深度学习",
       "skill_type": "domain"
     },
     {
       "name": "高性能计算",
       "proficiency": "不限",
       "category": "其他",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
       "name": "AI芯片适配",
       "proficiency": "不限",
       "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "NeurIPS",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ICML",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "ACL",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "开源项目贡献",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "全流程项目经验",
-      "proficiency": "不限",
-      "category": "项目管理",
       "skill_type": "hard"
     }
   ],

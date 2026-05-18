@@ -64,7 +64,7 @@
       "name": "Hive",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "大数据",
+      "category": "数据库",
       "skill_type": "hard"
     },
     {
@@ -83,19 +83,22 @@
     },
     {
       "name": "数据建模",
-      "proficiency": "不限",
-      "category": "数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "ETL",
-      "proficiency": "不限",
+      "name": "ETL开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "数据质量监控",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据处理",
       "skill_type": "hard"
     },
@@ -108,21 +111,17 @@
     },
     {
       "name": "Git",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "版本控制",
-      "skill_type": "hard"
+      "skill_type": "tool"
     },
     {
       "name": "Maven",
-      "proficiency": "掌握",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
+      "skill_type": "tool"
     }
   ],
   "preferred_skills": [
@@ -141,31 +140,24 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据可视化",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
       "name": "Tableau",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "tool",
+      "category": "其他",
       "skill_type": "tool"
     },
     {
       "name": "FineBI",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "tool",
+      "category": "其他",
       "skill_type": "tool"
     },
     {
       "name": "云原生大数据",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "大数据",
+      "category": "云平台",
       "skill_type": "hard"
     },
     {
@@ -176,7 +168,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "数据服务化建设",
+      "name": "数据服务化",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
@@ -201,46 +193,38 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "安全",
-      "skill_type": "domain"
+      "skill_type": "hard"
     },
     {
-      "name": "广告",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "电商",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "直播",
-      "proficiency": "不限",
+      "name": "商业化数据仓库建设",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "数据治理",
-      "proficiency": "不限",
-      "category": "数据处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
       "name": "数据质量体系",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "数据处理",
       "skill_type": "hard"
     },
     {
       "name": "数据服务平台",
-      "proficiency": "不限",
-      "category": "大数据",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "机器学习",
+      "name": "机器学习基础",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "机器学习",
@@ -248,13 +232,15 @@
     },
     {
       "name": "特征工程",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "机器学习",
       "skill_type": "hard"
     },
     {
       "name": "数据预处理",
-      "proficiency": "不限",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "数据处理",
       "skill_type": "hard"
     }

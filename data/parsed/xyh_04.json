@@ -12,115 +12,90 @@
   "publish_date": "2026-03-17",
   "job_category": "技术-测试-测试",
   "job_sub_category": "自动化测试",
-  "job_level": "中级",
+  "job_level": "高级",
   "responsibilities": [
-    "负责智能邮件事业部跨境和外贸产品的Web端、桌面端、服务端质量保障工作，包括功能、接口、性能、稳定性等方面的测试",
-    "独立承担项目测试，参与软件全生命周期管理，包括需求评审、测试计划制定、测试策略与用例设计、风险评估、缺陷跟踪定位及线上运维发布",
-    "对产品、技术方案选型及代码评审提出改进意见",
-    "负责业务自动化测试建设，研究并引入有效测试技术以提高测试效率",
-    "与开发协作推进代码质量建设，不断提升产品质量"
+    "负责智能邮件事业部跨境和外贸产品的web端、桌面端、服务端的质量保障工作，包括功能、接口、性能、稳定性等方面的测试",
+    "独立承担项目测试，参与软件全生命周期管理，包括产品需求评审，制定测试计划、策略和设计用例，过程评估风险，缺陷跟踪定位及线上运维发布",
+    "有产品思维，能够对产品、技术方案选型及代码评审提出改进意见",
+    "负责业务自动化测试建设，研究行业中技术并挖掘有效的测试技术，来提高业务测试效率",
+    "与开发一起推进代码质量建设，不断提高产品质量"
   ],
   "required_skills": [
     {
-      "name": "软件测试",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "其他",
-      "skill_type": "hard"
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "功能测试",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "软件测试"
+      "name": "团队合作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "接口测试",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard",
-      "parent": "软件测试"
+      "name": "抗压能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
-      "name": "性能测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
-    },
-    {
-      "name": "稳定性测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
-    },
-    {
-      "name": "自动化测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
+      "name": "问题分析与解决",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
     },
     {
       "name": "测试方法论",
       "proficiency": "精通",
       "proficiency_rank": 4,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "软件测试"
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "质量体系",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
     },
     {
       "name": "风险把控",
-      "proficiency": "不限",
-      "category": "项目管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "测试计划制定",
-      "proficiency": "不限",
-      "category": "项目管理",
+      "name": "服务端测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
       "skill_type": "hard"
-    },
-    {
-      "name": "测试用例设计",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
-    },
-    {
-      "name": "缺陷跟踪定位",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
-    },
-    {
-      "name": "代码评审",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "单元测试",
-      "proficiency": "不限",
-      "category": "测试工具",
-      "skill_type": "hard",
-      "parent": "软件测试"
     },
     {
       "name": "后端框架",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码评审",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -141,7 +116,7 @@
       "name": "HTTP",
       "proficiency": "熟练",
       "proficiency_rank": 3,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
@@ -153,113 +128,52 @@
     },
     {
       "name": "Python",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
-      "name": "C",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
-      "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "C++",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
+      "name": "C/C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Java",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
     },
     {
       "name": "Shell",
-      "proficiency": "精通",
-      "proficiency_rank": 4,
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "编程语言",
       "skill_type": "hard"
-    },
-    {
-      "name": "程序设计基础",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "团队合作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "抗压能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "分析问题能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "独立解决问题能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "产品思维",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
-      "name": "跨境电商",
-      "proficiency": "不限",
+      "name": "跨境电商测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "支付测试",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain",
-      "parent": "软件测试"
-    },
-    {
-      "name": "AI Agent",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "智能体",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI Agent"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
-      "name": "大模型应用",
-      "proficiency": "不限",
+      "name": "AI Agent测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "AI工具",
       "skill_type": "hard"
     },
@@ -268,21 +182,20 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI Agent"
+      "skill_type": "domain"
     },
     {
-      "name": "智能体执行流程",
+      "name": "大模型应用测试",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "AI工具",
-      "skill_type": "hard",
-      "parent": "AI Agent"
+      "skill_type": "hard"
     },
     {
       "name": "模型输出评估",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
       "skill_type": "hard"
     }
   ],

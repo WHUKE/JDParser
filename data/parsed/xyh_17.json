@@ -10,6 +10,7 @@
   "publish_date": "2026-03-06",
   "job_category": "技术-技术综合-技术综合",
   "job_sub_category": "图形渲染",
+  "job_level": "中级",
   "responsibilities": [
     "负责安卓模拟器的图形引擎开发，包括设计和开发图形相关应用程序",
     "优化图形框架，提升模拟器的渲染性能和稳定性",
@@ -20,30 +21,17 @@
   ],
   "required_skills": [
     {
-      "name": "计算机科学基础",
-      "proficiency": "扎实",
-      "category": "通用技能",
-      "skill_type": "hard"
-    },
-    {
       "name": "数据结构",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "算法",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "C",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "编程语言",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -55,14 +43,9 @@
     },
     {
       "name": "软件设计",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "编程习惯",
-      "proficiency": "良好",
-      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -70,38 +53,33 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "其他",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "图形 API",
+      "name": "图形API",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "API与协议",
       "skill_type": "hard"
     },
     {
-      "name": "抓帧分析工具",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
+      "name": "帧分析工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "测试工具",
       "skill_type": "tool"
     },
     {
-      "name": "帧分析",
-      "proficiency": "熟练",
-      "proficiency_rank": 3,
-      "category": "测试工具",
-      "skill_type": "hard"
-    },
-    {
       "name": "沟通能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
       "name": "团队协作能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
@@ -112,21 +90,23 @@
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "API与协议",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "图形API"
     },
     {
       "name": "Metal",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "API与协议",
-      "skill_type": "hard"
+      "skill_type": "hard",
+      "parent": "图形API"
     },
     {
-      "name": "Android 图形子系统",
+      "name": "安卓图形子系统",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "操作系统",
-      "skill_type": "hard"
+      "category": "其他",
+      "skill_type": "domain"
     },
     {
       "name": "Unity",
@@ -136,19 +116,27 @@
       "skill_type": "hard"
     },
     {
-      "name": "渲染管线",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "Unity"
-    },
-    {
       "name": "Unreal Engine 4",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "游戏引擎",
       "skill_type": "hard"
+    },
+    {
+      "name": "Unity渲染管线",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unity"
+    },
+    {
+      "name": "UE4渲染管线",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 4"
     }
   ],
   "raw_requirements": [

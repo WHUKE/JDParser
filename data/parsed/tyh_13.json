@@ -5,16 +5,15 @@
   "education": "硕士",
   "experience": "GPU编程（CUDA/Triton/AscendC/TileLang开发）、模型量化/稀疏化/蒸馏、基于vLLM的框架研发，并行计算的通算结合（多卡/多机推理优化）；",
   "job_category": "AI/机器学习",
-  "job_sub_category": "大模型推理优化",
+  "job_sub_category": "高性能推理",
   "job_level": "初级",
   "company_name": "字节跳动",
-  "workmode": "现场",
   "responsibilities": [
-    "负责构建新一代大模型推理引擎，优化多模态语音理解、语音生成等多模态生成大模型在GPU集群上的推理性能，实现低延迟、高吞吐的工业级部署",
-    "主导模型推理性能优化，涵盖CUDA、Triton算子开发、vLLM、SGLang框架升级、分布式推理策略优化、量化、稀疏化等模型效率加速优化",
-    "研发GPU推理加速技术栈，设计最佳分布式通算结合方案、PCIe通信与高并发推理架构",
-    "构建基于C++和Python研发的高性能推理系统",
-    "与上下游部门深度合作，分析性能瓶颈，通过软硬结合提升模型训推效率，优化和部署语音大模型，支持AI工具链和技术生态建设",
+    "负责构建新一代大模型推理引擎，优化多模态语音理解/语音生成等多模态生成大模型在GPU集群上的推理性能，实现低延迟、高吞吐的工业级部署",
+    "主导模型推理性能优化，涵盖CUDA/Triton算子开发、vLLM/SGLang框架升级、分布式推理策略优化、量化/稀疏化等模型Efficiency加速优化等",
+    "研发GPU推理加速技术栈，考虑最佳分布式通算结合方案，PCIe通信与高并发推理架构",
+    "负责高性能方案前瞻性建设，构建基于C++/Python研发的高性能推理系统",
+    "与上下游部门深度合作，分析性能瓶颈，通过软硬结合提升模型训推效率，优化和部署语音大模型，支持AI工具链和技术生态建设，推动字节跳动AI关键业务发展",
     "负责语音多模态场景下高性能推理系统的开发，支撑各业务场景下的性能优化需求并推动业务落地"
   ],
   "required_skills": [
@@ -33,199 +32,88 @@
       "skill_type": "hard"
     },
     {
-      "name": "GPU编程",
+      "name": "高性能代码开发",
       "proficiency": "不限",
-      "category": "其他",
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
       "name": "CUDA",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "Triton",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "AscendC",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "TileLang",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
     },
     {
       "name": "模型量化",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
       "skill_type": "hard"
     },
     {
-      "name": "模型稀疏化",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "name": "稀疏化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
       "skill_type": "hard"
     },
     {
-      "name": "知识蒸馏",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "name": "蒸馏",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
       "skill_type": "hard"
     },
     {
       "name": "vLLM",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
-      "name": "并行计算",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "多卡推理优化",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard",
-      "parent": "并行计算"
-    },
-    {
-      "name": "多机推理优化",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard",
-      "parent": "并行计算"
-    },
-    {
-      "name": "高性能代码开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "高性能推理系统",
-      "proficiency": "不限",
+      "name": "多卡多机推理优化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "架构模式",
       "skill_type": "hard"
-    },
-    {
-      "name": "GPU集群",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "分布式推理",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "PCIe",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "高并发架构",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "性能分析",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "多模态",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "语音",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "语音生成",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "语音理解",
-      "proficiency": "不限",
-      "category": "深度学习",
-      "skill_type": "domain"
-    },
-    {
-      "name": "大模型推理引擎",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "沟通协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
     }
   ],
   "preferred_skills": [
     {
       "name": "大规模推理系统",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "vLLM",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
       "skill_type": "hard"
     },
     {
       "name": "SGLang",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "TileLang",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
-    },
-    {
-      "name": "Triton",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "GPU编程"
-    },
-    {
-      "name": "GPU编程",
-      "proficiency": "不限",
-      "category": "其他",
       "skill_type": "hard"
     },
     {
@@ -234,24 +122,6 @@
       "proficiency_rank": 1,
       "category": "深度学习",
       "skill_type": "hard"
-    },
-    {
-      "name": "模型量化",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "模型稀疏化",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "hard"
-    },
-    {
-      "name": "论文发表",
-      "proficiency": "不限",
-      "category": "通用技能",
-      "skill_type": "soft"
     }
   ],
   "raw_requirements": [

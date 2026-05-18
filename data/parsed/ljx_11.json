@@ -1,14 +1,13 @@
 {
   "source_file": "ljx_11.txt",
   "job_title": "后端开发工程师",
-  "location": "北京、上海、杭州、成都",
+  "location": "北京,上海,杭州,成都",
   "education": "本科",
   "experience": "不限",
   "employment_type": "全职",
   "job_category": "后端开发",
-  "job_sub_category": "高并发、分布式系统",
+  "job_sub_category": "高并发系统",
   "company_name": "滴滴出行",
-  "workmode": "现场",
   "responsibilities": [
     "负责滴滴核心出行平台（快车、专车、顺风车等）后端系统设计与开发",
     "参与高并发交易链路架构设计，保障系统在高并发场景下的稳定性和可用性",
@@ -61,25 +60,29 @@
     },
     {
       "name": "数据结构",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "算法",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "其他",
       "skill_type": "hard"
     },
     {
       "name": "操作系统",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "计算机网络",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "网络",
       "skill_type": "hard"
     },
@@ -91,24 +94,27 @@
       "skill_type": "hard"
     },
     {
-      "name": "Shell",
-      "proficiency": "不限",
-      "category": "编程语言",
+      "name": "Shell脚本",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
       "skill_type": "hard"
-    },
+    }
+  ],
+  "preferred_skills": [
     {
       "name": "分布式系统设计",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "高并发系统架构",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "Docker",
@@ -129,63 +135,48 @@
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "大数据",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
       "name": "流批一体架构",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "大数据",
-      "skill_type": "hard"
+      "skill_type": "domain"
     },
     {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
-    {
-      "name": "出行",
-      "proficiency": "不限",
+      "name": "出行平台后端开发经验",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "本地生活",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "电商",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "domain"
-    },
-    {
-      "name": "交易系统",
-      "proficiency": "不限",
+      "name": "核心交易系统开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "地图导航",
-      "proficiency": "不限",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
-      "name": "LBS",
-      "proficiency": "不限",
+      "name": "LBS服务",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
       "category": "其他",
       "skill_type": "domain"
     },
     {
       "name": "出行算法",
-      "proficiency": "不限",
-      "category": "机器学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
       "skill_type": "domain"
     }
   ],

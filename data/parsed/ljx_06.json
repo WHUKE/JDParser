@@ -3,12 +3,10 @@
   "job_title": "前端开发工程师",
   "location": "北京、上海",
   "education": "本科",
-  "experience": "不限",
   "employment_type": "全职",
   "job_category": "前端开发",
-  "job_sub_category": "前端工程化",
+  "job_level": "中级",
   "company_name": "京东",
-  "workmode": "现场",
   "responsibilities": [
     "负责京东零售平台前端业务功能开发与重构，保证代码可维护性、可扩展性",
     "参与前端架构设计，推进模块化、可复用组件库建设",
@@ -54,25 +52,27 @@
     },
     {
       "name": "Webpack",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
       "skill_type": "hard"
     },
     {
       "name": "Vite",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "构建工具",
       "skill_type": "hard"
     },
     {
-      "name": "HTTP",
+      "name": "HTTP协议",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
-      "category": "API与协议",
+      "category": "网络",
       "skill_type": "hard"
     },
     {
-      "name": "浏览器缓存机制",
+      "name": "浏览器缓存",
       "proficiency": "熟悉",
       "proficiency_rank": 2,
       "category": "网络",
@@ -85,80 +85,6 @@
       "category": "网络",
       "skill_type": "hard"
     },
-    {
-      "name": "前端架构设计",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "模块化",
-      "proficiency": "不限",
-      "category": "架构模式",
-      "skill_type": "hard"
-    },
-    {
-      "name": "组件库建设",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前端性能优化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "浏览器兼容性处理",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "渲染优化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "接口对接",
-      "proficiency": "不限",
-      "category": "API与协议",
-      "skill_type": "hard"
-    },
-    {
-      "name": "前端工程化",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "部署",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "监控系统",
-      "proficiency": "不限",
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "团队协作",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    },
-    {
-      "name": "沟通能力",
-      "proficiency": "不限",
-      "category": "软技能",
-      "skill_type": "soft"
-    }
-  ],
-  "preferred_skills": [
     {
       "name": "TypeScript",
       "proficiency": "了解",
@@ -174,72 +100,64 @@
       "skill_type": "hard"
     },
     {
-      "name": "前端安全",
+      "name": "XSS防护",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "安全",
       "skill_type": "hard"
     },
     {
-      "name": "XSS",
+      "name": "CSRF防护",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "安全",
-      "skill_type": "hard",
-      "parent": "前端安全"
-    },
-    {
-      "name": "CSRF",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "安全",
-      "skill_type": "hard",
-      "parent": "前端安全"
+      "skill_type": "hard"
     },
     {
       "name": "性能监控",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "DevOps工具",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据可视化",
-      "proficiency": "了解",
-      "proficiency_rank": 1,
-      "category": "数据处理",
+      "category": "测试工具",
       "skill_type": "hard"
     },
     {
       "name": "ECharts",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "数据可视化"
+      "category": "前端框架",
+      "skill_type": "hard"
     },
     {
       "name": "D3.js",
       "proficiency": "了解",
       "proficiency_rank": 1,
-      "category": "其他",
-      "skill_type": "hard",
-      "parent": "数据可视化"
-    },
+      "category": "前端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
     {
-      "name": "电商平台",
+      "name": "大型电商平台开发经验",
       "proficiency": "不限",
       "category": "其他",
       "skill_type": "domain"
     },
     {
+      "name": "前端工程化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
       "name": "自动化测试",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "测试工具",
       "skill_type": "hard"
     },
     {
-      "name": "审美",
+      "name": "审美能力",
       "proficiency": "不限",
       "category": "软技能",
       "skill_type": "soft"

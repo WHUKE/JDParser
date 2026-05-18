@@ -5,51 +5,49 @@
   "education": "本科",
   "experience": "不限",
   "employment_type": "实习",
-  "job_category": "大数据",
+  "job_category": "大数据开发",
   "job_sub_category": "分布式计算",
   "job_level": "初级",
   "company_name": "字节跳动",
-  "workmode": "现场",
   "responsibilities": [
-    "负责海量数据处理，在分布式计算、存储平台基础上建立高效稳定的数据链路，打造平台化工具和数据产品",
-    "与业务团队深度合作，应用数据开发、分析、挖掘等技术，为业务线提供数据解决方案，挖掘数据价值并提升数据使用效率",
+    "负责字节跳动海量数据的处理，在分布式计算、存储平台基础上建立高效、稳定的数据链路，打造平台化工具和数据产品",
+    "与业务团队深度合作，应用数据开发、分析、挖掘等技术，为包括抖音、今日头条在内的所有字节跳动业务提供数据解决方案，挖掘数据价值，提升数据使用效率",
     "深入底层系统与引擎，解决大规模生产环境集群可用性和性能优化问题"
   ],
   "required_skills": [
     {
       "name": "操作系统",
-      "proficiency": "扎实",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "操作系统",
       "skill_type": "hard"
     },
     {
       "name": "数据库",
-      "proficiency": "扎实",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "数据库",
       "skill_type": "hard"
     },
     {
-      "name": "算法",
-      "proficiency": "扎实",
-      "category": "其他",
+      "name": "算法与数据结构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
-      "name": "数据结构",
-      "proficiency": "扎实",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "计算机网络",
-      "proficiency": "扎实",
+      "name": "网络",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "网络",
       "skill_type": "hard"
     },
     {
       "name": "概率统计",
-      "proficiency": "扎实",
-      "category": "数据处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
       "skill_type": "hard"
     },
     {
@@ -109,7 +107,7 @@
       "skill_type": "hard"
     },
     {
-      "name": "分布式系统架构设计",
+      "name": "分布式系统",
       "proficiency": "了解",
       "proficiency_rank": 1,
       "category": "架构模式",
@@ -118,33 +116,17 @@
   ],
   "preferred_skills": [
     {
-      "name": "数据开发",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据挖掘",
-      "proficiency": "不限",
-      "category": "机器学习",
-      "skill_type": "domain"
-    },
-    {
       "name": "分布式系统",
-      "proficiency": "不限",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
       "category": "架构模式",
       "skill_type": "hard"
     },
     {
-      "name": "开源项目",
-      "proficiency": "不限",
-      "category": "其他",
+      "name": "数据挖掘",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
       "skill_type": "domain"
     }
   ],

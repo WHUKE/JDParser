@@ -11,13 +11,12 @@
   "headcount": 1,
   "publish_date": "2026-03-18",
   "job_category": "技术-服务端开发-服务端开发",
-  "job_sub_category": "数据处理",
   "job_level": "中级",
-  "company_name": "有道",
+  "company_name": "网易有道",
   "responsibilities": [
     "负责多个后端服务系统的设计、开发与维护，处理复杂业务逻辑和系统间交互",
-    "开发和优化离线/实时数据处理任务，支撑业务报表和数据分析需求",
-    "探索AI技术在业务场景中的应用，参与AI Agent、智能化工具的开发",
+    "开发和优化离线/实时数据处理任务（Spark/Flink），支撑业务报表和数据分析需求",
+    "探索 AI 技术在业务场景中的应用，参与 AI Agent、智能化工具的开发",
     "与财务、大数据、产品等团队协作，理解业务需求并转化为技术方案"
   ],
   "required_skills": [
@@ -26,13 +25,6 @@
       "proficiency": "精通",
       "proficiency_rank": 4,
       "category": "编程语言",
-      "skill_type": "hard"
-    },
-    {
-      "name": "Spring",
-      "proficiency": "熟悉",
-      "proficiency_rank": 2,
-      "category": "后端框架",
       "skill_type": "hard"
     },
     {
@@ -52,9 +44,9 @@
       "parent": "Spring"
     },
     {
-      "name": "面向对象设计",
+      "name": "Spring",
       "proficiency": "不限",
-      "category": "架构模式",
+      "category": "后端框架",
       "skill_type": "hard"
     },
     {
@@ -93,44 +85,23 @@
       "skill_type": "hard"
     },
     {
-      "name": "服务端开发",
-      "proficiency": "不限",
-      "category": "其他",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据处理",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "hard"
-    },
-    {
-      "name": "数据分析",
-      "proficiency": "不限",
-      "category": "数据处理",
-      "skill_type": "domain"
-    },
-    {
-      "name": "AI Agent",
-      "proficiency": "不限",
-      "category": "AI工具",
-      "skill_type": "hard"
-    },
-    {
       "name": "沟通能力",
-      "proficiency": "良好",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "团队合作",
-      "proficiency": "良好",
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     },
     {
-      "name": "分析和解决问题的能力",
-      "proficiency": "良好",
+      "name": "分析与解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
       "category": "软技能",
       "skill_type": "soft"
     }
