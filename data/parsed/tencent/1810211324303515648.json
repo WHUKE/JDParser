@@ -1,0 +1,225 @@
+{
+  "source_file": "1810211324303515648.txt",
+  "job_title": "应用网关高级开发工程师",
+  "location": "深圳",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "网关",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责腾讯应用层流量接入网关以及前沿AI网关的软件设计与研发",
+    "负责协议栈的研发与优化，保障用户快速和安全可靠的传输体验",
+    "负责网关的高可用能力持续建设，持续打磨稳定性、快速响应并解决线上问题",
+    "负责前沿AI网关技术预研及设计研发，包括多模型统一接入、协议适配、请求路由及负载均衡等能力；建设针对多种LLM模型接入治理、token限流、缓存等核心能力"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程功底",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流量网关原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI网关原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Nginx",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Envoy",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kong",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LiteLLM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTPS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "QUIC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI传输协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI Agent原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI编程工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "二次开发经验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MCP协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent SKILL开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型研究经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "热爱技术",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "勇于探索",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "追根究底",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "追求极致",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉Linux操作系统，熟悉C/C++/Go/Python等(至少一种语言）有扎实的编程功底和良好的代码规范，加分项：熟练使用AI编程工具",
+    "熟悉流量网关或AI网关原理，熟悉Nginx/Envoy/Kong/LiteLLM 等至少一种开源软件具备实际二次开发经验者优先",
+    "熟悉 TCP/HTTP/HTTPS/QUIC/AI传输协议中的一种或多种，加分项：熟悉 MCP 协议，熟悉AI Agent SKILL开发应用者优先",
+    "熟悉大模型原理、AI Agent原理、有模型相关研究经验者，热爱技术，勇于探索，追根究底，追求极致者优先。"
+  ]
+}

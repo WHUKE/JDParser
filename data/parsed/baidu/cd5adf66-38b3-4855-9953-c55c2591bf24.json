@@ -1,0 +1,132 @@
+{
+  "source_file": "cd5adf66-38b3-4855-9953-c55c2591bf24.txt",
+  "job_title": "文件存储开发工程师（J99496）",
+  "location": "北京市",
+  "experience": "2-5年",
+  "experience_min": 2,
+  "experience_max": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "分布式存储",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度自研分布式文件存储，表格存储的研发和运维工作",
+    "负责百度集团文件存储的研发和运维工作",
+    "负责百度文件存储相关的公有云产品研发",
+    "负责百度文件存储相关的私有化产品研发"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "奋斗拼搏精神",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式集群",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HDFS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HBase",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NAS文件存储",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Lustre",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ceph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPFS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "有2-5年工作经验，有较好的C/C++编码能力",
+    "有分布式集群，HDFS，HBASE，NAS文件存储、并行文件系统，如lustre、ceph、gpfs等相关系统研发、运维经验者优先",
+    "有较强的学习能力，有优秀的分析问题和解决问题能力，有很好的奋斗拼搏精神，有良好的沟通能力、团队合作精神"
+  ]
+}

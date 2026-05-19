@@ -1,0 +1,156 @@
+{
+  "source_file": "3132074654.txt",
+  "job_title": "大模型应用算法工程师",
+  "location": "北京市、上海市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大语言模型",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责大模型在金融场景中的交互式对话应用，例如AI电销，提升场景的自动化与智能化水平，提升业务效率",
+    "负责大型语言模型的微调、偏好对齐、知识增强等技术探索，积极跟进AIGC业内应用趋势，包括但不限于RLHF、RAG、Agent等方向",
+    "与业务、产品团队合作，基于业务需求设计产品、解决方案，并推动其高效实施"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "预训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型微调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源项目经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新精神",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器学习竞赛获奖",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "other"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、人工智能、自然语言处理或相关专业",
+    "熟练掌握至少一种深度学习框架，如PyTorch、TensorFlow等，熟悉Python/Java编程语言，具有良好的编码习惯和工程能力",
+    "具备良好的沟通协作能力，能够在团队中积极主动地分享知识和经验",
+    "善于分析和发现问题，具备较强的自驱力，有强烈的学习意愿和创新精神，对大模型技术有浓厚的兴趣和热情。",
+    "完整的创新产品或开源项目的成功经验",
+    "有过生成式模型训练及开发经验，如大模型数据处理、预训练、模型微调、强化学习、AI Agent",
+    "在国际或国内权威机器学习赛事或评测中取得优秀名次者优先。"
+  ]
+}

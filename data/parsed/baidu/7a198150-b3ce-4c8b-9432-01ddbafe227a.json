@@ -1,0 +1,164 @@
+{
+  "source_file": "7a198150-b3ce-4c8b-9432-01ddbafe227a.txt",
+  "job_title": "数据智能应用高级全栈研发工程师（J99238）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责数据平台中类似Palantir的 Agent、Workshop（低/无代码应用构建） 及 AIP Analyst（生成式分析） 等核心功能模块的调研设计与实现",
+    "深入理解 Ontology（数据本体层） 的架构设计，实现物理数据到业务语义对象的映射，支撑复杂的多维分析场景",
+    "探索并实现大模型新技术（如 CoT、ReAct 框架、Skill等）在数据集成、处理、分析、反馈链路中的应用，构建AI原生的数据平台",
+    "负责高性能 Typescript/Python/Java 服务端开发与复杂 React 前端交互逻辑，处理大规模工业/供应链数据的实时可视化与逻辑编排",
+    "与业务专家紧密配合，将复杂的业务逻辑（如供应链风险分析、质量根因定位等）沉淀为标准的平台化业务应用"
+  ],
+  "required_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vibe coding",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM应用开发框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Tool-call",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发框架"
+    },
+    {
+      "name": "参数提取",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发框架"
+    },
+    {
+      "name": "Prompt工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发框架"
+    },
+    {
+      "name": "Context工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发框架"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "集成测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "严谨细致",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "全栈研发",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "精通 TypeScript/Python/GO 等前后端语言，具备全栈研发的经验者优先",
+    "精通 Vibe coding，熟悉 LLM 应用开发框架，有处理多步 Tool-call、参数提取及复杂 Prompt 以及 Context 工程的实战经验",
+    "熟悉 Linux 环境与 Docker 容器化部署，具备严谨的代码质量意识与单元测试/集成测试习惯",
+    "良好的沟通能力和团队协作精神，抗压，有严谨的工作态度与强烈的进取心"
+  ]
+}

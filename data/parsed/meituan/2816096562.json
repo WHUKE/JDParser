@@ -1,0 +1,200 @@
+{
+  "source_file": "2816096562.txt",
+  "job_title": "财务科技-Java开发工程师（费控方向）",
+  "location": "成都市",
+  "education": "不限",
+  "experience": "相称的广度和（或）深度",
+  "job_category": "技术类",
+  "job_sub_category": "费控",
+  "job_level": "中级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "参与境内外费控后端系统建设和运维，保障交付质量，提升系统可靠性",
+    "重点、难点技术预研与攻关，持续探索更灵活高效的平台化方案，提升平台易用性和研发效率",
+    "参与组织建设，沉淀和分享业务、技术知识，优化流程规范"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NoSQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP协议",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "搜索引擎",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC框架",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "toB系统工作经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "差旅报销经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "预算管控经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "对公支付经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "源码阅读",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业，扎实的计算机专业基本功，强大的写码能力，3年以上开发经验",
+    "熟悉Java及面向对象设计开发，熟悉常见设计模式，对部分Java技术有深入研究，研究过优秀开源软件的源码并有心得者优先",
+    "熟悉MySQL，熟悉数据库相关原理及常用性能优化技术，熟悉NoSQL的原理、使用场景及限制",
+    "掌握HTTP协议、搜索引擎、MQ、JVM调优、序列化、RPC调用框架等，并有相关实践经验",
+    "参与过大型复杂分布式系统设计开发，对大规模数据处理有实际经验，拥有和工作年限相称的广度和（或）深度",
+    "具有较好的沟通能力，思路清晰、善于思考，能独立分析和解决问题，具备良好的团队合作精神",
+    "有良好的自驱力和学习能力，对解决具有挑战性问题充满激情。",
+    "有大中型互联网公司toB系统工作经验。",
+    "有差旅报销、预算管控、对公支付经验"
+  ]
+}

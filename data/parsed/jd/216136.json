@@ -1,0 +1,181 @@
+{
+  "source_file": "216136.txt",
+  "job_title": "嵌入式开发工程师C/C++",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "研发类",
+  "job_sub_category": "中间件、通信协议栈",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责嵌入式Linux系统下核心应用程序与中间件的设计开发，包括通信协议栈、数据处理引擎、设备管理组件等模块，适配ARM架构",
+    "负责中间件的模块化设计与性能优化，打造高可靠、易扩展的中间件体系",
+    "负责应用与中间件的问题排查、性能调优，输出标准化技术文档与复用组件库",
+    "配合跨团队完成需求评审、软硬件联调及项目交付，推动开发流程高效落地"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "嵌入式Linux系统编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "进程间通信",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "中间件设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "通信协议栈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据处理引擎",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核驱动模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BSP开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "外设驱动调试",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "交叉编译工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Makefile",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CMake",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GDB",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Strace",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "嵌入式Linux系统构建流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "文档撰写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能终端开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "物联网开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工业控制开发",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "2年以上嵌入式Linux应用与中间件开发经验，精通C/C++编程语言，有智能终端、物联网、工业控制产品开发背景优先。",
+    "深入掌握嵌入式Linux系统编程、网络编程、进程间通信等核心技能，能独立完成复杂应用与中间件的开发、调试。",
+    "具备中间件设计能力，掌握高内聚低耦合设计原则，有通信协议栈、数据处理类中间件开发/优化经验者优先。",
+    "了解Linux内核驱动模型，具备一定的BSP开发及常用外设驱动调试能力，能完成底层与上层的对接适配。",
+    "熟练使用交叉编译工具、Makefile/CMake、GDB/Strace等调试工具，熟悉嵌入式Linux系统构建流程。",
+    "本科及以上学历，电子信息、计算机、软件工程等相关专业，具备良好的文档撰写与跨团队协作能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

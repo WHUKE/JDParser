@@ -1,0 +1,61 @@
+{
+  "source_file": "4069630839.txt",
+  "job_title": "无人车业务部-高精地图生产与发布系统后端研发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "空间数据处理",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责高精地图云端重要系统（如web高精制图工具）的架构设计与后端开发",
+    "负责高精地图空间数据存储管理与对外服务",
+    "负责高精地图的大数据量云端编译与增量构建，支持高精地图的快速发布和车端使用/更新"
+  ],
+  "required_skills": [],
+  "preferred_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "空间数据处理",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历",
+    "3年及以上后端开发经验。",
+    "精通Java者优先",
+    "有大规模分布式、高并发系统设计与优化经验者优先",
+    "有空间数据处理或自动驾驶领域开发经验者优先。"
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "source_file": "4186970495.txt",
+  "job_title": "无人车业务部-车载系统软件开发",
+  "location": "北京市,深圳市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶系统",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "参与并推动无人车自动驾驶域和网联域系统软件的迭代开发",
+    "负责车端和云端OTA架构设计、功能开发，完善系统规范、建设流程，并推动落地",
+    "跟踪行业技术趋势，持续在系统精度、实时性、鲁棒性及可靠性等维度推动业务能力提升",
+    "构建多维度系统性能监测与评测体系，开发相应工具与平台，持续监控并提升自动驾驶系统及核心业务的性能指标",
+    "基于业务发展需求，持续优化整体性能和可靠性等，推动系统研发迭代，支撑大规模车队稳定落地与高效运营"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "Linux"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SSL/TLS",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "gRPC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "WebSocket",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式消息总线",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统平台研发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云服务设计与运维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统扩展性设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流量治理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "发布策略",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统稳定性",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统分析能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抽象思维能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术业务综合能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动性",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主人翁意识",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "车载OTA系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大规模网络基础架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型自动化工具搭建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "大学本科及以上学历，计算机相关专业。",
+    "具备扎实的Linux操作系统功底与出色的C/C++/Go软件工程及架构设计能力。",
+    "熟悉Linux网络编程，深入理解SSL/TLS、HTTP、gRPC、WebSocket等协议。",
+    "对分布式消息总线有深入理解和实践经验，具备扎实的系统平台软件研发能力。",
+    "拥有大型项目主导或深度参与经验，至少成功推动过一个系统完成上线并进入大规模稳定运营阶段。",
+    "具备大规模分布式网络或云端服务的设计与运维能力，能规划系统扩展、流量治理与发布策略，保障海量车辆并发下的稳定性。",
+    "具备优秀的系统分析、抽象与逻辑思维能力，能快速拆解复杂问题并提出合理解决方案。",
+    "拥有技术与业务的综合视角，能从多维度全面思考和处理问题。",
+    "学习能力强，能持续更新技术栈；工作积极主动，有强烈的责任心和owner意识；良好的团队协作能力。",
+    "具备OTA车载量产项目经验者优先。",
+    "拥有大规模网络基础架构开发经验，对高性能网络架构与网络性能优化有深刻理解和丰富工程经验者优先。",
+    "拥有结合公司大模型基础设施搭建自动化工具经验者优先。"
+  ]
+}

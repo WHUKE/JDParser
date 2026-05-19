@@ -1,0 +1,128 @@
+{
+  "source_file": "216221.txt",
+  "job_title": "安全运营工程师-国际账号安全",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "研发类",
+  "job_sub_category": "账号安全",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责京东集团账号安全风险治理及运营体系建设，包括风险识别、防控策略制定及安全能力优化，提升整体防护水平",
+    "建立账号安全监控与应急响应机制，主导安全事件排查、分析及处置，降低黑灰产攻击影响",
+    "研究黑灰产攻击手法，推动技术对抗策略落地，保障业务安全"
+  ],
+  "required_skills": [
+    {
+      "name": "账号安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "安全运营",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "英语",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "安全监控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "日志分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "应急响应",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "事件处置",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "黑灰产攻击模式",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "黑灰产对抗",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "账号安全/反欺诈经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "攻防渗透",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，2年以上信息安全相关经验，熟悉账号安全、风控或安全运营。",
+    "英语水平可满足日常工作沟通",
+    "具备账号安全风险防控经验，能独立设计解决方案并推动落地。",
+    "熟悉安全监控、日志分析及应急响应，具备事件处置能力。",
+    "了解黑灰产攻击模式，有对抗经验者优先。",
+    "良好的跨团队协作能力，逻辑清晰，对安全技术有热情。",
+    "加分项： 有大型互联网公司账号安全/反欺诈经验，或具备攻防渗透能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

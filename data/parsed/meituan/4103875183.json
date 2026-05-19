@@ -1,0 +1,161 @@
+{
+  "source_file": "4103875183.txt",
+  "job_title": "无人车业务部-静态感知算法工程师",
+  "location": "北京市、深圳市",
+  "education": "硕士",
+  "experience": "2年",
+  "experience_min": 2,
+  "experience_max": 2,
+  "job_category": "技术类",
+  "job_sub_category": "SLAM",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "参与在线地图研发，负责物理元素（车道线、道路边缘、停止线、路面标识、人行道、交通标识牌、停车位等）和逻辑元素（车道中心线、交通标识牌车道绑定等）的开发",
+    "负责并研发规则算法（矢量化方法、时空关联跟踪融合方法），以及Learning based模型和多图源融合方法的研发"
+  ],
+  "required_skills": [
+    {
+      "name": "规则算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "静态道路元素模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CNN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "三维感知",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶静态元素算法",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多传感器融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Camera",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "多传感器融合"
+    },
+    {
+      "name": "Lidar",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "多传感器融合"
+    },
+    {
+      "name": "IMU",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "多传感器融合"
+    },
+    {
+      "name": "Wheel传感器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "多传感器融合"
+    },
+    {
+      "name": "GPS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "多传感器融合"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "硕士或以上学历，计算机、电子、应用数学等相关方向。",
+    "能够运用规则算法提升帧间稳定性和一致性，提升MPI/MPHB等指标；熟悉静态道路元素模型。",
+    "具有良好的深度学习基础，熟悉CNN、Transformer等模型，具有实际应用的模型调优经验。",
+    "熟练掌握Python/C++，有良好的编程习惯。",
+    "对计算机视觉或三维感知有比较深入的认知和理解。",
+    "有自动驾驶静态元素相关算法经验。",
+    "熟悉SLAM，有Camera、Lidar、IMU、Wheel以及GPS等多传感器融合经验。",
+    "在计算机视觉或机器人相关领域顶级会议或期刊发表论文。"
+  ]
+}

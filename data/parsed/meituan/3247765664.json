@@ -1,0 +1,202 @@
+{
+  "source_file": "3247765664.txt",
+  "job_title": "无人机-Linux内核/平台软件工程专家",
+  "location": "北京市、深圳市",
+  "experience": "6年以上",
+  "experience_min": 6,
+  "job_category": "技术类",
+  "job_sub_category": "Linux内核",
+  "job_level": "专家",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "架构并开发高可靠性、高性能的Linux操作系统/平台，为MTUAV全系列硬件产品提供底层基础",
+    "主导跨部门协作及外部供应商管理，负责BSP开发与系统集成，确保高质量的NPI board bring-up交付",
+    "诊断复杂系统问题，优化平台功耗与性能，设计开发高效调试工具，提升团队问题排查与分析效率",
+    "制定MTUAV操作系统/平台技术路线图，统筹工程优先级规划、scoping、planning及交付成果管理",
+    "熟练使用主流AI工具，集成到日常开发设计工作流程中，并且持续探索推动AI对于本团队工作的提效的路径",
+    "指导培养初级工程师，在设计实现、代码审查、测试验证、部署维护全流程中展现优秀的工程能力与技术领导力"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核开发",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "驱动开发",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内核调试",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BSP集成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "板级支持",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "硬件产品生命周期管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Linux系统平台产品化",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工程领导力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统化思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术领导力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Linux性能工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "安全架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "安全",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器人研发",
+      "proficiency": "不限",
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "硬件制造流程",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI集成",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、电子工程或相关专业，6年以上Linux内核/平台开发经验，精通C/C++及Shell脚本开发，Linux内核定制开发、驱动编程、内核级调试及性能调优",
+    "熟悉主流SoC厂商BSP集成，具备board bring-up开发经验（涵盖传感器、ISP、网络接口、外设及加速器等模块）",
+    "熟练使用AI主流工具",
+    "具备商用硬件产品全生命周期发布经验",
+    "作为核心开发者或技术负责人，完整主导过Linux系统平台的产品化项目，包括上市后迭代优化",
+    "拥有通过优秀工程实践推动团队技术提升的成功案例",
+    "具备优秀的跨部门沟通能力、系统化思维及复杂问题解决能力",
+    "高度自驱，兼具技术领导力与强烈的结果责任感。",
+    "熟悉Linux性能优化相关工具",
+    "精通相关硬件/软件安全架构",
+    "拥有机器人研发经验，包括无人机、自动驾驶汽车或通用机器人等领域",
+    "具备硬件产品工厂工具及制造流程相关经验",
+    "具有在工程项目中定制，集成 AI 工具，并为项目以及研发团队提效，有具体落地案例",
+    "有团队管理经验。"
+  ]
+}

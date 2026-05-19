@@ -1,0 +1,102 @@
+{
+  "source_file": "1992838303531028480.txt",
+  "job_title": "微信视频号-投放算法工程师",
+  "location": "北京",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "推荐系统",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责微信视频号投放算法的研发",
+    "包含商业化或生态投放目标的召回和精排算法、预算控制算法、出价机制的优化迭代",
+    "结合微信视频号的业务的实际特点，快速进行算法和策略迭代，不断提升投放效率"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "运筹学",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "控制论",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "广告系统",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "搜索系统",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "精通常用机器学习和深度学习算法及其原理，对算法特点和适用场景等有比较深刻的理解，能够快速进行算法实现和迭代",
+    "对运筹学、控制论有基础知识者优先",
+    "有推荐系统、广告系统、搜索系统业务经验者优先",
+    "具有良好的工程实现能力，熟练掌握一门编程语言（C++/C/Python等）",
+    "有较好的沟通能力、团队协作能力，积极主动。"
+  ]
+}

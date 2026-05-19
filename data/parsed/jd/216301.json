@@ -1,0 +1,95 @@
+{
+  "source_file": "216301.txt",
+  "job_title": "产品经理岗",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "研发类",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责G2C市民服务、政务一网通办产品的规划和设计，包括产品定义、功能设计、流程设计、用户研究等",
+    "深入理解协同需求和用户反馈，把握产品方向，推动产品优化和创新",
+    "关注产品运营数据，评估产品的表现和用户反馈，优化迭代产品，提升产品能力"
+  ],
+  "required_skills": [
+    {
+      "name": "政务产品架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "市民服务产品架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "创新意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "洞察力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "场景分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户需求分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品经营思维",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "商业分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "了解政务类/市民服务类产品架构，富有创新意识，学习能力强，能够承受较大的工作压力",
+    "良好的洞察力，善于利用数据分析，场景分析等专业手段发现潜在用户需求",
+    "具备一定产品经营思维，能够从商业角度分析产品功能的可行性和盈利性，确保产品设计符合市场需求和公司的商业目标。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

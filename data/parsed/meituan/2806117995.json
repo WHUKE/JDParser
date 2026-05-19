@@ -1,0 +1,68 @@
+{
+  "source_file": "2806117995.txt",
+  "job_title": "无人车业务部-算法数据开发工程师",
+  "location": "北京市、深圳市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责提升自动驾驶数据闭环能力",
+    "建设高效的数据分析系统与工具",
+    "进行数据分析与挖掘",
+    "搭建数据检索与标签系统",
+    "负责数据的修复与生产",
+    "从数据维度推动模型效果闭环提升"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程开发能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶评测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "具备良好的工程开发能力。熟练使用一门编程语言包括不限于C++、Python等。",
+    "具备良好的系统设计能力。能够理解、拆解、梳理需求并根据需求设计系统解决方案，合理考虑长短期需求，进行模块拆分和技术选型，能够完成系统的实现。对自己负责的项目的提出动机和技术细节清晰。具备自动驾驶评测、数据相关经验，了解整体流程。"
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "source_file": "216308.txt",
+  "job_title": "agent开发",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "AI Agent",
+  "company_name": "京东",
+  "responsibilities": [
+    "参与风控、企业征信、实名等系统的架构设计及重构工作",
+    "完成项目的核心编码，根据开发计划，保证系统的开发进度和质量，并抽象出公共组件，提升开发效率",
+    "参与风控模型、策略引擎实现和对接，数据处理等工作",
+    "负责AI智能体在风控、征信、企业服务场景的设计与落地，包括智能决策Agent、自动化执行Agent、多轮决策流程的开发与集成",
+    "参与大模型应用、工具调用、RAG、智能调度等能力的研发，提升系统自动化与智能化水平"
+  ],
+  "required_skills": [
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主动性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM性能调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "JVM垃圾收集算法",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java并发编程",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java内存模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "服务治理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring MVC",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HBase",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Memcached",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI智能体基本原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "高并发系统开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大数据量系统开发",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "互联网金融",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控系统开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型接入",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工具调用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "智能流程编排",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "风控决策系统AI应用",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化决策",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能策略执行",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "信贷系统开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科以上学历，逻辑患维能力强，有很强的责任心和主动性",
+    "JaVa基础扎实，掌握JVM性能调优，了解常见JVM垃圾收集算法、JaVa并发框架与库，了解JaVa内存模型",
+    "精通服务治理、多线程相关技术和框架，熟悉设计模式，熟悉主流的开源框架Spring，iBatis，SpringMVC，并掌握原理",
+    "熟悉MySQL、MongoDB、Hbase等数据库开发、设计、优化，熟惑常用缓存系统Redis、Memcached等",
+    "有高并发、大数据量系统开发及优化经验者优先，有互联网金融或风控开发经验者优先",
+    "了解 Al 智能体 (Agent） 基本原理,有大模型接入、具调用、RAG、智能流程编排经验者优先",
+    "有风控/ 决策系统结合 AI 能力的落地经验，或参与过自动化决策、智能策略执行类项目者优先",
+    "对技术有追求，具备良好的团队协作能力和团队合作精神",
+    "有信贷及风控相关系统开发维护经验优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

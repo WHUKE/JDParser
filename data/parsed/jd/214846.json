@@ -1,0 +1,273 @@
+{
+  "source_file": "214846.txt",
+  "job_title": "软件开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "微服务",
+  "job_level": "资深",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责核心业务系统（IAM权限、交易、计费等模块）的架构设计、核心模块开发与优化",
+    "构建高可用、高并发后端服务，应用微服务架构、分布式事务、消息队列、缓存与异步处理技术",
+    "参与系统全生命周期管理，包括需求分析、原型验证、系统集成、性能调优、可观测性建设、部署与持续迭代",
+    "与产品、业务、运维及前端团队紧密协作，推动技术解决方案落地",
+    "跟踪后端前沿技术，持续优化系统稳定性、性能与成本效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "Spring Cloud",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Dubbo",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库性能调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缓存策略",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "domain"
+    },
+    {
+      "name": "API安全",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式事务",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OAuth2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JWT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RBAC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ABAC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务抽象能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推动力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "生产环境系统优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RocketMQ",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Seata",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "soft"
+    },
+    {
+      "name": "金融行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "支付行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SaaS行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电商行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、软件工程或相关专业，资深工作经验",
+    "技术能力突出，有较强的业务抽象能力，对业务有浓厚的兴趣，能够将复杂业务逻辑转化为清晰的技术实现",
+    "扎实的编程基础，精通Java（必备），熟练掌握Spring Boot、Spring Cloud、MyBatis、Dubbo等框架；有后端系统开发经验（分布式、高并发、微服务）优先",
+    "深入理解企业级应用架构，有IAM权限管理、交易处理、计费结算等核心业务模块的实际开发与落地经验，熟悉OAuth2、JWT、RBAC/ABAC、分布式事务等最佳实践",
+    "掌握分布式系统设计、数据库性能调优、消息队列、缓存策略、API安全、事务一致性等核心技术；有生产级系统优化经验者优先",
+    "具有较强的推动力，具备follow through工作态度，追求极致的匠人精神",
+    "强烈的学习热情、团队协作精神，对技术充满激情，愿意面对挑战并持续迭代。加分项有开源贡献、微服务架构大型项目经验、K8s/Docker容器化部署经验，或特定行业（如金融、支付、SaaS、电商）IAM/交易/计费落地案例者优先；此招聘需求已严格参考您提供的AI Agent岗位模板，保留了相同的结构、语气和专业度，同时将工作目标完全聚焦在IAM权限系统、交易、计费等模块，并将技术栈切换为以Java为主的企业级后端方向。如需进一步调整具体技术细节、薪资范围或公司背景描述，请随时告知！符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

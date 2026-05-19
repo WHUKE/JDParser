@@ -1,0 +1,178 @@
+{
+  "source_file": "1980938694848307200.txt",
+  "job_title": "腾讯会议-Android /iOS研发工程师",
+  "location": "武汉",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "移动开发",
+  "job_sub_category": "Android、iOS、跨平台、音视频",
+  "job_level": "高级",
+  "company_name": "腾讯云智研发子公司",
+  "responsibilities": [
+    "负责腾讯会议 Android /iOS 客户端的核心功能研发、性能优化、难点攻坚及新技术预研",
+    "参与移动端架构设计和技术方案设计，推动模块化开发与工程效能提升，完成高质量交付和版本发布",
+    "负责腾讯会议 C++ 跨平台逻辑的开发与维护，推动音视频等基础能力的应用体验优化",
+    "Android 侧重探索并参与鸿蒙原生应用架构设计，实现跨设备协同等新特性功能开发",
+    "iOS 侧重负责移动端会中框架的研发和维护，提升客户端稳定性与用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JNI",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Xcode",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "UIKit",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "冷启动性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练掌握",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题分析解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主人翁意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "腾讯云认证",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "certification"
+    },
+    {
+      "name": "鸿蒙原生应用架构设计",
+      "proficiency": "不限",
+      "category": "移动开发",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "大学本科及以上学历，计算机相关专业，具备扎实的计算机基础，熟悉常见的数据结构、算法和设计模式",
+    "3年以上Android 或 iOS 开发经验，android 方向​需熟练使用 JNI，精通Java/Kotlin，有丰富的应用层问题分析与解决经验，iOS方向​需精通 Objective-C/Swift，熟悉 Xcode 及 UIKit 框架，具备网络、内存及冷启动等性能调优经验",
+    "熟练掌握 C++/Java/Kotlin/Objective-C/Swift 等至少一门语言，具备快速学习和应用新框架、新语言的能力",
+    "思路严谨，具备优秀的问题分析解决能力，能独立承担开发任务，具备良好的沟通协作能力、抗压能力和强烈的主人翁意识，能积极推动项目进展",
+    "在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑",
+    "注：此岗位为腾讯集团旗下子公司编制岗位。"
+  ]
+}

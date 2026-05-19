@@ -1,0 +1,162 @@
+{
+  "source_file": "216140.txt",
+  "job_title": "IOS开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "iOS",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责 iOS 应用的设计、开发和维护",
+    "根据产品需求，进行应用的架构设计和模块开发",
+    "优化应用的性能和用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "Swift",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C Runtime",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Objective-C"
+    },
+    {
+      "name": "内存管理机制",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS版本差异适配",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS应用生命周期",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "常用 UI 组件",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码习惯",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "代码驾驭能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术设计能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "商用产品开发经验",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Flutter",
+      "proficiency": "不限",
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React Native",
+      "proficiency": "不限",
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "苹果生态开发",
+      "proficiency": "不限",
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机或相关专业本科及以上学历，3年以上iOS开发经验",
+    "深入理解Swift / Objective-C Runtime运行机制和内存管理机制",
+    "深入了解各个不同iOS版本的特性与差异并有丰富适配经验",
+    "了解 iOS 应用的生命周期和常用 UI 组件",
+    "具备良好的代码习惯，注重代码质量和可维护性",
+    "具有强大的代码驾驭能力与技术设计能力，有成功商用产品开发经验",
+    "加分项：有Flutter、RN苹果生态开发经验。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

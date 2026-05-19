@@ -1,0 +1,280 @@
+{
+  "source_file": "4359842782.txt",
+  "job_title": "美团食杂零售AI算法工程师-视觉方向",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "计算机视觉",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责食杂零售视觉/多模态核心算法研发与优化，与产品及硬件团队协作，将AI视觉能力落地到品控、门店运营、客流、仓储物流等场景",
+    "负责仓储客流场景垂域多模态大模型研发，包括继续预训练、指令遵循后训练，提升多模态大模型可用性和泛化性",
+    "负责门店防损/客流场景的目标检测、多目标跟踪、语义分割、时空动作检测等算法研发，提升运营效率、降低损耗",
+    "跟踪行业前沿技术，探索新兴AI/IoT、多模态大模型技术引入，提升竞争力"
+  ],
+  "required_skills": [
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MXNet",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "目标检测",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "YOLO",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "目标检测"
+    },
+    {
+      "name": "Faster R-CNN",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "目标检测"
+    },
+    {
+      "name": "图像分割",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "Mask R-CNN",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "图像分割"
+    },
+    {
+      "name": "DeepLab",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "图像分割"
+    },
+    {
+      "name": "关键点识别",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "姿态估计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "动手能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "物流行业经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "仓储管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "门店管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应链管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工业级AI视觉方案部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "视频分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "行为识别",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "人群密度估计",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "异常动作监测",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    }
+  ],
+  "raw_requirements": [
+    "硕士及以上学历，计算机科学、人工智能或相关专业背景，有扎实的数学基础，对机器学习理论有深刻理解",
+    "熟练掌握主流深度学习框架（如TensorFlow/PyTorch/MXNet）",
+    "熟悉主流多模态大模型（Qwen VL等）的训练、推理与相关的代码框架",
+    "在计算机视觉领域具有丰富经验，如目标检测（YOLO/Faster R-CNN）、图像分割（Mask R-CNN/DeepLab）、关键点识别、姿态估计等",
+    "具备良好的代码开发能力，熟悉Python/C/C++/Java等编程语言",
+    "具备良好的沟通与团队合作能力，乐于学习与分享",
+    "动手能力强，责任心强，具备良好的自我驱动能力和良好的编程习惯。",
+    "拥有物流、大仓/门店管理或供应链相关行业经验，在工业级场景下成功部署过AI视觉方案者优先考虑",
+    "对视频分析任务感兴趣，并在行为识别、人群密度估计或异常动作监测方面有所研究",
+    "有相关国际顶级会议论文（CVPR, ICCV, NeurIPS等）者优先"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "source_file": "f7806f0c-7c5f-4bb9-a814-aa6d982d0a14.txt",
+  "job_title": "【横琴】测试开发工程师（J98748）",
+  "location": "横琴粤澳深度合作区",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "测试",
+  "job_level": "中级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责百度智能云的分布式云业务质量保证工作",
+    "保障产品质量，根据产品需求进行功能、性能、效果测试，包括测试方案设计、执行、BUG追踪、测试分析和测试改进",
+    "开发测试工具、自动化测试框架、自动化测试脚本等，进行自动化测试",
+    "参与代码评审、持续集成、自动部署、线上监控等工作，确保代码质量和交付效率",
+    "评估项目质量风险，解决项目痛点问题，优化与改进用户体验，推动产品竞争力提升"
+  ],
+  "required_skills": [
+    {
+      "name": "软件工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "严谨",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历",
+    "具备至少1年以上互联网开发测试经验",
+    "有良好的软件工程、数据结构、算法、linux等基础",
+    "熟悉以下一门或几门语言：Python/JAVA/GO/Shell，能使用语言编写自动化测试",
+    "对质量保证工作有浓厚兴趣，且有自己独特的理解",
+    "学习能力强，有较强分析和解决问题的能力，具有较强逻辑思维能力和表达能力",
+    "工作积极主动，有强烈责任心和严谨工作作风，积极思考，不断创新，良好的协作能力和团队合作精神"
+  ]
+}

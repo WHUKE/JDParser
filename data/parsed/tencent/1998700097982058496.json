@@ -1,0 +1,214 @@
+{
+  "source_file": "1998700097982058496.txt",
+  "job_title": "腾讯视频-影视AIGC高级算法研究员（视频生成/编辑方向）-(深圳)(杭州)",
+  "location": "北京",
+  "education": "硕士",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "视频生成与编辑",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责视频生成与编辑核心算法研发，涵盖Text-to-Video、Image-to-Video、Video Editing、视频理解生成统一模型、image/video relighting、3D生成等技术方向",
+    "针对影视工业高标准需求，攻克生成视频的“AI感”、时序细节一致性、画质细节等关键问题",
+    "探索并落地生成内容的精细化控制方案，提升模型输出的艺术表现力与商业可用性",
+    "紧跟学术界与工业界最新研究进展，快速复现并评估SOTA算法，结合影视业务场景进行创新性改进，推动前沿技术向生产力转化",
+    "与产品、工程、内容创作团队紧密协作，将算法能力转化为实际产品功能"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ComfyUI",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程实现能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Diffusion",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HunyuanVideo",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "wan2.2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "wan2.5",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SkyReels V2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VACE",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "wan-animate",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型预训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "后训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "强化学习"
+    },
+    {
+      "name": "LoRA",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "训练并行加速框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "顶级会议论文发表",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、人工智能或相关专业硕士及以上学历",
+    "精通 Python，熟练掌握 PyTorch等深度学习框架，comfyui的使用，具备优秀的代码能力和工程实现能力",
+    "具备扎实的深度学习基础，对diffusion、强化学习等AI技术有深刻的理解",
+    "熟悉HunyuanVideo、wan2.2/2.5、SkyReels V2等视频生成模型，熟悉VACE、wan-animate等视频编辑模型",
+    "有视频大模型预训练、后训练、RLHF、lora等训练经验，了解训练并行加速框架更优",
+    "对影视行业充满热情，对影视AIGC有浓厚兴趣",
+    "具备良好的沟通能力和团队协作精神，能够承担一定的工作压力",
+    "具备较强的学习能力和清晰的逻辑思维能力，有强烈的好奇心，善于思考",
+    "在 CVPR, ICCV, ECCV, NeurIPS, ICLR, SIGGRAPH 等顶级会议发表过相关论文者优先。"
+  ]
+}

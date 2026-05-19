@@ -1,0 +1,196 @@
+{
+  "source_file": "4327881308.txt",
+  "job_title": "无人车业务部-数据闭环专家/架构师",
+  "location": "北京、深圳",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "数据闭环",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责自动驾驶数据闭环的架构设计、系统建设及工具研发，保障其高可用和高扩展性，构建高效的工程化解决方案，提升系统性能、可维护性和稳定性。",
+    "制定研发计划并协调前后端与算法团队，掌控项目进度与风险，确保高质量交付。推动系统的线上化、效能提升，优化开发流程与工具链，降低跨团队协作成本。",
+    "设计前瞻性的架构方案，提升系统吞吐量与稳定性，通过持续的自动化测试与性能调优，保障系统可靠性，持续改进代码质量。",
+    "数据闭环：包含但不限于车端/云端数据管理、采集回流、挖掘、标注、数据集等环节。"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "容器化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "复杂系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据密集型系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据协议设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "元数据管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码品味",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "改进推动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶产品开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能硬件产品开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI产品开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶业务流程",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI Agent协同研发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "精通至少一种主流技术栈（Java、Python、C++），具备复杂系统开发经验，熟悉分布式系统原理，掌握微服务、容器化、消息队列等技术的实际应用。",
+    "拥有数据密集型系统开发经验，熟悉数据协议设计、元数据管理及高并发场景优化。主导过完整项目生命周期，涵盖需求分析、架构设计、开发、测试和落地交付。",
+    "具备扎实的编程能力、优秀的设计能力和代码品味，具有强烈的责任心。",
+    "有自动驾驶、智能硬件或AI产品开发经验者优先。了解自动驾驶业务流程者优先。",
+    "具有AI Agent协同研发经验优先。",
+    "具有自我驱动和自我管理能力，能够针对系统的不足提出改进方案并推动实现。"
+  ]
+}

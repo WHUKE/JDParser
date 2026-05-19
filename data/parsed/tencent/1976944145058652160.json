@@ -1,0 +1,197 @@
+{
+  "source_file": "1976944145058652160.txt",
+  "job_title": "《三角洲行动》-高级UE端游引擎开发工程师",
+  "location": "上海",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "游戏引擎开发",
+  "job_sub_category": "开放世界渲染",
+  "job_level": "高级",
+  "responsibilities": [
+    "负责开放世界相关技术的研发工作，包括地形、植被、光影、Houdini工具链和底层网络",
+    "负责开放大世界前沿技术预研",
+    "负责游戏中图形相关特性的开发，开发高级渲染效果，增强游戏表现力",
+    "负责游戏中动画物理特性的开发，开发高级动画效果，增强游戏表现力",
+    "负责载具、破碎、角色物理动画等高级物理特性研发",
+    "负责制定工作室研发工具管线方案，开发low-level tools和引擎功能，提升研发效率",
+    "负责游戏中性能优化相关工作，定制增改UE引擎底层功能",
+    "负责图形兼容性分析以及疑难问题的分析定位工作"
+  ],
+  "required_skills": [
+    {
+      "name": "3D游戏引擎架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "引擎接口",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "游戏制作流程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "domain"
+    },
+    {
+      "name": "开放世界开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "domain"
+    },
+    {
+      "name": "地形系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "开放世界开发"
+    },
+    {
+      "name": "植被系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "开放世界开发"
+    },
+    {
+      "name": "光影渲染",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程调度",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "3D图形学",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数学基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图形渲染",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shader开发",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "图形渲染"
+    },
+    {
+      "name": "端游优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PC图形优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "图形渲染"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Houdini",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术热情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "商业游戏引擎源代码",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Console开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "domain"
+    },
+    {
+      "name": "FPS游戏",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "3年以上PC游戏引擎开发和维护经验，深刻理解3D游戏引擎架构，精通引擎接口和游戏制作流程",
+    "有开放大世界领域开发经验，如：地形，植被，光影渲染，多线程调度",
+    "熟悉3D图形学，有良好的数学和算法基础",
+    "熟练掌握3D图形渲染技术，精通Shader相关开发",
+    "有端游优化经验，掌握PC图形优化技巧",
+    "责任心强，善于沟通，对游戏前沿技术有热情",
+    "熟悉商业游戏引擎源代码，有Console开发经验，对FPS游戏熟悉和热爱优先。"
+  ]
+}

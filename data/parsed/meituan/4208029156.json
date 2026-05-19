@@ -1,0 +1,114 @@
+{
+  "source_file": "4208029156.txt",
+  "job_title": "无人机-测试工艺工程师",
+  "location": "深圳市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "硬件测试",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "设计测试计划，明确产品功能和性能要求，制定测试阈值和方法，选择合适的测试工具和方法",
+    "对接测试工具开发，梳理测试工具需求，配置测试环境和准备测试数据",
+    "执行测试，包括功能测试、性能测试、可靠性测试和安全性测试等",
+    "分析测试结果，识别潜在问题，提出改进建议",
+    "主导DFT分析，与设计团队和生产团队合作，参与产品设计优化",
+    "参与产品开发流程的制定与实施，对产品各阶段特性提出建议方案并落实执行",
+    "对生产现场的技术问题进行分析、跟踪和解决，开发和验证新的测试工艺等",
+    "主动探索并运用各类AI工具优化日常工作流程，推动AI在业务场景中的落地实践，提升工作效率与产出质量"
+  ],
+  "required_skills": [
+    {
+      "name": "模拟电路",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数字电路",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电子产品制造工艺",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "测试原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "主动学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "复杂问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI趋势洞察",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "无人机行业经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人行业经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化行业经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工艺改进",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化提升",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，以电子信息、通信工程、计算机、机械或相关专业为主‌，需具备扎实的模电/数电基础，熟悉电子产品制造流程及测试原理‌",
+    "5年以上相关领域工作经验，需有电子产品测试工艺或硬件开发经验‌，优先考虑具备工艺改进、自动化提升等成功项目经历者‌",
+    "具备主动学习与探索AI新工具、新方法的意识，能持续将AI能力融入实际工作场景并独立落地；对AI工具有实际使用经验，能清晰阐述利用AI解决复杂问题的思路与方法，保持对AI前沿趋势的敏感度。5年以上无人机、机器人、自动化行业经验优先。"
+  ]
+}

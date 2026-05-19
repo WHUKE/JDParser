@@ -1,0 +1,93 @@
+{
+  "source_file": "1959981761454821376.txt",
+  "job_title": "微信视频号-高级推荐大模型算法工程师-(广州/深圳)",
+  "location": "北京",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "推荐系统,大模型",
+  "job_level": "高级",
+  "responsibilities": [
+    "负责视频号短视频业务的推荐技术优化，包括但不限于召回、粗排、精排、重排、视频冷启动等",
+    "负责视频号短视频业务的业务策略优化，包含但不限于人群优化、社交推荐、内容生态等",
+    "负责若干前瞻方向的探索，包括LLM4Rec、推荐大模型、生成式推荐等方向"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程实践",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "推荐系统优化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "广告系统优化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "短视频推荐优化",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态大模型",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "扎实的机器学习基础、良好的工程素养，能够快速进行算法实现和迭代",
+    "有推荐系统或广告系统优化经验者、有短视频推荐业务优化经验者优先",
+    "有大语言模型、多模态大模型、强化学习等方向的研究和实践经验者优先",
+    "有探索技术的热情、乐于挑战困难问题、有良好的沟通和协作能力。"
+  ]
+}

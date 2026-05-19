@@ -1,0 +1,260 @@
+{
+  "source_file": "4254495491.txt",
+  "job_title": "导航定位算法工程师",
+  "location": "北京/深圳",
+  "education": "不限",
+  "experience": "2年",
+  "experience_min": 2,
+  "experience_max": 2,
+  "job_category": "技术类",
+  "job_sub_category": "导航定位",
+  "job_level": "中级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责导航定位相关算法的工程实现及优化",
+    "负责导航定位相关卫星导航、组合导航、SLAM算法核心功能模块的开发、测试及上机等",
+    "负责导航系统在弱结构化、弱纹理等退化场景和GNSS遮挡、雨雪雾等极端场景下的性能优化",
+    "支持相关项目开展其它定位技术相关工作",
+    "负责将AI工具与方法应用于算法研发全流程，提升开发效率与解决方案的智能化水平"
+  ],
+  "required_skills": [
+    {
+      "name": "线性代数",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "优化理论",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "概率论",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "矩阵计算",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数值分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多传感器融合",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "惯性导航",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GNSS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SLAM",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GVINS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "SVO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "ORB-SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "MSCKF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "VINS-Mono",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "LOAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "Voxelmap",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "导航定位算法优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自我驱动能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法创新能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI代码生成工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI数据分析工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI模型调优工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI技术应用",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI解决方案评估",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AR/VR定位开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人定位开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "无人机定位开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "挑战场景定位算法优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多传感器融合优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "具有良好的数学基础，对于线性代数、优化理论、概率论、矩阵计算、数值分析等有深刻理解",
+    "具有良好的计算机原理基础知识和较强C/C++代码工程化能力和经验",
+    "熟练掌握多传感器融合理论基础，有惯导、GNSS等算法的开发应用经验，并有应用多种传感器融合的经验",
+    "熟悉经典SLAM框架，例如GVINS、SVO、ORB-SLAM、MSCKF、VINS-Mono，LOAM，Voxelmap等，具有SLAM系统算法开发经验",
+    "具有解决导航定位算法落地中问题的能力，提升全天候全天时情况下的导航定位系统精度和可靠性",
+    "具有较强自我驱动能力、团队协作开发能力经验和算法创新能力。",
+    "熟练运用AI辅助工具（如代码生成、数据分析、模型调优等）进行算法开发与优化",
+    "具备利用AI技术解决复杂工程问题的能力，并能评估其在实际场景中的有效性与局限性。",
+    "有AR/VR、机器人或无人机的导航定位项目实际开发经验或相关比赛经验者优先",
+    "具备多传感器融合和挑战场景的定位算法优化经验，或发表过前沿研究论文成果者优先。"
+  ]
+}

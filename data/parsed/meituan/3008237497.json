@@ -1,0 +1,183 @@
+{
+  "source_file": "3008237497.txt",
+  "job_title": "Keeta技术-大模型算法工程师/专家",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大模型、多模态",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "在国际化场景下，负责Keeta智能客服、智能审核等方向算法建设，以及对应基座模型的后训练。",
+    "运用大模型、agent、多模态和传统机器学习等算法能力，解决生成式AI在业务落地的关键算法问题，满足多语言、多模态的复杂业务场景需求，提升智能化覆盖率和业务运转效率。",
+    "紧跟业界，追踪大模型前沿进展，积极学习新的模型结构、前沿模型认知，并进行深入分析。",
+    "从业务需求中提炼通用、模块化的算法能力，加速算法迭代，提升业务开国、开城的效率。"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据挖掘",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务洞察力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能客服",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "审核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "判责",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "外呼",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "英语",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "language"
+    }
+  ],
+  "raw_requirements": [
+    "数学、统计、运筹学、计算机或相关专业硕士及以上学历，3年以上相关工作经验。",
+    "在大模型、多模态、数据挖掘或传统深度学习领域具备独立负责项目的经验（有智能客服、审核、判责、外呼等方向经验更佳），并能在复杂业务场景中进行合理的算法选择与优化。",
+    "熟悉主流大模型，并掌握SFT、RLHF、RAG等技术。精通Python、Java等编程语言，熟悉TensorFlow、PyTorch等常用机器学习框架。",
+    "具备敏锐的业务洞察力和创新精神，对挑战性问题充满热情。能够将理论与实践相结合，主动学习并适应快速发展的业务环境，与业务共同成长。",
+    "良好的英语读写能力为加分项，能够与国际团队进行有效沟通。",
+    "有海外工作经验/生活经验，英语流利，可作为工作语言者优先",
+    "有智能客服、风控、审核 相关开发经验优先"
+  ]
+}

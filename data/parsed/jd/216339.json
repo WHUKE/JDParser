@@ -1,0 +1,158 @@
+{
+  "source_file": "216339.txt",
+  "job_title": "产品经理",
+  "location": "上海市",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "本地生活产品",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "深入理解业务战略，围绕本地生活、即时履约场景，设计输出整体产品解决方案",
+    "熟悉本地生活业务场景，擅长营销、用户运营、用户增长方向，或OMS、WMS、即时配送方向",
+    "将业务需求转化为产品方案，完成产品路线图规划；沟通和协调技术团队，推进需求的实现",
+    "通过数据分析或现场调研识别业务痛点，通过抽象化思维和产品化定义提出创新型解决方案，持续优化产品",
+    "应用行业先进技术和方案，丰富产品和技术解决方案，主动为业务赋能",
+    "负责产品方向：秒送物流、前置仓"
+  ],
+  "required_skills": [
+    {
+      "name": "本地生活业务知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "物流行业经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "OMS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "WMS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "即时配送",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "营销",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户运营",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户增长",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思考能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推理能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "商业思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "结果导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推动能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "影响能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抽象思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "3年及以上的供应链、物流、电商，或本地生活行业工作经验",
+    "优秀的逻辑思考和推理能力，善于将复杂的问题简化，透过表象看问题本质",
+    "具备商业思维，具备创新精神",
+    "可以自我驱动，结果导向，按照既定目标交付结果",
+    "良好的沟通能力，不仅可以协调内部资源，并可以推动外部资源，以及影响业务。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

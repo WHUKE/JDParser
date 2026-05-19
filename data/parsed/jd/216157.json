@@ -1,0 +1,146 @@
+{
+  "source_file": "216157.txt",
+  "job_title": "机器人测试开发工程师（智能交互）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "智能交互",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责人机交互（语音）交互系统（端/云）的测试，同研发、产品团队配合，制定交互系统准入准出标准",
+    "结合项目不同阶段，制定相应的测试计划和测试方案，并按时完成测试用例执行，并发出测试报告，确保项目按时保质交付",
+    "业务测试中，能通过自动化测试和CICD等手段，沉淀相应的自动化回归用例和工具等，提升测试的效率"
+  ],
+  "required_skills": [
+    {
+      "name": "声学基本原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语音算法测试",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "端到端测试",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语音交互",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "功能测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "白盒测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "接口测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CICD",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "回归测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能语音测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科统招及以上学历，计算机或相关专业毕业，有扎实的计算机基础知识",
+    "了解声学基本原理，以及语音算法测试及端到端测试方法、端/云侧语音交互方式；有智能语音测试经验优先",
+    "掌握python、c/c++、java 等至少一种编程语言，有功能测试、自动化测试、白盒、接口测试、性能测试等的实验经验",
+    "良好责任心和逻辑性，团队合作精神，能够在压力下保持良好的工作状态；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

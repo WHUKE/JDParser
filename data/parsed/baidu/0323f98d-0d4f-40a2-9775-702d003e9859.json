@@ -1,0 +1,195 @@
+{
+  "source_file": "0323f98d-0d4f-40a2-9775-702d003e9859.txt",
+  "job_title": "自动驾驶AI基础平台-可视化引擎工程师（J97047）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "前端开发",
+  "job_sub_category": "3D可视化",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责自动驾驶仿真平台前端开发",
+    "开发高精度3D可视化仿真引擎，支持传感器数据（LiDAR、Camera、Radar）的动态渲染与实时交互",
+    "实现仿真场景的分布式可视化展示",
+    "Kubernetes（k8s）与云服务管理",
+    "基于K8s搭建容器化仿真服务平台，微服务化架构，实现仿真服务的弹性伸缩、负载均衡与故障恢复",
+    "跨团队协作与技术沉淀",
+    "与算法团队紧密合作，确保仿真环境与自动驾驶感知、规划、控制模块的精准对接",
+    "主导技术文档编写与开源工具链研究，推动团队技术标准化"
+  ],
+  "required_skills": [
+    {
+      "name": "AWS",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "EC2",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "AWS"
+    },
+    {
+      "name": "S3",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "AWS"
+    },
+    {
+      "name": "微软云",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Helm",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模集群管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unity",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "WebGL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Three.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard",
+      "parent": "WebGL"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端可视化性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶仿真原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "场景生成",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "自动驾驶仿真原理"
+    },
+    {
+      "name": "传感器建模",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "自动驾驶仿真原理"
+    },
+    {
+      "name": "车辆动力学",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "自动驾驶仿真原理"
+    },
+    {
+      "name": "自动驾驶可视化工具",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机科学、软件工程、自动驾驶或相关专业，本科及以上学历，3年以上前端开发经验",
+    "了解AWS核心服务（EC2、S3等）或微软云，了解云原生系统使用",
+    "掌握Kubernetes及容器化技术（Docker、Helm），有大规模集群管理经验",
+    "熟悉至少一种3D可视化引擎（Unreal/Unity/Three.js/WebGL）及前端框架（React.js 为主）",
+    "编程能力扎实，熟练掌握js/nodejs，熟悉前端可视化性能调优",
+    "自动驾驶领域要求：了解自动驾驶仿真原理（场景生成、传感器建模、车辆动力学等），了解常见自动驾驶可视化工具"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "source_file": "1901550591725875200.txt",
+  "job_title": "对象存储高级研发工程师",
+  "location": "上海",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "对象存储",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责对象存储COS的设计、研发与运营工作，打造超大规模存储系统",
+    "负责对象存储COS的技术攻坚与产品迭代，满足内外部客户多样化需求",
+    "负责对象存储COS的服务质量优化，提升存储性能、可用性、可靠性，降低成本"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云存储",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大数据",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "不限",
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "搜索",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉C++或Golang，深入理解操作系统和网络基本原理，具备扎实的数据结构和算法基础",
+    "对大规模分布式系统有浓厚的兴趣，具备一定大型分布式项目经验",
+    "有较强的学习能力，具备良好的沟通能力和团队合作能力，勇于接受挑战",
+    "有云存储、数据处理、大数据、数据库、搜索、推荐系统等方面研发经验者优先。"
+  ]
+}

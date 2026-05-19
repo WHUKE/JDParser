@@ -1,0 +1,52 @@
+{
+  "source_file": "2020723050831572992.txt",
+  "job_title": "微信-WeLM -大语言模型算法研究员（深圳、上海）",
+  "location": "北京",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大语言模型",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "探索大规模预训练模型的结构创新、优化器策略创新，提升单位算力下的智能获取效率",
+    "探索更高效全面的预训练数据建设方案、预训练数据使用方案",
+    "建设通用 Long-Horizon LLM Agent 的训练策略",
+    "独立或与其他研究员合作进行前沿领域研究"
+  ],
+  "required_skills": [
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大规模预训练模型",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "有大型自然语言处理项目研发经历并取得过优秀成果",
+    "对于学习和参与搭建大规模的复杂 AI 系统充满热情",
+    "计算机科学、数学、物理或相关领域学位",
+    "重视研究与工程成果的实际影响力"
+  ]
+}

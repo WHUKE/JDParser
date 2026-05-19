@@ -1,0 +1,103 @@
+{
+  "source_file": "216402.txt",
+  "job_title": "产品经理",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "内容产品",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责京东评价业务生产全链路产品能力建设，包括生产工具、优质生产者成长等核心模块产品规划及迭代",
+    "负责UGC内容生态产品规划和建设，结合评价问答互动及其他内容域阵地提升UGC创作者规模"
+  ],
+  "required_skills": [
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "洞察能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "全局思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "发现和解决问题",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "用户思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "产品抽象能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商行业经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，5年以上C端内容产品经验，有电商行业经验者优先",
+    "对数据敏感，具备较强的数据分析和洞察能力",
+    "拥有全局思维，善于发现和解决问题，具备用户思维和产品抽象能力",
+    "具备较强的沟通协调能力，能够协同各部门各团队高效协作",
+    "思维活跃，具备较强的学习能力和自我驱动力。"
+  ]
+}

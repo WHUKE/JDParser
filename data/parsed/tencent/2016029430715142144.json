@@ -1,0 +1,146 @@
+{
+  "source_file": "2016029430715142144.txt",
+  "job_title": "腾讯会议-iOS客户端开发工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "移动开发",
+  "job_sub_category": "iOS开发",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责跨平台C++逻辑层与iOS原生上层（Swift/Objective-C）的框架开发，参与开发与维护MVVM应用框架、容器框架、路由框架等核心基础设施",
+    "负责移动端及跨平台层的整体架构设计，参与大型复杂业务需求的技术方案评审与架构设计，并承担核心模块的开发与落地",
+    "参与研发和维护自研跨平台UI框架与组件库（理念类似Flutter/Compose），持续修复缺陷，优化开发体验与渲染性能，支撑业务快速迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "Swift",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS运行时",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS内部原理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "客户端架构设计",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MVVM",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模块化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "路由设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨平台开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨平台UI框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "domain"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术文档撰写能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "领导力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机、软件工程或相关专业",
+    "3年及以上iOS平台开发经验，精通Swift/Objective-C，深入理解iOS运行时机制、内部原理、内存管理及多线程编程",
+    "了解客户端架构设计，有复杂应用框架（如MVVM、模块化、路由）的设计和落地经验，对代码结构、可维护性有极高要求",
+    "具备优秀的分析解决问题能力、沟通协作能力和技术文档撰写能力，能主导技术方案并推动团队落地。"
+  ]
+}

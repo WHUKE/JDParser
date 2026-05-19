@@ -1,0 +1,198 @@
+{
+  "source_file": "216513.txt",
+  "job_title": "质控提升专家",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_level": "专家",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责BOM全品类供应链质量管理体系搭建与落地，覆盖电子元器件、紧固件、工控自动化、五金机电、结构件、劳保包装等全品类物料，对整体来料品质、上线合格率、客诉率、供应商质量绩效全面负责",
+    "开展全品类供应商准入审核、现场验厂、月度质量评级、绩效考核与优胜劣汰，建立分级分类供应商质量管控机制",
+    "统筹来料质量管控标准制定，包含元器件真伪/翻新鉴别、紧固件材质强度精度、工控产品电气性能安全、五金件尺寸公差、包装标签合规等检验规范与抽检方案",
+    "独立处理各类物料批量质量异常，主导根因分析、8D报告、整改落地、效果验证及闭环复盘",
+    "建立全品类物料质量风险预警，防范假货、翻新料、劣质紧固件、非标代用料、不合规工控产品等供应链风险，保障大客户BOM一站式采购交付安全合规",
+    "对接大客户质量部门，配合客户验厂、质量审核、资料提交、问题整改、现场稽核等需求，支撑全国大客户BOM业务稳定运行"
+  ],
+  "required_skills": [
+    {
+      "name": "SQE",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电子元器件真伪鉴别",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ISO紧固件标准等级",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工控电气安全规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "尺寸公差",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "材质检测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "来料检验流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ISO9001",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IQC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "异常分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "8D",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "供应商审核",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "质量数据统计分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑严谨",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力强",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压性好",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门推动",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "供应商谈判",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "复杂质量问题解决",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电子元器件",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "紧固件",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工控自动化物料",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工业品集采平台经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "MRO/BOM综合供应链SQE经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，质量工程、机械、机电、电子信息、材料工程相关专业优先。",
+    "5年以上综合品类 SQE 工作经验，同时熟悉电子元器件 + 紧固件 + 工控自动化物料优先。",
+    "熟悉各品类质量标准：电子元器件真伪鉴别、ISO 紧固件标准等级、工控电气安全规范、尺寸公差、材质检测、来料检验流程。",
+    "精通 ISO9001 体系、IQC 管控、异常分析、8D 整改、供应商审核、质量数据统计分析。",
+    "逻辑严谨、执行力强、抗压性好，具备优秀跨部门推动、供应商谈判、复杂质量问题解决能力。有工业品集采平台、MRO/BOM 综合供应链 SQE 经验优先。"
+  ]
+}

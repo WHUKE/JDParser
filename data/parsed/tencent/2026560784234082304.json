@@ -1,0 +1,215 @@
+{
+  "source_file": "2026560784234082304.txt",
+  "job_title": "生态发展部-应用研究工程师",
+  "location": "上海",
+  "education": "硕士",
+  "experience": "从Prompt Engineering、RAG、推理策略，到模型适配、效果归因与实验设计。",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "游戏AI",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责游戏创作场景下Agent的架构设计与效果优化",
+    "优化工具调用、上下文管理、任务分解链路，提升端到端创作成功率与可控性",
+    "探索Agentic RL与Post-Training在游戏开发领域的应用，构建Agentic RL Infra",
+    "通过SFT、RLHF、DPO等手段对模型进行后训练",
+    "构建面向游戏开发全流程的Context Engineering系统，设计并落地游戏项目级上下文管理方案",
+    "搭建端到端Agent评测体系与数据闭环，定义评估指标",
+    "探索日志回放、用户行为反馈转训练数据、Self-Improving机制",
+    "跟踪LLM、多模态、Multi-Agent等前沿进展，将技术落地并形成专利/论文"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agentic RL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Post-Training",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Post-Training"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Post-Training"
+    },
+    {
+      "name": "DPO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Post-Training"
+    },
+    {
+      "name": "RLVR",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Post-Training"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LlamaIndex",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent Architecture Design",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Multi-Agent Collaboration",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Agent Architecture Design"
+    },
+    {
+      "name": "Context Management",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Agent Architecture Design"
+    },
+    {
+      "name": "Tool Calling",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Agent Architecture Design"
+    },
+    {
+      "name": "React",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Agent Architecture Design"
+    },
+    {
+      "name": "CodeAct",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Agent Architecture Design"
+    },
+    {
+      "name": "MCP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Function Call",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Inference Strategy",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Model Adaptation",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Attribution Analysis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据分析",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Experimental Design",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "硕士及以上学历，计算机/AI/软件工程/游戏开发相关背景，具备顶级会议论文者优先",
+    "熟悉Agentic RL、Post-Training技术栈（SFT、RLHF、DPO、RLVR），有实际项目经验",
+    "扎实的Python工程能力，熟悉至少一种Agent框架（LangGraph、LlamaIndex、OpenAI Agents SDK、AutoGen等）",
+    "深入理解Agent架构设计（Multi-Agent协作、Context Management、Tool-Calling、ReAct/CodeAct），熟悉MCP、Function Call等交互协议",
+    "具备大模型应用全链路经验：从Prompt Engineering、RAG、推理策略，到模型适配、效果归因与实验设计。"
+  ]
+}

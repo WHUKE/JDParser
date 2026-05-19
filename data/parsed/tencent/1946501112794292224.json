@@ -1,0 +1,66 @@
+{
+  "source_file": "1946501112794292224.txt",
+  "job_title": "腾讯会议- iOS 研发工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "移动开发",
+  "job_sub_category": "音视频",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责iOS客户端功能开发与性能优化，提升用户体验及稳定性",
+    "参与移动端架构设计，推动模块化开发与工程效能提升",
+    "移动端会中框架的研发和维护，推动音视频的应用体验优化"
+  ],
+  "required_skills": [
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Xcode",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "UIKit",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业",
+    "具备3年iOS开发经验，精通Objective-C，熟悉XCode",
+    "熟悉UIKit框架、网络协议、性能调优（内存/冷启动），有高并发场景经验。"
+  ]
+}

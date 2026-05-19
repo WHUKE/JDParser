@@ -1,0 +1,228 @@
+{
+  "source_file": "216349.txt",
+  "job_title": "app开发工程师（java）",
+  "location": "上海市",
+  "education": "不限",
+  "experience": "5-8年",
+  "experience_min": 5,
+  "experience_max": 8,
+  "job_category": "研发类",
+  "job_sub_category": "跨平台开发",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责Android平台移动应用的架构设计、开发、测试与性能优化",
+    "使用Flutter框架开发跨平台应用，提升多端代码复用率与开发效率",
+    "配合产品经理与UI/UX团队，实现高质量交互体验与功能落地",
+    "持续跟进技术动态，优化现有代码架构，解决性能瓶颈与兼容性问题",
+    "编写技术文档，参与代码评审，确保代码可维护性与团队协作效率",
+    "分析用户反馈与数据，参与产品迭代规划与技术方案选型"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android SDK",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Retrofit",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OkHttp",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Room",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Flutter",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Dart",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Provider",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "Flutter"
+    },
+    {
+      "name": "Bloc",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "Flutter"
+    },
+    {
+      "name": "Riverpod",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "Flutter"
+    },
+    {
+      "name": "跨平台混合开发模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "移动端性能优化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "domain"
+    },
+    {
+      "name": "内存泄漏分析",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "domain",
+      "parent": "移动端性能优化"
+    },
+    {
+      "name": "卡顿分析",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "domain",
+      "parent": "移动端性能优化"
+    },
+    {
+      "name": "耗电优化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "domain",
+      "parent": "移动端性能优化"
+    },
+    {
+      "name": "Android Profiler",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Instruments",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RESTful API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JSON",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Protobuf",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Jenkins",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "CI/CD"
+    },
+    {
+      "name": "Fastlane",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "CI/CD"
+    },
+    {
+      "name": "前端技术开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "即时履约技术背景",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "熟练掌握Java/Kotlin，熟悉Android SDK等主流框架（Retrofit、OkHttp、Room等）",
+    "熟悉Flutter开发：具备Dart语言实战经验，熟悉状态管理（Provider/Bloc/Riverpod等）及跨平台混合开发模式",
+    "了解移动端性能优化（内存泄漏、卡顿分析、耗电优化等），熟悉主流调试工具（Android Profiler、Instruments）",
+    "熟悉RESTful API对接，掌握JSON/Protobuf等数据交互格式；熟悉Git版本控制及CI/CD流程（Jenkins/Fastlane等）",
+    "具备5-8年APP开发工作经验，熟悉前端技术开发，有即时履约技术背景者优先；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

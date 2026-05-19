@@ -1,0 +1,260 @@
+{
+  "source_file": "495f5822-a881-4285-bf30-3bc5b1e376b1.txt",
+  "job_title": "大模型推理架构研发工程师（J95970）",
+  "location": "北京市,上海市,深圳市",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型推理优化",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度文心大模型的推理性能优化",
+    "参与飞桨深度学习平台推理框架的设计、开发和业务支持",
+    "负责深度学习框架的性能优化工作，包括功能模块在CPU/GPU上的深度优化",
+    "负责深度学习推理框架前瞻技术的跟踪调研，实现技术创新突破",
+    "参与深度学习框架的易用性优化工作，使开发者能够以更简单的方式实现各类任务",
+    "负责异构高性能计算平台的设计、研发，高性能计算库、通信库开发与优化",
+    "支持百度萝卜快跑、搜索等业务大模型的推理性能优化"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CUDA",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "独立开发能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "计算机体系结构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "汇编语言",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "深度学习框架开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FlashAttention",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PagedAttention",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Mixture of Experts",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Chunked Prefill",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AWQ",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPTQ",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SmoothQuant",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "量化算子实现",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Allreduce",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算通信重叠",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PD分离部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "目标驱动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "探索精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析与解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "知识迁移能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "PaddlePaddle",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "vLLM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TGI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SGLang",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorRT-LLM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "热爱编程，精通C++/Python，精通CUDA 编程",
+    "具有独立开发能力，精通计算机体系结构，有汇编级别开发经验，对AI算法和主流框架有丰富的应用或开发经验",
+    "了解FlashAttention、PagedAttention、MoE、Chunked Prefill 等大模型核心技术",
+    "了解常见的大模型量化算法（如AWQ、GPTQ、SmoothQuant 等）及量化算子的实现",
+    "了解大模型通信算子（如Allreduce 等）及计算通信 overlap 实现",
+    "有分离式部署（PD 分离）开发经验。",
+    "软素质：",
+    "目标驱动，并有探索精神",
+    "团队协作及沟通能力",
+    "具备分析和解决问题的能力",
+    "有极强的学习能力和知识迁移能力",
+    "具有以下条件者优先：",
+    "精通PaddlePaddle、Pytorch、TensorFlow等主流开源框架，做过源码级优化移植等工作，有 vLLM、TGI、SGLang、TensorRT-LLM等大模型推理框架的使用或优化经验"
+  ]
+}

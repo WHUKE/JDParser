@@ -1,0 +1,204 @@
+{
+  "source_file": "dd767e20-5c26-411c-8f31-5d3c9748e380.txt",
+  "job_title": "秒哒智能体-后端研发工程师（J94375）",
+  "location": "北京市,上海市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "后端开发",
+  "job_sub_category": "智能体框架",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责秒哒产品后端服务支撑工作，包括平台功能、智能体框架等需求理解，系统分析，设计及实现",
+    "深入理解业务模型，采用合适的系统架构应对多变市场环境带来的需求变动和复杂的业务模型",
+    "攻克服务中高并发，高稳定性，大数据处理，业务合规要求带来的各种挑战及技术难关",
+    "深入了解两端全流程业务，了解并掌握后端整体的系统架构，参与中台的业务架构设计与优化工作"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型推理框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "虚拟化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题排查",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "沙箱技术",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "安全隔离",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "runtime开发",
+      "proficiency": "不限",
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ClaudeCode",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ChatGPT",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型微调",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示工程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "智能体应用开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI系统架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能体生态",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、操作系统、分布式系统等相关专业背景",
+    "精通 Go/Java 中至少一种语言，具备扎实的系统编程能力",
+    "对大模型推理框架、LangChain、Agent框架有了解或实际使用经验",
+    "熟悉Linux内核、容器化（Docker、K8s）、虚拟化技术，有沙箱、安全隔离或runtime开发经验优先",
+    "具备良好的架构设计、性能调优和问题排查能力",
+    "对前沿AI系统架构与智能体生态有持续关注和浓厚兴趣",
+    "加分项：",
+    "熟练使用AI编程工具（如ClaudeCode、Cursor、ChatGPT等）提升研发效率",
+    "有大模型微调、提示工程或智能体应用开发的实战经验"
+  ]
+}

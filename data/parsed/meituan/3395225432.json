@@ -1,0 +1,170 @@
+{
+  "source_file": "3395225432.txt",
+  "job_title": "办公网络运营专家",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "办公网络运维",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责办公职场网络规划建设，包括需求分析、方案制定、网络设备安装、配置、维护。",
+    "负责办公职场网络日常运维，包括网络监控和优化，处理突发事件，分析和解决疑难问题。",
+    "负责办公职场网络质量运营，识别员工用网痛点并分析和解决，满足员工用网体验。",
+    "负责办公职场网络安全管理，制定安全策略和措施，防范网络攻击和数据泄露。",
+    "负责办公职场网络改造/优化项目方案制定、按照既有标准推动实施，并持续迭代标准。"
+  ],
+  "required_skills": [
+    {
+      "name": "静态路由",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PBR",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OSPF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BGP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GRE VPN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SSL VPN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IPSec VPN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "QoS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VRRP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NQA",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BFD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ITIL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术更新意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "CCIE",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "certification"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "团队管理经验",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉静态路由/PBR/OSPF/BGP等路由协议及技术， GRE/SSL VPN/IPSec VPN等VPN技术",
+    "熟悉QoS/VRRP/NQA/BFD等IP服务保障技术原理及部署策略",
+    "熟悉ITIL流程管理理念、掌握ITIL流程管理方法",
+    "具备良好的沟通能力、团队协作能力和项目管理能力，能够有效解决问题",
+    "具备较强的学习能力和技术更新意识，能够适应工作环境的变化。",
+    "大学本科及以上学历，计算机网络相关专业优先",
+    "至少5年以上办公网运维经验，有团队管理经验者优先；具有大型园区网络规划/建设/运维经验；具有CCIE或同等资质认证；具有大型互联网从业经验"
+  ]
+}

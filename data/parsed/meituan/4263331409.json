@@ -1,0 +1,122 @@
+{
+  "source_file": "4263331409.txt",
+  "job_title": "无人车业务部-技术运营QA资深专家",
+  "location": "北京",
+  "education": "不限",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶测试",
+  "job_level": "资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责自动驾驶算法测试体系化建设，建设测试流程和测试手段",
+    "负责测试策略制定，能够分层做好问题拦截，保障交付质量",
+    "负责问题优先级和影响的判断，负责业务运营线上问题、跟进以及验证问题解决",
+    "协助整理行业对标工具/方法的基础调研，提出建设性的建议"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语音识别",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决与推进",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机/统计学/大数据等相关专业",
+    "具备良好团队管理能力与经验",
+    "完整承接项目需求，具备较强的问题解决与推进能力",
+    "良好的学习能力、出色的沟通能力与团队协作意识。",
+    "参与过复杂项目的建设过程，涉及多种不同职能团队",
+    "对算法/模型有一定了解，熟练使用Python、SQL",
+    "参与过人工智能相关领域、如自动驾驶、视觉、语音、大模型等类似业务"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source_file": "4390220120.txt",
+  "job_title": "大模型应用算法工程师",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大模型应用",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责商业增值业务场景中大模型的技术落地，支持业务目标提升",
+    "负责大模型在智能助手、电销、IM等交互式对话场景中的应用，提升场景的自动化与智能化水平，改进商家的交互体验，提升广告供给",
+    "负责大型语言模型的微调、偏好对齐、知识增强等技术探索，积极跟进AIGC业内应用趋势，包括并不限于多模态、RLHF、Agent等方向",
+    "与其他团队密切合作，包括数据工程师、前后端工程师、产品经理等，实现高质量的产品和解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "算法基础",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "算法",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BERT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型微调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型评估",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题发现能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "硕士及以上学历，计算机科学、人工智能、自然语言处理或相关专业",
+    "扎实的算法基础，熟悉自然语言处理相关理论，熟悉Transformer/BERT/GPT等基础模型结构，熟悉大模型的微调和评估方法",
+    "熟练掌握至少一种深度学习框架，如PyTorch、TensorFlow等",
+    "善于分析和发现问题，具备较强的自驱力，具有良好的沟通能力和跨团队协作能力，热衷于追求技术创新，对解决有挑战性的问题充满激情。"
+  ]
+}

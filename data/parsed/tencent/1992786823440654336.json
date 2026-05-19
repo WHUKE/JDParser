@@ -1,0 +1,156 @@
+{
+  "source_file": "1992786823440654336.txt",
+  "job_title": "元宝-后台开发工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "高并发",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责元宝AIGC应用（如文本生成、图像生成、音视频对话）的后台系统架构设计与开发，支撑高并发、低延迟的AI应用服务",
+    "基于LLM大模型能力场景，推进建设AIGC平台研发落地，支持插件接入&管理、数据飞轮pipeline等平台能力，为AI Agent的研发上线提升效率和质量",
+    "负责解决平台和服务在高并发场景下的性能优化，问题定位&解决，保障服务SLA"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RabbitMQ",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统运维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Airflow",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "eino",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机专业本科及以上学历",
+    "5年及以上后台开发经验，熟悉系统运维的基础知识，能够排查实际问题",
+    "精通GO，C++，Python开发语言中的一种或多种，熟悉常见rpc框架",
+    "熟悉微服务架构、数据库（MySQL/Redis/MongoDB）、消息队列（Kafka/RabbitMQ）及容器化技术（Docker/K8s）",
+    "有流程编排引擎（如Airflow）、LLM应用开发框架（如eino）开发经验优先，能够支持复杂AI Agent的任务链编排与管理",
+    "有责任心，能积极主动推进项目进展，具备团队协作意识，和良好的沟通能力。"
+  ]
+}

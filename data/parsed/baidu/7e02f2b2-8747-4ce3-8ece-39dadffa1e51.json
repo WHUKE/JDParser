@@ -1,0 +1,136 @@
+{
+  "source_file": "7e02f2b2-8747-4ce3-8ece-39dadffa1e51.txt",
+  "job_title": "算法工程师（J97427）",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "信贷风控",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "通过与合作方合作，通过数据挖掘、机器学习、深度学习等方法，构建ToB的信用贷款风控模型，客户分层模型",
+    "基于海量互联网行为数据，结合机器学习、深度学习等方法，挖掘金融风控相关特征，提升风控模型效果",
+    "负责信贷风控模型和特征的工程化应用，包括模型推理/监控、特征加工/更新/监控等",
+    "互联网金融、消费金融、小额贷款行业的机器学习、深度学习等领域前沿算法的研究和代码工程化实现"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大数据",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据挖掘",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "信贷风控模型构建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "特征挖掘",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型推理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型监控",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "特征加工",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "特征更新",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "特征监控",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，数学/统计、机器学习/人工智能、计算机相关专业背景",
+    "熟悉机器学习、深度学习相关理论和算法，2年以上基于大数据的机器学习算法、数据挖掘相关项目经验",
+    "熟悉信贷风控模型构建、特征挖掘流程，熟练掌握模型推理/监控、特征加工/更新/监控等流程",
+    "熟练掌握Python编程语言",
+    "自驱力强、学习能力强，易沟通，良好的团队合作精神"
+  ]
+}

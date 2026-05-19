@@ -1,0 +1,197 @@
+{
+  "source_file": "4133539472.txt",
+  "job_title": "大模型应用-数据开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大模型应用",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "与产品、业务团队紧密配合，深入企业知识挖掘场景，构建企业知识图谱、数据特征体系，并进行大模型应用规划、设计、实现。",
+    "面向企业数据资产场景的智能化赋能，抽象和归纳基于大模型的数据智能需求，为客户提供大模型应用解决方案。",
+    "负责大模型应用开发与优化，深入垂直的数据智能场景，开展大模型训练、微调、评测、反馈，确保应用效果与性能。",
+    "探索前沿AI创新技术应用，复用数据与智能平台能力，构建安全、高效的数据查询与处理链路，确保AI能力在企业数据场景落地。"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Qwen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "大模型技术"
+    },
+    {
+      "name": "DeepSeek",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "大模型技术"
+    },
+    {
+      "name": "GPT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "大模型技术"
+    },
+    {
+      "name": "模型微调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "模型微调"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "模型微调"
+    },
+    {
+      "name": "Transformer模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据构建",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型效果评估",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码习惯",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工程实现能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自主学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分享技术经验",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型应用项目经验",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "知识图谱构建",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、人工智能、数据科学等相关专业，大模型应用项目开发经验。",
+    "熟悉主流大模型及常见微调方式（如 SFT 、RLHF等），具备一定的数据构建与效果评估能力。",
+    "理解 Transformer 类模型的基本结构，熟悉Qwen、DeepSeek、GPT 等大模型应用。",
+    "熟练掌握Python/Java中一种编程语言，具备良好的编码习惯和工程实现能力。",
+    "熟悉数据建设流程和基本工作，对Hadoop、Spark、Flink、Hive等大数据生态组件有一定的了解。",
+    "具备出色的自主学习能力与自驱力，乐于分享技术经验推动团队成长。",
+    "具备大模型应用项目相关经验者优先。",
+    "有知识图谱构建经验，并成功应用于实际业务场景者优先。"
+  ]
+}

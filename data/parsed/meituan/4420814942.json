@@ -1,0 +1,157 @@
+{
+  "source_file": "4420814942.txt",
+  "job_title": "Keeta 客户端研发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "AI-Native",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责Keeta客户端AI-Native功能的架构设计与全链路研发，将LLM、Agent、RAG等AI技术以原生方式融入产品，打造智能搜索、AI助手、智能推荐、自然语言交互等AI-Native体验。",
+    "推动AI-Coding工作流落地与演进，包括基于Cursor、GitHub Copilot、Claude Code等AI编程工具的高效使用，Prompt Engineering工程实践，AI驱动代码审查与质量保障，AI工具链自动化集成。",
+    "跟进AI技术前沿趋势，将LLM、Agent、多模态等技术转化为稳定高效的工程方案，负责AI功能性能优化、稳定性保障、错误处理与监控体系建设。",
+    "构建AI-Native工程文化，带领团队学习，建立AI应用开发最佳实践，包括Prompt管理、AI功能测试、安全与合规等体系化能力。"
+  ],
+  "required_skills": [
+    {
+      "name": "Kotlin",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "客户端架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Function Calling",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent 设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI-Native应用开发",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI-Coding工作流推广",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "客户端/前端 AI 融合",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "扎实的工程能力 本科及以上学历，计算机相关专业。5 年以上工程经验，精通至少一门主流编程语言（Kotlin/Swift/TypeScript/Python 等）。对客户端或前端架构有深入理解和实战经验，能够独立负责复杂功能的架构设计与研发。",
+    "AI-Native 应用开发经验 对 AI 技术发展有浓厚兴趣，具备 AI-Native 应用的实际开发经验或强烈意愿。熟悉 LLM 应用开发的核心概念（Prompt Engineering、Function Calling、RAG、Agent 设计等），了解常用 AI 框架与平台。能够将业务需求转化为 AI 方案，而非仅仅调用 AI 接口。",
+    "AI Coding 工具链实践 熟练使用 AI 编程工具（如 Cursor、Claude Code 等）提升开发效率。理解 AI 工具的能力边界与适用场景，能够设计并推广高效的 AI-Coding 工作流。具备 Prompt Engineering 的工程化思维，能够将最佳实践沉淀为团队规范。",
+    "好奇心与学习力 具备技术自驱力和快速学习的能力。AI 领域发展迅速，我们需要能够持续跟进前沿趋势并快速转化为工程实践的人。能够主动探索新技术，并将其应用于解决实际问题。",
+    "有 AI-Native 应用从 0 到 1 的核心建设经验者优先（如智能客服、AI 助手、智能搜索、AI 内容生成等）。",
+    "有 AI-Coding 工作流在团队级别的落地推广经验者优先。",
+    "在开源社区有 AI 应用框架、AI 开发工具或相关项目贡献者优先。",
+    "有客户端/前端与 AI 能力深度融合的实践经验者优先。"
+  ]
+}

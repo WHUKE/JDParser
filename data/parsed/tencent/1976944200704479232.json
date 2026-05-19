@@ -1,0 +1,117 @@
+{
+  "source_file": "1976944200704479232.txt",
+  "job_title": "《三角洲行动》-客户端开发工程师-工具开发",
+  "location": "深圳",
+  "experience": "五年以上",
+  "job_category": "客户端开发",
+  "job_sub_category": "工具开发",
+  "job_level": "高级",
+  "responsibilities": [
+    "分析UE4编辑器的性能和崩溃问题，制定并实施优化方案",
+    "开发自定义工具和插件，提升团队工作效率",
+    "优化资源加载流程，减少等待时间，提升开发体验",
+    "与团队成员紧密合作，解决技术难题，推动项目进展"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine 4",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine 4 Editor",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 4"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "崩溃定位",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题分析与解决",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文档编写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "游戏开发热情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "扎实的C++编程基础，熟悉面向对象编程思想和设计模式",
+    "深入了解UE4引擎架构，熟悉编辑器模块和功能",
+    "丰富的性能优化和崩溃定位经验，熟悉相关分析工具和方法",
+    "良好的问题分析和解决能力，能够独立解决复杂技术问题",
+    "强烈的责任心和团队合作精神，良好的沟通能力和文档编写能力",
+    "对游戏开发充满热情，并致力于打造卓越的游戏体验。"
+  ]
+}

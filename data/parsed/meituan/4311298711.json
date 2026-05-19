@@ -1,0 +1,154 @@
+{
+  "source_file": "4311298711.txt",
+  "job_title": "无人车业务部-结构仿真工程师",
+  "location": "上海市、深圳市",
+  "education": "不限",
+  "experience": "8年",
+  "experience_min": 8,
+  "experience_max": 8,
+  "job_category": "技术类",
+  "job_sub_category": "结构仿真",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责整车及零部件仿真分析（结构强度/刚度/模态/疲劳/振动/声学/碰撞），通过AI辅助工具加速网格划分/参数优化等重复性工作",
+    "主导整车结构/碰撞安全/NVH性能开发，运用AI模型加速多轮仿真迭代，快速探索设计空间",
+    "主导结构相关试验验证，探索AI辅助仿真-试验关联分析，构建仿真结果快速校验模型",
+    "协同设计/采购/制造部门解决结构问题，通过AI辅助技术文档/报告自动生成，缩短项目交付周期",
+    "跟踪AI仿真技术前沿（SimAI/物理信息神经网络等），在团队推动AI驱动的仿真方法革新，构建AI Builder工作模式"
+  ],
+  "required_skills": [
+    {
+      "name": "结构强度分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "刚度分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模态分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "疲劳分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "振动分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "声学分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "碰撞分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NVH分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网格划分",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "参数优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "仿真-试验关联分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "试验验证",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI仿真技术",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "物理信息神经网络",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SimAI",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "传感器刚度分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "传感器振动分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "传感器结构性能分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动力电池碰撞安全分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动力电池性能分析",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "具有智驾系统传感器零部件刚度、振动分析及性能相关经验丰富者优先",
+    "具有动力电池相关碰撞安全分析及性能相关经验丰富者优先。"
+  ]
+}

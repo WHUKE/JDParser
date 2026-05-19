@@ -1,0 +1,97 @@
+{
+  "source_file": "3442672654.txt",
+  "job_title": "餐饮系统-CKA城市经理（厦门/福州/温州）",
+  "location": "厦门市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责制定并执行餐饮系统-CKA在厦门/福州业务拓展计划，实现销售目标",
+    "负责团队的组建和管理，包括招聘、培训、绩效评估等",
+    "建立并维护与客户、合作伙伴的良好关系，推动业务合作",
+    "分析市场需求和竞争对手情况，制定市场营销策略",
+    "协助解决客户问题和投诉，并提供优质的售后服务",
+    "定期向上级汇报工作进展和业绩情况"
+  ],
+  "required_skills": [
+    {
+      "name": "餐饮系统-CKA业务开发",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队管理能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "组织协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "市场分析",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "营销策划",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户服务意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "应变能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "大学本科及以上学历，具备相关专业背景",
+    "拥有5年以上餐饮系统-CKA业务开发经验，对福建市场有深入了解",
+    "具备良好的团队管理能力和组织协调能力",
+    "具备较强的市场分析和营销策划能力",
+    "具备良好的沟通能力和客户服务意识",
+    "具备较强的问题解决能力和应变能力",
+    "具备较强的学习能力和适应能力。"
+  ]
+}

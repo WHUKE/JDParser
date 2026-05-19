@@ -1,0 +1,99 @@
+{
+  "source_file": "1991009056084615168.txt",
+  "job_title": "PUBG Mobile-游戏后台开发工程师(UGC方向)-新星引力计划",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "1年",
+  "experience_min": 1,
+  "experience_max": 1,
+  "job_category": "后端开发",
+  "job_sub_category": "UGC平台",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责PUBGM项目UGC平台的后台架构设计和功能开发",
+    "负责海量用户全球同服的游戏后台开发运维攻坚",
+    "参与AIGC、推荐算法到UGC游戏项目中的运用落地",
+    "与团队成员充分沟通，紧密合作，确保项目顺利推进"
+  ],
+  "required_skills": [
+    {
+      "name": "C语言",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Lua",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，具备扎实的编程基础",
+    "精通C/C++、Lua语言，具备良好的编程习惯",
+    "熟练掌握数据结构、数据库、高并发等后台技能项，具备良好的问题解决能力",
+    "具备良好的沟通协作能力，能够承受一定的工作压力。"
+  ]
+}

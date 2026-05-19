@@ -1,0 +1,111 @@
+{
+  "source_file": "9087abdd-c0da-4aff-bab6-766c64fba2c1.txt",
+  "job_title": "【横琴】测试开发（J98745）",
+  "location": "横琴",
+  "job_category": "测试",
+  "job_sub_category": "自动化测试",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责设计和开发自动化测试框架，提升测试效率和覆盖率",
+    "编写和维护自动化测试脚本，确保产品质量和稳定性",
+    "执行功能测试、性能测试、兼容性测试等多种测试类型",
+    "与开发团队紧密合作，定位并跟踪问题，推动问题及时解决",
+    "参与产品需求分析和设计评审，提供测试角度的建议和反馈",
+    "持续优化测试流程和工具，提升测试团队整体效能"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件测试理论基础",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "测试流程与方法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化测试框架设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Selenium",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Appium",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题分析与解决",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机科学、软件工程或相关专业",
+    "熟悉至少一种编程语言，如Python、Java、C++等",
+    "具备扎实的软件测试理论基础，熟悉测试流程和方法",
+    "有自动化测试框架设计和开发经验，熟悉Selenium、Appium等测试工具",
+    "具备良好的问题分析和解决能力，能够快速定位和解决问题",
+    "良好的团队合作精神和沟通能力，能够承受一定的工作压力"
+  ]
+}

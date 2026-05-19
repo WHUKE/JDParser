@@ -1,0 +1,98 @@
+{
+  "source_file": "4395429227.txt",
+  "job_title": "办公网络服务 AI 运营专家",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "智能运维",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "提升员工用网体验：主动识别员工用网痛点，借助 AI 工具（大语言模型、智能诊断平台）对海量工单和网络日志进行自动归因分析，提炼共性问题，制定并推动落地治理优化方案，探索 AI 助手自动回复常见网络问题，降低人工介入比例持续保障员工在各办公场景下的网络使用体验。",
+    "保障网络服务质量：持续迭代办公网络生命周期（新建/扩租/零改/退场）管理流程，明确各环节标准操作手册。同时引入 AI 异常检测模型，对网络质量指标进行实时预警，实现异常流量/设备故障的预测性告警，从\"被动救火\"转向\"主动预防\"保障网络服务质量。",
+    "完善网络保障机制：完善网络服务运维规范和操作手册，夯实运维保障基本功，借助 AI 工具辅助故障复盘报告生成、根因分析总结，牵头组织故障复盘，推进长效整改。",
+    "管好网络集成商：统筹管理总部和销售职场网络服务集成商，明确人员入场和离场机制，定期组织培训；探索用 AI 工具辅助集成商服务质量评估，持续保障集成商服务交付质量。"
+  ],
+  "required_skills": [
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队沟通协调",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "流程建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SLA 制定与考核",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "ITIL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AIOps",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据可视化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI 落地意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "供应商/集成商管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、网络工程、通信等相关专业优先",
+    "至少3年以上企业级服务运营工作经验，熟悉 ITIL 或类似运维管理体系优先",
+    "有较强的数据分析能力和跨团队沟通协调能力，能制定解决方案并推动多方协作落地",
+    "具备流程建设经验，擅长 SLA 制定与考核，具备供应商/集成商管理经验优先",
+    "有 AI 工具实际应用经验者优先：包括但不限于大模型辅助分析、AIOps 平台、数据可视化工具等；具备 AI 落地意识，能快速将新工具转化为生产力"
+  ]
+}

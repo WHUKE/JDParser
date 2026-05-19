@@ -1,0 +1,121 @@
+{
+  "source_file": "3073c45d-d9a8-4b39-8062-e00c581c2e53.txt",
+  "job_title": "研发提效工程师（AI Coding）（J98543）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "运维",
+  "job_sub_category": "AI编程",
+  "job_level": "中级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "研究 AI Coding 程技术，探索端到端 AI Coding 最佳实践",
+    "调研并评估业界 AI 开发工具（Cursor、Claude Code、Codex），探索适合公司的落地方案",
+    "开发内部提效工具、插件或工作流，赋能研发团队提升开发效率",
+    "跟踪 AI + 软件工程领域前沿技术，持续迭代优化内部实践"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Codex",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术追踪能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "工具开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术博客撰写",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "开源协作",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，1 年以上开发经验",
+    "熟练使用至少一门后端开发语言（Go/Python/Java 等）",
+    "重度使用 AI 编程工具（Codex / Cursor / Claude 等），有丰富的使用经验和个人思考-具备良好的工程能力，有独立开发工具/脚本/插件的经验优先",
+    "好奇心强，主动跟踪 AI 领域最新动态，有技术博客或开源贡献优先",
+    "具备良好的沟通能力和团队协作意识"
+  ]
+}

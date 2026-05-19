@@ -1,0 +1,202 @@
+{
+  "source_file": "2a3cfd67-d8be-4b23-843c-ffa7b4ef58cf.txt",
+  "job_title": "Android逆向工程师（J97640）",
+  "location": "北京市,上海市,广州市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "安全",
+  "job_sub_category": "移动安全",
+  "job_level": "中级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责对国内外头部App的逆向分析工作",
+    "负责ARM云手机应用兼容性问题排查及解决工作",
+    "负责部分云手机仿真能力设计及开发工作",
+    "负责云手机风控态势感知系统的建设工作"
+  ],
+  "required_skills": [
+    {
+      "name": "Android逆向",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逆向分析Java代码",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Android逆向"
+    },
+    {
+      "name": "逆向分析Native代码",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Android逆向"
+    },
+    {
+      "name": "移动安全对抗",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "反编译",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "破解",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "dex脱壳",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "脱壳"
+    },
+    {
+      "name": "so脱壳",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "脱壳"
+    },
+    {
+      "name": "代码还原",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "混淆对抗",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设备指纹分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "环境检测对抗",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android Hook",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逆向分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模拟执行",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IDA",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "smali",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ARM指令集",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "汇编语言"
+    },
+    {
+      "name": "x86指令集",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "汇编语言"
+    },
+    {
+      "name": "汇编语言",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "加密算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "风控对抗",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "云手机",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "移动安全经验",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机或相关专业毕业，有移动安全相关经验者加分",
+    "有Android逆向经验，能够独立对java、so中的业务流程开展分析等工作",
+    "熟悉移动安全对抗，了解打包、反编译、破解流程，熟悉dex、so等脱壳、还原、混淆对抗",
+    "熟悉Android设备指纹、环境分析对抗；熟悉Android的Hook技术，能够完成逆向分析、HOOK、模拟执行等工作",
+    "了解静态分析工具 IDA 等逆向分析工具，熟悉 smali 、 ARM 或x86指令集和汇编语言，可以逆向分析 Java , C / C ++代码",
+    "熟悉各种常用加密解密算法，对软件安全和逆向领域有强烈爱好和耐心。有主流app风控对抗经验者优先",
+    "有云手机领域相关工作经验者优先"
+  ]
+}

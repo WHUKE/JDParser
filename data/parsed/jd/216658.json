@@ -1,0 +1,203 @@
+{
+  "source_file": "216658.txt",
+  "job_title": "Agent开发工程师",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责营销Agent技术体系的整体架构设计与演进规划，制定Agent能力演进路线图，确保其高可用、可扩展性",
+    "主导大模型微调、工具调用机制及评估监控体系的技术方案研发，构建评估与监控体系，建立Agent性能、效果与安全性的量化指标与实时看板，优化Agent在营销场景的效果与成本",
+    "推动与产品、算法、数据、前端团队紧密合作，将Agent能力转化为产品功能，并指导其开发与落地应用"
+  ],
+  "required_skills": [
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "AutoGPT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CrewAI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多智能体系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "任务规划",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "记忆管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工具调用",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型推理加速",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发策略调度",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程化落地",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent中台架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户增长",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化触达",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能选品",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "动态定价",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "投放策略",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务逻辑抽象",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI技术业务价值转化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推荐算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "搜索广告系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统集成",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能客服系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能导购系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化运营系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉主流Agent框架（如LangChain, LangGraph, AutoGPT, CrewAI等），并具备从零构建多智能体协同（Multi-Agent System）架构的实际项目经验，特别是在任务规划（Planning）、长短期记忆管理（Memory）和工具调用（Tool Use）方面有深刻见解",
+    "熟悉模型推理加速、高并发策略调度及工程化落地，有能力设计并实现可扩展、解耦的AI Agent中台架构",
+    "对电商营销全链路（如用户增长、自动化触达、智能选品、动态定价、投放策略）有深刻理解，能够将复杂的业务逻辑抽象为Agent的Task或Skill，具备将AI技术转化为业务ROI（投入产出比）的实战经验，有过智能客服、智能导购或自动化运营系统建设经验者优先",
+    "熟悉主流推荐算法或搜索广告系统，能够实现Agent与现有推荐引擎、数据中台的深度集成。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

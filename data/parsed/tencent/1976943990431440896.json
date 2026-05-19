@@ -1,0 +1,125 @@
+{
+  "source_file": "1976943990431440896.txt",
+  "job_title": "《三角洲行动》-后台开发工程师",
+  "location": "深圳",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "后端开发",
+  "job_sub_category": "微服务",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "高效完成游戏的社交、活动、商业化等各种系统的设计开发",
+    "负责高可用、高并发的微服务设计开发及重构优化",
+    "负责全球多平台多地区的系统开发、测试及版本部署相关工作",
+    "建立完善的监控和分析系统，保证业务高质量运行，并及时响应各种突发事件"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell命令",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "调试工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高可用架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析与解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "游戏行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "精通Go/C/C++的至少一种，基础扎实，具备大型项目开发经验",
+    "具备大规模高可用微服务架构设计开发经验",
+    "熟悉Linux系统、shell命令、调试工具等",
+    "熟悉TCP/IP原理，有网络编程经验",
+    "聪明好学，具备较强的分析和解决问题能力",
+    "热爱游戏行业，易于沟通协作， 自驱力强。"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "source_file": "4407900887.txt",
+  "job_title": "AI开发工程师",
+  "location": "北京市",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "构建生产级 Multi-Agent 系统，主导设计高可用、可扩展的 Agent 架构，涵盖智能调度、工具调用链路编排、长期记忆管理及上下文压缩策略，保障系统稳定性与效率。",
+    "建设端到端 RAG 系统，包括文档解析、语义 Chunking、向量索引优化、混合检索与 Rerank 模型调优，构建高性能知识增强推理 pipeline。",
+    "建立全面的 Agent 评估框架，覆盖任务完成率、工具调用准确性、安全边界等指标，驱动系统持续迭代与安全合规。",
+    "深入探索业务AI+，结合意图识别、推理规划、Query 理解与轻量级模型微调，推动 Agent 在业务中闭环落地，验证商业价值。",
+    "深入探索 AICoding 工具链核心技术基建，设计并落地 SDD、CI/CD 智能化等模块，攻克关键技术难点。",
+    "负责 AI+工程化大型复杂项目，主导里程碑拆解、技术方案设计与实施路径规划，确保高质量交付与系统可维护性。",
+    "关注 AI 工程化前沿趋势，组织技术分享与培训，推动知识沉淀与团队能力升级。"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
+    },
+    {
+      "name": "Tokenization",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
+    },
+    {
+      "name": "Sampling",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
+    },
+    {
+      "name": "Context Window Management",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM"
+    },
+    {
+      "name": "Agent Development",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Tool Calling",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "Agent Development"
+    },
+    {
+      "name": "Multi-Agent Systems",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "Agent Development"
+    },
+    {
+      "name": "Knowledge Base",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "Agent Development"
+    },
+    {
+      "name": "Context Engineering",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "Agent Development"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "RAG",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Document Parsing",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Semantic Chunking",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Vector Indexing",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Hybrid Search",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Rerank",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "AI Coding",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SDD",
+      "proficiency": "不限",
+      "category": "软件工程",
+      "skill_type": "hard",
+      "parent": "AI Coding"
+    },
+    {
+      "name": "Intelligent CI/CD",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "AI Coding"
+    },
+    {
+      "name": "Intent Recognition",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Query Understanding",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Model Fine-tuning",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Reasoning Planning",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Safety",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Agent Evaluation",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI-Driven Software Development",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "3 年以上软件工程经验，具备全栈开发能力（Python/Java后端 + React/TypeScript 前端）",
+    "有完整的 Agent 系统开发经验：工具调用、ReAct 框架、Multi-Agent 协作、知识库、上下文工程",
+    "具备敏锐的业务 Sense，善于从客户视角出发，结合技术积累与行业对标，精准分析、拆解并解决核心业务问题",
+    "深入理解 LLM 工作机制：Transformer 架构、Token 机制、采样参数、上下文窗口管理",
+    "在 AI方向有深度探索，有推动软件生产范式升级的实践经验者优先。"
+  ]
+}

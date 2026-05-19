@@ -1,0 +1,202 @@
+{
+  "source_file": "1965288140809850880.txt",
+  "job_title": "《王者荣耀》UE工具插件开发工程师",
+  "location": "成都",
+  "education": "不限",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "游戏开发",
+  "job_sub_category": "Unreal Engine插件开发",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责 Unreal Engine 5 引擎相关工具插件的设计、开发与维护，包括但不限于功能扩展、编辑器增强、第三方库集成等",
+    "使用C++和UE5引擎进行底层功能开发，包括插件技术、渲染管线优化、网络接口整合及性能瓶颈分析",
+    "与产品、设计及后端团队协作，提供技术解决方案，支持插件在游戏、虚拟仿真、VR/MR/XR等项目中的应用",
+    "针对插件和项目进行性能分析、内存管理优化及稳定性调试，确保高性能和低延迟输出",
+    "编写技术设计文档、单元测试用例，并协助解决用户在使用插件过程中遇到的技术问题"
+  ],
+  "required_skills": [
+    {
+      "name": "Unreal Engine 5",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "插件系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "编辑器扩展",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "蓝图",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "渲染管线",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "网络模块",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "插件开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MediaPipe",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SDK开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 5"
+    },
+    {
+      "name": "跨平台兼容性处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Visual Studio",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Intel VTune",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "内存泄漏检测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程调试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "3-5年以上Unreal Engine开发经验，具备从0到1的UE项目或插件开发完整生命周期经验",
+    "熟练掌握C/C++语言，有3年以上C++项目开发经验，熟悉软件工程、数据结构和算法基础",
+    "熟悉 UE5 引擎架构，包括插件系统、编辑器扩展、蓝图机制、渲染管线及网络模块",
+    "熟悉插件开发流程，包括第三方库集成（如MediaPipe）、SDK开发及跨平台兼容性处理",
+    "具备性能优化经验，能使用Visual Studio， Intel VTune等工具进行内存泄漏检测、多线程调试及性能分析。"
+  ]
+}

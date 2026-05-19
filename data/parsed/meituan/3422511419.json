@@ -1,0 +1,284 @@
+{
+  "source_file": "3422511419.txt",
+  "job_title": "办公网络 AIOps 工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "AIOps",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责职场办公网建设，参照网络架构标准完成重点项目实施，探索借助AI工具辅助网络拓扑设计、配置核查与方案评审，提升项目交付效率",
+    "保障职场网络稳定运行，使用AI辅助故障诊断，结合告警日志与AI分析实现故障快速归因，探索构建AI辅助的智能排障助手",
+    "建设统一的AIOPS自动化平台，覆盖职场网络生命周期流程、日常变更、可观测性、风险巡检和治理、故障诊断和止损等功能，实现日常操作平台化",
+    "为一线服务团队提供标准、流程规范和指导文档，借助AI工具构建网络运维知识库，提升文档生产效率和知识检索能力"
+  ],
+  "required_skills": [
+    {
+      "name": "802.11协议",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "802.11无线工作原理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "无线网络调优",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "EAP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PEAP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TLS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "企业级WiFi证书部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MAC认证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Portal认证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "802.1X认证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "静态路由",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OSPF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BGP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GRE VPN",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SSL VPN",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IPSec VPN",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "华为网络设备",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "华三网络设备",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Aruba网络设备",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UBNT网络设备",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Zabbix",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ELK Stack",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化运维",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "服务意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI技术热情",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "CCIE认证",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "certification"
+    },
+    {
+      "name": "办公网网络服务交付与运维",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大规模散点职场网络管理与运维",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PMP证书",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "certification"
+    },
+    {
+      "name": "AIOps平台使用",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能诊断应用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AIOps经验",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "网络自动化开发经验",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机或 IT 相关专业，大学本科及以上学历，5年网络建设、运维经验2， 深入了解 802.11a/b/g/n/ac/ac wave2 等 WiFi 协议，精通 802.11 无线工作原理及常见调优指标，有大型企业级 WiFi 部署及优化经验；熟悉 EAP/PEAP/TLS 等无线认证协议及企业级 WiFi 证书部署原理；熟悉 MAC 认证/Portal 认证/802.1X 认证工作原理",
+    "熟悉静态路由/OSPF/BGP 等路由协议及技术；深入了解 GRE/SSL VPN/IPSec VPN 等 VPN 技术",
+    "熟悉华为、华三、Aruba、UBNT 等厂商网络设备，能熟练完成设备配置上线",
+    "熟悉 Zabbix、ELK 等监控工具，深入了解自动化运维工具建设，对自动化运维有较好理解；有 AIOps 平台使用经验或 AI 工具（大模型/智能诊断）实际应用经验者优先",
+    "学习能力强，具备良好的沟通协作能力和服务意识；对 AI 技术有热情，能快速将新工具转化为生产力",
+    "具有CCIE及同等级认证证书优先考虑",
+    "具有大型互联网公司办公网网络服务交付、运维经验优先",
+    "具有大规模散点职场网络管理、运维经验优先",
+    "具有项目管理经验优，并具有PMP证书优先",
+    "有 AIOps、网络自动化开发经验优先"
+  ]
+}

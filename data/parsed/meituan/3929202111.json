@@ -1,0 +1,306 @@
+{
+  "source_file": "3929202111.txt",
+  "job_title": "信贷风控大模型算法专家",
+  "location": "上海市",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大模型风控",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责信贷风控大模型算法研发，推动AI从0到1落地，完成从数据构建、提示词工程、模型SFT/RL到线上部署的全链路工程实现",
+    "深度挖掘海量数据，研究大模型与传统机器学习、深度学习模型融合方案，设计端到端决策框架",
+    "负责不同业务线、不同场景下的模型体系搭建，支持业务指标达成",
+    "推动建立模型全生命周期SOP和工具平台建设，提升模型维护、管理和迭代效率"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型推理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DPO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型评估",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型部署",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "树模型算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列模型算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图模型算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "实验设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控指标体系",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨职能沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "持续学习意愿",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "安全意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "信贷风控大模型应用经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "客户画像分析",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "信贷准入与额价决策",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能体搭建",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模型后训练",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型蒸馏",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推理加速",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "3年以上风控算法/机器学习 / 深度学习/大模型相关方向工作经验，硕士及以上学历（计算机 / AI / 统计 / 金融工程相关专业），有金融风控场景经验优先",
+    "具备生产环境大模型落地经验；熟悉大模型结构、训练与推理原理；掌握 RAG / Agent 框架（LangChain / LangGraph / AutoGen）工程化应用；有 SFT / RLHF / DPO 微调经验；熟悉 Prompt Engineering；能独立完成数据处理 → 模型训练 → 评估 → 部署完整链路；有将大模型与风控场景结合的实际项目经验优先；相关顶会论文（NeurIPS / KDD / WWW / AAAI / ACL 等）优先",
+    "具备扎实的机器学习与深度学习基础（PyTorch / TensorFlow）；熟练掌握树模型、序列模型、图模型等机器学习算法，具备大模型agent框架构建、微调及强化学习经验；具备良好的工程能力（Python / SQL / Spark）；较强的数据分析与实验设计能力；对风控指标体系有深刻理解。",
+    "具备强自驱力、良好的跨职能沟通协作能力、持续学习意愿、严谨细致的安全意识。具备大模型在信贷领域垂类应用经验优先，包含客户画像、准入/额价决策场景的智能体搭建、后训练、蒸馏推理加速。"
+  ]
+}

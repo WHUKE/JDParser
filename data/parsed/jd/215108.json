@@ -1,0 +1,85 @@
+{
+  "source_file": "215108.txt",
+  "job_title": "大模型测试开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "大模型",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责项目全流程质量保证，包括需求分析、参与系统设计，制定测试计划、设计和执行测试用例，自动化用例开发，产品进度&风险把控，缺陷跟踪及定位、协助开发解决问题",
+    "负责或带领其他测试开发工程师执行项目测试，合理制定测试计划，保证产品发布质量",
+    "通过持续的测试流程和方法创新，利用工程化、体系化的思路方法，构建成熟稳定的质量保证体系，提升研发过程的质量和效率",
+    "研究探索前沿技术，改进工具链，提高测试覆盖、有效性和效率，降低维护成本"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析与处理能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主人翁意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "人工智能",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机或相关专业本科及以上学历",
+    "熟悉Java或Python语言，熟悉性能测试，有AI相关工作经验者优先。",
+    "具备很强的逻辑思维能力、问题分析和处理跟进能力",
+    "工作态度积极，对技术工作充满热情，沟通顺畅，有一定的抗压能力，具备owner精神，愿意主动负责。",
+    "符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

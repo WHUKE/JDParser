@@ -1,0 +1,160 @@
+{
+  "source_file": "216365.txt",
+  "job_title": "自动驾驶HIL平台研发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "HIL平台",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责搭建自动驾驶系统HIL软硬件相关的测试环境，包括硬件接线、板卡配置以及模型集成等，并确保其满足高性能指标监控的需求。",
+    "设计并实施自动驾驶数据（如Canbus, Camera, Lidar, GNSS）的回灌方案，确保HIL平台的算法模块执行结果的正确性符合功能指标要求。",
+    "建立完善的系统宏观以及微观性能指标的监控机制，同步设计HIL平台的MTBF监控方案并逐步落地实现。",
+    "结合数据平台以及CI/CD流水线，开发自动化测试的脚本和工具，逐步完善HIL平台整体流程的自动化能力。同步解决HIL平台使用过程中的技术问题，保障运行稳定性。"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "进程管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "操作系统"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "操作系统"
+    },
+    {
+      "name": "CPU调度策略",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "操作系统"
+    },
+    {
+      "name": "计算机体系结构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "X86架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "计算机体系结构"
+    },
+    {
+      "name": "ARM架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "计算机体系结构"
+    },
+    {
+      "name": "perf",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "kprobe",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ftrace",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "bcc",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ebpf",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "strace",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大型软件优化经验",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科或以上学历，3年以上工作经验，计算机、通信等相关专业；有2年以上自动驾驶系统HIL平台开发经验。",
+    "熟练掌握Python、C/C++编程语言；熟悉操作系统的相关知识，包括进程管理，内存管理，CPU调度策略等。",
+    "深刻理解计算机体系结构，在X86、ARM CPU架构上有丰富的系统软件设计、性能调优和研发经验。",
+    "有大型软件优化经验优先，包括 CPU、memory、I/O 、网络优化；熟悉perf、kprobe、ftrace、bcc、ebpf、strace等性能分析工具，有相关落地经验优先。",
+    "了解Linux内核并有实际的系统性能优化经验，具备内核根因问题定位的能力。",
+    "符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

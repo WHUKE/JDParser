@@ -1,0 +1,201 @@
+{
+  "source_file": "4108930158.txt",
+  "job_title": "供应商质量管理（铸造/焊接任意方向）",
+  "location": "北京市、上海市、深圳市",
+  "education": "不限",
+  "experience": "8年以上",
+  "experience_min": 8,
+  "job_category": "技术类",
+  "job_sub_category": "铸造/焊接",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "根据产品定义及品类特性，进行供应商质量准入审核及改善",
+    "输入关键质量控制指标，参与完成供应商选择，并与供应商签署质量协议",
+    "开展供应商先期质量策划，进行产品风险和问题识别并进行规避和改善，制定质量控制措施并进行有效性验证，推动供应商质量成熟度提升",
+    "组织完成量产批准，跟进量产初期质量表现并及时进行改善",
+    "系统性开展量产质量保证计划，监控供应商厂内外质量表现，进行质量绩效评价及绩效激励，开展质量绩效改善，持续提升供应商质量保障能力",
+    "组织供应商开展质量问题改善，持续提升产品质量水平"
+  ],
+  "required_skills": [
+    {
+      "name": "供应商质量管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "镁合金铸造工艺",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "焊接工艺",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "冲压工艺",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机加工工艺",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "过程管控计划",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "APQP",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PPAP",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SPC",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FMEA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MSA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品审核",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商审核",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "流程审核",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "审核计划制定",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "关键控制点识别",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "质量问题改善",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应长期出差",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI大模型工具使用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI技术关注",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "工程研发背景",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "互联网行业经验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "共享出行行业经验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "8年以上研发型制造业质量管理经验，精通供应商质量各阶段质量管理要求",
+    "精通镁合金铸造、焊接、冲压、机加工工艺过程及质量控制方法。能结合供应商的生产工艺制定过程管控计划并落地",
+    "能够独立完成S/A级项目全过程质量策划、质量标准建立、制定和输出所负责项目的完整质量需求",
+    "能够使用已经做适用性转化的五大工具（APQP、PPAP、SPC、FMEA、MSA），并能够进行符合项和有效性审核",
+    "能够搭建产品审核、供应商审核、流程审核的标准、制定审核计划、识别关键控制点，识别重大质量问题并组织改善",
+    "为人正直，良好的学习能力，善于沟通，能适应长期出差（70%以上）",
+    "有工程、研发背景的、有互联网行业或共享出行行业经验者优先。",
+    "曾使用过至少一种大模型或AI Agent工具；对AI技术发展保持关注，具备拥抱AI变革的开放态度，愿意探索人工智能在质量管理工作中的应用场景"
+  ]
+}

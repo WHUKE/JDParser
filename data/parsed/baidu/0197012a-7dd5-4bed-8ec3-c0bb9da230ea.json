@@ -1,0 +1,131 @@
+{
+  "source_file": "0197012a-7dd5-4bed-8ec3-c0bb9da230ea.txt",
+  "job_title": "【横琴】云计算测试工程师（J98746）",
+  "location": "横琴粤澳深度合作区",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "测试",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度智能云云计算业务的质量保证工作",
+    "开发测试工具和自动测试框架、自动测试脚本，进行自动化测试",
+    "根据产品需求进行测试，包括测试方案、设计、执行、BUG提交和追踪、测试报告和测试改进等",
+    "深入理解用户场景，解决项目痛点问题，优化与改进用户体验，发挥产品影响力",
+    "参与代码评审、持续集成等工作，确保代码质量和交付效率"
+  ],
+  "required_skills": [
+    {
+      "name": "软件工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "表达沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云计算",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "分布式计算",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "虚拟化",
+      "proficiency": "不限",
+      "category": "操作系统",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "良好的软件工程、数据结构、算法等基础；良好的LINUX基础",
+    "熟练地应用一下一门或几门语言：Python/JAVA",
+    "在以下领域有经验者优先考虑：云计算、分布式计算、虚拟化等",
+    "对质量保障工作有较为浓厚的兴趣",
+    "学习能力强，有较强的分析、解决问题的能力，较好的表达沟通能力",
+    "工作积极主动，能够自觉推进工作进度，有强烈的责任心"
+  ]
+}

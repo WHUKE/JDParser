@@ -1,0 +1,204 @@
+{
+  "source_file": "4242438027.txt",
+  "job_title": "电子部品供应商质量管理（SQE）",
+  "location": "深圳市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "供应商质量管理",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责电芯、电机、PogoPin、线材等电子部品的全生命周期质量管理",
+    "负责电子部品供应商的准入审核与评估，确保供应商能力和质量体系满足要求",
+    "负责电子部品规格审核和承认，拉通厂商与整机厂IQC检验标准",
+    "负责处理量产后电子部品物料质量事故的分析改善，推动闭环",
+    "定期进行供应商现场审核、变更管理和改善计划制定，推动供应链质量提升",
+    "深入了解行业动态，开发导入有竞争力的新部品",
+    "利用AI大模型辅助提升供应商管理数字化程度，提升质量管理效率与精细度"
+  ],
+  "required_skills": [
+    {
+      "name": "电芯制程知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电机制程知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PogoPin制程知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "线材制程知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商质量管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商评估",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ISO 9001",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "QSA审核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "QPA审核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "APQP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PPAP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "8D报告",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "关注细节",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "总结能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "组织协调能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推动能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习意愿",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI工具应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电芯质量管理经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Pogo Pin质量管理经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电机质量管理经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "线材质量管理经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，有新能源/智能硬件产品5年以上相关质量工作经验。",
+    "熟悉各类主要物料制程工艺及关键控制指标，特别是电芯、电机、PogoPin、线材等生产制程。",
+    "丰富的供应商质量管理及评估知识，熟悉ISO9001 质量体系要求，熟悉供应商QSA/QPA审核、APQP、PPAP、8D报告等。",
+    "能关注细节，善于学习和总结，具备良好的分析和独立解决问题能力。",
+    "有很强的组织协调推动能力，能接受长期出差。",
+    "具备AI工具应用能力和学习意愿，能通过AI提升质量管理的效率和精细度。有电芯、Pogo Pin、电机、线材部品的质量管理者经验优先"
+  ]
+}

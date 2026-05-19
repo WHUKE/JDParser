@@ -1,0 +1,165 @@
+{
+  "source_file": "3770683743.txt",
+  "job_title": "无人车业务部-测试开发(软硬件系统集成方向)",
+  "location": "北京,深圳",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶系统集成测试",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责L4自动驾驶量产软硬件系统集成测试体系的持续迭代，对量产交付过程中软硬件系统集成的版本质量负责，建立可量化的质量评估标准",
+    "深度理解整车和域控的开发节奏，制定测试计划、合理安排测试活动，推动软硬件适配缺陷在早期阶段有效拦截，降低量产交付风险",
+    "综合运用台架测试、封闭场地测试、公开道路路测等多维手段，完成自动驾驶域控及关联系统的功能/性能/稳定性测试覆盖，输出高质量测试报告",
+    "完善各质量阀点的准出标准，挖掘质量管理盲区，制定改进方案，持续优化测试流程，提升问题拦截率",
+    "参与构建自动化测试pipeline，开发或优化测试工具，提升测试效率和数据分析能力，推动测试闭环的自动化程度"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CANoe",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "量产交付流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "域控制器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "传感器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题定位能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推动能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶仿真工具链",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VIL仿真",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard",
+      "parent": "自动驾驶仿真工具链"
+    },
+    {
+      "name": "SIL仿真",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard",
+      "parent": "自动驾驶仿真工具链"
+    },
+    {
+      "name": "HIL仿真",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard",
+      "parent": "自动驾驶仿真工具链"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、电子及通信工程、车辆工程等相关专业",
+    "熟悉C++/Python/Shell，能熟练操作Linux系统；掌握CANoe等总线信号调试分析工具",
+    "对自动驾驶系统有较好的了解，熟悉自动驾驶车辆的量产交付流程，熟悉域控和传感器的可靠性要求",
+    "具备强烈的责任心、进取心及团队合作精神，有较强的问题分析、定位和项目推动能力。",
+    "具备自动驾驶仿真工具链（VIL/SIL/HIL）开发或使用经验",
+    "有一线自动驾驶公司量产测试交付经验"
+  ]
+}

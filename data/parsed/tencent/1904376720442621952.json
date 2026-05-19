@@ -1,0 +1,104 @@
+{
+  "source_file": "1904376720442621952.txt",
+  "job_title": "微信输入法-大模型算法研究员/系统工程师-nlp大模型方向",
+  "location": "北京",
+  "education": "不限",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型、NLP",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "支持微信键盘相关业务，负责LLM技术在输入法产品上的落地工作",
+    "负责微信输入法以大模型为核心的技术迭代，包括预训练、后训练（RL）、知识注入、个性化、检索增强等核心技术，提升拼音转文字、文字联想、个性化等智能水准及长期用户输入体验",
+    "探索面向高并发场景下（千万量级）的高效模型架构设计及服务于云侧/端侧的推理infra技术，提供快与准的交互体验",
+    "前沿技术方向的追踪及跟进"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NLP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前沿技术研究",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析和解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法设计与优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "具备深厚的机器学习、NLP、大模型算法基础，具备独立探索前沿技术的能力",
+    "具备良好的分析和解决问题的能力，针对具体的应用场景，能合理设计和优化算法并应用",
+    "具备较好的数据处理能力",
+    "工作认真负责，具备强合作力、沟通、推进、拿结果的能力。"
+  ]
+}

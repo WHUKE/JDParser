@@ -1,0 +1,139 @@
+{
+  "source_file": "4259292402.txt",
+  "job_title": "无人车业务部-自动驾驶决策规划算法工程师（Machine Learning Planner方向）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "1年",
+  "experience_min": 1,
+  "experience_max": 1,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶决策规划",
+  "job_level": "初级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责基于深度学习/强化学习的自动驾驶决策规划算法研发，探索数据驱动的下一代规划算法落地",
+    "结合海量人类优质驾驶数据，设计并训练基于数据驱动的轨迹规划或端到端网络，解决城市复杂场景下的交互博弈难题（如无保护左转、行人交互、拥堵加塞等），实现更加安全、高效、拟人的行驶策略",
+    "参与搭建高效的数据闭环链路，包括高价值场景数据的挖掘、清洗、自动化标注，以及模型离线/在线评测系统的开发",
+    "负责模型在车端计算平台的轻量化设计与C++工程落地，攻克模型推理延迟，确保算法的安全、实时与稳定"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程代码实现能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模仿学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列建模",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "轨迹预测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "英语",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "文献阅读能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术探索欲",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "专业背景： 计算机、自动化、机器人、人工智能等相关专业本科及以上学历。",
+    "工程基础： 扎实的工程经验和计算机基础，精通 C++ 与 Python，熟悉常用的数据结构、算法及复杂度分析，具备优秀的工程代码实现能力。",
+    "AI 技术栈： 熟练掌握 PyTorch 等主流深度学习框架。熟悉模仿学习（Imitation Learning）、强化学习（RL）、序列建模（如Transformer）、轨迹预测等相关算法。",
+    "软性素质： 良好的英语文献阅读能力，对前沿技术有强烈的探索欲；在工作中强调思考，尊重事实和逻辑；具备优秀的沟通表达和团队协作能力。"
+  ]
+}

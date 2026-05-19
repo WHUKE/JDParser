@@ -1,0 +1,116 @@
+{
+  "source_file": "216187.txt",
+  "job_title": "多模态算法工程师",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "多模态大模型",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责多模态大模型的训练工作，包括架构设计、增量预训练、post-training、RLHF等",
+    "跟踪多模态大模型领域的最新行业动态和技术发展，进行实验和调研，并将最新技术应用于物流供应链的各个环节，输出专利以及发表论文"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "QwenVL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "多模态大模型"
+    },
+    {
+      "name": "InternVL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "多模态大模型"
+    },
+    {
+      "name": "感知大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DINO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "感知大模型"
+    },
+    {
+      "name": "Jepra",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "感知大模型"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "多模态大模型落地",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "多模态大模型"
+    },
+    {
+      "name": "空间大模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VGGT",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "空间大模型"
+    },
+    {
+      "name": "Depth Anything",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "空间大模型"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、电子工程、人工智能或相关领域的硕士学位",
+    "扎实的编程能力，熟练掌握 Python 或者 C++，有实际多模态大模型落地经验优先",
+    "需要有多模态大模型经验，对常用多模态大模型架构(qwenVL，interVL)、感知大模型(dino、jepra)有深入的了解",
+    "对空间大模型如VGGT、Depth Anything等有一定的了解，并具有实际应用经验者优先考虑",
+    "在计算机领域顶级会议上发表过论文者优先符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

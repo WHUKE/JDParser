@@ -1,0 +1,209 @@
+{
+  "source_file": "216151.txt",
+  "job_title": "AI加速算法工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "模型部署与端侧优化",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "与算法团队合作，在算法设计初期参与模型结构选型，并深度参与定制和优化模型结构",
+    "将各类主流AI模型（如CNN、Transformer、LLM、VLM等）部署到机器人端侧芯片，并进行极致的性能调优",
+    "深入理解芯片硬件架构（如NPU、GPU、DSP等），利用其特性（如稀疏计算、专用指令集）实现模型的高效推理，显著提升推理速度和能效比",
+    "主导并实施模型的量化（INT8/INT4/混合精度）、剪枝、蒸馏等压缩技术，在保证模型精度损失可控的前提下，大幅降低模型体积和计算开销",
+    "跟踪业界最新的模型架构（如LLM, VLM）和端侧加速技术，探索其在机器人场景下的应用可行性，并解决落地过程中的核心技术难题"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "软件工程习惯",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "独立开发能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "模型部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorRT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ONNX",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TFLite",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ARM CPU",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NPU",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DSP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI芯片",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器人领域AI落地经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶领域AI落地经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "移动设备领域AI落地经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机，自动化，电子信息等相关专业，本科及以上学历，5年以上AI加速相关工作经验",
+    "精通C/C++/Python等编程语言，熟悉Linux开发环境，具备扎实的代码能力和良好的软件工程习惯",
+    "深入理解深度学习原理，熟悉主流深度学习框架(PyTorch/TensorFlow)，具有独立开发能力",
+    "具备实际的模型部署经验，熟悉TensorRT、ONNX、TFLite等相关端侧推理框架",
+    "拥有在嵌入式设备（如ARM CPU, NPU, DSP）或AI芯片上面向量产的AI模型部署和优化的项目实战经验",
+    "有机器人、自动驾驶、移动设备等相关领域的AI落地经验者优先符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

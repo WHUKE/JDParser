@@ -1,0 +1,85 @@
+{
+  "source_file": "38648061-cdab-4e7e-9ee3-9095ff931994.txt",
+  "job_title": "多模态算法工程师（J95130）",
+  "location": "北京市",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "多模态",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度搜索多模态检索效果优化，深度参与多模态生成式大模型的算法研发与技术创新，重点应用于智能识图、图文问答、AI解题等场景",
+    "重点研究大模型、多模态、生成式、预训练、计算机视觉及基础NLP领域的前沿研究与应用",
+    "持续跟踪学术界与工业界技术动态，探索前沿算法在搜索场景的落地，设计并实现创新性搜索策略，推动搜索技术持续进步",
+    "与产品经理、数据科学家、工程师等跨职能团队紧密协作，确保算法方案高效落地并产生实际业务价值"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机视觉",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法实现",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "多模态",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "有计算机视觉及基础NLP领域知识背景，有多模态方向相关工作经验优先",
+    "良好的编程能力和算法实现能力，熟悉至少一种深度学习框架",
+    "具备良好的沟通与团队协作能力，有较强的学习和解决问题能力"
+  ]
+}

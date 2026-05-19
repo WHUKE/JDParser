@@ -1,0 +1,162 @@
+{
+  "source_file": "4220778738.txt",
+  "job_title": "无人车业务部-静态感知算法专家",
+  "location": "北京市、深圳市",
+  "education": "硕士",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶感知",
+  "job_level": "专家",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责静态感知算法研发和工程落地，包括并不限于数据、模型、评测以及线上问题跟进和解决",
+    "设计并研发道路元素算法，包括但不限于车道线、路沿、停止线、路面标识、路口、人行道等；负责并研发规则算法（矢量化方法、时空关联跟踪融合方法）",
+    "设计并研发无图静态感知算法，包括但不限于车道拓扑、多图源融合、长时空模型以及端到端的行车引导线"
+  ],
+  "required_skills": [
+    {
+      "name": "静态感知算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "MapTR",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Lane拓扑",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多图源融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "NaviModel",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "静态元素关联融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CNN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "良好编程习惯",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "三维感知",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶静态感知经验",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "顶会论文发表",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队领导",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法方案部署",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "硕士或以上学历，计算机、电子、应用数学等相关方向。",
+    "熟悉静态感知相关算法，MapTR系列、Lane拓扑、多图源融合、NaviModel以及静态元素关联融合。",
+    "具有良好的深度学习基础，熟悉Transformer、CNN等模型，具有实际应用的模型调优经验。",
+    "熟练掌握Python/C++，有良好的编程习惯。",
+    "对计算机视觉或三维感知有比较深入的认知和理解。",
+    "有自动驾驶静态感知实际量产经验。",
+    "在计算机视觉或机器人相关领域顶级会议或期刊发表论文。",
+    "有带领团队完成算法方案实际部署经验。"
+  ]
+}

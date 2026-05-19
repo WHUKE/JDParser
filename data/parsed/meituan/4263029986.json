@@ -1,0 +1,111 @@
+{
+  "source_file": "4263029986.txt",
+  "job_title": "无人车业务部-智能调度与路由（系统架构方向）",
+  "location": "北京市、深圳市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "调度系统",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责自动驾驶任务调度系统的整体架构设计与技术方案制定，设计高可用、高扩展性、高并发的系统架构",
+    "评估并引入调度算法、分布式框架、消息队列、数据库等技术，进行技术落地与性能调优",
+    "监控系统运行状况，分析性能瓶颈并持续优化，制定容灾、备份、灾难恢复策略",
+    "与产品、测试、运维、运营团队协作，推动架构方案落地，提供技术指导与培训",
+    "跟踪调度系统相关前沿技术和行业趋势，引入先进方案"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RabbitMQ",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大规模任务调度平台架构经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "高并发高可用系统性能优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学与技术、电子工程、自动化或相关专业本科及以上学历。",
+    "5年以上后台开发经验，3年以上系统架构设计经验，有调度系统或分布式系统架构经验者优先。",
+    "精通 Java、C/C++、Python等开发语言，具备良好的编码能力和代码习惯，能够管理复杂系统工程。",
+    "熟悉分布式系统架构、微服务、消息队列（Kafka/RabbitMQ）、缓存（Redis）、数据库（MySQL/PostgreSQL）等。  加分项： 有大规模任务调度平台（如履约系统，派单系统，打车系统）等架构设计经验。 有高并发、高可用系统的性能优化成功案例。"
+  ]
+}

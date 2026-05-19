@@ -1,0 +1,203 @@
+{
+  "source_file": "e91faeb1-6ec2-47e6-92c6-e899ac4a21c4.txt",
+  "job_title": "自动驾驶国际化服务端开发Golang工程师（J98872）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "高并发",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责自动驾驶国际化出行业务-订单调度、工单、运力或商业化系统设计和开发工作",
+    "负责实现自动驾驶国际化全无人模式运营落地，降成本提收入",
+    "通过稳定性能力建设，保障所负责方向架构合理性，打造高效稳定、可扩展性强的系统支撑能力",
+    "参与国际化业务架构设计及开发工作",
+    "负责架构稳定性、性能优化、扩展性技术研发",
+    "攻克高性能、高并发、高可用性等各种不同技术场景下的技术挑战，持续进行架构打磨优化"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时间管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "流程意识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务效果评估",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "稳定性意识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "方案评估",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "网约车业务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "外卖业务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "产品理解能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "大型系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "国际化业务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "英语",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "language"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，3年以上后端开发经验（初级、资深均可）",
+    "精通Linux/Unix平台上的编程，熟练使用GO语言进行开发",
+    "熟悉Mysql，丰富的数据库设计和性能优化能力，熟悉常用Nosql系统（Redis、Mongodb等至少一种）",
+    "学习能力强，拥有优秀的逻辑思维能力，资深工程能力背景，良好的时间和流程意识",
+    "有较强的学习能力和沟通能力，具备良好的团队合作精神",
+    "业务敏感度高，能够积极主动进行业务数据分析持续评估和优化业务效果；稳定性意识强，充分评估和考虑方案合理性以及可扩展性",
+    "有网约车/外卖业务工作经验优先，有较强的产品理解能力；互联网大型服务端设计和优化工作经验优先",
+    "有国际化业务背景优先，有较强的英语口语能力优先"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "source_file": "1957620406919778304.txt",
+  "job_title": "搜狗输入法-大模型算法资深专家",
+  "location": "北京",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型应用",
+  "job_level": "资深",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责输入法大模型应用的算法相关工作",
+    "负责AI Agent的设计、开发与优化，与产品和工程团队紧密合作，推进AI能力在输入法的落地",
+    "负责前沿技术的研究和探索，包括但不限于SFT、RL、Context Engineering、AI Agent Memory等，解决复杂场景下的意图识别、任务拆解、规划与执行"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型应用",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "Search",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "RL",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "Context Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "AI Agent Memory",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "意图识别",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "任务拆解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "规划与执行",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Agent"
+    },
+    {
+      "name": "大模型微调",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型应用"
+    },
+    {
+      "name": "问题分析与解决",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "服务端开发",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、人工智能、软件工程或相关专业",
+    "深入了解SFT, RAG,  Search, RL 等至少一个方向，具备独立探索前沿方向技术的能力，具备大模型开发和微调经验",
+    "有丰富的Agent开发和复杂Prompt工程调优经验，拥有实际多智能体系统项目的开发与调优经验者优先",
+    "具备良好的分析和解决问题的能力，针对具体的应用场景，能合理设计和优化算法并应用",
+    "具有较强的自驱力，对AI有足够的热情，有较好的团队协作意识和项目管理能力",
+    "【加分项】具备服务端开发经验的同学优先。"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "source_file": "215291.txt",
+  "job_title": "技术支持工程师岗",
+  "location": "江苏省",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "company_name": "京东",
+  "responsibilities": [
+    "解决系统运营过程中出现的问题，解答系统用户以及相关业务方的咨询，跟进系统问题的解决",
+    "协调系统线上验证，分析、管理日常系统问题，形成系统运营报告",
+    "综合分析系统运行状况，提出有效优化方案，促进系统提升",
+    "参与并推进系统运营工作体系化和规范化"
+  ],
+  "required_skills": [
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "服务意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "注重细节",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务系统实施",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "运营支持",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、电子商务等相关专业，本科以上学历",
+    "具备良好的数据分析能力，能够熟练使用SQL等数据分析工具",
+    "具有AI、业务系统实施、运营支持和等相关工作经验者优先",
+    "能够承受较大的工作压力；良好的团队协作精神和服务意识，细致周到的做事风格",
+    "良好的表达能力、沟通能力，能够与用户、开发、业务部门进行良好的沟通；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

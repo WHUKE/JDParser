@@ -1,0 +1,86 @@
+{
+  "source_file": "216212.txt",
+  "job_title": "算法开发工程师",
+  "location": "北京市",
+  "education": "硕士",
+  "job_category": "研发类",
+  "job_sub_category": "语音识别",
+  "company_name": "京东",
+  "responsibilities": [
+    "设计、开发和优化语音识别系统和算法",
+    "训练和评估语音识别模型，以提高准确性和性能",
+    "与跨职能团队合作，以确保语音识别解决方案与产品需求一致",
+    "研究和实现最新的语音识别技术和工具，并将其集成到现有系统中",
+    "分析系统性能，进行故障排除，并提出改进建议",
+    "撰写技术文档，记录开发过程和系统规范"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语音识别工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通技巧",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "硕士及以上学历，计算机科学、电子工程、语言学或相关领域",
+    "熟悉并擅长使用机器学习框架（如TensorFlow, PyTorch）和语音识别工具",
+    "良好的编程能力，精通Python、C++或其他相关编程语言",
+    "优秀的问题解决能力和分析能力",
+    "能够高效地在团队环境中工作，并有良好的沟通技巧。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

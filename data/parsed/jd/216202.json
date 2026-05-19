@@ -1,0 +1,146 @@
+{
+  "source_file": "216202.txt",
+  "job_title": "SQA",
+  "location": "广东省",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责新供应商开发、审核与认证（QSA/现场稽核），评估其质量能力与量产稳定性；针对核心供应商提供质量辅导，推动过程质量提升。",
+    "制定并维护IQC来料检验标准（SIP），监控来料检验执行情况；分析来料不良数据，对异常批次进行拦截、追踪与闭环处理。",
+    "定期对供应商进行过程质量审核，监督其生产过程是否符合质量标准；检查供应商关键工序的管控有效性。",
+    "对接来料/制程不良引发的客诉与内部生产问题，组织供应商召开8D会议，分析根本原因，推动纠正预防措施的制定与落地。",
+    "推动供应商应用FMEA、SPC、MSA等质量工具，完善其质量管控体系；管理供应商PPAP、CP等质量文件的提交与归档。",
+    "建立供应商质量绩效指标体系，定期进行绩效评分与分级管理，对劣质供应商进行整改或淘汰。"
+  ],
+  "required_skills": [
+    {
+      "name": "ISO9001",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "IATF16949",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PPAP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FMEA",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "8D",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SPC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MSA",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电气原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机械原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "识图能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BOM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "谈判能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "学历专业：本科及以上学历，电子工程、机械自动化、材料科学、质量管理等相关专业。",
+    "经验背景：3年以上电子元器件、精密结构件或机器人核心部件（电机、减速器、传感器）的SQA工作经验，有制造业头部企业背景优先。",
+    "专业知识：熟悉ISO9001/IATF16949质量管理体系，精通PPAP、FMEA、8D、SPC、MSA等质量工具；懂基本的电气/机械原理，能看懂图纸与BOM。",
+    "核心能力：具备极强的沟通谈判与跨部门推动能力，能有效向供应商施压并解决问题；逻辑思维严密，数据敏感度高，擅长分析与闭环。",
+    "其他要求：抗压能力强，能适应出差（供应商稽核）；工作细致负责，原则性强。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

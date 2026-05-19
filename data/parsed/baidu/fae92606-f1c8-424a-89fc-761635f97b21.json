@@ -1,0 +1,143 @@
+{
+  "source_file": "fae92606-f1c8-424a-89fc-761635f97b21.txt",
+  "job_title": "大数据引擎研发工程师（J91579）",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "大数据",
+  "job_sub_category": "分布式系统, 数据仓库",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "参与AI数据处理产品和引擎的研发与优化",
+    "构建高可靠、高性能的分布式数据处理系统，支持EB级数据计算",
+    "设计并优化数据库仓库及数据湖架构，实现流批一体、CPU/GPU混合负载计算性能的优化",
+    "探索大数据与AI的创新结合与应用"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ray",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术热情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "敏知力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工作计划性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大数据开源组件源码",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型相关经验",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG应用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机或相关专业",
+    "扎实的Java/Scala/Python编程能力，熟悉多线程、JVM调优及分布式系统设计",
+    "精通Ray、Spark等引擎，并具备底层实现理解及控制优化能力",
+    "大数据开源组件源码，大模型相关经验优先（如LLM数据处理，RAG应用）",
+    "对技术充满热情，具备敏锐的数据思维和敏知力，工作计划性强，执行力出众，责任心强"
+  ]
+}

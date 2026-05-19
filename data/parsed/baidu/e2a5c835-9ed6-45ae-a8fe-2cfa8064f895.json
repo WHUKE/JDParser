@@ -1,0 +1,168 @@
+{
+  "source_file": "e2a5c835-9ed6-45ae-a8fe-2cfa8064f895.txt",
+  "job_title": "数据库生态产品研发工程师（DTS方向）（J98315）",
+  "location": "北京市",
+  "job_category": "后端开发",
+  "job_sub_category": "数据传输",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度云数据传输服务（DTS）产品研发工作",
+    "负责对接百度集团与百度智能云各类异构数据存储系统（包括关系型数据库、分布式缓存、分布式文件系统、消息队列等）之间的结构数据、全量数据、实时增量数据的数据传输",
+    "负责传输过程中数据加工、数据校验、DDL、高可用等通用传输能力的建设",
+    "打造企业上云、大数据分析、远距离灾备等多种场景下的数据同步解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "并发编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Coding工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL binlog",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "MySQL redo log",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "高可用架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CAP理论",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Canal",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Flink-CDC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Debezium",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DataX",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kettle",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "消息队列",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "精通C++/Java/Go语言中任意一种的并发编程与网络编程，具有较强的逻辑思维能力，较好的算法和数据结构基本功。能够熟练使用一种AI Coding工具",
+    "掌握一种开源数据库（如MySQL）的数据变更获取方法（如binlog、redo log等）",
+    "对高可用架构、CAP理论等有深入理解",
+    "对Canal、Flink-CDC、debezium、DataX、Kettle等开源数据传输工具有开发经验者优先",
+    "对Kafka等消息队列原理有深入理解者优先"
+  ]
+}

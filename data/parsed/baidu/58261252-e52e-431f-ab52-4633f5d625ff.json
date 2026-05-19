@@ -1,0 +1,149 @@
+{
+  "source_file": "58261252-e52e-431f-ab52-4633f5d625ff.txt",
+  "job_title": "golang服务端研发工程师（J98491）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "后端开发",
+  "job_sub_category": "微服务",
+  "job_level": "初级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度网盘运营产品的服务端研发工作，主导核心功能的技术方案设计、编码实现与上线交付",
+    "把控研发质量，涵盖需求拆解、架构设计、技术评审、性能优化、线上问题排查等关键环节，保障系统高可用、高性能运行",
+    "持续优化现有系统，解决性能瓶颈和技术难题",
+    "紧跟LLM前沿技术，结合网盘业务场景，设计并落地智能代理相关功能，提升产品的智能化运营效率与用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构和算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "动手能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、软件工程等相关专业，1年以上Golang后端开发经验",
+    "熟悉Linux平台、网络编程、多线程编程，熟悉常用数据结构和算法，有良好的编码习惯",
+    "熟悉微服务架构，了解常用的中间件如Redis、MySQL、消息队列、ElasticSearch等，了解基本原理和优化技巧。",
+    "有ai agent相关开发工作经验优先。",
+    "对解决挑战性问题充满热情，较强的动手能力与逻辑分析能力",
+    "良好的团队合作精神，较强的沟通能力和学习能力"
+  ]
+}

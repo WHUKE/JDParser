@@ -1,0 +1,102 @@
+{
+  "source_file": "216341.txt",
+  "job_title": "后端开发工程师",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "5-10年",
+  "experience_min": 5,
+  "experience_max": 10,
+  "job_category": "研发类",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责后端开发工作，承担JAVA开发任务，通过高效编程解决业务需求，推动即时物流技术的持续优化",
+    "根据业务发展，参与设计并实现技术方案，保证系统的稳定性、可扩展性和高性能，提升用户体验",
+    "深入理解业务逻辑，与团队共同探索技术创新点，通过优化现有系统架构，提高系统质量和开发效率",
+    "与跨部门团队紧密合作，确保项目按时按质完成，达成业务目标",
+    "对业务流程进行持续跟踪，及时发现问题并提出解决方案，助力业务快速发展",
+    "积极参与技术分享和团队交流，提升个人及团队的技术能力和业务理解"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "即时物流技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、软件工程、人工智能等相关专业",
+    "具备5-10年后端开发工作经验，熟悉Java开发，有即时物流技术背景者优先",
+    "技术能力方面，要求具备扎实的编程基础，熟悉分布式系统设计，了解机器学习原理，有实际项目应用经验； 具备良好的业务敏感度，能够独立分析业务需求，提供技术解决方案",
+    "具有强烈的责任心，优秀的团队合作精神，良好的沟通能力及抗压能力",
+    "关注行业动态，积极学习新技术，不断提升个人专业能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

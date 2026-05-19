@@ -1,0 +1,137 @@
+{
+  "source_file": "200251.txt",
+  "job_title": "高级ai评测工程师",
+  "location": "北京",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "AI评测",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "独立负责AI产品评测方案设计、指标制定与实施，覆盖准确性、鲁棒性、公平性、用户体验等维度，开发自动化评测工具链，构建可复用的评测框架与基线数据集",
+    "主导全流程评测，包括数据质量评估、模型版本对比、A/B测试、线上效果监控，针对大语言模型和生成式AI等前沿方向设计专项评测方案",
+    "主导技术难点攻关，如幻觉检测、提示词对抗测试等，沉淀方法论，培训团队成员，搭建知识库，组织技术分享",
+    "与算法、产品、研发团队深度协作，推动评测结果驱动产品迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "HELM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OpenCompass",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PromptBench",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FMEval",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化平台搭建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型微调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI评测体系设计",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型评测方法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "归因分析",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队指导",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "知识传递",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "流程规范化",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "具有AI/算法测试或评测经验，计算机/人工智能相关专业背景；2 精通AI评测技术栈：熟悉主流评测框架（如HELM、OpenCompass等）及工具（如PromptBench、FMEval），掌握Python/Java，具备评测脚本开发及自动化平台搭建能力",
+    "有完整主导2个以上AI产品评测项目的经验（需在面试中详细阐述）",
+    "具备评测体系设计视角，能根据产品阶段灵活调整评测策略，优秀的逻辑分析能力，能针对模型失效场景提出可解释的归因分析，有团队指导经验，擅长知识传递与流程规范化建设，熟悉大模型微调、RAG技术原理及对应评测方法。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

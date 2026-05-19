@@ -1,0 +1,208 @@
+{
+  "source_file": "1945312873043566592.txt",
+  "job_title": "腾讯云-运维工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "运维",
+  "job_sub_category": "云原生",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责腾讯云测试环境专项工作，参与腾讯云测试环境网络规划、计算/网络/存储产品环境部署和运维治理优化",
+    "负责云原生/IASS/SASS/PASS领域云测试环境问题定位和分析，形成对应方法论，提升团队技术能力",
+    "负责测试环境运维平台需求设计、运维开发和优化，保障测试环境的可用性和稳定性",
+    "参与测试研发流程优化治理，联合测试环境和发布变更，保障腾讯云线网变更质量",
+    "参与腾讯云业务的DevOps平台工具的部署运维和相关工具运维及开发改进"
+  ],
+  "required_skills": [
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ZooKeeper",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运维工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "研发能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "全局意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "体系化思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题抽象与分解能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "体系建设能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "指标度量能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "好奇心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大型分布式系统经验",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "云原生运维经验",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "IaaS运维经验",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SRE经验",
+      "proficiency": "不限",
+      "category": "运维",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，3~5年以上相关工作经验，具有大型分布式系统或云计算领域云原生、IASS运维或SRE相关经验者优先",
+    "熟悉常见的开源技术组件（k8s、Redis、Kafka、MySQL、ZK、ES等）；熟练使用Git、CI/CD等工具",
+    "具备良好的问题分析和解决能力，能够快速定位并解决问题，熟悉Linux操作系统、网络协议及常见运维工具",
+    "具备研发能力，能通过技术手段解决运维体系的稳定性、效率、成本管理等问题",
+    "具备全局意识和体系化思维，具备复杂问题的抽象和分解能力，能识别共性问题和关键问题，进行体系建设，指标度量，结果验收等",
+    "有较好的抗压能力，具备较强的沟通和协调能力，以稳定性为目标，有效推进问题解决",
+    "有良好的团队合作能力，具备良好的自驱力，执行力，善于沟通, 对技术有强烈的好奇心。"
+  ]
+}

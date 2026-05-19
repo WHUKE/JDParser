@@ -1,0 +1,89 @@
+{
+  "source_file": "1970103114799407104.txt",
+  "job_title": "微信视频号-推荐大模型算法工程师-短剧垂类",
+  "location": "广州",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "微信视频号-推荐大模型算法工程师-短剧垂类",
+  "job_sub_category": "推荐系统",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责视频号短剧推荐算法迭代",
+    "负责策略、混排、精排、粗排、召回等链路优化",
+    "通过数据分析追踪效果，推动整体效果优化"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工作积极性",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "视频流推荐",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "广告推荐",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，硕士、博士优先，2年以上相关工作经验",
+    "有视频流推荐和广告相关经验优先",
+    "深入掌握机器学习、深度学习算法及原理",
+    "优秀的从原理源头分析问题、解决问题能力和团队合作意识",
+    "工作积极性强、沟通能力好。"
+  ]
+}

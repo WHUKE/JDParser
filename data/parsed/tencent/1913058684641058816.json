@@ -1,0 +1,126 @@
+{
+  "source_file": "1913058684641058816.txt",
+  "job_title": "元宝-安全策略分析师",
+  "location": "深圳",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "其他",
+  "job_sub_category": "大模型安全",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "基于对大模型风险的理解，建设适配业务发展的安全策略，兼顾安全与体验",
+    "对内容风险有深刻理解和敏锐洞察，持续挖掘风险并进行问题刻画，不断完善相应业务的治理规范",
+    "通过定性、定量等方法评估策略效果，不断发现问题并优化运营机制和进行策略迭代，不断提升安全效果"
+  ],
+  "required_skills": [
+    {
+      "name": "内容安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "搜索安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型精调",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示工程",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "检索增强生成",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "风险评估",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "探索欲",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "规划能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "推动能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "行业洞察力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "﻿﻿具备3年以上内容安全、搜索等行业安全经验，对内容安全风险有深入了解，有NLP经验者优先",
+    "﻿﻿对大语言模型、精调、PE、RAG等大模型技术有一定理解，对模型技术应用抱有强烈热情",
+    "﻿﻿自驱力强，对风险挖掘有较强的探索欲，能够从用户、内容等视角进行风险的挖掘和效果评估，能独立使用Python等数据分析工具者优先",
+    "﻿﻿具备一定规划和推动能力，自驱力强，乐于接受挑战，对行业发展有自己的思考。"
+  ]
+}

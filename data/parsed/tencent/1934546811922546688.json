@@ -1,0 +1,155 @@
+{
+  "source_file": "1934546811922546688.txt",
+  "job_title": "微信开放平台-算法工程师-生态治理",
+  "location": "广州",
+  "education": "硕士",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "内容安全",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "利用前沿算法技术，参与解决微信公众号与小程序平台运营相关问题",
+    "处理海量数据，构建画像特征，提升下游运营业务模型准确率",
+    "跟踪前沿技术并落地创新，结合 LLM 等技术，优化反作弊、低质量检测、内容识别等各种违规算法",
+    "构建可扩展的算法框架和工具，提升系统稳定性和灵活性",
+    "建设自动化运营流程与系统，提高平台运营效率"
+  ],
+  "required_skills": [
+    {
+      "name": "算法与数据结构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "计算机视觉",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "SQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内容治理",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐运营",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "内容安全",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、数学、统计等相关专业硕士及以上学历",
+    "扎实的算法基础，熟悉机器学习/NLP/CV/多模态技术",
+    "熟练使用Python，熟悉PyTorch/TensorFlow，掌握 C++，熟悉 linux 系统的基本操作",
+    "具备数据处理能力，熟悉 SQL/Spark/Flink优先",
+    "善于团队协作，有内容治理、推荐运营、内容安全、风控等相关经验者优先。"
+  ]
+}

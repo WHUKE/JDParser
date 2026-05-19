@@ -1,0 +1,165 @@
+{
+  "source_file": "1967489123950419968.txt",
+  "job_title": "图形算法高级工程师(上海/深圳)",
+  "location": "深圳",
+  "education": "不限",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "图形渲染",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责Android云游戏图形软硬栈的性能分析和瓶颈定位",
+    "负责基于OpenGLES/Vulkan的云游戏图形优化框架及算法的设计和实现",
+    "研发针对特定游戏的优化算法，降低游戏的计算负载，提升云游戏的用户体验、降低成本",
+    "负责竞争平台图形的性能分析"
+  ],
+  "required_skills": [
+    {
+      "name": "游戏性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "GPU工作原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图形性能分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图形性能Profiler工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RenderDoc",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "图形性能Profiler工具"
+    },
+    {
+      "name": "AMD GPA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "图形性能Profiler工具"
+    },
+    {
+      "name": "NVIDIA Nsight",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "图形性能Profiler工具"
+    },
+    {
+      "name": "Arm Graphics Analyzer",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "图形性能Profiler工具"
+    },
+    {
+      "name": "Android性能分析工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "systrace",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Android性能分析工具"
+    },
+    {
+      "name": "simpleperf",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Android性能分析工具"
+    },
+    {
+      "name": "OpenGL ES",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vulkan",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux命令与脚本编写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码安全意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "代码规范意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "具备游戏性能优化经验，尤其是游戏帧率提升相关的工程和算法经验",
+    "熟悉GPU工作原理，熟悉PC/Mobile的图形性能分析和瓶颈定位。掌握一款或多款图形性能profiler工具，不限于RenderDoc、AMD GPA、Nsight、Arm Graphics Analyzer等；掌握Android常用性能分析工具，例如systrace、simpleperf等",
+    "熟悉一个或多个图形渲染API",
+    "有Linux使用经验，熟悉Linux常用命令和脚本编写",
+    "熟悉C/C++编程语言，有良好的代码安全和代码规范意识。"
+  ]
+}

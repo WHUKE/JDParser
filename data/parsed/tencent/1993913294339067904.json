@@ -1,0 +1,85 @@
+{
+  "source_file": "1993913294339067904.txt",
+  "job_title": "无畏契约手游-游戏AI算法工程师-匹配方向",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "匹配算法",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责无畏契约手游匹配系统的算法设计和业务落地工作",
+    "实现游戏匹配相关算法开发，包括一次匹配、二次匹配等，推动算法落地与迭代",
+    "深入分析匹配系统相关体验数据，思考并指定改进策略和落地方案，持续优化玩家匹配体验，促进玩家留存与活跃度提升"
+  ],
+  "required_skills": [
+    {
+      "name": "数据挖掘",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "使命感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推进能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "迭代优化能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "游戏匹配经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "全日制硕士研究生及以上学历，计算机、数学或统计学相关专业",
+    "熟悉常用的数据挖掘、机器学习算法和深度学习算法",
+    "具备敏锐的数据分析能力",
+    "拥有较强的执行力和使命感，能快速推进方案落地，并跟进分析及迭代优化",
+    "有游戏匹配相关经验者优先。"
+  ]
+}

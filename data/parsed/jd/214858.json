@@ -1,0 +1,164 @@
+{
+  "source_file": "214858.txt",
+  "job_title": "产品经理",
+  "location": "广东省",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "无人机",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责无人机指挥控制系统市场调研，跟踪行业动态与技术趋势，为产品战略提供决策支持",
+    "主导产品规划与设计，制定发展路线图，完成功能设计、原型及PRD撰写，协同研发评估技术可行性",
+    "负责产品项目推进与管理，制定项目计划，协调跨部门资源，确保项目按时交付并解决风险问题",
+    "负责产品全生命周期管理，与研发、设计、测试、市场、销售、售后等部门紧密协作"
+  ],
+  "required_skills": [
+    {
+      "name": "无人机系统工作原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "飞行控制技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据链路通信技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "指挥控制系统架构与设计理念",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "软件开发流程与方法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件开发语言与工具",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "市场洞察力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "用户需求分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Axure",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Sketch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "MindManager",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Visio",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Jira",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Trello",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Excel",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "无人机产品经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "指挥控制系统产品经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "学历与专业背景：本科及以上学历，计算机科学、电子工程、通信工程、自动化、航空航天等相关专业优先，扎实的专业知识有助于理解和解决产品涉及的技术问题。​",
+    "工作经验：具有 3 年以上产品管理经验，有无人机相关产品或指挥控制系统产品经验者优先。熟悉产品从需求调研、规划设计到上线运营的全生命周期管理流程，具备丰富的项目管理经验，能够有效推动项目的顺利实施。​技术知识：深入了解无人机系统的工作原理、飞行控制技术、数据链路通信技术等相关知识，熟悉指挥控制系统的架构与设计理念。掌握软件开发流程与方法，了解常见的软件开发语言和工具，能够与研发团队进行有效的技术沟通。​能力素质：具备敏锐的市场洞察力和用户需求分析能力，能够准确把握市场趋势和用户痛点，提出创新性的产品解决方案工具技能：熟练掌握 Axure、Sketch、MindManager、Visio 等产品设计与原型制作工具，能够独立完成产品原型设计和需求文档编写。熟悉使用 Jira、Trello 等项目管理工具，进行项目进度跟踪与任务管理。具备一定的数据分析能力，熟练使用 Excel、SQL 等数据分析工具，能够通过数据分析为产品决策提供支持。​符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

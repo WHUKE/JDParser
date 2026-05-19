@@ -1,0 +1,168 @@
+{
+  "source_file": "a1dee580-79a5-42b8-aac3-4860e123cc87.txt",
+  "job_title": "大模型平台后端研发工程师（J98484）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "后端开发",
+  "job_sub_category": "大模型平台",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "参与百度千帆大模型平台模型服务工程相关系统的开发和支持，推理服务架构稳定性、性能优化、扩展性技术研发",
+    "参与百度千帆大模型平台数据工程相关系统的开发和支持，提升平台的数据处理能力",
+    "将AI前沿技术应用到各个垂直行业，负责相关应用工程配套开发",
+    "参与大模型相关前沿技术调研和创新能力落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法实现能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文档撰写能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "代码风格",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "质量意识",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立开发能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术迁移能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析与解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型推理工程",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机及相关专业本科及以上学历，二年以上后端开发经验",
+    "熟悉Golang 、 python语言编程；有较强的编程、算法实现、文档撰写能力，具有良好的代码风格和质量意识，能独立完成算法和工程应用模块的设计、开发、测试和应用",
+    "精通Linux平台编程，熟悉docker、k8s相关组件和操作，熟悉Spark/Fink等大规模数据处理框架者优先",
+    "有LLM真实大规模推理工程架构经验者优先",
+    "具有良好的团队合作和协调沟通能力，学习能力和自我驱动力强，具备良好的技术迁移能力和问题分析解决能力"
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "source_file": "4428189649.txt",
+  "job_title": "Agent 开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责 AI Agent 系统的架构设计与核心模块开发，包括任务规划、工具调用、记忆管理、多 Agent 协同等能力建设",
+    "深度参与 LLM 集成与推理链路优化，研究 Prompt Engineering、Function Calling、RAG 等关键技术在生产环境的落地",
+    "设计并实现 Agent 框架的核心组件（Planner、Executor、Evaluator），保障系统的稳定性、可观测性和可扩展性",
+    "与业务团队密切合作，将 Agent 能力落地到具体场景，推动从 demo 到生产环境的全流程工程化",
+    "持续跟踪 AI Agent 领域前沿进展，将有价值的技术方案引入团队"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OpenAI API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "Anthropic API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "开源模型API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "Function Calling",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "Tool Use",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CrewAI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Plan-and-Execute",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "向量检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "RAG系统设计"
+    },
+    {
+      "name": "知识库构建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "RAG系统设计"
+    },
+    {
+      "name": "上下文管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "RAG系统设计"
+    },
+    {
+      "name": "Prompt版本管理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "可观测性",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "评估体系建设",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "MCP协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多Agent协同",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大数据工具链",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源项目经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，3年以上后端或 AI 工程开发经验",
+    "扎实的工程基础，熟悉 Python / Java / Go 至少一门，能写出高质量、可维护的代码",
+    "有 LLM 应用开发实际经验，熟悉 OpenAI / Anthropic / 主流开源模型的 API 使用，了解 Function Calling、Tool Use 机制",
+    "有 Agent 框架开发或使用经验（LangGraph、AutoGen、CrewAI、或自研框架），理解 ReAct / Plan-and-Execute 等 Agent 范式",
+    "熟悉 RAG 系统设计，包括向量检索、知识库构建、上下文管理等",
+    "有生产级 AI 系统落地经验，了解 Prompt 版本管理、Trace/Log 可观测性、评估体系建设等工程实践• 有 MCP（Model Context Protocol）协议开发或集成经验• 有多 Agent 协同、Agent 编排系统设计经验• 对大数据或数据开发工具链有了解（了解即可，非必要）• 参与过开源 Agent 项目，或有自己的相关作品"
+  ]
+}

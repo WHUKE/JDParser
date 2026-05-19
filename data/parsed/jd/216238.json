@@ -1,0 +1,230 @@
+{
+  "source_file": "216238.txt",
+  "job_title": "Android开发工程师",
+  "location": "北京市",
+  "job_category": "研发类",
+  "job_sub_category": "Android开发/鸿蒙开发",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责京东金融APP安卓和鸿蒙客户端（HarmonyOS）的应用程序开发、维护和优化工作",
+    "根据产品需求，参与应用程序的设计、开发和测试等工作",
+    "与团队成员协作，解决应用程序中的问题，改进性能和用户体验",
+    "协助团队完成其他相关工作"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "不限",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "不限",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "不限",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android开发流程和工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "鸿蒙操作系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "鸿蒙开发框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ArkTs",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析问题与解决问题的能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术钻研精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "端智能开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTML",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "通用性设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨平台开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "组件复用性",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Spring AI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "LLM",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示工程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "知识图谱",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业，精通至少C/C++/Java/JavaScript中的一门语言，热爱编码且善于钻研技术细节",
+    "熟悉Android开发流程和工具",
+    "熟悉Java和Kotlin编程语言，熟悉Android应用开发的基础知识和技术",
+    "熟悉鸿蒙操作系统及其开发框架，有ArkTs开发经验",
+    "具备良好的分析问题和解决问题的能力",
+    "有强烈的责任心和团队合作精神。加分项：",
+    "有端智能开发经验者优先",
+    "熟悉前端开发技术，包括HTML、CSS、JavaScript等",
+    "在通用型、跨平台和复用性方面有深刻理解优先",
+    "熟悉主流的AI Agent开发框架（Spring AI/LangChain/LangGraph等），对AI大模型应用保持强烈的求知欲，掌握LLM、提示工程、RAG、知识图谱、SFT等技术的开发者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

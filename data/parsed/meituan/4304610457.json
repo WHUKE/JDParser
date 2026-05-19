@@ -1,0 +1,110 @@
+{
+  "source_file": "4304610457.txt",
+  "job_title": "无人车业务部-决策规划模型算法资深经理",
+  "location": "北京市、深圳市",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "决策规划",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责提升自动驾驶行为模型的交互能力，构建面向交互博弈的闭环训练算法与高效数据利用方案，交付安全高效的交互模型，提升车辆在复杂场景下的自主决策能力。"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据闭环",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模仿学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列建模",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "预测模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "决策模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "无图算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "端到端算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "量产算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "交互建模",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模型评估",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "扎实工程经验和计算机算法基础，对数据闭环理解深入，",
+    "深入理解模仿学习、强化学习、序列建模等模型在决策任务中的应用",
+    "对预测、决策问题有深入理解，对交互问题建模和评估有清晰认知",
+    "预测+决策模型、无图、端到端算法经验",
+    "有量产算法经验",
+    "有强化学习经验"
+  ]
+}

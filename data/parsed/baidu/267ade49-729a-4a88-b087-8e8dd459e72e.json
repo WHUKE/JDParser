@@ -1,0 +1,70 @@
+{
+  "source_file": "267ade49-729a-4a88-b087-8e8dd459e72e.txt",
+  "job_title": "音视频技术资深研发工程师（J96463）",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "流媒体",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责规划和推进云手机推流技术架构演进和技术优化",
+    "负责云手机推流体验优化",
+    "负责推流技术性能优化",
+    "负责音视频相关功能研发"
+  ],
+  "required_skills": [
+    {
+      "name": "WebRTC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "音视频传输协议",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "音视频编码格式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术钻研精神",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机或相关专业本科及以上学历，3年以上音视频研发经验",
+    "对WebRTC技术和源码有深入研究",
+    "有音视频传输协议设计和调优经验",
+    "熟悉常见音视频编码格式",
+    "有较强的学习能力，有技术钻研精神，良好的团队协作能力"
+  ]
+}

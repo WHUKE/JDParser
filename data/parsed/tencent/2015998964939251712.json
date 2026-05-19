@@ -1,0 +1,183 @@
+{
+  "source_file": "2015998964939251712.txt",
+  "job_title": "数据中心暖通产品研发工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "其他",
+  "job_sub_category": "数据中心冷却系统",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责数据中心暖通空调系统的设计开发，包括制定技术要求、设计选型、打样、测试验证、及量产生产",
+    "协调项目经理、结构工程师、质量工程师、控制及软件工程师、采购及其它内外部合作方，确保项目按期按目标执行",
+    "使用设计和仿真方法进行系统性能的快速模拟验证",
+    "负责管理BOM制定，并配合供应链搭建部件风险控制策略",
+    "负责项目各阶段相关文档的输出及评审",
+    "评审并管理量产的工艺制造和测试验证流程，并进行现场检验",
+    "能够根据需求进行产品和技术创新",
+    "支持现场问题的诊断和根因分析，并进行产品的更新迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "压缩机设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风机设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "水泵设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "管壳式蒸发器设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "蒸发式冷凝器设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "阀门设计选型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风道管道设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AutoCAD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Creo",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "暖通产品设计国标标准",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "暖通产品测试国标标准",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "暖通产品测试验证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "测试计划制定",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "测试过程指导",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "测试结果分析",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CFD仿真",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "暖通产品制造工艺",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工艺优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "DFMEA",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "严谨认真的工作态度",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，制冷暖通相关专业",
+    "五年以上数据中心暖通产品（AHU，DX,CW，液冷等）开发设计相关经验",
+    "熟悉压缩机，风机，水泵，管壳式蒸发器，蒸发式冷凝器，阀门等相关部件的设计选型，熟悉风道管道设计",
+    "熟悉AutoCAD及任意一种三维设计软件(CREO等)，熟悉暖通产品设计及测试相关国标标准",
+    "熟悉暖通产品相关测试验证方法和流程，能制定测试计划、指导测试过程、并分析测试结果",
+    "熟悉CFD仿真模拟方法，能够独立或指导完成产品及项目模拟仿真",
+    "熟悉暖通产品制造工艺并优化产品工艺设计",
+    "熟悉产品的可靠性设计方法（DFMEA）",
+    "严谨认真的工作态度、良好的团队合作精神和沟通协调能力。"
+  ]
+}

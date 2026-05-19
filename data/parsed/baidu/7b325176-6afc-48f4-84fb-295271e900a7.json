@@ -1,0 +1,118 @@
+{
+  "source_file": "7b325176-6afc-48f4-84fb-295271e900a7.txt",
+  "job_title": "Agent算法研究员（J97360）",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "自我演进Agent",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "研究并构建新一代自我演进 Agent 系统，通过策略演化与程序生成机制，在目标明确的大规模搜索环境下实现复杂算法问题的自动化优化求解",
+    "设计支持方法迁移、经验复用与信息检索融合的长期记忆体系，提升产业级 Agent 的智能上限与执行效率",
+    "面向组合优化、时序预测、AI4Science、数学计算等高难度问题，探索更高效、更具泛化能力的算法演化机制",
+    "构建系统化评估体系与实验范式，对自我演进 Agent 的泛化性、稳定性及可迁移能力进行持续研究与验证",
+    "产出具有学术与技术影响力的研究成果和系统级落地，推动形成新一代 AI for Algorithm Discovery 研究方向"
+  ],
+  "required_skills": [
+    {
+      "name": "算法基础",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Coding",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Continuous Learning",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI+OR",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "科研能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术表达",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "创新能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨界协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "创业经历",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "从0→1技术探索经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "人工智能/计算机/运筹或相关专业硕士及以上学历，具备扎实的算法基础与系统架构能力",
+    "对自主演化系统、Agent、程序生成或复杂问题自动求解方向具有强烈兴趣与持续探索动力",
+    "关注 AI 前沿技术动态，在 AI Coding、Continuous Learning、AI+OR 等方向具备一定技术积累或独立见解",
+    "具备良好的科研能力与技术表达能力，能够在开放和探索问题开展研究和系统建设工作",
+    "保持高度创新热情，具备跨界协作意识与自驱力；有创业经历或从 0→1 技术探索经验者优先"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "source_file": "4342032148.txt",
+  "job_title": "无人车业务部-动态感知算法工程师",
+  "location": "北京市、深圳市",
+  "education": "硕士",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "动态感知",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "以业务和线上问题为导向，深入分析并解决动态感知领域的核心技术难题，负责具体模块的研发与效果打磨，包括红绿灯检测、障碍物检测与跟踪、语义与意图理解",
+    "持续推动前沿技术落地，优化以视觉为主导的感知基础模型，结合深度学习模型与算法策略双轮驱动，系统性提升MPI/MPHB等核心指标",
+    "参与感知系统架构讨论，具备从模块视角发现系统性问题、提出并落地优化方案的能力",
+    "配合上下游团队推动算法的数据驱动迭代和端到端可导能力建设"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机视觉",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "三维感知",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "动态障碍物检测",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "图像分割",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "目标跟踪",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "CNN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "L4级自动驾驶",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "动态感知系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "红绿灯检测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "红绿灯状态识别",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "计算机视觉"
+    },
+    {
+      "name": "无图感知",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多传感器融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "预测模块",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "规划模块",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "硕士及以上学历，计算机、电子、自动化、应用数学等相关专业，5 年以上相关经验。",
+    "在计算机视觉或三维感知领域有深入认知，精通动态障碍物检测、分割、跟踪等核心算法中至少一个方向。",
+    "具备良好的深度学习基础，熟悉 Transformer、CNN 等主流模型架构，有实际的模型调优和工程落地经验。",
+    "熟练掌握 Python / C++，有良好的编程习惯和代码架构意识。",
+    "具备较强的 Problem Solving 能力，能够独立分析长尾场景失效原因并推动解决。",
+    "有 L4 级自动驾驶或复杂城市场景下动态感知系统的实战落地经验。",
+    "有红绿灯检测、状态识别或无图感知相关的工程经验（加分项，非强需求）。",
+    "熟悉多传感器融合（Camera / Lidar / Radar），或对上下游预测 / 规划模块有一定了解。",
+    "在计算机视觉或机器人相关领域顶级会议 / 期刊发表过论文。"
+  ]
+}

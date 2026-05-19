@@ -1,0 +1,178 @@
+{
+  "source_file": "216264.txt",
+  "job_title": "数据BP",
+  "location": "北京市",
+  "education": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "数据仓库",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "深入理解业务战略及运营模式，承接业务侧数据需求，提供端到端的数据解决方案（包括指标体系搭建、数据建模、分析洞察等）",
+    "主动挖掘业务痛点，通过数据诊断问题并输出可落地的改善建议",
+    "梳理业务核心观测指标及分析维度，承接数据集市开发和看板建设，提升业务数字化决策效率",
+    "联动产品、数仓、算法等团队，推动数据方案高效落地，确保技术实现与业务需求无缝衔接",
+    "沉淀业务场景数据需求，拆解为标准化产品功能并推动迭代，提升数据服务复用性"
+  ],
+  "required_skills": [
+    {
+      "name": "Hive SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "Hive"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "R",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ETL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "互联网数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "金融数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务诊断",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "指标体系搭建",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据敏感度",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Hadoop",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据仓库建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据仓库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据集市建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据仓库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户画像",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "经营分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AB实验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景​：数学、统计学、计算机、软件工程、信息管理、金融工程等量化相关专业优先",
+    "技能要求​​：​",
+    "熟练使用HiveSQL进行数据开发（必须项），掌握Python/R至少一门语言（需具备ETL或建模实战经验）",
+    "熟悉大数据框架如Hadoop/Spark/Kafka/Flink等优先",
+    "有大型数据仓库和数据集市的建设及优化经验优先",
+    "有数据分析项目经验（如用户画像、经营分析、AB实验等）优先",
+    "业务能力​​：互联网/金融行业数据分析经验，具备业务诊断及指标体系0-1搭建成功案例；能快速理解业务逻辑，敏锐定位数据与业务的结合点，提供前瞻性策略支持",
+    "​​软性素质​：​",
+    "数据敏感度​​：善于从数据波动中发现问题本质，逻辑严谨且结果导向",
+    "沟通能力​​：具备优秀的需求转化能力，能精准对齐。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

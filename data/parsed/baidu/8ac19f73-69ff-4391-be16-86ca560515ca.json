@@ -1,0 +1,244 @@
+{
+  "source_file": "8ac19f73-69ff-4391-be16-86ca560515ca.txt",
+  "job_title": "IOS 研发工程师（J96163）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "移动开发",
+  "job_sub_category": "iOS应用开发",
+  "job_level": "中级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "参与秒哒移动客户端的设计和开发，保证一流的产品体验",
+    "不断优化和提升用户体验、业务性能、技术架构",
+    "快速响应线上问题，定位解决疑难杂症，并提炼最佳实践",
+    "产品 Sense 到位，积极配合产品、设计、运营等角色，为业务提供优秀的技术支持",
+    "积极关注大模型行业动态/竞品的发展，持续学习、调研先进技术，提出业务创新和改进建议并推动快速落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象编程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "应用架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "组件化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS系统架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码审查",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术文档编写",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析解决能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "挑战应对",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "持续学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "新技术探索欲",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "C/C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Dart",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "脚本语言",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源组件分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大语言模型(LLM)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AIGC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、数学等相关专业本科及以上学历，2年以上工作经验",
+    "精通Objective-C语言，能够熟练面向对象思想进行软件开发， C/C++/Swift/JavaScript/Dart/脚本等语言是 Plus 选项",
+    "对网络、数据库、多线程、内存管理、应用架构、组件化、工程化等有较好的理解和掌握，具备架构设计能力",
+    "对iOS系统构架有一定的理解，深入了解一个或多个重量级开源组件原理会更好",
+    "优秀的逻辑思维能力和分析问题、解决问题的能力，善于分析/归纳/总结/提炼问题，对解决具有挑战性问题充满激情",
+    "抗压能力强，较好的自驱力和持续学习能力，具有良好的沟通能力和良好的团队合作精神",
+    "优秀的代码能力和工程能力（如 CR/文档），对新技术有浓厚的兴趣和探索欲",
+    "对大语言模型LLM和AIGC有深入了解者优先（高度关注并摄取过大量相关知识）"
+  ]
+}

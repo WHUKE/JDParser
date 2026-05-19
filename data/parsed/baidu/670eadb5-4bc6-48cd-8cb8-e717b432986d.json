@@ -1,0 +1,168 @@
+{
+  "source_file": "670eadb5-4bc6-48cd-8cb8-e717b432986d.txt",
+  "job_title": "大模型训练研发工程师（J95973）",
+  "location": "北京市,上海市,深圳市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "深度学习",
+  "job_sub_category": "大模型训练",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "参与负责百度文心大模型的训练优化",
+    "负责百度核心产品飞桨的分布式训练功能和架构开发",
+    "参与前沿大模型训练技术和超大规模分布式训练架构技术的探索和研究",
+    "参与飞桨深度学习框架的优化工作，使开发者能够以更简单的方式实现各类任务，降低学习成本和开发成本",
+    "负责高性能计算平台的设计、研发，高性能计算库、通信库开发与优化",
+    "探索深度学习大语言模型、跨模态模型等领域的算法-工程协同优化方案",
+    "根据整体技术方案完成高质量的开发、自测及项目文档编写"
+  ],
+  "required_skills": [
+    {
+      "name": "多线程编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux/Unix开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型训练技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模型训练高性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain",
+      "parent": "大模型训练技术"
+    },
+    {
+      "name": "模型算法策略",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain",
+      "parent": "大模型训练技术"
+    },
+    {
+      "name": "集群容错",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain",
+      "parent": "大模型训练技术"
+    },
+    {
+      "name": "分析问题和解决问题的能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "理解能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "CUDA编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高性能计算优化",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习分布式训练框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "飞桨",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习分布式训练框架"
+    },
+    {
+      "name": "DeepSpeed",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习分布式训练框架"
+    },
+    {
+      "name": "Megatron",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习分布式训练框架"
+    }
+  ],
+  "raw_requirements": [
+    "热爱大模型训练技术或者深度学习框架技术",
+    "计算机软件或相关专业硕士及以上学历",
+    "有Linux/Unix下开发经验，熟悉多线程编程、网络编程",
+    "熟悉大模型训练技术（高性能，算法策略，集群容错）或优化技术熟悉CUDA编程，高性能优化者优先",
+    "了解飞桨或其他深度学习分布式训练框架技术如DeepSpeed，Megatron等经验者优先",
+    "优秀的分析问题和解决问题的能力，对解决具有挑战性问题充满激情",
+    "思路清晰，具备良好的沟通能力和理解能力",
+    "工作积极主动，具有强烈的责任心",
+    "良好的团队合作精神"
+  ]
+}

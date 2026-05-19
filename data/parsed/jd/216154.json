@@ -1,0 +1,192 @@
+{
+  "source_file": "216154.txt",
+  "job_title": "机器人整机产品经理",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "机器人产品",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导机器人行业趋势与市场需求洞察，输出产品定义与竞争策略",
+    "主导用户需求挖掘，转化为产品功能与交互设计",
+    "协同技术团队推动关键技术模块研发落地",
+    "制定并管理研发计划，确保项目按期按质交付且成本达标",
+    "负责产品全生命周期管理与商业成功",
+    "沉淀产品方法论，推动团队能力升级"
+  ],
+  "required_skills": [
+    {
+      "name": "机器人系统架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "结构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运动控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电子电气传感器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "市场分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "竞品分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户调研",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "需求管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多项目并行管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品热情与主人翁意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "追求极致",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器人产品量产经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PMP",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "certification"
+    },
+    {
+      "name": "Scrum Master",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "certification"
+    },
+    {
+      "name": "行业趋势洞察",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "技术前瞻性判断力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "对机器人行业充满热情，具备主人翁意识，主动推动问题解决，追求极致的产品体验。",
+    "机器人学、机械电子、自动化、工业设计或相关领域本科及以上学历，丰富的机器人整机产品定义或技术管理经验，有量产机器人产品经验者优先。",
+    "熟悉机器人市场格局与竞争态势，能通过用户调研、竞品分析挖掘真实需求，输出数据驱动的产品决策。",
+    "深入理解机器人系统架构，熟悉关键模块如结构、运控、电子电气传感器、AI模型等关键技术，能确保业务需求与技术实现的高效链接。",
+    "持有PMP/Scrum Master认证者优先，具备多项目并行管理能力，能高效协调资源并推动跨部门协作。",
+    "对机器人行业趋势（如具身智能、人形机器人）有深度洞察，具备技术前瞻性判断力，能结合新技术探索产品创新方向，推动技术落地为商业价值。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

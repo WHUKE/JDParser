@@ -1,0 +1,198 @@
+{
+  "source_file": "215154.txt",
+  "job_title": "软件开发工程师（训推平台）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "训推平台",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责训推平台的系统设计和研发工作",
+    "负责训推稳定性提升、训推效率提升",
+    "负责训推平台功能和体验，提升平台的产品丰富度"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Golang底层运行机制",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Golang"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes调度",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "Service",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "CNI",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "CSI",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "CPU",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPU",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式存储",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "训推平台开发经验",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Megatron",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "veRL",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ray",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "vLLM",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SGLang",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，精通Golang语言，掌握Golang的底层的运行机制，熟悉Python语言",
+    "掌握K8s基本工作原理，掌握集群调度机制、Service、Cni、Csi等知识，有训推平台开发经验的优先",
+    "了解PyTorch、Megatron、veRL、Ray、vLLM、SGLang等相关训推框架的优先",
+    "了解Cpu、Gpu等硬件，了解网络和分布式存储。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

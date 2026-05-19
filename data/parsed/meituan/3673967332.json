@@ -1,0 +1,151 @@
+{
+  "source_file": "3673967332.txt",
+  "job_title": "大模型应用算法工程师（Agent 方向）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "Agent",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "探索模型通过 RL Scaling 等方式使用成套工具解决复杂问题的行动和规划能力，包括 Human in the Loop 多轮交互下 Agent 基础建模的新方案、以及与复杂环境的交互学习能力",
+    "探索模型在 Non-Rule Based Outcome 场景下利用复杂信息进行有效推理的范式，包括 Proactive Agent 的建模方案",
+    "探索研究更多内在奖励的机制，从而激发模型主动学习和自我更新的能力",
+    "探索构建长期记忆机制，为下一代高效的推理模型、长序列推理及建模提供基础"
+  ],
+  "required_skills": [
+    {
+      "name": "强化学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语言模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "基础算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析与解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自主学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大语言模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "基础模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "世界模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、人工智能、自动化、数学、物理等相关专业",
+    "在强化学习、语言模型、机器学习等一个或多个领域有较深入的研究者",
+    "好奇心驱动，具有出色的分析、解决问题的能力，有自主探索解决方案的能力者",
+    "具有良好的沟通协作能力，对追求纯粹的技术有强烈热情，工作积极主动，能够与团队融洽合作，一起探索新技术并快速试验想法，推进技术进步。",
+    "具有优秀的基础算法、扎实的机器学习基础，熟悉 NLP、RL、ML 等领域的技术，在 NeurIPS、ICLR、ICML 等顶级会议/期刊上发表论文者优先",
+    "具有优秀的代码能力，熟练掌握 C/C++ 或 Python 编程语言，ACM/ICPC、NOI/IOl、Top Coder、Kaggle 等比赛获奖者优先",
+    "在大语言模型、基础模型、世界模型、RL，主导过大影响力项目者优先。"
+  ]
+}

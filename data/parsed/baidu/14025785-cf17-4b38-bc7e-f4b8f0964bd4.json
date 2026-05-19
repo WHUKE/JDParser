@@ -1,0 +1,102 @@
+{
+  "source_file": "14025785-cf17-4b38-bc7e-f4b8f0964bd4.txt",
+  "job_title": "Agent移动端研发工程师（J98839）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "1-5年",
+  "experience_min": 1,
+  "experience_max": 5,
+  "job_category": "移动开发",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责手机端AI智能体业务开发，参与产品设计、研发与架构",
+    "负责Android/iOS/HarmonyOS平台App前后端模块开发",
+    "持续学习AI辅助工具等新技术，快速响应敏捷迭代需求",
+    "调研LLM、Agent等技术理念，撰写技术文档"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HarmonyOS",
+      "proficiency": "不限",
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "React Native",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Flutter",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，1 ~ 5年iOS 或 Android 平台研发经验",
+    "有扎实的Java或OC语言基础，有Kotlin或Swift实际开发经验",
+    "具备React Native/Flutter 等跨平台开发经验者优先，具备 Android + iOS 跨平台实际项目经验者优先",
+    "适应力强，能快速满足需求，跟进高速敏捷迭代"
+  ]
+}

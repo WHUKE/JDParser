@@ -1,0 +1,126 @@
+{
+  "source_file": "1967856352005083136.txt",
+  "job_title": "混元AIGC算法研究员（多模态生成基模方向）（深圳/北京/上海）",
+  "location": "北京",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "多模态生成",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "从事多模态生成大模型基础模型算法训练和优化，包括图像生成、视频生成、多模态迭代生成、多模态编辑等",
+    "从事基础大模型的组建研发，如Diffusion Models、Autoregressive Models等",
+    "从事大模型数据科学的设计与实现，大模型训练和推理加速，确保基础模型的竞争力领先和顺利落地"
+  ],
+  "required_skills": [
+    {
+      "name": "深度学习算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型研发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习网络底层实现",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算子优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CPU/GPU加速",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "硬件",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "扩散模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Scaling Law",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法竞赛经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "项目实践经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、人工智能、数学等相关专业的全日制本科（优先）以上",
+    "具有扎实的深度学习算法基础，具备扎实的大模型研发经验，有扩散模型优化经验优先，有相关方向顶级论文者优先，有scaling law实践经验优先",
+    "熟悉各类深度学习网络和算子底层实现细节，训练和推理模型调优，CPU/GPU加速，分布式训练推理加速，有实操经验优先",
+    "有ACM竞赛、NOIP竞赛经历特别优先",
+    "具备较强的学习能力、沟通能力、团队合作能力，有强烈的好奇心。"
+  ]
+}

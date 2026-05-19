@@ -1,0 +1,124 @@
+{
+  "source_file": "216374.txt",
+  "job_title": "测试开发-硬件方向",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年及以上",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "硬件测试",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责参与评估硬件平台的计算性能测试、分析与落地",
+    "负责服务器可靠性及稳定性验证，OS兼容性验证",
+    "负责服务器新产品的BMC、BIOS测试验证工作",
+    "负责服务器板卡的引入测试，含内存、网卡、GPU及HBA卡等",
+    "负责服务器配套软件变更，Driver/Firmware升级的测试及版本管理",
+    "负责服务器OS、Driver及Firmware的线上问题分析处理",
+    "参与配套厂家制造品质的管理、解决产品质量问题"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机基础理论",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "服务器硬件知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "服务器硬件系统架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "英语读写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "协调能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "表达能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机或相关专业本科及以上学历，5年及以上服务器测试相关工作经验",
+    "具备计算机基础理论知识、服务器硬件知识",
+    "熟悉服务器硬件系统架构，熟练掌握Linux系统环境使用以及Shell/Python编程技能",
+    "具备完整的服务器产品测试，新产品工程化，试量产以及交付项目管理经验，良好的团队合作精神",
+    "工作认真负责，严谨细致，有较强的分析解决问题的能力",
+    "较好的英语读写水平，良好的沟通、协调和表达能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

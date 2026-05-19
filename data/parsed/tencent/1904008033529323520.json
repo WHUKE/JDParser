@@ -1,0 +1,141 @@
+{
+  "source_file": "1904008033529323520.txt",
+  "job_title": "微信小店-测试开发工程师",
+  "location": "广州",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "测试",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责微信小店产品质量保障工作，包括日常版本跟进，改进、完善研发测试过程等",
+    "参与设计、完善微信小店测试体系，包括开发相关测试工具和平台，补全测试能力，帮助业务提升测试效率和质量"
+  ],
+  "required_skills": [
+    {
+      "name": "自动化测试框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "风险把控能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "操作系统原理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP协议",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商测试",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，3 年及以上软件测试或开发经验",
+    "热爱软件测试，熟悉主流的自动化测试框架和方法，具备风险把控能力",
+    "具备扎实的程序设计基础和较强的工程能力，精通Python、Go、C/C++、Java 其中1种或多门语言",
+    "熟练掌握操作系统原理、TCP/IP、HTTP协议、数据库等基础知识",
+    "责任感强、有快速学习能力和较强的逻辑思维能力、沟通能力，能够承担工作压力",
+    "有大型电商项目测试经验者优先。"
+  ]
+}

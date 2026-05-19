@@ -1,0 +1,374 @@
+{
+  "source_file": "47001f01-c9ff-4624-ae75-b57c8d438a31.txt",
+  "job_title": "千帆桌面端Agent引擎开发（J98441）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责核心模块的技术实现，包括Agent运行引擎、工具/技能插件系统、长期记忆、多模型路由与调用",
+    "负责平台的高可用性、性能优化与稳定性建设，包括异步消息处理、状态持久化、调用限流、错误重试、监控trace、全链路日志、资源隔离等",
+    "构建多层次安全防护体系，包括sandbox、工具调用权限校验、行为监控与异常检测、human-in-the-loop审批门、人机确认高危操作、AGENTS.md式安全规则引擎、运行时策略强制执行",
+    "探索先进的Agent范式（如自主规划、自我反思、代码生成技能、多Agent协作等），解决复杂多步任务在真实场景下的落地问题",
+    "与前端、模型fine-tune/算法、产品及安全团队紧密协作，打造隐私优先、高扩展、用户友好的AI Agent体验"
+  ],
+  "required_skills": [
+    {
+      "name": "TypeScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自托管部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "消息路由",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "事件驱动架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "熔断降级",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "限流",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "认证授权",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OAuth",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "认证授权"
+    },
+    {
+      "name": "JWT",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard",
+      "parent": "认证授权"
+    },
+    {
+      "name": "系统安全",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沙箱隔离",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "系统安全"
+    },
+    {
+      "name": "HCS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "系统安全"
+    },
+    {
+      "name": "AVF访问控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "系统安全"
+    },
+    {
+      "name": "Agent攻击面",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "系统安全"
+    },
+    {
+      "name": "Prompt Injection",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Agent攻击面"
+    },
+    {
+      "name": "工具滥用",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Agent攻击面"
+    },
+    {
+      "name": "内存逃逸",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Agent攻击面"
+    },
+    {
+      "name": "文件逃逸",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Agent攻击面"
+    },
+    {
+      "name": "凭证泄露",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "Agent攻击面"
+    },
+    {
+      "name": "大模型Agent技术栈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM调用",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "Tool Calling",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "React",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "Plan-and-Execute",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "Embedding",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "向量数据库",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "大模型Agent技术栈"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rust",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自主Agent框架开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI应用平台开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "聊天机器人后端开发",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发消息系统开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，3年以上后端开发经验，熟练掌握 TypeScript/Node.js，对 JavaScript 异步编程有深入理解；熟悉 Go 或 Rust 者优先",
+    "熟悉 Docker、Kubernetes 等容器化与编排生态，具备自托管系统部署经验；熟练使用常见中间件，包括 Redis（缓存/队列）、PostgreSQL（持久化）、Kafka（消息总线）等",
+    "深入理解分布式系统与高并发架构，对消息路由、事件驱动、负载均衡、熔断降级、限流、认证授权（OAuth/JWT）有实际项目实践",
+    "具备扎实的系统安全与隔离工程经验，熟悉 AI Agent 沙箱设计与实现（Docker/HCS/AVF访问控制等），了解常见 Agent 攻击面（如 prompt injection、工具滥用、内存/文件逃逸、凭证泄露）及缓解方案，有实际落地经验者优先",
+    "对大模型 Agent 技术栈有较好认知，了解 LLM 调用、Tool Calling、ReAct/Plan-and-Execute、RAG、Embedding、向量数据库等核心概念，有相关开源项目或自研经验者优先",
+    "有自主 Agent 框架、AI 应用平台、聊天机器人后端、或高并发消息系统开发经验者优先",
+    "良好的跨团队沟通与协作能力，快速学习能力强，能够快速上手大模型生态的新工具与协议"
+  ]
+}

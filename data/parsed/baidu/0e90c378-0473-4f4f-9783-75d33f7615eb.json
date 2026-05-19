@@ -1,0 +1,197 @@
+{
+  "source_file": "0e90c378-0473-4f4f-9783-75d33f7615eb.txt",
+  "job_title": "高级算法工程师岗（J98376）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型应用开发",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责智能体Agent的设计与开发，能结合测试案例设计验证集，完成需求交付及效果评测",
+    "负责RAG知识库、Prompt、工作流编排等持续优化",
+    "负责模型部署、模型调优、模型评估等",
+    "编写技术文档，配合测试完成功能验收与上线交付"
+  ],
+  "required_skills": [
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NLP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CV算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时序预测",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型微调技术",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大语言模型原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ERNIE",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Qwen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DeepSeek",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI原生应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent搭建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流程编排",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "金融保险领域知识",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型效果优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "百度AppBuilder",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Dify",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微软Azure AI Engineer认证",
+      "proficiency": "不限",
+      "category": "认证",
+      "skill_type": "certification"
+    },
+    {
+      "name": "华为HCIE-AI认证",
+      "proficiency": "不限",
+      "category": "认证",
+      "skill_type": "certification"
+    },
+    {
+      "name": "阿里云ACA/ACP认证",
+      "proficiency": "不限",
+      "category": "认证",
+      "skill_type": "certification"
+    },
+    {
+      "name": "大模型技术咨询项目交付能力",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "学历要求：统招本科及以上学历，人工智能、计算机、数据科学、数学、电子、控制等相关专业，金融保险行业经验优先",
+    "工作经验：5年以上后端/算法开发经验，有大模型应用开发或NLP项目经验",
+    "核心技能：",
+    "精通深度学习、NLP、CV算法、时序预测及大模型微调技术",
+    "熟悉大语言模型（LLM）原理及应用开发，如ERNIE、Qwen、DeepSeek等",
+    "熟悉AI原生应用开发，能实现Agent搭建、RAG调优及流程编排项目经验",
+    "有金融保险领域NLP/CV应用、大模型效果优化经验",
+    "加分项：",
+    "有百度AppBuilder、Dify等Agent工作流平台使用经验者优先",
+    "具备微软Azure AI Engineer、华为HCIE-AI、阿里云ACA/ACP等认证优先",
+    "具备国央企或金融机构的大模型技术咨询项目交付能力优先",
+    "基本素质：",
+    "具备较强的逻辑思维能力和问题分析能力",
+    "具备良好的沟通协作能力，能与业务、前端、后端团队高效配合",
+    "对AI应用落地有热情，认可To B项目交付的工作模式"
+  ]
+}

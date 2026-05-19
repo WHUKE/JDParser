@@ -1,0 +1,177 @@
+{
+  "source_file": "4348546620.txt",
+  "job_title": "AI算法工程师-大模型搜推应用",
+  "location": "北京市/上海市",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "大模型推荐搜索",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责食杂零售搜推算法策略迭代，优化用户搜推体验，提升点击率、转化率等核心指标",
+    "应用先进技术手段，优化意图理解、召回、搜索相关性、排序、流量调控等算法模块效果，显著提升用户体验和转化效率",
+    "紧跟业界大模型、agent前沿进展，积极学习新的模型结构和agent认知，探索在食杂业务落地的可能性",
+    "与其他团队密切合作，实现高质量的产品和解决方案"
+  ],
+  "required_skills": [
+    {
+      "name": "深度学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "生成式模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "搜索算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "意图识别",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "召回算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "排序算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "搜索相关性",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "流量调控",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立工作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent落地",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型预训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "生成式搜索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "生成式推荐",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学术论文发表",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "拥有计算机、电子、通信、数学、统计学或相关专业的本科及以上学历，具备3年及以上工作经验",
+    "具备大规模深度学习、生成式模型训练开发实际经验，搜推及大模型算法专业能力扎实，善于将技术能力应用于用户需求解决",
+    "具有较强的团队协作能力和沟通能力，有较好的责任意识，能独立负责单一模块能力建设与升级，同各模块各职能方向负责人协同共建。",
+    "有过大模型应用经验，Agent落地，大模型预训练等经验，尤其生成式搜索、生成式推荐等相关项目经验者的优先",
+    "在国际顶会或核心期刊上发表过学术论文。"
+  ]
+}

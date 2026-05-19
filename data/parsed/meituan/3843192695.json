@@ -1,0 +1,127 @@
+{
+  "source_file": "3843192695.txt",
+  "job_title": "全栈/后端开发工程师（到餐销售供给）",
+  "location": "北京市",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "技术类",
+  "job_level": "中级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责到餐销售及供给业务的支撑工作，包括需求排期、任务分工、架构设计、代码开发、进度跟踪、质量保障，提升业务开发质量和开发效率",
+    "负责技术攻坚，解决开发遇到的痛点难点问题，提升页面性能和稳定性，优化改进用户体验",
+    "团队内探索普及全栈，推动研发AICoding提效和探索供应链方向AI Agent应用",
+    "关注业界大前端和AI动态，持续在团队内进行业务和技术输出"
+  ],
+  "required_skills": [
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "项目管理能力",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "React Native",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "React"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI技术探索",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工具使用能力",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "tool"
+    }
+  ],
+  "raw_requirements": [
+    "2年以上全栈/后端开发经验，主导或参与过复杂系统或项目的建设",
+    "有良好的技术储备，了解业界常见类库、框架、设计模式、解决方案，并在某一方向有深入的研究",
+    "熟练掌握全栈技术 React+Node.js/Java皆可，或者熟练掌握 Java 后端开发且对于全栈发展有热情",
+    "具备一定的项目管理能力，能承担中大型项目，通过定义清晰的目标、合理的计划、有效的过程管理、控制风险最终达成项目目标",
+    "具备良好的团队协作沟通能力，有较强的逻辑思维能力，善于分析、归纳、解决问题，持续学习和总结，自我迭代",
+    "有较强的产品和业务理解，能协同产品及业务团队持续推动产品优化、达成业务目标。",
+    "具备跨平台开发经验，对 React Native 等跨端解决方案有经验积累者优先。",
+    "热爱互联网和新技术，具有极强的快速学习能力，研究过优秀开源软件的源码并有心得者优先。",
+    "爱折腾，喜欢研究和尝试各种 AI 技术，喜欢使用工具解决问题，有极客精神者优先。"
+  ]
+}

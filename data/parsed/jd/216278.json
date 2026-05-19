@@ -1,0 +1,52 @@
+{
+  "source_file": "216278.txt",
+  "job_title": "采销岗",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5-10年",
+  "experience_min": 5,
+  "experience_max": 10,
+  "job_category": "研发类",
+  "job_sub_category": "文具产品研发",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责文具产品的市场调研与分析，根据市场趋势和消费者需求，制定产品研发与设计方案，确保产品的市场竞争力",
+    "协调内外部资源，推动文具产品从设计到上线的全流程管理，确保产品质量与交付时间",
+    "与供应商建立并维护良好的合作关系，进行供应商的选择、评估与管理，确保供应链的稳定性与成本效益"
+  ],
+  "required_skills": [
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "京东价值观",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "文具产品研发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "文具设计",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景：本科及以上学历，设计、产品研发、市场营销等相关专业优先，专业不限亦可考虑",
+    "工作经验：5-10年相关工作经验，具备文具产品研发、设计经验者优先",
+    "能力要求：具备较强的学习能力，能够快速适应行业变化，不断提升自身的专业知识和技能。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "source_file": "2001856369233387520.txt",
+  "job_title": "无畏契约手游-游戏服务器开发工程师-新星引力计划",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "后端开发",
+  "job_sub_category": "游戏服务器",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责无畏契约手游游戏服务器后台架构设计，业务逻辑系统设计和开发，性能优化等工作",
+    "负责游戏后台商业化系统等复杂业务系统的抽象与模块化设计，提升系统复用性及扩展性",
+    "负载游戏后台匹配，战斗流程等关键系统的设计，开发等工作",
+    "负责游戏服务器的运营维护和外网问题的处理"
+  ],
+  "required_skills": [
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Lua",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NoSQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机，软件，数据等相关专业",
+    "基础扎实，熟悉常用数据结构，熟悉 C/C++/shell/python/lua等一种或多种语言",
+    "熟悉Linux操作系统原理和常用工具，熟悉MySQL/NoSQL开发、网络编程",
+    "有较强的学习能力，逻辑思维能力及自驱力，良好的沟通和团队协作能力。"
+  ]
+}

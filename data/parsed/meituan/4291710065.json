@@ -1,0 +1,153 @@
+{
+  "source_file": "4291710065.txt",
+  "job_title": "无人车业务部-业务系统研发（营销、交易、履约、财务）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责无人车业务系统（客户、营销、商品、交易、履约、财务等）的技术方案设计开发",
+    "支持团队后端服务的技术架构优化提升，保障系统的健壮性和可扩展能力，保障良好的交付效率和质量"
+  ],
+  "required_skills": [
+    {
+      "name": "后台开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术路线判断",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "平台化思维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "通用化设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "客户系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "营销系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "商品系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "交易系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "履约系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "财务系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C端商流系统架构",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "配送系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "物流系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电商系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "三年以上业务系统研发相关经验，本科及以上学历",
+    "扎实的后台开发基础，对大型在线系统的工程交付有足够认知和经验",
+    "能够很好地协同业务需要和技术能力建设，具备技术路线的判断和落地能力。具备平台化思维，能够考虑通用化设计应对业务的灵活变化，服务于长期发展。",
+    "良好的沟通表达和周边协作能力，良好的学习和分析解决问题能力。",
+    "能够具备良好的团队协同能力，并能帮助团队提升对业务系统研发认知，积累经验。",
+    "具备客户、营销、商品、交易、履约、财务等系统的经验者优先。",
+    "具备C端商流的完整系统架构、研发经验者优先。",
+    "具有配送/物流/电商等业务领域开发经验者优先。"
+  ]
+}

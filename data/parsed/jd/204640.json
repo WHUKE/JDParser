@@ -1,0 +1,121 @@
+{
+  "source_file": "204640.txt",
+  "job_title": "JAVA研发（电商用增&营销方向）",
+  "location": "广东省",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "电商用增&营销",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责获客、转化、留存相关产品的需求讨论和技术方案设计，按时高质量完成需求交付",
+    "持续优化用增核心系统的架构及数据底座，提升迭代效率和数据驱动力",
+    "深度参与并发现业务、产品、流程、数据和技术架构上的痛点，协同各方解决"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户增长方法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据驱动思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "英语",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "国际化产品研发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "海外工作经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，具备中大型用增系统、电商系统或交易系统的研发经验",
+    "熟悉获客、转化、留存相关的常见方法，有这方面的技术实战",
+    "扎实的编码功底及计算机基础，熟练掌握Java技术栈（或掌握Go/C++且愿意转Java）",
+    "熟练使用数据库、缓存、队列、RPC等常见组件",
+    "靠谱的责任心，有团队协作意识，有数据驱动思维加分项：",
+    "有过国际化产品的研发经验",
+    "海外工作经验，或优秀的英语听说能力符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source_file": "1991806786004475904.txt",
+  "job_title": "应用宝-Wine 研发高级工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "其他",
+  "job_sub_category": "Wine 兼容层",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "基于 wine 框架开发 Mac M 系芯片电脑上的 exe 运行平台",
+    "负责将 Windows 游戏，应用，驱动很好的迁移到 Mac 平台上运行",
+    "负责对迁移后游戏和应用的运行性能，功耗等技术指标进行调优"
+  ],
+  "required_skills": [
+    {
+      "name": "操作系统原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C 语言",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C/C++ 开发工具链",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Windows 桌面开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "窗口管理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Windows 桌面开发"
+    },
+    {
+      "name": "消息处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Windows 桌面开发"
+    },
+    {
+      "name": "图形渲染",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Windows 桌面开发"
+    },
+    {
+      "name": "二进制文件格式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编译过程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "链接过程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "程序加载",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机/电子工程/通信相关专业",
+    "3年以上软件开发经验",
+    "熟悉操作系统原理",
+    "熟练掌握C/C++编程和对应的开发工具链",
+    "熟悉数据结构和算法，能根据具体问题灵活运用",
+    "熟悉Window桌面软件开发，了解窗口管理.消息处理和图形渲染的相关知识",
+    "熟悉程序的二进制格式.编译.链接和加载过程。"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source_file": "1968944641277579264.txt",
+  "job_title": "微信秒剪-AI 应用客户端开发工程师",
+  "location": "广州",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "客户端开发",
+  "job_sub_category": "端侧AI",
+  "job_level": "初级",
+  "responsibilities": [
+    "负责秒剪 AI 应用 iOS/Android 客户端开发维护，聚焦 AI 视频剪辑、AI 图片处理功能，攻克端侧 AI 落地、性能优化等技术难点",
+    "参与 AI 视频/图片领域专项技术调研，探索端侧 AI 模型轻量化、图像生成等前沿技术的应用可行性",
+    "参与客户端性能与稳定性体系建设，开发适配 AI 场景的测试、监测工具，保障软件质量与研发效率",
+    "推进秒剪 AI 应用端侧创新，落地端侧推理优化、端云协同智能等技术，提升产品 AI 竞争力"
+  ],
+  "required_skills": [
+    {
+      "name": "Objective-C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "文档撰写能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "单元测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "版本管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "tool"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，一年以上客户端应用开发经验；​",
+    "熟悉 Objective-C / Swift 或 Java / Kotlin ，熟悉 iOS 或 Android 开发，有扎实的算法和数据结构功底，对具体平台有深入了解，iOS 和 Android 都有经验者优先；​",
+    "具有良好的工程素养，包括但不限于文档撰写能力，单元测试能力，版本管理能力。"
+  ]
+}

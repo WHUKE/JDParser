@@ -1,0 +1,187 @@
+{
+  "source_file": "4098817057.txt",
+  "job_title": "无人车业务部-高级运维研发工程师",
+  "location": "北京/深圳",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶运维",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "参与无人车配送系统稳定性体系建设，覆盖车端软硬件可靠性、云端服务稳定性、网络通信质量和车队行为监测，设计和落地系统级保障方案",
+    "主导全系统故障召回体系建设，设计无人车队分层处置机制和工具产品，结合 AI 辅助的健康度评分模型，推动故障发现→召回→处置的全链路自动化闭环，结合车辆行为数据、云端告警和传感器日志，探索并落地 AI/ML 驱动的故障诊断能力，利用大模型辅助根因分析和 Runbook 生成，提升异常识别和响应效率",
+    "推进车队运营管理平台研发落地，建设可观测性体系（指标、日志、链路追踪），支持规模化车队的运营效率和快速恢复能力，以软件工程方法驱动运维效率提升，开发自动化工具和平台，减少人工 toil，推动系统具备更强的自愈和弹性能力",
+    "与产品、研发、算法、硬件等团队紧密合作，制定合理的 SLI/SLO/SLA 目标，建立故障复盘（Postmortem）机制，形成系统性改进闭环；持续关注 AIOps、可观测性、混沌工程等领域前沿进展，结合无人车运营场景转化落地，推动团队技术栈持续迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "Prometheus",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Grafana",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统性分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题抽象能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题定位与解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "使命感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "用户服务意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AIOps",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异常检测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AIOps"
+    },
+    {
+      "name": "故障预测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AIOps"
+    },
+    {
+      "name": "LLM Runbook",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AIOps"
+    },
+    {
+      "name": "AI编程工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "嵌入式系统",
+      "proficiency": "不限",
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "车载系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "边缘计算",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "稳定性平台",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运维平台",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、软件工程或相关理工专业，5 年以上互联网/云计算公司 SRE 或运维研发经验，有大规模分布式系统运行保障经验",
+    "熟练掌握 SRE 技术栈：Prometheus/Grafana 等监控体系、CI/CD流程等，熟练使用 Python、Golang 或 Java 等至少一门语言",
+    "具备系统性分析能力和较强的问题抽象能力，能在复杂系统中快速定位和解决问题，具有强烈的责任心、使命感和用户服务意识",
+    "有自动驾驶、机器人或嵌入式系统相关背景（车载系统、边缘计算等），有大厂 SRE 平台团队经验（稳定性平台、运维平台产品研发）优先",
+    "熟悉 AIOps 工具或有 AI/ML 应用于运维场景的实践经验（如异常检测、故障预测、LLM Runbook），有使用 AI 编程工具（如 AI 代码助手）提升工程效率的习惯和经验者优先"
+  ]
+}

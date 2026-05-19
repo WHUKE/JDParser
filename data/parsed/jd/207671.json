@@ -1,0 +1,158 @@
+{
+  "source_file": "207671.txt",
+  "job_title": "商品策略岗",
+  "location": "北京",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导汽配自主品类品牌中长期规划，推进新品开发及老品迭代全流程，包括产品提案、定位策划、文案提炼、配方跟进、包材开发、包装设计等",
+    "关注市场趋势，进行市场调研与分析，定期收集行业信息及爆品信息",
+    "数据整理与分析，基于销售数据提出产品结构优化策略",
+    "成本、定价与毛利分析，管理产品经理与产品库存",
+    "跨部门沟通，独立完成工作并提出优化建议，独立解决工作中问题"
+  ],
+  "required_skills": [
+    {
+      "name": "汽配产品知识及质量标准",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "谈判能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文字撰写能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "认真细心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "ownership",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Office/PPT办公软件",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "tool"
+    },
+    {
+      "name": "客户导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "英文",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "language"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，有3年以上知名汽配产品开发工作经验，熟悉汽配产品（油电轮等）及质量标准",
+    "具备项目管理经验：立项、开发、组织实施能力、谈判能力",
+    "具有汽修连锁店新品开发触觉，有创新意识，较好的逻辑思维能力、沟通表达能力、文字撰写、团队协作能力",
+    "工作认真细心，有ownership，团队管理能力和有责任心，抗压能力强",
+    "熟练操作office/PPT等办公软件，英文良好优先；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

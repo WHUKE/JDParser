@@ -1,0 +1,99 @@
+{
+  "source_file": "1fb3bdd3-396c-47bf-b2f2-23a32af831c4.txt",
+  "job_title": "千帆前端研发工程师（J98439）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "前端开发",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度千帆相关产品前端开发",
+    "研究业界新技术，不断优化业务技术实现",
+    "协同后端团队，满足快速稳定迭代的基本要求",
+    "协同设计团队，站在用户视角，提升产品体验"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机基础知识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Web前端技术",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rsbuild",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "状态管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "React"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "好奇心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "产品意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "统招本科及以上学历，2年以上前端研发经验",
+    "计算机基础知识扎实，精通Web前端相关技术",
+    "掌握常用的构建打包工具，如vite、rsbuild等",
+    "熟练掌握react开发框架与状态管理等生态工具",
+    "具备良好的逻辑思维能力、沟通协作能力，保持对事物的好奇心",
+    "具备一些产品sense，关注产品目标，更好的服务产品目标达成"
+  ]
+}

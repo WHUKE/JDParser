@@ -1,0 +1,185 @@
+{
+  "source_file": "4279928405.txt",
+  "job_title": "AI 数据工程师",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "技术类",
+  "job_sub_category": "大模型数据工程",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责大模型SFT/DPO/RL/RAG等训练范式的数据采集、清洗、标注与质量评估，体系化构建大模型高质量数据集生产Pipeline",
+    "探索AI for Data前沿实践：研发数据增强与智能合成技术，利用AI自动化生产和校验训练数据，构建AI生产数据→数据训练AI的数据飞轮",
+    "建设大模型训练数据体系，沉淀训练数据集、模型评测集、用户标签体系与模型效果指标体系，将业务专家经验系统性转化为可复用的AI数据资产",
+    "开发数据Agent：基于大模型与Agent框架，构建覆盖数据采集、清洗、标注、质检等环节的自动化Agent，实现数据生产流程的智能化与自主化",
+    "深度协同算法与业务团队，针对PE/RAG/SFT/DPO/RL等大模型落地方案设计专项数据解决方案，基于模型效果反馈持续迭代数据策略；积极使用Claude Code/Cursor等AI辅助研发工具，以AI原生方式提升数据工程效率"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型基本原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT（监督微调）",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DPO（直接偏好优化）",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG（检索增强生成）",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Claude Code",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "大模型API",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模型微调",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据标注体系搭建",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI数据工程",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据Agent开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化工作流开发",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模数据处理",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据Pipeline工程",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "AI能力要求：",
+    "熟悉大模型基本原理，了解 SFT/DPO/RAG 等主流训练与应用范式；有模型微调、数据标注体系搭建或 AI 数据工程实践经验者优先",
+    "了解 Agent 开发框架（如 LangChain、AutoGen 等），有数据 Agent 或自动化工作流开发经验者优先",
+    "具备 AI 工具实际使用经验，能熟练使用 Claude Code/Cursor 等 AI 辅助编程工具或大模型 API；有意愿以 AI 原生方式重构数据开发工作流",
+    "专业经验：2年以上数据开发经验，计算机或相关专业本科及以上学历，熟练掌握 SQL、Python，对数据结构与算法有较深理解；有大规模数据处理或 Pipeline 工程经验者优先",
+    "综合素质：具备优秀的沟通表达与跨团队协作能力，能在算法、业务、产品多方协作中推动数据方案落地；强自驱力，对 AI 技术发展保持持续学习的热情与好奇心"
+  ]
+}

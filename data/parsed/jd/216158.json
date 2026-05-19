@@ -1,0 +1,105 @@
+{
+  "source_file": "216158.txt",
+  "job_title": "机器人硬件测试工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "硬件测试",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "根据产品需求，定义整机质量与可靠性目标，并策划相关活动",
+    "制订各阶段硬件测试计划，不断完善测试流程、测试标准以及测试手段",
+    "带领团队执行机器人重要传感器、关键模组、板级、以及整机性能及可靠性相关测试，输出测试报告，并推动测试问题的有效解决",
+    "参与设计评审及项目节点复盘，识别潜在风险，保证产品设计质量",
+    "分析行业动态，持续改进和丰富测试规范，提高测试效率"
+  ],
+  "required_skills": [
+    {
+      "name": "温湿度箱",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "示波器",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "直流电源",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "电子负载",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "数据采集仪",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "组织能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器人硬件测试经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，电子、机械，通信、计算机、可靠性等相关专业优先",
+    "熟练操作使用温湿度箱、示波器、直流电源，电子负载、数据采集仪等设备",
+    "具有较强的逻辑思维能力，团队合作能力和沟通组织能力",
+    "有团队管理经验",
+    "有机器人硬件测试经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

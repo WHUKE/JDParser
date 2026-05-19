@@ -1,0 +1,158 @@
+{
+  "source_file": "2001330124552818688.txt",
+  "job_title": "新一代在研SLG-游戏服务器开发工程师",
+  "location": "上海",
+  "education": "本科",
+  "experience": "1-3年",
+  "experience_min": 1,
+  "experience_max": 3,
+  "job_category": "后端开发",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "参与SLG手游服务器端架构设计、核心功能模块的开发与实现，保障游戏稳定运行",
+    "进行游戏后台系统的开发、性能调优与底层代码优化，持续提升系统处理能力、稳定性和研发效率",
+    "积极与团队成员紧密沟通配合，深入理解游戏设计，以提升玩家体验为核心目标进行技术方案探索与实现",
+    "能够客观评估开发工作量，与项目经理协同制定合理的开发计划，并确保项目进度与质量目标的达成",
+    "积极响应日常运营需求，根据流程处理线上事务，协助分析和解决系统运行中出现的问题"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "脚本语言",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机基础",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "SLG游戏",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "策略类游戏",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历",
+    "拥有1-3年相关经验",
+    "具有良好的学习能力和编程习惯",
+    "熟悉linux系统下的c/c++或java开发和至少一种脚本语言",
+    "扎实的计算机基础知识，深入理解数据结构，网络，数据库，操作系统等知识",
+    "具备良好的分析、解决问题能力，及良好的沟通协作意识，能承受一定的工作压力",
+    "对SLG或策略类游戏有浓厚兴趣和深入了解者优先。"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "source_file": "1993241635936428032.txt",
+  "job_title": "服务器部件计划工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "10年以上",
+  "experience_min": 10,
+  "job_category": "其他",
+  "job_level": "专家/资深",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责腾讯服务器商用核心部件（例如CPU、GPU、DRAM、SSD、网卡等）的计划和供应管理，包括安全库存管理、备货管理、日常供应商管理工作等",
+    "负责腾讯自研核心部件的下层管理管理工作，包括从芯片到成卡的过程管理、ODM生产管理",
+    "负责腾讯部件供应商的管理，以及部件供应商和整机供应商之间的协同合作",
+    "负责腾讯部件供应管理的整体策略的制定和落地实施"
+  ],
+  "required_skills": [
+    {
+      "name": "供应链管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "服务器核心部件行业知识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "半导体制程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "半导体工艺",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "半导体流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商商业模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商布局",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ODM工厂管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "主观能动性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "激情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "仔细认真",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，10年以上供应链相关工作经验，有服务器核心部件行业相关工作经验",
+    "熟悉半导体制程、工艺、流程，熟悉主力供应商的商业模式和布局",
+    "熟悉常用的ODM工厂管理方法、供应商管理方法，并具有丰富的经验",
+    "主观能动性强，富有激情，仔细认真，责任心强",
+    "有团队管理经验优先。"
+  ]
+}

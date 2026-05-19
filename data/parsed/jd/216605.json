@@ -1,0 +1,365 @@
+{
+  "source_file": "216605.txt",
+  "job_title": "IOS工程师",
+  "location": "北京市",
+  "job_category": "研发类",
+  "job_sub_category": "iOS开发与跨端",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责iOS客户端原生功能开发，使用Swift和Objective-C，保证高性能和内存优化",
+    "使用Instruments等工具进行应用性能监控和优化，治理卡顿和启动速度问题",
+    "主导大型iOS应用架构设计，推进组件化和模块解耦，管理依赖和构建流程",
+    "负责跨端技术方案（Flutter/React Native）的落地，解决动态化和兼容性问题",
+    "集成端侧AI能力，如Core ML和A2UI，探索大模型在医疗场景的应用"
+  ],
+  "required_skills": [
+    {
+      "name": "Swift",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运行时机制",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GCD",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OperationQueue",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "线程管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "锁机制",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Instruments",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Time Profiler",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Instruments"
+    },
+    {
+      "name": "Allocations",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Instruments"
+    },
+    {
+      "name": "System Trace",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "tool",
+      "parent": "Instruments"
+    },
+    {
+      "name": "卡顿治理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "启动速度优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能监控",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模块解耦",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Router",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "模块解耦"
+    },
+    {
+      "name": "Target-Action",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "模块解耦"
+    },
+    {
+      "name": "CocoaPods",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SPM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "二进制化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "构建优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SwiftUI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Combine",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RunLoop",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "mmap",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Flutter",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React Native",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨端与原生交互原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "热更新",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动态组件",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨端性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "包体积优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "热更新兼容性",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "原生能力封装",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Core ML",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "A2UI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "医疗产品研发经验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "音视频开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型趋势关注",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "医疗场景应用",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "原生开发技能：精通Swift/Objective-C运行时机制，深入理解内存管理（ARC/MRC原理等），能系统解决循环引用、内存泄漏、OOM等复杂问题；精通多线程编程（GCD/OperationQueue底层模型、线程生命周期管理、锁竞争优化）",
+    "性能优化：掌握Instruments全套工具（Time Profiler、Allocations、System Trace等），具备卡顿治理（离屏渲染、图层混合优化）、启动速度优化（dyld、main()前优化）、内存OOM系统性解决能力，能建立量化性能监控体系",
+    "技术架构：有主导大型iOS应用组件化架构演进经验，精通模块解耦方案（Router/Target-Action等通信机制）、依赖管理（CocoaPods私有库/SPM管理）、二进制化与构建优化，深入掌握Swift高级特性，熟悉SwiftUI/Combine声明式开发范式，了解系统底层机制（RunLoop、mmap等）",
+    "跨端与动态化技能：具备Flutter/React Native等跨端框架实战经验，熟悉跨端与原生交互原理，有动态化方案（热更新、动态组件）设计与落地经验，能解决跨端兼容性、性能瓶颈、包体积膨胀、热更新兼容性、原生能力封装等综合性问题。",
+    "端侧AI集成与应用：掌握大模型应用相关技能，熟悉iOS端侧AI框架Core ML，熟悉A2UI智能化生成、渲染相关理论与方法。有医疗类产品研发经验、音视频开发经验、关注大模型趋势及医疗场景应用者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

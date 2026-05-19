@@ -1,0 +1,151 @@
+{
+  "source_file": "1936827639495000064.txt",
+  "job_title": "微信小店-前端开发工程师",
+  "location": "广州",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "前端开发",
+  "job_level": "初级",
+  "responsibilities": [
+    "负责微信小店前端开发（店铺、礼物、达人带货等模块）",
+    "参与微信生态内各场景的电商能力建设",
+    "优化用户体验、性能表现和安全性",
+    "参与技术基建，优化开发体系和工程效率，探索跨端技术新方案"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微信小程序开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Express.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Koa.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Nestjs",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Node.js"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Web安全",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析及解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "思维清晰",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，至少 1 年前端开发经验",
+    "计算机基础和前端相关开发知识扎实，拥有良好的编程习惯",
+    "至少熟练掌握一种主流 Web 前端框架（Vue/React 等），熟悉运行原理和性能优化手段",
+    "有微信小程序开发经验，对小程序的运行机制和性能优化有一定了解",
+    "有 Node.js 服务端开发经验，熟悉至少一种主流 Node.js 服务端应用框架（Nestjs/Express/Koa等）",
+    "有使用 Webpack 等工具进行前端工程化的经验，能够有效利用各类开发工具提升效率",
+    "了解常见的 Web 安全问题和防控方案",
+    "具备良好的学习能力、沟通协作能力、分析及解决问题能力，思维清晰，责任心强。"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "source_file": "216127.txt",
+  "job_title": "前端开发工程师（多端）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "React Native",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责基于 React Native 框架进行跨平台应用 (Web/iOS/Android) 产品开发",
+    "主导或参与跨端应用完整研发生命周期",
+    "独立开发或封装原生模块 (Native Modules) 和原生 UI 组件，满足复杂业务需求",
+    "使用 Metro、Fastlane、CodePush 等工具进行应用构建、打包、发布和热更新",
+    "使用 AI 工具辅助日常开发"
+  ],
+  "required_skills": [
+    {
+      "name": "React Native",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React Hooks",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard",
+      "parent": "React"
+    },
+    {
+      "name": "Context API",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard",
+      "parent": "React"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redux Toolkit",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard",
+      "parent": "Redux"
+    },
+    {
+      "name": "MobX",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Zustand",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Recoil",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swift",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Objective-C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Metro",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Fastlane",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CodePush",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ChatGPT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "有 React Native 具备主导参与跨端应用完整研发生命周期经验，负责基于 React Native 框架进行跨平台应用(Web/iOS/Android)产品开发",
+    "具备良好的逻辑思维能力、分析问题和解决复杂问题的能力，对新技术(AI)有强烈的求知欲和快速学习能力。",
+    "具备优秀的沟通表达能力、跨团队协作精神和项目管理意识，能够有效推动项目进展。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

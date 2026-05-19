@@ -1,0 +1,99 @@
+{
+  "source_file": "2016103083561607168.txt",
+  "job_title": "数据算法工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "自然语言处理",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责题库/知识库数据生产流水线搭建，深度参与内容理解能力建设与自动化质检算子开发，通过算法手段提升内容准确性",
+    "运用大模型技术构建知识库内容质量评价体系，实现内容质量智能化监测与持续迭代",
+    "负责从数据预处理到应用反馈的全链路管理，建立多维度评估指标，结合模型线上表现优化数据调度策略",
+    "负责多模态数据解析及相关AI应用的落地实现"
+  ],
+  "required_skills": [
+    {
+      "name": "自然语言处理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件工程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "知识库建设",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据挖掘",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型技术"
+    }
+  ],
+  "raw_requirements": [
+    "对内容质量与大规模数据处理有浓厚兴趣，具备知识库建设、数据挖掘等相关经验者优先",
+    "扎实的 NLP 算法基础，熟悉大模型相关技术，有训练实战经验者优先",
+    "具备数据敏感度，擅长通过数据特征分析定位模型瓶颈并提出系统性解决方案",
+    "优秀的编程功底与工程实践习惯，代码风格清晰简洁",
+    "拥有计算机科学、人工智能、电子工程、数学或统计学等相关专业的本科及以上学历",
+    "具备良好的沟通能力，能够与合作方高效协作并推动项目落地。"
+  ]
+}

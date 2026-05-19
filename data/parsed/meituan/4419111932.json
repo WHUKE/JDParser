@@ -1,0 +1,66 @@
+{
+  "source_file": "4419111932.txt",
+  "job_title": "无人车业务部-自动驾驶系统安全工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶安全",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责自动驾驶系统的安全设计和开发工作，确保系统的稳定性和可靠性",
+    "参与自动车配送部的自动驾驶系统的安全架构设计和优化工作",
+    "负责车辆故障、行驶安全的分析和修复，保障自动驾驶的冗余安全",
+    "与团队成员密切合作，共同推动项目的进展"
+  ],
+  "required_skills": [
+    {
+      "name": "C/C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队合作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶系统开发经验",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "L4自动驾驶安全经验",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "大学本科及以上学历，计算机或相关专业背景",
+    "具备3年及以上软件开发经验，有自动驾驶系统开发经验者优先",
+    "熟悉C/C++等编程语言，具备较强的编程能力",
+    "具备良好的团队合作精神和沟通能力，能够有效解决问题。L4自动驾驶安全相关工作经验者优先"
+  ]
+}

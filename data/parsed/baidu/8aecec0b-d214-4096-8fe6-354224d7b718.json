@@ -1,0 +1,110 @@
+{
+  "source_file": "8aecec0b-d214-4096-8fe6-354224d7b718.txt",
+  "job_title": "前端研发工程师（J97561）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "前端开发",
+  "company_name": "百度",
+  "responsibilities": [
+    "深度参与百度秒哒产品平台前端研发工作，理解业务需求，提供前端技术解决方案",
+    "支撑产品对外商业化功能建设，提供体验友好、安全&稳定的商业化基建支持",
+    "持续优化前端工程体系，包括性能优化、可维护性、组件化与规范建设，支撑产品规模化演进",
+    "与产品经理、UI/UE设计师、后端工程师紧密合作，共同推进项目进展，解决技术难题"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模块化开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI辅助编程工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析与解决",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Vibe Coding",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机及相关专业本科及以上学历，具备足够扎实的前端基础",
+    "熟悉 HTML5、CSS3、JavaScript、Typescript，熟悉前端工程化和模块化开发",
+    "熟悉 React 前端框架开发，具备实际项目开发经验",
+    "良好的沟通能力和团队协作精神，具有独立分析问题解决问题的能力",
+    "熟练掌握AI辅助编程工具，了解vibe coding者优先"
+  ]
+}

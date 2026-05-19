@@ -1,0 +1,123 @@
+{
+  "source_file": "4171530138.txt",
+  "job_title": "无人车业务部-软件开发",
+  "location": "北京市,深圳市",
+  "education": "本科",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责无人车同城货运相关业务系统的关键架构和技术方案设计，核心能力落地",
+    "把控系统建设思路，综合考虑业务的短期和长期要求，设计短期能满足业务需要，长线能符合业务发展演进的系统"
+  ],
+  "required_skills": [
+    {
+      "name": "系统开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大型在线系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工程交付",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术判断力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "平台化设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "指导能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "交易履约系统",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "配送物流系统",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "五年以上业务系统研发相关经验，本科及以上学历",
+    "扎实的系统开发基础，对大型在线系统的工程交付有足够认知和经验",
+    "能够很好地协同业务需要和技术能力建设，具备技术路线的判断和落地能力。具备平台化思维，能够考虑通用化设计应对业务的灵活变化，服务于长期发展。",
+    "良好的沟通表达和周边协作能力，良好的学习和分析解决问题能力。",
+    "能够具备良好的团队协同能力，并能帮助团队提升对业务系统研发认知，积累经验。",
+    "具备大规模交易履约系统建设经验者优先。",
+    "具有配送物流系统建设经验者优先。"
+  ]
+}

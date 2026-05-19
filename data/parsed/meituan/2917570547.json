@@ -1,0 +1,103 @@
+{
+  "source_file": "2917570547.txt",
+  "job_title": "到餐-全栈 Agent Builder",
+  "location": "北京市",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "智能代理",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责到餐业务商家及销售方向的 Agent 探索与应用",
+    "与业务、产品、运营深度合作，明确产品-技术-市场匹配（PTMF）",
+    "将 AI 技术融合到商家及销售智能化产品流程，保证 GUI 和 NUI 无缝衔接，探索 Generative UI",
+    "建设智能问答（知识+工具）、智能外呼、数据分析等应用层能力",
+    "推动从“人用工具”到“工具找人”的主动服务型产品能力转变",
+    "设计、实现和维护先进的 Agentic System，结合 Agentic RAG、Cognitive Architecture、Agentic Workflow 等前沿技术提升准确率和性能，降低系统成本",
+    "解决多模态模型、多 Agent 场景下的可扩展性问题，创造一流的工程体验",
+    "完成企业存量 Tools 的低成本集成，结合 CodeAgent 和 SpecCoding 模式，让用户能够自建 Skill",
+    "保证底层数据口径统一，面向 Agent 友好",
+    "提供方便的企业数据集成和查询能力",
+    "低成本完成知识库生产、管理、消费流程，保证知识无过时、冲突、冗余",
+    "完善基于测评驱动的 Agent 生产流程，保证测评集的时效性，快速评估 LLM 和 Agent 效果",
+    "周期性进行 SOTA 模型测评，并根据不同场景和模型特点选择高性价比模型",
+    "协同训练师团队完成模型所需训练数据的生产、标注任务",
+    "完成领域场景模型的 SFT、DPO 工作",
+    "与算法团队共同探索 GRPO、PPO 等模型训练工作"
+  ],
+  "required_skills": [
+    {
+      "name": "需求理解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "风险管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Agentic System",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Coding",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Spec Coding",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "曾直接与客户合作，深入了解客户需求，并熟练使用他们使用的工具。",
+    "在减轻风险和构建可靠、可扩展和高性能系统方面有良好的判断力。",
+    "出色的沟通技巧，能够有效解释你决策背后的“为什么”。",
+    "对 Agentic System 有扎实的理解，有使用 LangChain、LangGraph 等框架的经验。",
+    "AI Coding 出码采纳率和 AI 代码占比等关键指标上表现出色（团队当前采纳率 75%+，AI 代码占比 60%+），有 Spec Coding 实践经验"
+  ]
+}

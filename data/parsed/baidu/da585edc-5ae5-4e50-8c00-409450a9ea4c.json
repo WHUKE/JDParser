@@ -1,0 +1,158 @@
+{
+  "source_file": "da585edc-5ae5-4e50-8c00-409450a9ea4c.txt",
+  "job_title": "后端研发工程师（J96310）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责内容审核核心业务的设计与开发，覆盖多模态内容智能识别与过滤，保障系统高可用性、高扩展性与安全性",
+    "参与后端服务架构设计与优化，提升系统并发处理能力与实时响应性能",
+    "配合产品与测试团队完成公有云标品需求及私有化项目交付",
+    "关注行业技术动态，引入前沿技术提升审核准确率与召回率及研发效率",
+    "参与技术分享与攻坚，解决复杂场景下的技术难题"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态内容安全",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "实时流媒体分析",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "审核策略引擎",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Coding Agent",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "内容审核系统开发经验",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "风控系统开发经验",
+      "proficiency": "不限",
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "音视频处理平台开发经验",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，3-5年后端研发工作经验",
+    "精通Java和Python编程语言，具备扎实的编程基础与良好的编码习惯",
+    "熟悉K8s、MySQL、Redis、Kafka、ElasticSearch等中间件的使用与调优，具备分布式系统开发经验",
+    "了解 多模态内容安全（文本、图片、音视频、文档）、实时流媒体分析、审核策略引擎及大模型应用等相关技术，有内容审核系统、风控系统或音视频处理平台开发经验者优先",
+    "能够熟练应用Coding Agent工具提升研发效率，具备较强的问题解决能力与技术调研能力",
+    "具备强烈的责任心、良好的沟通能力与团队合作精神，对内容安全行业有热情，能承受一定的工作压力"
+  ]
+}

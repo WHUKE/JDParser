@@ -1,0 +1,139 @@
+{
+  "source_file": "4114002236.txt",
+  "job_title": "传感器系统专家",
+  "location": "深圳市",
+  "education": "硕士",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "传感器融合",
+  "job_level": "专家",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责传感器系统的设计、开发与优化，确保系统性能满足产品需求",
+    "主导传感器的系统需求分析、算法需求分析、传感器的性能优化及系统集成",
+    "分析并解决传感器系统在复杂场景下的技术问题",
+    "与硬件、软件团队协作，完成传感器系统的集成与调试",
+    "跟踪行业前沿技术，推动传感器系统的创新与应用",
+    "主动探索并运用各类AI工具优化日常工作流程，积极推动AI在业务场景中的落地实践，持续提升个人及团队的工作效率与产出质量"
+  ],
+  "required_skills": [
+    {
+      "name": "激光雷达",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "相机",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "毫米波雷达",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "传感器信号处理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Slam",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态传感融合",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "嵌入式开发",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "主动学习",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI工具使用",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI问题解决",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术前沿敏感度",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "硕士研究生及以上学历，电子工程、自动化、计算机等相关专业。",
+    "5年以上传感器系统开发设计、算法开发经验，熟悉激光雷达、相机、毫米波雷达等领域。",
+    "精通传感器信号处理、Slam、多模态传感融合或嵌入式开发。",
+    "具备团队管理经验或主导项目的能力。",
+    "熟悉自动驾驶、机器人、AI领域者优先。",
+    "具备主动学习与探索AI新工具、新方法的意识，能持续将AI能力融入实际工作场景并独立落地",
+    "对AI工具有实际使用经验，能清晰阐述利用AI解决复杂问题的思路与方法，保持对AI前沿趋势的敏感度"
+  ]
+}

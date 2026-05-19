@@ -1,0 +1,214 @@
+{
+  "source_file": "f998e003-e250-488d-a749-99666f775760.txt",
+  "job_title": "Agent高级研发工程师（J98767）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "智能体/Agent",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责营销SaaS产品数字员工智能体应用的需求调研、设计及研发落地工作，结合已有的内容创作、洞察、外呼、客服等应用产品，推动AI Agent在营销、客户服务等To B垂直领域落地并取得业务价值",
+    "负责营销场景内容创作与运营数字员工、业务洞察数字员工、外呼数字员工、售后客服数字员工等覆盖营销全链路的场景化AI数字员工的技术预研、架构设计、业务模型抽象及功能开发，保持对业务场景的敏锐洞察，快速熟悉业务流程并理解业务痛点，沟通并分析产品需求，制定技术方案，设计与研发核心系统及模块，推动产品快速迭代",
+    "负责AI Agent框架设计与实现，构建高可用、低延迟的AI Agent生产环境，探索大模型与Agent技术的结合，解决复杂场景下的推理能力",
+    "优化Agent与工具调用的协同机制，提升任务规划、自主决策和交互体验，构建各场景化Agent的自动化评估系统"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "软件设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Agent落地经验",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SaaS产品搭建",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能体框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Skills框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "智能体框架"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "智能体框架"
+    },
+    {
+      "name": "MetaGPT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "智能体框架"
+    },
+    {
+      "name": "MCP协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "A2A协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化流程编排",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent全链路开发",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据合成",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "评测体系搭建",
+      "proficiency": "不限",
+      "category": "测试工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历, 计算机科学、人工智能、数学等相关专业，具有3年以上服务端开发经验，精通分布式系统原理和架构设计",
+    "至少精通Java/Go/Python其中一种编程语言, 熟悉常用的算法和数据结构，熟悉常用的软件设计模式并能根据实际情况灵活应用",
+    "具备清晰的思路，良好的业务理解能⼒、系统分析和软件设计能⼒，优秀的沟通能⼒及项⽬推动能⼒",
+    "热爱技术，持续学习，敢于挑战难题，期盼为加速AGI降临贡献一份力量",
+    "加分项（其一即可）：1.有Agent落地企业级应用的经验或企业级SaaS营销产品0-1搭建背景经验者优先；2.熟悉主流智能体框架开发（skills/AutoGen/MetaGPT/MCP/A2A等）的架构与开发模式，有自动化流程编排经验者优先；具备AI Agent全链路开发能力，包括数据合成、模型训练、评测体系搭建的工程经验"
+  ]
+}

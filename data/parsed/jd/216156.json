@@ -1,0 +1,185 @@
+{
+  "source_file": "216156.txt",
+  "job_title": "技术产品经理（结构运控）",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "机器人",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "深入理解机器人产品应用场景，结合机械结构设计与运控算法特性，将业务需求转化为可落地的产品定义，精准拆解产品需求到结构设计目标与运控算法目标，制定技术规格书。",
+    "作为产品与研发的关键桥梁，主导跨部门技术评审，确保技术方案可满足产品技术需求，平衡创新性与工程可行性。",
+    "与结构运控相关技术团队高效协同，主导技术攻关与方案优化，推动关键模块的研发落地。",
+    "制定并管理研发计划，覆盖需求分析、原型开发、测试验证、量产交付等阶段，确保项目按期按质交付且BOM成本达标。",
+    "建立技术风险管控体系，针对结构可靠性、运控稳定性等关键风险点制定预案，推动问题闭环与迭代优化。"
+  ],
+  "required_skills": [
+    {
+      "name": "SolidWorks",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "设计工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CAD",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "设计工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CAE",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "设计工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运控算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MPC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运控算法"
+    },
+    {
+      "name": "阻抗控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运控算法"
+    },
+    {
+      "name": "RL Locomotion",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "运控算法"
+    },
+    {
+      "name": "WBC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运控算法"
+    },
+    {
+      "name": "结构运控开发流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "需求转化为技术方案",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术方案评审",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术方案评估验收",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "多项目并行管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "资源协调",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "复杂问题解决",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "机器人行业知识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "具身智能",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "机器人行业知识"
+    },
+    {
+      "name": "人形机器人",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "机器人行业知识"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "PMP",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "certification"
+    },
+    {
+      "name": "Scrum Master",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "certification"
+    },
+    {
+      "name": "量产机器人产品经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "机械工程、自动化、机器人学或相关领域本科及以上学历，丰富的机器人产品管理或技术经验，有量产机器人产品经验者优先。",
+    "精通机器人结构设计（SolidWorks/CAD/CAE），熟悉运控算法（MPC/阻抗控制/RL Locomotion/WBC），能主导完成从需求到技术方案的全链路转化，具备主导技术方案评审以及评估验收技术方案的能力。",
+    "熟悉结构运控相关开发流程，能与研发团队深度对话，具备复杂技术问题的快速定位与推动解决能力。",
+    "持有PMP/Scrum Master认证者优先，具备多项目并行管理能力，能高效协调资源并推动跨部门协作。",
+    "机器人行业趋势（如具身智能、人形机器人）有深度洞察，具备技术前瞻性判断力。"
+  ]
+}

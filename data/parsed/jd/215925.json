@@ -1,0 +1,239 @@
+{
+  "source_file": "215925.txt",
+  "job_title": "agent开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "Agent开发",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责健康医疗场景下智能体（Agent）的架构设计与实现，熟练运用 LangChain 或 LlamaIndex 等框架，进行复杂链路的编排、工具调用（Function Calling/Tool Use）及状态管理",
+    "基于 SSE、WebSocket、MCP等技术，优化医疗对话式交互体验，解决大模型流式输出的稳定性与并发问题，确保健康咨询的实时性体验",
+    "承担 Context Engineer 职责，优化上下文管理机制，设计RAG（检索增强生成）策略，解决医疗长文本、多轮对话中的信息遗忘与幻觉问题，提升上下文利用效率",
+    "负责AI Agent的评测体系建设，设计自动化测试用例，对Agent的调用成功率、工具选择准确率、输出安全性进行量化评估与压测",
+    "对接主流大模型（GPT系列、DeepSeek、Kimi、Qwen等），针对医疗术语的准确性进行Prompt Engineering及微调数据准备"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Asyncio",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Python"
+    },
+    {
+      "name": "代码规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent Executors",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "Tools",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "Memory",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "Callbacks",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LangChain"
+    },
+    {
+      "name": "Semantic Kernel",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SSE",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发流式接口优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流式中断处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流式重连处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流式token安全过滤",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Chunking",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Embedding",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "Reranking",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "长上下文压缩",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "记忆管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "AI测试方法论",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "构建评测集",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "评估指标定义",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "医疗信息化经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "互联网医疗行业经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "医学知识图谱构建",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "医疗NLP",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "京东价值观认同",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，3年以上后端或AI应用开发经验，扎实的Java、Python编程能力，熟悉异步编程（Asyncio），具备良好的代码规范意识",
+    "深入理解 LangChain 或 Semantic Kernel 的核心组件（Agent Executors, Tools, Memory, Callbacks），有实际生产项目落地经验",
+    "熟悉 SSE 协议，有高并发流式接口的调优经验，了解如何处理中断、重连及流式token的安全过滤",
+    "Context Engineering：熟悉RAG各环节（Chunking, Embedding, 重排），有处理长上下文（Long Context）压缩、记忆管理（短期/长期记忆）的实际经验",
+    "Harness Engineering：理解AI应用的测试方法论，有构建Agent评测集、制定评估指标（如精确率、召回率、工具调用准确率）的经验",
+    "有医疗信息化（HIS/EMR）或互联网医疗行业经验者优先，具备医学知识图谱构建或医疗NLP经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

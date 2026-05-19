@@ -1,0 +1,223 @@
+{
+  "source_file": "1947596080199892992.txt",
+  "job_title": "云网络高级后台研发工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "5年及以上",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "云网络",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责腾讯云网络虚拟化产品业务需求开发及架构设计",
+    "负责客户业务上云的解决方案及问题排查、优化",
+    "负责优化提升腾讯云网络产品的性能与可靠性"
+  ],
+  "required_skills": [
+    {
+      "name": "公有云业务场景与模型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "云平台开发",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "基础架构设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "混合云网络架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "domain"
+    },
+    {
+      "name": "IPsec",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SSL VPN",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "专线",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OpenStack",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Neutron",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard",
+      "parent": "OpenStack"
+    },
+    {
+      "name": "SDN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NFV",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux TCP/IP协议栈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络排障",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术前瞻性",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "书面表达能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "口头表达能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "英语读写",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "文档撰写",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "思维缜密",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "挑战精神",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，5年网络研发相关工作经验",
+    "掌握公有云各种业务场景与模型，深入理解公有云业务需求，对业务上云方案有较丰富经验",
+    "从事云平台系统开发设计，并有主导或深度参与公有云网络等基础架构设计的工作经验",
+    "对混合云网络架构有深刻理解，具备丰富的IPsec/SSL VPN/专线的开发、调优、排障经验",
+    "熟悉Openstack云平台及Neutron组件网络虚拟化的实现机制",
+    "熟悉数据中心SDN/NFV技术，具备相关实际工作经验",
+    "熟悉C/C++/Python等语言，具备扎实编程功底，编写过核心模块代码",
+    "熟悉Linux TCP/IP协议栈原理，具备丰富的网络调优排障经验",
+    "在技术方面具有前瞻性视野，了解行业最新技术发展趋势并适时引入合适技术促进业务发展",
+    "具有良好沟通能力，良好的书面和口头表达能力，能进行熟练英文读写，具备较高文档撰写水平",
+    "思维缜密，逻辑性强，具有挑战精神和前瞻性，良好的团队协作精神。"
+  ]
+}

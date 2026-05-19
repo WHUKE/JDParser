@@ -1,0 +1,83 @@
+{
+  "source_file": "3964190244.txt",
+  "job_title": "无人车业务部-自动驾驶云控系统技术研发",
+  "location": "深圳市",
+  "education": "本科",
+  "experience": "4年以上",
+  "experience_min": 4,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责自动驾驶云控系统的架构设计与核心模块开发",
+    "带领团队完成云控平台的高可靠、低成本、高效率技术方案落地",
+    "制定技术路线，推动系统迭代优化，保障项目按时高质量交付",
+    "与算法、测试、运维等团队紧密协作，解决系统级技术难题",
+    "跟踪行业前沿技术，持续提升团队技术能力与系统竞争力"
+  ],
+  "required_skills": [
+    {
+      "name": "分布式系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云原生技术栈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "车联网开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "大学本科及以上学历，计算机、软件工程或相关专业。",
+    "4年以上软件开发经验，至少1年团队管理经验或技术主导经验。",
+    "精通分布式系统、微服务架构，熟悉云原生技术栈。",
+    "具备自动驾驶或车联网相关系统开发经验者优先。",
+    "具备优秀的沟通能力和跨团队协作能力。具备自动驾驶云控系统研发经验者优先"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source_file": "216320.txt",
+  "job_title": "软件研发工程师",
+  "location": "四川省",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "研发类",
+  "job_sub_category": "AI/大模型工程化",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责智能客服技术生态体系的架构升级和打磨，持续交付业务与技术解决方案",
+    "探索引入AI新技术新模式，打造行业领先的客服技术产品，提供可靠可落地方案",
+    "围绕成本、效率、体验优化业务和技术产品基座，提升研发体系效能"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题排查能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "风险意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "风险识别能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立思考能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "使命感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "架构设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型原理",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大语言模型工程化",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型知识注入",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机\\数学\\统计学专业统招本科及以上学历，至少3年及以上JAVA项目开发经验，有架构设计经验优先",
+    "具备AI领域研发经验，理解大模型原理，具备LLM工程化能力，熟悉Agent、大模型知识注入优先",
+    "具备扎实的Java基础，熟悉互联网常用技术栈，具备大规模分布式应用经验者优先，掌握Spring等常用开源框架和常用中间件",
+    "具备较好的Troubleshooting能力和风险意识，具备风险前置识别能力，并能够解决各类疑难故障",
+    "具备独立思考和自我学习能力，有责任心和使命感，良好的沟通表达能力和团队协作能力；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

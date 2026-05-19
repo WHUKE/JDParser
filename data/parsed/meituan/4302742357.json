@@ -1,0 +1,196 @@
+{
+  "source_file": "4302742357.txt",
+  "job_title": "无人车业务部-业务前端研发负责人",
+  "location": "北京市、深圳市",
+  "education": "不限",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "带领业务研发前端团队建设C端、B端、O端等产品应用，涉及小程序、Web、移动端、后端的全栈开发",
+    "负责打造具备行业竞争优势的产品体验和交互，探索并沉淀无人车场景应用解决方案",
+    "深入理解业务，协同产品、后端及设计团队推进项目高效落地",
+    "建立并优化前端开发规范、工程化流程与质量保障体系",
+    "推进AI落地，探索基于AI的一码多跨端解决方案、高可用的AI原生交互"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HarmonyOS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动态化技术",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "一码多端技术",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "后端开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队领导能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI Native交互",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨端开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大用户体量应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大型应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "规划能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI产品落地",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Agent开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "Web基础扎实，精通HTML、CSS、JavaScript等前端技术，熟悉React、Vue等前端框架。",
+    "具备跨端开发经验，能够协同iOS、Android、鸿蒙多方平台开发落地，掌握动态化等一码多端技术。",
+    "对前端、后端、大模型应用相关知识有一定掌握和熟悉，具备对技术整体思考和推动的能力。",
+    "具备良好的团队领导能力与跨部门沟通能力，能够带领团队解决复杂交互与高性能渲染的技术难题。",
+    "具有高度的学习热情和适应能力，对AI Native交互形态敏感，能够快速掌握并运用到工作中去。",
+    "有跨端、大用户体量、大型应用开发、架构设计经验。",
+    "对研发体系稳定、质量、效率、性能等各方面有系统化认知，并有长远的规划能力。",
+    "具有AI产品落地经验，熟悉大模型应用开发模式（Agent），能提供适合AI场景的创新技术解决方案。"
+  ]
+}

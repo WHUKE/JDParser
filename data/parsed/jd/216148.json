@@ -1,0 +1,256 @@
+{
+  "source_file": "216148.txt",
+  "job_title": "嵌入式软件工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "嵌入式的实际开发经验。",
+  "job_category": "研发类",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "机器人系统开发：负责机器人系统BSP层和嵌入式基础服务的设计、开发和维护，确保系统的稳定性和高效性。",
+    "硬件接口开发：开发和维护与机器人硬件相关的驱动和接口，例如SPI、I2C、UART、CAN等。",
+    "系统优化：对机器人系统进行系统裁剪和内存优化，提高系统的响应速度和资源利用率。",
+    "问题排查与解决：对机器人系统中的问题进行快速定位和解决，确保系统的连续性和可靠性。",
+    "文档编写与维护：编写和更新相关技术文档，包括设计文档、用户手册、API文档等。"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机体系结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "perf",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ebpf",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "coredump分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统裁剪",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CMake",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Make",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SPI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "I2C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UART",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CAN",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UDP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MQTT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DDS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ROS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ROS2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模型压缩",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NEON",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "不限",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ARM处理器",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景：本科及以上学历，计算机科学、电子通信工程、自动化等相关专业。",
+    "工作经验：嵌入式的实际开发经验。",
+    "技术能力：熟悉Linux内核、计算机体系结构、终端处理器的特性。掌握perf、ebpf、codedump分析，具备系统裁剪和内存优化能力。具备扎实的编程基础，熟练使用C/C++等编程语言，以及Python、CMake、Make、Shell等脚本语言。熟悉SPI、I2C、UART、CAN等常用通信接口的驱动与应用开发，熟悉HTTP、TCP/IP、UDP、MQTT、DDS、RPC等常用通信协议。熟悉机器人系统（ROS/ROS2）开发生态，有量产项目经验者优先。有模型压缩经验、基于NEON及多线程加速实现算法在ARM处理器上性能优化经验者优先。",
+    "其他要求：具有良好的团队合作精神和沟通能力，能够与跨部门的团队成员有效协作。具有较强的学习能力和解决问题的能力，能够适应快速变化的技术环境。对机器人技术和人工智能有浓厚兴趣，愿意不断学习和探索新的技术和解决方案。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

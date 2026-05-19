@@ -1,0 +1,147 @@
+{
+  "source_file": "3406189547.txt",
+  "job_title": "无人车业务部-测试开发（算法评测方向）",
+  "location": "北京市、深圳市",
+  "education": "本科",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "算法评测",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责美团自动车自动驾驶产品工程框架和算法模型迭代质量保障工作，对测试结果的可靠性和软件版本质量负责",
+    "基于产品功能需求和应用场景，构建感知、定位建图、规控或地图路由等自动驾驶子系统的评测体系",
+    "负责子系统测试方案设计，构建评测和回归场景集，参与测试工具创新，综合多种仿真测试手段，提升对算法的测试评价和缺陷召回能力",
+    "制定子系统相应质量阀点的质量标准，挖掘分析质量管理盲区并制定相关改进解决方案，优化测试流程，持续提升问题的拦截",
+    "参与自动驾驶功能需求评审，架构评审，设计评审，代码评审，从测试角度提供评审意见，独立完成测试任务，输出测试报告"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件测试开发流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题定位能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推动能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "追求技术与创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "自动驾驶感知测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶定位测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶建图测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶地图测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，计算机、人工智能、电子及通信工程、车辆工程等相关专业",
+    "熟练掌握C++/Shell/Python等至少一种编程语言，具备良好的代码能力； 熟悉软件测试开发流程",
+    "对新技术有快速学习的能力，对未接触过的难题有较快解决能力，良好的思维逻辑能力",
+    "对自动驾驶的测试和评价有浓厚的兴趣，有很强的问题分析能力、定位能力和项目推动能力",
+    "具备强烈的责任心、进取心及团队合作精神，热衷于追求技术与创新。有自动驾驶感知、定位、建图、地图等模块测试/测试开发/评测经验优先"
+  ]
+}

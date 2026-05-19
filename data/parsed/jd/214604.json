@@ -1,0 +1,105 @@
+{
+  "source_file": "214604.txt",
+  "job_title": "算法开发岗",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "，具备算法开发相关领域工作经验者优先，特别是有自然语言处理（NLP）项目经验的候选人",
+  "job_category": "研发类",
+  "job_sub_category": "NLP",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责NLP算法开发与优化，提升语言理解与生成能力",
+    "设计并实现高效算法模型，解决复杂业务问题，确保准确性和稳定性",
+    "跟踪NLP前沿技术，推动技术创新与升级",
+    "与产品、运营团队合作，确保算法方案落地",
+    "参与制定技术路线，指导初级工程师"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "教育背景学历要求：统招本科及以上学历，计算机科学、软件工程、人工智能等相关专业",
+    "工作经验工作经验：不限工作年限，具备算法开发相关领域工作经验者优先，特别是有自然语言处理（NLP）项目经验的候选人",
+    "能力要求：技术能力：熟练掌握至少一种编程语言，如Python、Java等；熟悉机器学习、深度学习等算法原理，具备实际项目经验；对自然语言处理领域有深入理解，能够独立进行算法研发和优化；业务理解：具备良好的业务敏感度，能够快速理解智能产品研发需求，将业务需求转化为技术解决方案",
+    "基本素质团队协作：具备良好的沟通和团队协作能力，能够与团队成员、业务部门高效配合，共同推进项目进度；问题解决：具备独立分析和解决问题的能力，能够面对复杂场景提出有效解决方案；责任心：具有强烈的责任心，对工作认真负责，能够承担一定的工作压力；创新思维：具备创新意识，关注行业动态，能够不断学习和探索新技术，提升自身专业能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

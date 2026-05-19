@@ -1,0 +1,69 @@
+{
+  "source_file": "216302.txt",
+  "job_title": "精益改善岗",
+  "location": "贵州省",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责战区内业务数据的监控和分析，进行规模、服务、履约、成本等维度的分析并提供解决方案",
+    "基于对业务指标数据分析，跟踪区域经营状态，分析问题，辅助战区负责人进行决策",
+    "协助秒送负责人，推动核心项目落地，跟进项目达成情况",
+    "与总部/省区高效协同，收集一线现状与需求等信息动态，协同总部/省区并提供决策指引"
+  ],
+  "required_skills": [
+    {
+      "name": "人际沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "市场分析能力",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "体系化思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文化塑造能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "管理经验",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，3年以上工作经验，有管理经验优先",
+    "具备较强的人际沟通、逻辑思维和市场分析能力，同时具备体系化思维，能整体把握大盘并推动创新业务与经营发展",
+    "适应互联网行业的快速发展，对平台认可度高，愿意长期发展",
+    "有团队管理和文化塑造能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

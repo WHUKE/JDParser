@@ -1,0 +1,103 @@
+{
+  "source_file": "5051672d-bf9e-4858-82a9-b2b224e076cb.txt",
+  "job_title": "预测模型算法工程师（J86691）",
+  "location": "北京",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "自动驾驶预测",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "与感知模型等算法工程师、决策规划算法工程师协同，设计与实现自动驾驶预测模型算法（高速/城区场景），达成分层架构下较好交互效果",
+    "设计与实现支持多场景、多障碍物类别的可迭代预测算法",
+    "预测模型相关数据挖掘、数据分析、自动迭代等的自动化化研发工作",
+    "探索learning-based决策规划与端到端方案"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数学基础",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "预测算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "编程习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工程实现能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "计算机/电子/应用数学/自动化专业",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "顶会论文发表（CVPR/ICCV/ICRA/IROS/PAMI）",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、电子、应用数学、自动化等相关专业的硕士及以上学历",
+    "具有良好的机器学习的理论基础，良好的数学基础以及分析解决问题的能力",
+    "熟练掌握C++、Python编程语言，具备Linux下开发能力，具有良好的编程习惯和工程实现能力",
+    "熟悉已有常见预测算法",
+    "在计算机视觉或机器人相关领域顶级会议或期刊CVPR、ICCV、ICRA、IROS、PAMI等发表论文者优先"
+  ]
+}

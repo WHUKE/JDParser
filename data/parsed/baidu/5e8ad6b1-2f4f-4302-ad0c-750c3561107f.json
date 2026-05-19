@@ -1,0 +1,136 @@
+{
+  "source_file": "5e8ad6b1-2f4f-4302-ad0c-750c3561107f.txt",
+  "job_title": "分布式文件缓存C++研发（J99495）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2-5年",
+  "experience_min": 2,
+  "experience_max": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "分布式存储",
+  "job_level": "中级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责近计算分布式文件缓存存储系统的设计和研发",
+    "负责数据湖存储加速产品的功能迭代、运维和业务支持，保障产品和业务稳定",
+    "参与打造百度AI存储解决方案，负责相关存储产品和技术在内外部大规模 AI 训练、推理和数据处理等场景的高效应用",
+    "跟进业界和社区高性能存储动态，负责相关产品调研和技术创新"
+  ],
+  "required_skills": [
+    {
+      "name": "操作系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式存储",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "文件存储",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "对象存储",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "缓存存储",
+      "proficiency": "不限",
+      "category": "缓存",
+      "skill_type": "domain"
+    },
+    {
+      "name": "高性能存储",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Alluxio",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JuiceFS",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI训推工程",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "KVCache工程",
+      "proficiency": "不限",
+      "category": "缓存",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，相关行业 2~5 年工作经验",
+    "掌握操作系统和网络相关知识，熟练掌握 Linux C++ 服务端开发经验",
+    "有较强的学习能力，有良好的沟通表达能力和团队协作精神，具备一定的抗压能力",
+    "有分布式存储、文件存储、对象存储、缓存存储、高性能存储经验，或有 Alluxio、JuiceFS 相关应用和优化经验，或有 AI 训推工程、KVCache 工程相关经验者优先"
+  ]
+}

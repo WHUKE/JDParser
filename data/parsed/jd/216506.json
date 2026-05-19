@@ -1,0 +1,225 @@
+{
+  "source_file": "216506.txt",
+  "job_title": "软件开发岗",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责需求拆解及后端系统的开发维护",
+    "对系统的性能、安全性和可扩展性进行全面考虑，保障系统的长期稳定运行"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java反射",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NIO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库索引",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "分布式事务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "分布式系统"
+    },
+    {
+      "name": "领域驱动设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务抽象",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务建模",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "进取心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析和解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "大模型辅助开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示词工程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "SaaS开发经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "toB业务开发经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机及相关专业本科以上学历，5年Java开发经验，有扎实的技术功底",
+    "精通Java，熟悉Java反射、多线程、NIO等技术的使用和原理，熟悉JVM内部原理",
+    "熟悉MySQL等关系型数据库，了解索引原理，有SQL性能调优经验",
+    "熟悉Spring Boot、MyBatis等主流开发框架",
+    "熟悉分布式技术原理，如RPC、缓存、消息队列、事务等",
+    "熟悉领域驱动设计思想，具有较强的业务抽象和建模能力",
+    "对技术有强烈的进取心，责任心强，具有良好的沟通能力和团队合作精神、优秀的分析和解决问题能力",
+    "熟练使用大模型作为研发辅助工具，具有将需求、缺陷等快速转为提示词的能力",
+    "有SaaS相关系统开发经验、toB业务系统开发经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

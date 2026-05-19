@@ -1,0 +1,130 @@
+{
+  "source_file": "216172.txt",
+  "job_title": "产品经理",
+  "location": "四川省",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "智能客服",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导智能客服产品的整体设计，覆盖用户进线、机器人自助服务、人工无缝承接及服务后闭环的全流程，注重用户体验与客服效率提升",
+    "与算法团队紧密协作，将意图识别、情感分析、知识图谱等算法能力转化为易用、稳定的产品功能，理解算法能力边界，通过产品设计解决业务问题",
+    "了解机器人的日常运营策略，包括知识库建设与维护、数据洞察分析、迭代调优，通过数据驱动方式持续提升机器人的解决率与服务效能",
+    "深入理解一线客服痛点与用户需求，评估技术解决方案，在复杂业务场景中做出合理权衡，推动产品稳健落地"
+  ],
+  "required_skills": [
+    {
+      "name": "产品规划",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "智能客服系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "对话机器人",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C端产品",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Agent平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "高并发场景设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "复杂多轮对话设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "意图识别",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "情感分析",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "知识图谱",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "知识库建设",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "统招本科及以上",
+    "有智能客服/对话机器人/C端产品从0到1的成功落地经验",
+    "熟悉主流Agent平台或智能客服系统底层逻辑",
+    "具备高并发、复杂多轮对话场景的产品设计经验。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

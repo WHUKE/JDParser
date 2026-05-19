@@ -1,0 +1,153 @@
+{
+  "source_file": "6b323620-2e75-4fe3-a09b-7f7805537b33.txt",
+  "job_title": "Agent工程架构师（J99561）",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "AI Agent",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责新一代自我演进Agent系统的设计与研发，围绕策略生成、程序生成、任务执行、评估反馈等关键环节，构建面向复杂算法问题的自动化求解系统",
+    "搭建支持大规模任务调度、并行执行、结果评估与闭环迭代的系统架构，持续提升Agent系统在复杂搜索空间中的执行效率、稳定性与扩展能力",
+    "设计并实现支持经验沉淀、方法复用、信息检索与上下文管理的记忆与知识增强模块，提升系统在跨任务场景下的复用能力与持续优化能力",
+    "面向组合优化、时序预测、AI4Science、数学计算等高复杂度任务，建设通用化的任务抽象、评测框架与工程化运行机制，支撑多场景接入与持续迭代",
+    "与算法、平台、产品团队协同，推动Agent系统从原型验证到工程落地，持续完善系统的可观测性、可维护性和生产可用性"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程实现",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题抽象",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术沟通",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式系统",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "任务调度系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "评估平台",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "后端系统开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Coding",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Continuous Learning",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI+OR",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "从0到1系统搭建",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "创业经历",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "复杂智能系统落地",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "人工智能、计算机、运筹优化或相关专业硕士及以上学历，具备扎实的算法基础与较强的工程系统设计和规划能力",
+    "对 长程Agent 系统、自动化求解、复杂任务执行框架等方向有持续兴趣，具备相关系统设计或研发经验",
+    "熟悉 Python、C++、Go 等至少一门语言，具备良好的工程实现能力，有分布式系统、任务调度系统、评估平台或复杂后端系统开发经验者优先",
+    "对 AI Coding、Continuous Learning、AI+OR 等方向有一定理解，能够将前沿技术能力转化为稳定、可扩展的系统能力",
+    "具备良好的问题抽象、技术沟通与跨团队协作能力，能够在高不确定性场景下推进复杂系统建设与落地",
+    "有从 0 到 1 系统搭建经验、创业经历或复杂智能系统落地经验者优先"
+  ]
+}

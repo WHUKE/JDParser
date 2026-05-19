@@ -1,0 +1,125 @@
+{
+  "source_file": "2ddbcc17-3ff5-4312-b13f-484be9303637.txt",
+  "job_title": "CDN缓存系统高级研发工程师（J96905）",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "后端开发",
+  "job_sub_category": "CDN",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责CDN缓存接入系统的协议栈开发工作",
+    "负责CDN缓存接入系统的客户质量调优工作",
+    "负责CDN缓存接入系统的重传成本优化工作",
+    "负责CDN缓存接入系统的缓存组件开发工作"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTTPS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "QUIC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CDN开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Nginx",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Traffic Server",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Squid",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大型CDN客户接入开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "协议栈质量调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "统招本科及以上学历，计算机相关专业",
+    "熟悉linux系统，精通c、c++语言开发，熟悉常用数据结构",
+    "熟悉tcp/ip，http，https协议，有quic协议、cdn开发经验优先",
+    "有承接过大型cdn客户需求接入开发，协议栈质量调优经验的优先",
+    "熟悉nginx、ats、squid等开源软件，具备开发经验优先"
+  ]
+}

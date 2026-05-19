@@ -1,0 +1,103 @@
+{
+  "source_file": "4135482015.txt",
+  "job_title": "无人车业务部-高性能分布式计算专家",
+  "location": "北京市",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "分布式系统",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责无人车分布式计算平台建设，为自动驾驶仿真和数据计算提供高性能分布式计算方案",
+    "负责云计算平台性能指标和稳定性建设工作"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ray",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "高可用分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ray",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "有扎实的 C++ / Python 语言基础与 Linux 系统基础，热爱技术，愿意学习",
+    "熟悉一种分布式计算框架 Ray/Spark/Flink",
+    "良好的沟通表达和团队协作能力",
+    "有高可用大规模分布式系统的开发和维护经验者优先",
+    "有基于 Ray 的大型分布式项目落地经验者优先",
+    "有自动驾驶相关工作经验者优先"
+  ]
+}

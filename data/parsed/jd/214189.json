@@ -1,0 +1,188 @@
+{
+  "source_file": "214189.txt",
+  "job_title": "软件开发岗",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "分布式系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导和参与系统分析设计工作，承担核心架构的代码实现，负责系统改造和升级",
+    "主导和参与系统性能优化，持续提升系统在高并发、高访问量下的性能和系统稳定性",
+    "负责系统稳定性保障，包括代码健壮性、监控告警配置、线上问题解决等"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring MVC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL优化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "domain"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "domain"
+    },
+    {
+      "name": "异步处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信正直",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "SQL调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "集群架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "domain",
+      "parent": "分布式系统"
+    }
+  ],
+  "raw_requirements": [
+    "Java基础扎实、理解JVM原理、有多线程、高并发系统开发经验",
+    "熟悉主流开源框架，如Spring、Spring MVC、MyBatis,了解其原理和实现机制，读过上述框架源码优先考虑",
+    "熟悉MySQL等关系型数据库，了解基本的sql优化，有sql调优经验者优先",
+    "熟悉分布式、缓存、消息、异步等机制，有分布式系统、集群架构设计和使用经验优先；有Redis，Elasticsearch等实战经验优先",
+    "善于学习和与人沟通，为人正直、诚信，有较强的事业心和逻辑思维能力",
+    "有很强的分析问题和解决问题的能力,有强烈的责任心。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

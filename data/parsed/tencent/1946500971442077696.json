@@ -1,0 +1,172 @@
+{
+  "source_file": "1946500971442077696.txt",
+  "job_title": "腾讯会议-后端研发工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "后端开发",
+  "job_sub_category": "高并发, AI应用",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责腾讯会议后台的研发和架构设计，包括媒体应用类业务开发（如云录制、实时ASR和翻译）",
+    "负责智能化业务研发（如AI助手和智能会议纪要等）"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "socket通信",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "网络编程"
+    },
+    {
+      "name": "TCP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "网络编程"
+    },
+    {
+      "name": "UDP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "网络编程"
+    },
+    {
+      "name": "高并发架构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "存储架构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任感",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型AI开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "不限",
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "不限",
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "webrtc",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ffmpeg",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "licode",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "kurento",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "腾讯云认证",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "certification"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机或相关专业，5年以上相关工作经验",
+    "熟练掌握Golang/C/C++任两种语言，有扎实的网络编程技术基础，对socket通信，UDP/TCP协议有深刻理解",
+    "熟悉高并发场景下的业务架构设计和存储架构设计",
+    "有基于大模型的AI项目经验的优先；（可选）",
+    "有容器化技术背景，容器编排等领域技术优先；（可选）",
+    "有基于webrtc/ffmpeg/licode/kurento体系的媒体服务开发者优先；（可选）",
+    "具备较强的逻辑思维能力、沟通能力和团队协作能力，责任感强",
+    "在同等条件下，通过腾讯云认证或取得同等资格认证的候选人，我们会优先考虑。"
+  ]
+}

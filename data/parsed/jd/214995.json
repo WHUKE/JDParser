@@ -1,0 +1,167 @@
+{
+  "source_file": "214995.txt",
+  "job_title": "算法开发工程师",
+  "location": "上海市",
+  "education": "博士",
+  "job_category": "研发类",
+  "job_sub_category": "智能调度",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导物流行业智能调度算法体系的技术规划，制定ETA预测、路径规划、运力调度等核心模块的技术路线，推动算法突破",
+    "结合行业政策调整算法策略，平衡效率与骑手安全、用户体验等多目标优化",
+    "负责中长期技术预研，探索AI大模型、强化学习、时空图神经网络等前沿技术在物流场景的落地",
+    "主导高精度ETA算法研发，覆盖路况预测、订单分配、动态调度等全链路，优化配送时效与成本",
+    "设计多目标优化模型，解决骑手负荷均衡、订单聚类、突发异常事件的弹性调度问题",
+    "深度理解物流业务场景，与产品、运营合作，将算法能力转化为业务指标提升"
+  ],
+  "required_skills": [
+    {
+      "name": "运筹优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "VRP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运筹优化"
+    },
+    {
+      "name": "TSP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运筹优化"
+    },
+    {
+      "name": "动态规划",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "运筹优化"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "GBDT",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "深度时序模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "大规模分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "大规模分布式系统"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "大规模分布式系统"
+    },
+    {
+      "name": "高并发实时决策引擎设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法工程化",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨部门沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "认同京东价值观",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机、运筹学、应用数学等相关专业博士优先，有丰富的算法研发经验",
+    "精通运筹优化（VRP/TSP/动态规划）、机器学习（GBDT/深度时序模型）、强化学习等技术，主导过ETA预测、骑手调度等核心模块研发",
+    "熟悉大规模分布式系统（如Spark/Flink）与高并发实时决策引擎设计",
+    "具备算法工程化经验，熟悉C++/Java/Python技术栈及微服务架构",
+    "优秀的跨部门沟通能力，能向非技术高管清晰阐述技术价值，推动算法在复杂业务场景中落地。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

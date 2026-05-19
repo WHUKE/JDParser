@@ -1,0 +1,114 @@
+{
+  "source_file": "216161.txt",
+  "job_title": "机器人测试开发工程师（端到端）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "端到端测试",
+  "job_level": "中级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责产品的端到端场景测试，包括参与用户需求分析，设计评审，制定测试计划，输出测试报告，保证项目的质量和进度",
+    "负责智能IoT的功能、性能和全链路测试，确保链路的可用性和鲁棒性",
+    "根据用户场景，制定准入准出指标体系，并将用户指标一层层拆解到系统及模块维度的指标",
+    "根据项目不同阶段和测试需求，开发和维护自动化测试工具，自动化环境搭建及部署，参与测试平台建设，提升测试效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C/C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "功能测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "接口测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "用户视角",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "智能硬件测试",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科统招及以上学历，计算机或相关专业毕业，有扎实的计算机基础知识",
+    "掌握python、c/c++、java 等至少一种编程语言，有C端产品功能测试、自动化测试、接口测试、性能测试等的实战经验",
+    "有智能硬件测试经验优先",
+    "良好责任心和逻辑性，团队合作精神，能够在压力下保持良好的工作状态",
+    "良好的用户视角符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "source_file": "216648.txt",
+  "job_title": "交付实施岗",
+  "location": "北京市",
+  "education": "大专",
+  "experience": "1-5年",
+  "experience_min": 1,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "分布式系统",
+  "job_level": "中级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "参与核心业务系统的需求分析、技术方案设计与实现，负责Java后端模块的开发、编码与单元测试",
+    "主导或参与系统架构优化、性能调优、安全加固，提升系统高可用性与高并发处理能力",
+    "负责数据库的设计、开发与优化，包括SQL优化、索引设计与数据备份策略制定",
+    "与产品、前端、测试及运维团队协作，梳理业务逻辑，推进项目迭代，确保按时交付",
+    "跟踪行业前沿技术动态，引入合适技术方案，改进开发效率与系统性能",
+    "编写与维护技术文档，包括需求文档、设计文档、接口文档、测试文档等"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java集合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java多线程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java IO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java反射",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "面向对象编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "Spring Cloud",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Oracle",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "服务注册与发现",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式事务",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "敏捷开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题排查能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "框架源码阅读与二次开发能力",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统开发经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "高可用系统开发经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI项目经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "统招大专及以上学历，计算机相关专业，1-5年Java开发经验",
+    "精通Java基础语法，深入理解面向对象思想，熟悉集合、多线程、IO、反射等核心技术",
+    "熟悉主流Java开发框架，如Spring、Spring Boot、Spring Cloud、MyBatis等，具备框架源码阅读与二次开发能力者优先",
+    "掌握至少一种关系型数据库（MySQL/Oracle），具备扎实的数据库设计与优化经验，了解Redis、MongoDB等NoSQL数据库者优先",
+    "熟悉分布式系统设计理念，了解微服务架构、负载均衡、服务注册与发现、分布式事务等相关技术",
+    "具备良好的编码规范与习惯，熟悉Git版本控制工具，了解敏捷开发流程",
+    "具备较强的问题排查能力、逻辑思维能力与沟通协作能力，有责任心，能承受一定的工作压力",
+    "有高并发、高可用系统开发经验，或AI项目经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

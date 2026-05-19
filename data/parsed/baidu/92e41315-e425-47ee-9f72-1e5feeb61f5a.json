@@ -1,0 +1,114 @@
+{
+  "source_file": "92e41315-e425-47ee-9f72-1e5feeb61f5a.txt",
+  "job_title": "AI计算平台测试开发工程师（J97448）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "测试",
+  "job_sub_category": "AI计算平台",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百舸·AI计算平台资源池/推理/训练/开发机等方向的质量保证工作",
+    "负责测试用例设计、包括但不限于功能、性能、效果及高可用等测试维度",
+    "使用AI测试提效工具完成测试工具/自动测试框架/测试脚本实现",
+    "评估项目质量风险，与开发人员就项目进度和问题进行沟通",
+    "参与代码评审、持续集成等工作，确保代码质量和交付效率"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析与解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极主动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "GPU测试",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型推理测试",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型训练测试",
+      "proficiency": "不限",
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业，统招本科及以上学历，三年及以上工作经验",
+    "能熟练应用以下一门及多门技术：python、go、shell、k8s、cicd等",
+    "有GPU相关测试、大模型推理/训练的测试经验优先",
+    "具备良好的沟通协调能力，学习能力强，有较强的分析、解决问题的能力",
+    "工作积极主动，能够自觉推进工作进度，有强烈的责任心"
+  ]
+}

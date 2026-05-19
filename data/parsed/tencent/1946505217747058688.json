@@ -1,0 +1,116 @@
+{
+  "source_file": "1946505217747058688.txt",
+  "job_title": "PUBG Mobile-游戏后台开发工程师-工程方向-新星引力计划",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "后端开发",
+  "job_sub_category": "工程方向",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责逻辑系统设计和开发工作",
+    "负责发掘游戏后台服务隐患，针对性进行架构、代码、性能优化",
+    "负责应用工程/AI技术解决外网问题、优化玩家体验、制作提效工具"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机体系结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机网络",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析解决问题能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Lua",
+      "proficiency": "不限",
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模线上服务维护",
+      "proficiency": "不限",
+      "category": "运维",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机，软件相关专业",
+    "掌握C/C++，掌握其它语言如Lua者优先",
+    "熟悉分布式后台服务业界架构，全面的计算机体系架构知识和网络知识，有大规模线上项目服务维护优化经验者优先",
+    "具备良好沟通能力和沟通协作意识，有责任心",
+    "优秀的学习能力、分析解决问题的能力，有机器学习相关经验者优先。"
+  ]
+}

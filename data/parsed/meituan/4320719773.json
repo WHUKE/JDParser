@@ -1,0 +1,200 @@
+{
+  "source_file": "4320719773.txt",
+  "job_title": "资深智能硬件研发工程师",
+  "location": "北京/深圳",
+  "education": "本科",
+  "experience": "6年以上",
+  "experience_min": 6,
+  "job_category": "技术类",
+  "job_level": "资深",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "根据产品需求完成硬件方案设计、编写设计文档",
+    "负责两轮共享电动车电器件硬件开发原理图设计、layout、测试等工作",
+    "负责两轮共享电动车电器件存量产品的故障问题分析解决",
+    "负责两轮共享电动车电器件产品前沿技术跟踪及预研，结合业务需求输出新技术产品化的可行性评估",
+    "制定并沉淀硬件设计规范、checklist等技术资产，推动团队设计标准化与复用",
+    "主动探索并落地AI工具在硬件研发流程中的应用场景，持续提升团队研发效率",
+    "与嵌入式软件、结构、采购、质量等跨团队深度协同，推动产品从定义到量产的全流程落地"
+  ],
+  "required_skills": [
+    {
+      "name": "模拟电路设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数字电路设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电力电子",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "硬件设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "电源设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "485通信",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CAN通信",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "接口防护",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开关控制电路设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电路设计软件",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "文档编写",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI工具使用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "共享两轮车电子开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "复杂电源设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI研究与落地",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "硬件研发平台化设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "硬件产品从0到1量产交付",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及其以上学历，电子、通信、自动化及其相关专业，6年以上电子硬件开发工作经验。",
+    "熟悉模拟电路、数字电路设计，熟悉电力电子基础知识，具有扎实的硬件设计和问题分析能力",
+    "精通各类电源、485/CAN通信、接口防护、开关类控制等硬件电路设计。",
+    "撰写电器件产品相关的电气特性要求，checklist等文件。",
+    "熟练使用其他至少一种电路设计软件。",
+    "具有良好的文档编写能力、沟通表达能力、团队协作能力和逻辑思维能力。",
+    "具备大模型/AI辅助工具使用能力，对新技术保持敏感和学习意愿，有将AI应用于硬件研发工作的实践经验或清晰思路。",
+    "有共享两轮电子产品开发经验者优先",
+    "有复杂电源设计经验优先",
+    "有AI研究和落地经验的优先",
+    "有大厂硬件研发平台化设计经验者优先",
+    "有完整的硬件产品从0到1量产交付经验者优先"
+  ]
+}

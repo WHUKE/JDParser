@@ -1,0 +1,131 @@
+{
+  "source_file": "904925ed-365e-487f-9142-33d5bdff2e79.txt",
+  "job_title": "AEB算法专家（J96986）",
+  "location": "北京市,深圳市",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "自动驾驶",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "独立负责AEB新场景/功能算法开发的实现，新算法的调研和仿真验证",
+    "负责AEB软件算法开发的设计、开发、调试和改进",
+    "负责AEB软件算法在新车型的适配和调整",
+    "配合其他模块工程师完成与其他部门协同完成系统集成和调试工作",
+    "参与业务解决方案的设计和编写，撰写相关技术文档"
+  ],
+  "required_skills": [
+    {
+      "name": "AEB算法设计",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "控制策略开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "算法开发",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程开发",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C-NCAP法规",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "E-NCAP法规",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "IVISTA法规",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "算法工程化落地",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶行业知识",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "嵌入式软件编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "整车AEB关联系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "整车网络信号",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "3年以上AEB算法设计和控制策略开发相关经验，具有算法开发、编程开发经验，具有嵌入式软件编程经验者优先考虑",
+    "熟悉C-NCAP,E-NCAP,IVISTA等碰撞安全法规及NCAP体系的发展动态",
+    "业务sense强，有业务场景算法落地能力，热爱自动驾驶行业",
+    "熟悉整车AEB关联系统、整车网络信号者优先",
+    "具有良好的团队合作意识、沟通能力、协调能力"
+  ]
+}

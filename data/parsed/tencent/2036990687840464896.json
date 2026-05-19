@@ -1,0 +1,212 @@
+{
+  "source_file": "2036990687840464896.txt",
+  "job_title": "魔方技术中心-高级技术美术-Pipeline TA方向",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "设计",
+  "job_sub_category": "Pipeline",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责游戏美术 Pipeline 相关工具、流程系统及配套服务的设计、开发和维护，覆盖资产生产、流转、校验、发布等核心环节，通过工具和流程优化提升项目美术生产效率与品质",
+    "对接项目需求，结合项目管理、程序、美术、TA 等团队协同推进问题解决与方案落地",
+    "负责 Pipeline 工具及流程系统的前后端一体化开发，包括工具界面、服务接口、数据流转、权限配置及相关功能迭代",
+    "负责技术 Demo、方案文档、培训资料和使用手册的整理与沉淀，推动工具管线在项目中的接入、推广、验收与持续优化",
+    "持续关注 AI 及自动化技术在游戏美术生产中的应用，结合实际业务场景快速完成工具或方案原型的开发与验证"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "后端开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据接口设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统联调",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DCC工具脚本开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "引擎工具开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流程系统集成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "资产管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "任务流转",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "版本管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "质检校验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "发布流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "美术流程系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏美术生产全流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计",
+      "skill_type": "domain"
+    },
+    {
+      "name": "角色制作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计",
+      "skill_type": "domain",
+      "parent": "游戏美术生产全流程"
+    },
+    {
+      "name": "场景制作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计",
+      "skill_type": "domain",
+      "parent": "游戏美术生产全流程"
+    },
+    {
+      "name": "动画制作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计",
+      "skill_type": "domain",
+      "parent": "游戏美术生产全流程"
+    },
+    {
+      "name": "特效制作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "设计",
+      "skill_type": "domain",
+      "parent": "游戏美术生产全流程"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "需求拆解能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，3 年及以上游戏行业 TA / TD / Pipeline 相关工作经验，有完整项目落地经验者优先",
+    "熟悉游戏美术生产全流程，理解角色、场景、动画、特效等至少一个或多个环节的制作协作方式及核心痛点",
+    "具备较强的前后端开发能力，能够独立完成工具界面开发、后台服务开发、数据接口设计及相关系统联调",
+    "有美术流程系统开发经验，熟悉资产管理、任务流转、版本管理、质检校验、发布流程等常见 Pipeline 场景",
+    "熟练掌握 Python，并至少熟悉一种前端或后端开发技术栈；有 DCC 工具脚本开发、引擎工具开发或流程系统集成经验",
+    "具备良好的沟通协调能力和需求拆解能力，能够独立承接项目需求并推动落地",
+    "具备快速学习能力、问题分析能力和较强的执行力。"
+  ]
+}

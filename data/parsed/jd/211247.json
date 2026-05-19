@@ -1,0 +1,134 @@
+{
+  "source_file": "211247.txt",
+  "job_title": "监控系统架构师",
+  "location": "北京市",
+  "job_category": "研发类",
+  "job_sub_category": "可观测性",
+  "job_level": "专家/资深",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责制定监控系统的整体架构规划和技术路线，确保监控系统能够满足业务发展需求",
+    "设计和实施智能化监控系统，包括可观测、故障定位、异常检测、自愈和预警机制等，提高系统的自愈能力和稳定性",
+    "深入了解业务需求，结合监控系统数据分析，提出系统优化和改进方案，为业务发展提供技术支持",
+    "持续跟踪监控技术发展趋势，推动新技术的落地和应用，保持系统的技术领先地位",
+    "协调跨部门合作，与运维团队、开发团队等密切合作，确保监控系统与其他系统的协同运行",
+    "带领团队进行技术分享和培训，提升团队整体技术水平和创新能力"
+  ],
+  "required_skills": [
+    {
+      "name": "技术领导力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分布式系统监控",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "服务器监控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "网络监控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "基础设施监控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "故障排查",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务分析能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "协调能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "监控技术趋势",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI技术",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DeepSeek",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool",
+      "parent": "大模型技术"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "卓越的技术领导能力和团队管理经验，能够指导团队完成复杂监控系统的架构设计和开发工作",
+    "拥有丰富的大规模分布式基础设施系统监控经验，熟悉服务器、网络、设施常用监控手段，具备深入的性能优化和故障排查能力",
+    "具备深入的业务理解和分析能力，能够结合业务需求进行监控系统的定制化设计和优化",
+    "具备出色的沟通和协调能力，能够与跨部门团队合作，推动监控系统与业务需求的深度融合",
+    "深入了解业界最新监控技术趋势，能够指导团队进行技术创新和落地，保持监控系统的技术领先地位",
+    "具备AI技术的应用经验，熟悉大模型技术（如DeepSeek）等，能够将AI技术应用于故障定位等场景中。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

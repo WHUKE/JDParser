@@ -1,0 +1,120 @@
+{
+  "source_file": "2033551186275233792.txt",
+  "job_title": "元宝搜索部-agent应用开发工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "AI Agent",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "参与ai agent应用构建，在丰富的业务和垂直场景下，紧跟前沿agent应用技术发展，构建各类ai agent应用",
+    "紧跟ai应用的前沿技术范式，提升ai应用构建的系统能力"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "虚拟化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大数据计算",
+      "proficiency": "不限",
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent构建",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "ReAct Agent",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "搜索引擎开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，有大型检索引擎或搜索系统研发经验优先",
+    "Linux环境下C/C++/Go开发经验，熟悉多线程编程、内存管理及高性能代码优化技巧",
+    "熟悉数据库，虚拟化，网络编程等在线技术栈，有大数据计算开发应用经验为加分项",
+    "有ai agent构建，react agent基础设施构建，有搜索引擎开发经验为加分项。"
+  ]
+}

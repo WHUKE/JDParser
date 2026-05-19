@@ -1,0 +1,132 @@
+{
+  "source_file": "1e18fcf9-a2d1-421f-a80f-10a8c916bab4.txt",
+  "job_title": "大语言模型/多模态大语言模型算法工程师（J97333）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大语言模型与多模态",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责智能体、大语言模型及多模态大语言模型优化",
+    "大语言模型、多模态大语言模型的提示词工程、调优",
+    "参与大语言模型/多模态大模型训练、微调及推理优化，提升模型在复杂场景下的泛化与生成能力",
+    "大模型相关研究与应用，包括视觉-语言模型构建、跨模态内容生成与理解、对齐与融合等",
+    "基于大模型构建智能体的自动优化机制探索，包括Agentic推理、自反馈优化等",
+    "基于多智能体协作的内容生产及内容理解、AIGC"
+  ],
+  "required_skills": [
+    {
+      "name": "大模型研发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态大模型研发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能体研发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PaddlePaddle",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "有大模型研发、多模态大模型研发、智能体研发、RAG或强化学习等相关经验",
+    "对机器学习、深度学习、自然语言处理、大模型及多模态学习有深入理解，有相关顶会论文者优先",
+    "熟练掌握至少一种深度学习框架（PaddlePaddle、PyTorch等",
+    "熟练掌握Python/C++至少一门开发语言",
+    "有强烈的上进心和求知欲，善于学习新事物，渴望用技术改变未来"
+  ]
+}

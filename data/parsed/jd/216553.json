@@ -1,0 +1,86 @@
+{
+  "source_file": "216553.txt",
+  "job_title": "产品经理岗",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "具身智能",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "深入挖掘具身智能场景需求，结合行业特性，定位客户画像，前瞻性的推出具身智能开发平台产品能力",
+    "整合研发、算法、测试等各团队资源，快速驱动产品迭代",
+    "倾听客户对于产品能力的反馈，主动评估产品效果，推动产品不断改进",
+    "跟踪行业、市场、竞品动态，保持对前沿方向的关注，为产品竞争力负责",
+    "协同解决方案、销售等团队，验证产品商业化效果，推动产品商业化成功"
+  ],
+  "required_skills": [
+    {
+      "name": "VLA模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据采集",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型部署",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品化思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "商业化思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学、信息技术或相关专业",
+    "AI或具身智能类产品相关工作经验优先",
+    "深入理解具身智能开发工具链体系，包括但不限于VLA模型、数据采集、模型训练、模型部署等",
+    "具备优秀的产品化和商业化思维，了解具身智能开发平台的主要策略与打法",
+    "具备优秀的沟通能力，能够推动跨部门组织协作",
+    "具备快速的学习能力，保持对新产品和新技术的好奇心；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

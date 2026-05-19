@@ -1,0 +1,181 @@
+{
+  "source_file": "80cb7116-dc9f-4a99-b17b-7e929b852e17.txt",
+  "job_title": "大模型平台策略算法工程师（J97419）",
+  "location": "北京市,上海市",
+  "education": "本科",
+  "experience": "熟悉 Transformer 架构及大模型训练原理、熟悉后训练常用技术（SFT、 DPO、 RFT）、熟悉分布式并行策略（ZeRO、TP、PP、EP）",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型训练与优化",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责Post-training工具链开发： 负责千帆MAAS平台大模型SFT、蒸馏、强化学习（RL）等后训练环节的工具链开发，提升大规模训练的稳定性与执行效率",
+    "负责RLaaS能力落地： 参与“强化学习即服务（RLaaS）”的方案调研与实现，通过解耦算力资源与算法逻辑，让内外部客户能够高效低成本在自身业务数据上启动高效率的 RL 训练",
+    "提升平台易用性与扩展性： 快速定位并解决用户线上问题，将高频业务需求沉淀为平台通用功能，通过组件化设计优化工具链的复用性",
+    "前沿技术落地： 跟踪调研业内主流后训练技术，负责将其转化为平台核心能力，保持产品的技术领先性"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程实现能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Transformer架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型训练原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DPO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RFT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式并行策略",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ZeRO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式并行策略"
+    },
+    {
+      "name": "TP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式并行策略"
+    },
+    {
+      "name": "PP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式并行策略"
+    },
+    {
+      "name": "EP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式并行策略"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型后训练项目经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "verl",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "llamafactory",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ms-swift",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "slime",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "openrlhf",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模集群训练优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景： 计算机、人工智能等相关专业本科及以上学历",
+    "编程功底： 熟练掌握 Python、 PyTorch，具备扎实的数据结构与算法基础，具备良好的工程实现能力",
+    "大模型经验： 熟悉 Transformer 架构及大模型训练原理、熟悉后训练常用技术（SFT、 DPO、 RFT）、熟悉分布式并行策略（ZeRO、TP、PP、EP）",
+    "加分项",
+    "深度参与过开源或者闭源大模型的post-training项目",
+    "熟悉 verl、llamafactory、ms-swift、slime、openrlhf等微调框架，理解后训练技术原理",
+    "具备大规模集群（如千卡以上）训练优化经验者优先"
+  ]
+}

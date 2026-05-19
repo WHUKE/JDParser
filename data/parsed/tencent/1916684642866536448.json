@@ -1,0 +1,116 @@
+{
+  "source_file": "1916684642866536448.txt",
+  "job_title": "《王者荣耀世界》UE客户端开发-玩法方向-新星引力计划",
+  "location": "上海",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "前端开发",
+  "job_sub_category": "游戏玩法",
+  "job_level": "初级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "使用UE4/UE5引擎，参与玩法系统与相关组件的开发，以支持游戏设计与迭代",
+    "参与基础系统的开发及维护，包括Gameplay、UI、网络等",
+    "与同事合作，对工具与工作流进行迭代改进，提升开发效率和质量",
+    "对项目版本进行性能分析，定向优化，帮助项目达到稳定的目标帧率",
+    "理解并参与完善设计，实现效果与性能优秀的技术方案，并持续迭代改进，与产品及设计、美术部门合作，推动工作按时、高质量完成"
+  ],
+  "required_skills": [
+    {
+      "name": "Unreal Engine",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine 动画系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Unreal Engine 物理系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Unreal Engine 场景管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "移动端开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "游戏客户端框架",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏玩法系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多人在线游戏",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Unreal Engine Dedicated Server",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    }
+  ],
+  "raw_requirements": [
+    "1年及以上游戏客户端开发经验，理解客户端框架和模块的实现，有玩法系统模块的开发经验",
+    "有针对ue的移动端平台项目的工作经验",
+    "有多人在线游戏的开发经验",
+    "了解UE引擎，最好有DS使用经验，有动画、物理、场景管理等等对应模块的使用经验",
+    "学习能力强，基于UE能进行服务器与客户端双端开发",
+    "能与其它部门沟通协作，有团队意识。"
+  ]
+}

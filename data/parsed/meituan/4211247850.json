@@ -1,0 +1,228 @@
+{
+  "source_file": "4211247850.txt",
+  "job_title": "无人机-传感器算法专家",
+  "location": "北京市、上海市、深圳市",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "多传感器融合",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责相机、LiDAR、IMU、Radar 等多传感器系统的标定算法研发，包括离线标定与在线自标定",
+    "研究基于运动约束、场景约束的自标定方法，实现传感器参数的在线估计与自校正",
+    "将标定算法落地到实际产品，保证算法的稳定性、精度与实时性",
+    "设计和实现传感器内外参的标定算法，优化标定流程，提升标定效率",
+    "搭建自动化标定产线或工具链，支持大规模数据的批量标定",
+    "参与传感器选型评估，从工程角度提供标定方案支持"
+  ],
+  "required_skills": [
+    {
+      "name": "李群李代数",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "非线性优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "状态估计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "相机标定",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OpenCV",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LiDAR-Camera联合标定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PCL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Open3D",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IMU标定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "传感器融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "软件工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法优化与加速",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "无人机算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VINS-Fusion",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "ORB-SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "LIO-SAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "SLAM"
+    },
+    {
+      "name": "传感器产线标定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "毫米波雷达原理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "毫米波雷达标定",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "CUDA",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "嵌入式部署",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "扎实的数学基础，熟悉李群李代数、非线性优化、状态估计",
+    "精通相机模型与标定（内参、外参、畸变校正），熟悉 OpenCV",
+    "熟悉 LiDAR-Camera 联合标定流程，熟练使用 PCL、Open3D 等点云库",
+    "熟悉 IMU 标定与 IMU/Camera/LiDAR 融合算法",
+    "熟练掌握 C++，熟悉 Linux 开发环境，具备良好的工程代码能力",
+    "熟悉算法优化与加速，有 CUDA、多线程、嵌入式部署经验优先",
+    "有无人机、自动驾驶、机器人产品级算法落地经验",
+    "熟悉 VINS-Fusion、ORB-SLAM、LIO-SAM 等开源框架并有二次开发经验",
+    "有传感器出厂标定或产线标定工具开发经验",
+    "了解毫米波雷达原理和标定系统"
+  ]
+}

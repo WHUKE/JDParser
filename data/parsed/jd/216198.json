@@ -1,0 +1,156 @@
+{
+  "source_file": "216198.txt",
+  "job_title": "数据开发",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "数据仓库",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责供应链数据仓库（实时/离线）的设计、开发与维护，确保数据的准确性和及时性，支持业务决策",
+    "分析业务需求，设计并实现高效的数据处理流程，优化数据仓库架构，提升数据处理能力",
+    "开发和维护数据ETL（抽取、转换、加载）流程，确保数据的高质量传输与转换",
+    "与产品、运营等团队紧密合作，提供数据支持，推动业务增长和优化",
+    "跟踪数据技术的最新发展趋势，引入先进的数据处理技术，持续提升数据开发效率和质量"
+  ],
+  "required_skills": [
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hive",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据仓库设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain",
+      "parent": "数据仓库设计"
+    },
+    {
+      "name": "ETL工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Doris",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Starrocks",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新思维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "教育背景学历要求：硕士及以上学历，计算机科学、软件工程、信息技术等相关专业优先；专业不限亦可考虑",
+    "工作经验工作经验：3-5年数据开发相关工作经验，具备大型数据仓库设计与开发经验，熟悉数据仓库的构建、维护及优化",
+    "能力要求：技术能力：熟练掌握SQL、Hive、Flink等数据处理工具；熟悉数据仓库设计理论，具备良好的数据建模能力；熟悉ETL工具的使用，能够独立完成数据的抽取、转换和加载；熟悉了解Doris、Starrocks至少一种OLAP引擎，具备良好的编程能力，熟悉至少一种编程语言，如Java、Python等；业务理解：具备较强的业务理解能力，能够将业务需求转化为数据解决方案；具备良好的数据分析能力，能够从海量数据中挖掘有价值的信息",
+    "基本素质团队协作：具备良好的沟通能力和团队合作精神，能够与产品、运营等部门紧密合作，共同推进项目进展；问题解决：具备独立分析和解决问题的能力，能够面对数据处理中的复杂问题，提出有效的解决方案；责任心：具有强烈的责任心和工作热情，能够承担较大的工作压力，确保项目按时高质量完成；创新思维：具备创新意识，关注数据技术的最新发展趋势，不断学习新技术，提升个人专业能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

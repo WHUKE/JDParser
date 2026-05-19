@@ -1,0 +1,109 @@
+{
+  "source_file": "216333.txt",
+  "job_title": "数据分析岗",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "全链路分析",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责全链路分析，从流量获取、用户转化、订单生成到销售达成，进行端到端的链路分析，识别关键节点的瓶颈与机会点，聚焦“流量-用户-仓配”等核心环节，进行横向监测与归因分析，输出综合性策略建议",
+    "对销售目标的达成路径负责，识别关键驱动因素，推动跨部门协作（如营销、运营、采销等）实现目标，定期输出销售趋势分析、目标达成率评估及改进建议",
+    "通过数据监测与分析，定位销售问题根源（如流量质量、用户留存、商品竞争力、履约效率等），输出可落地的策略建议，明确责任归属，并跟踪策略执行效果",
+    "建立并维护数据分析体系，确保数据的准确性与及时性，为业务决策提供有力支持，推动业务持续优化与增长"
+  ],
+  "required_skills": [
+    {
+      "name": "Excel",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "全链路分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "归因分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务理解",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "成果导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析体系搭建",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "教育背景学历要求：本科及以上学历，专业不限",
+    "工作经验工作经验：具备3年以上电商/零售/快消/咨询行业分析师经验，具备扎实的业务sense和实战能力",
+    "能力要求：业务理解：具备强烈的生意sense，能从数据中洞察业务本质，理解销售链路中的关键驱动因素；擅长使用Excel、SQL等工具进行数据提取与分析；分析能力：能进行全链路分析，从流量获取、用户转化、订单生成到销售达成，识别关键节点的瓶颈与机会点；聚焦“流量-用户-仓配”等核心环节，进行横向监测与归因分析，输出综合性策略建议；沟通表达：逻辑清晰，表达能力强，能输出结构化分析报告，清晰表达问题与建议；实战能力：务实导向，注重实际业务效果，不追求纯方法论，能快速落地策略；具备跨部门协作能力，能推动多方协作，推动策略落地",
+    "基本素质问题解决：有较强的问题定位与归因能力，能明确责任归属并推动改进；对生意链路有深刻理解，能从“流量-用户-商品-履约”等维度进行系统性分析；成果导向：有结果导向思维，能通过数据驱动业务增长；有从0到1搭建分析体系或推动策略落地的成功案例；团队合作：具备良好的沟通和团队协作能力，能够与团队成员、业务部门高效配合，共同推进项目进度；创新思维：具备创新意识，关注行业动态，能够不断学习和探索新技术，提升自身专业能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

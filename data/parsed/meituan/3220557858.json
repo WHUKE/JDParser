@@ -1,0 +1,178 @@
+{
+  "source_file": "3220557858.txt",
+  "job_title": "到餐-高级前端工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "跨端与AI",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "独立负责中大型前端项目的方案设计及开发，独立完成需求拆解及架构调优，推动项目顺利交付，保障代码质量与可维护性",
+    "主导团队技术基建建设，参与工程与架构的设计优化，解决高复杂度技术问题并交付成果，协同提升团队整体效率与交付质量",
+    "关注项目线上数据（含性能、体验、质量指标等），持续对应用进行性能调优、架构优化，保障代码质量与服务稳定，提升用户体验",
+    "掌握 AI Coding 技能，能够将相关新知识传递给团队，并落地到项目中"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "小程序开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨端开发",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "domain"
+    },
+    {
+      "name": "工程化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "DevOps工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI Coding",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "快速调研能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术判断力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "方案设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门沟通",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立解决问题能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "React Native",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "系统规划",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI应用开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，5 年以上前端开发工作经验。",
+    "前端基础知识扎实，熟练掌握 H5、小程序 / Android/iOS 开发技能，具备优良的编码风格与高质量的编码习惯。",
+    "熟练掌握 React 系列框架及工具，熟悉 React Native 等动态化技术者优先。",
+    "在跨端、工程化、性能优化、AI 等某一领域有深入研究。",
+    "具备快速调研能力与较强的技术判断力，可独立完成方案设计并推动落地；拥有良好的跨部门沟通、项目推动及独立解决问题的能力。",
+    "乐于钻研，喜欢研究和尝试各类新技术。",
+    "主导并推动过跨部门协同工作者优先。",
+    "能结合行业特点与业务发展阶段，前瞻性地制定系统规划并推动落地者优先。",
+    "主导或参与搭建过 AI 相关功能或应用者优先。"
+  ]
+}

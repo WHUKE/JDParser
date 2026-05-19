@@ -1,0 +1,97 @@
+{
+  "source_file": "4094929082.txt",
+  "job_title": "无人车业务部-传感器BSP开发工程师",
+  "location": "北京市,深圳市",
+  "education": "不限",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责下一代自动驾驶传感器方案选型、布置、功能与性能指标定义，与软硬件团队协作，确保项目与方案按时交付",
+    "建设传感器性能评估体系与传感器仿真能力，优化传感器资源消耗，确保系统在不同应用场景下的稳定性和性能指标"
+  ],
+  "required_skills": [
+    {
+      "name": "自动驾驶传感器方案设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C语言",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队沟通",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "传感器接入与集成",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "嵌入式软硬件开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "相机ISP调优",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "深入理解自动驾驶各类传感器关键特性工艺与系统方案设计",
+    "扎实的 C/C++ 开发能力，熟悉Linux开发环境，具有良好的编程习惯",
+    "优秀的跨团队沟通与项目管理协调能力",
+    "计算机、电子信息、自动化、车辆工程等相关专业",
+    "三年以上自动驾驶车企或主机厂工作经验",
+    "具有自动驾驶传感器接入与集成经历优先",
+    "具有自动驾驶零部件的嵌入式软硬件开发经验优先",
+    "具备相机 ISP 调优经验优先"
+  ]
+}

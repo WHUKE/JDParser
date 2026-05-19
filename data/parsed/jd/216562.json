@@ -1,0 +1,190 @@
+{
+  "source_file": "216562.txt",
+  "job_title": "智能特征研发工程师",
+  "location": "北京",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "特征工程,搜索推荐系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责搜推系统全链路特征的架构设计与研发，涵盖用户画像、商品画像、实时特征和多模态特征挖掘",
+    "基于Hadoop、Spark、Flink、Kafka等大数据技术构建高性能特征计算平台与数据管道，确保数据准确性和一致性",
+    "协同算法团队，运用特征工程、特征交叉、序列建模等方法提升模型关键指标（CTR/CVR）",
+    "探索大语言模型在特征生成、用户意图理解、自然语言特征表征等方向的落地应用",
+    "针对海量高并发场景，优化特征存储、检索和服务接口的性能，保障低延迟和高可用"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构与算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推荐算法",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "特征工程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "特征平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据敏感性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "电商业务知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大语言模型（LLM）",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SFT",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大语言模型（LLM）"
+    },
+    {
+      "name": "RLHF",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大语言模型（LLM）"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "大语言模型（LLM）"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、数学、统计学等相关专业本科及以上学历，3年以上搜索推荐或大数据开发经验",
+    "精通Java、Scala或Python中至少一门语言，具备扎实的编码和数据结构算法基础",
+    "熟练掌握Hadoop、Spark、Flink、Kafka等大数据生态组件，并有丰富的实战经验",
+    "对机器学习/深度学习基础理论有一定理解，了解常见的搜推算法模型。如果具备以下能力任意一项，将会是加分：",
+    "模型特征研发经验：​ 具备丰富的特征工程经验，熟悉特征平台建设，对数据敏感，能从复杂数据中发现价值点",
+    "电商业务理解：​ 有电商行业背景，熟悉电商业务逻辑和用户购物旅程，能快速理解业务需求",
+    "LLM技术应用：​ 对LLM技术有浓厚兴趣，有SFT、RLHF、RAG等技术实践或理解者优先",
+    "系统架构能力：​ 具备良好的系统设计能力，熟悉分布式系统原理，能设计高并发、可扩展的系统架构 。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

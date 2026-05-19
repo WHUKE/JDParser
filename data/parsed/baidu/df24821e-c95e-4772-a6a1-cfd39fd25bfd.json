@@ -1,0 +1,180 @@
+{
+  "source_file": "df24821e-c95e-4772-a6a1-cfd39fd25bfd.txt",
+  "job_title": "平台开发及部署工程师（J88831）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "不限",
+  "job_category": "后端开发",
+  "job_sub_category": "云原生",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "平台后端开发：负责海外工具链研发工作",
+    "海外云部署：负责萝卜快跑国际版在目标国家的云资源部署与弹性扩展",
+    "技术实施：负责业务模块程序开发改造及数据库（MySQL、Redis、Elasticsearch）等中间件调优。同时负责云基础设施（IaaS/PaaS）部署",
+    "安全合规：确保云平台符合当地数据安全法规，设计灾备与容灾方案"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Node.js",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TCP/IP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ansible",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Terraform",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IaaS/PaaS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "负载均衡",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "虚拟化技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Elasticsearch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化运维工具链",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "英语",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "AWS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Azure",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "中大型工程项目开发经验",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "DevOps",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "需要有较好的后端开发能力，掌握go/python/c++/nodejs两种以上，有中大型工程项目开发经验者优先，具备Devops能力优先",
+    "熟悉Linux系统管理、网络协议（TCP/IP）及自动化部署工具（Ansible、Terraform）",
+    "熟悉云基础设施部署（IaaS/PaaS）、网络架构优化（负载均衡、虚拟化技术）及数据库配置（MySQL、Redis、ElasticSearch）等技术",
+    "了解云原生技术（Docker、Kubernetes），了解虚拟化技术，具备自动化运维工具链经验",
+    "英语流利，熟悉国际云服务标准（如AWS/Azure架构兼容性）"
+  ]
+}

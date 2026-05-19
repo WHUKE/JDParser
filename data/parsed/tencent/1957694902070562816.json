@@ -1,0 +1,255 @@
+{
+  "source_file": "1957694902070562816.txt",
+  "job_title": "高性能计算工程师-(上海)or(北京)or",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型推理优化",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "主导千亿参数大模型性能优化，定制PagedAttention、连续批处理等调度策略，优化vLLM/TensorRT-LLM等推理框架",
+    "牵头低比特量化技术（INT4/FP8/AWQ）的工业级落地，设计MoE模型分布式调度与通信优化方案",
+    "设计统一可扩展的AI推理引擎架构，支持自回归生成及多模态大模型协同推理",
+    "主导推理引擎在国产AI芯片（昇腾、海光、天数等）的移植与性能优化，深度定制HCCL/NCCL通信原语",
+    "设计并优化LLM高性能算子，包括Attention Kernel、GEMM及KV Cache读写优化",
+    "利用CUDA/Triton及硬件指令集进行SIMD/SIMT优化，挖掘指令级并行与寄存器重用极限"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "并行计算",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Transformer",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "vLLM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorRT-LLM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LightLLM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "KV Cache",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "低比特量化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "连续批处理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "tool"
+    },
+    {
+      "name": "PagedAttention",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "INT4量化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FP8量化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AWQ量化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MoE模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HCCL",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NCCL",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CUDA",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Triton",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SIMD",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SIMT",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ILP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "寄存器重用",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异构计算",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态AI",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Attention Kernel优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GEMM优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机、人工智能、软件工程等相关专业硕士及以上学历",
+    "具备5年以上 AI 系统、高性能计算或底层系统开发经验",
+    "具备大规模、生产级大语言模型（LLM）在线推理系统从零到一的架构设计与优化实战经验",
+    "精通 C++/Python，具备深厚的系统编程功底，对并行计算、内存管理和性能调优有深入的系统性理解",
+    "深入理解 Transformer 架构，具备 vLLM, TensorRT-LLM, LightLLM 等主流推理框架的内核级/源码级深度优化经验；对 KV Cache、低比特量化、连续批处理等核心技术有架构决策能力",
+    "具备设计和主导实现高并发、超低延迟分布式服务系统的能力；熟悉 Docker/Kubernetes 等云原生部署运维技术。"
+  ]
+}

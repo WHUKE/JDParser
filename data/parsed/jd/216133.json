@@ -1,0 +1,132 @@
+{
+  "source_file": "216133.txt",
+  "job_title": "golang开发工程师",
+  "location": "北京市",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "零信任安全",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责平台软件的设计与开发，包括用户账号，应用市场，OTA系统，产品运营平台等",
+    "构建零信任网络服务，支持用户在互联网访问私有网络数据",
+    "和产品团队紧密合作，优化产品体验"
+  ],
+  "required_skills": [
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "零信任安全架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "身份认证",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "零信任安全架构"
+    },
+    {
+      "name": "动态授权",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "零信任安全架构"
+    },
+    {
+      "name": "OpenAPI",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "需求理解",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "IoT",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "NAS",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "webRTC",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "3年以上软件开发工作经验，掌握Linux、Kubernetes、Docker等技术原理，具有良好的软件开发习惯",
+    "熟练掌握golang语言程序设计和数据库技术（如postgreSQL,redis等），有中大型项目经验",
+    "具备零信任安全架构实践经验，熟悉身份认证、动态授权等技术，有相关系统开发经验优先",
+    "具备优秀的 OpenAPI/Swagger 设计与开发能力，确保接口的规范性与易用性",
+    "有IoT，NAS，webRTC相关工作经验优先",
+    "有较强的需求理解和团队协作能力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "source_file": "784e35f4-8085-42a8-815f-58d439befc0a.txt",
+  "job_title": "数据平台私有化研发工程师（J96070）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "私有化部署",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责数据平台在客户侧的私有化部署、适配与运行保障，处理复杂基础设施、网络与历史系统约束，推动系统在资源受限、环境差异大的条件下成功上线并长期稳定运行",
+    "针对客户现场暴露的问题，进行源码级分析、修复与优化，必要时为特定场景补齐平台功能、性能、稳定性或可运维性，并推动能力平台化",
+    "参与平台关键模块的设计与改进，对系统可扩展性、稳定性、性能与可维护性负责，推动私有化与生产环境下的工程标准建设，包括部署、升级、回滚、监控与故障恢复",
+    "作为研发与交付的桥梁，将客户侧复杂问题抽象为工程问题，与核心研发团队协同推动平台级修复与演进，对平台在真实生产环境中的表现负责",
+    "在高风险或关键阶段担当技术兜底角色，参与问题处理与决策，接受阶段性出差，支持客户现场关键交付与疑难问题处理"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "源代码调试与分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL引擎",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "资源调度与管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "独立解决问题",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "私有化部署",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "工程背景",
+    "本科及以上学历，计算机相关专业优先；不设年龄限制，更关注工程能力与成熟度",
+    "3年及以上后端/平台/分布式系统相关研发经验",
+    "有ToB私有化系统、平台级产品或复杂生产系统经验者优先",
+    "核心工程能力",
+    "精通至少一门主流编程语言（Java / Go / C++ / Python 等），具备扎实的设计、调试与重构能力",
+    "熟悉 Linux 系统，能够进行系统级问题定位（CPU、内存、IO、网络、JVM 等）",
+    "具备阅读、理解并修改复杂系统源码的能力，能够从根因分析到代码级修复形成闭环",
+    "分布式与数据平台理解",
+    "对分布式系统有系统性认知，包括计算、存储、调度、容错与扩展性设计",
+    "熟悉数据平台或大数据技术栈（如 Spark / Flink / SQL 引擎 / 调度与资源管理等）",
+    "理解数据平台在生产环境中的关键挑战：性能、稳定性、数据一致性与运维复杂度",
+    "沟通与现场能力",
+    "能进行清晰、专业的技术沟通，与客户及内部团队建立技术信任",
+    "能接受一定频率的出差与现场工作节奏",
+    "能在需求不清晰、环境不标准的情况下独立推进技术落地",
+    "以工程手段解决问题，而非依赖流程或产品妥协",
+    "强Ownership意识，对系统长期稳定运行负责"
+  ]
+}

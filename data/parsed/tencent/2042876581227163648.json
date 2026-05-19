@@ -1,0 +1,159 @@
+{
+  "source_file": "2042876581227163648.txt",
+  "job_title": "PUBG Mobile-高级研发效能工程师（构建优化）-新星引力计划",
+  "location": "深圳",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "运维",
+  "job_sub_category": "构建系统优化",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "主导UE项目全链路构建流程的优化、开发与维护，负责构建耗时优化与编译效率提升",
+    "负责Android/iOS版本构建、发布流水线等持续集成过程的开发、优化及疑难问题解决",
+    "负责构建系统的稳定性治理，建立构建资源监控、耗时分析度量与异常报警机制",
+    "负责通过工具引入、打通、建设提升项目团队研发效能，优化本地开发、出包及日常预检测体验"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell Scripting",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Build Tool (UBT)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Unreal Header Tool (UHT)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Cook (UE)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Shader Compilation (UE)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Build Post-Processing (UE)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Android NDK",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Xcodebuild",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Gradle",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Perforce (P4)",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Jenkins",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式编译",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "分布式构建",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "构建工具",
+      "skill_type": "domain"
+    },
+    {
+      "name": "提交预检测 (Pre-submit Check)",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "DevOps工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "1年以上UE开发或研发效能相关经验，熟练掌握C++、Python 及 各操作系统（Win/POSIX）的脚本语言",
+    "深入理解UE引擎的构建流程，对UBT、UHT、Cook、Shader编译、构建后处理等流程有底层改造或调优经验",
+    "具备移动端（Android/iOS）底层编译和打包知识，熟悉 NDK、Xcodebuild、Gradle 等移动端相关构建工具与流程",
+    "熟悉各类版本控制工具（如P4/Git）原理，熟悉CI（如Jenkins）流程和原理",
+    "对分布式编译、分布式构建、提交预检测等场景有深入理解及实战经验者优先。"
+  ]
+}

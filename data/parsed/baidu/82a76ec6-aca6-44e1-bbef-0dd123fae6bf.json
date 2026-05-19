@@ -1,0 +1,93 @@
+{
+  "source_file": "82a76ec6-aca6-44e1-bbef-0dd123fae6bf.txt",
+  "job_title": "容器技术资深研发工程师（J96464）",
+  "location": "广州市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "容器虚拟化",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责云手机容器技术选型、调优和业务落地",
+    "负责Linux内核研发",
+    "负责Android虚拟化技术研发",
+    "负责Linux/aosp系统性能优化"
+  ],
+  "required_skills": [
+    {
+      "name": "容器技术",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "namespace",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "Linux内核"
+    },
+    {
+      "name": "cgroup",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "Linux内核"
+    },
+    {
+      "name": "aosp",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BSP移植",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术钻研",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机或相关专业本科及以上学历，3年以上Linux内核和aosp研发经验",
+    "对容器技术有较深入的研究和使用经验",
+    "对Linux内核的namespace/cgroup机制有深入理解",
+    "熟悉aosp源码和BSP移植相关工作",
+    "有较强的学习能力，有技术钻研精神，良好的团队协作能力"
+  ]
+}

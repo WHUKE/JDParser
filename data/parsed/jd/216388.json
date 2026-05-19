@@ -1,0 +1,176 @@
+{
+  "source_file": "216388.txt",
+  "job_title": "具身数据平台开发工程师 / 架构师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年及以上工作经验，具备机器人、智能驾驶、数据、AI相关领域的工作经验者优先，特别是有数据开发、数据平台建设经验的候选人",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "研发类",
+  "job_sub_category": "数据湖仓",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "设计并实现多模态数据采集链路，支持机器人/机械臂/传感器/仿真系统等数据的离线/在线采集回传",
+    "构建标准化数据处理/挖掘Pipeline，设计数据湖/湖仓一体架构，管理元数据、血缘关系、版本与可追溯性",
+    "支持大规模数据处理、数据挖掘、模型训练与推理、并行仿真等任务的分布式调度与计算",
+    "支撑数据标注后端能力，实现标注任务创建、分发、进度追踪与质量控制",
+    "设计高可用、高扩展的微服务架构，建立监控、日志、告警与成本可视化体系"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "后端开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大数据技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流式计算",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "批流一体",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式计算",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ray",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Volcano",
+      "proficiency": "不限",
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "argo-workflow",
+      "proficiency": "不限",
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "Kubernetes"
+    },
+    {
+      "name": "机器人领域知识",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能驾驶领域知识",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据平台建设经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景学历要求：本科及以上学历，计算机科学、软件工程、人工智能、自动化、数学等相关专业",
+    "工作经验工作经验：3年及以上工作经验，具备机器人、智能驾驶、数据、AI相关领域的工作经验者优先，特别是有数据开发、数据平台建设经验的候选人",
+    "能力要求- 具备扎实的后端工程与系统架构能力，熟练使用 Java 及 Python 进行服务端开发，具备良好的代码质量与工程规范意识- 熟悉常见的大数据与流式计算体系，理解批流一体处理模式，具备消息队列、分布式计算/任务调度（Ray）与资源管理相关经验- 对云原生与基础设施有一定理解，熟悉K8S，有Volcano、argo-workflow等云原生调度框架相关经验者优先- 熟悉数据处理、数据分析、机器学习等技术，具备大规模数据处理和分析的项目经验",
+    "基本素质团队协作：具备良好的沟通和团队协作能力，能够与跨部门团队成员高效配合，共同推进项目进度；问题解决：具备独立分析和解决问题的能力，能够面对复杂数据问题提出有效解决方案；责任心：具有强烈的责任心，对工作认真负责，能够承担一定的工作压力符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

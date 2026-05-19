@@ -1,0 +1,272 @@
+{
+  "source_file": "216523.txt",
+  "job_title": "软件开发",
+  "location": "北京市",
+  "job_category": "研发类",
+  "job_sub_category": "移动端开发",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "独立负责京东金融App C端业务前端项目业务需求开发，独立完成需求拆解及技术方案实现，推动项目顺利落地并保证交付质量和可维护性",
+    "参与团队技术基建的建设，参与工程和架构的设计与优化，能够解决有一定难度的技术问题并交付功能，逐步提升研发效率和质量",
+    "关注项目线上指标数据，包括性能、可用性、效能指标等，持续对应用进行性能调优和架构优化、保证代码质量和服务稳定、提升用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "JavaScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "HTML",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TypeScript",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Angular",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Webpack",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rollup",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Gulp",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "esbuild",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vite",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CommonJS",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AMD",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UMD",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ES6 Modules",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SystemJS",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Swc",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Babel",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Closure Compiler",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Traceur",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring AI",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "组件化开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模块化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "编码规范",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "前端基础知识扎实，熟练掌握原生JavaScript（ES6）、HTML、CSS，TS、具备优良的编码风格，高质量的编码习惯",
+    "熟悉至少一种前端框架：Vue/React/Angular，Vue优先，了解底层原理，有前端工程、模块化、组件化的经验，具有性能优化的经验",
+    "构建工具：熟悉至少一种构建工具 Webpack/Rollup/Gulp/esbuild/Vite ，了解代码分割、热更新、Tree Shaking 等高级特性",
+    "模块化：了解前端模块化方案，如：CommonJS、AMD、UMD、ES2015（ES6）模块化规范、SystemJS",
+    "熟悉至少一种JavaScript/TypeScript 编译器：Swc/Babel/Closure Compiler/Traceur，了解代码压缩、作用域分析、模板编译等实用特性",
+    "熟悉主流的AI Agent开发框架（Spring AI/LangChain/LangGraph等），对AI大模型应用保持强烈的求。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

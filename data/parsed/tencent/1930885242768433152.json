@@ -1,0 +1,114 @@
+{
+  "source_file": "1930885242768433152.txt",
+  "job_title": "《三角洲行动》-客户端开发工程师（玩法）-新星引力计划",
+  "location": "深圳",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "客户端开发",
+  "job_sub_category": "FPS游戏玩法开发",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责UE4射击类游戏模式框架的架构设计与落地",
+    "负责UE4射击类游戏的具体Gameplay玩法的设计与实现",
+    "负责模式和玩法模块的性能分析和优化"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine 4",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DS开发模式",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UE4网络同步机制",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 4"
+    },
+    {
+      "name": "工作量评估",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "热爱游戏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "UE4 Gameplay框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 4"
+    },
+    {
+      "name": "网络同步优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "Unreal Engine 4"
+    },
+    {
+      "name": "FPS游戏",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "熟练掌握C++，熟悉UE4的基础开发方式和架构",
+    "熟练掌握DS开发模式，了解UE4的网络同步机制",
+    "具有至少2年的UE4 Gameplay相关开发经验,有UE4 Gameplay框架,网络同步或者其他模块深度优化经验者优先",
+    "能合理评估工作量，与策划设计人员进行良好沟通，持续跟进性能与体验优化",
+    "对FPS游戏熟悉和热爱者优先",
+    "有优秀的学习能力，善于沟通，热爱游戏事业。"
+  ]
+}

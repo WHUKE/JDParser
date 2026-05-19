@@ -1,0 +1,230 @@
+{
+  "source_file": "4290193330.txt",
+  "job_title": "感知算法架构师",
+  "location": "北京市、深圳市",
+  "education": "硕士",
+  "experience": "有自动驾驶、机器人或大规模感知系统落地经验，熟悉常见的模型训练和加速框架，具备高性能 C++ 编程能力。",
+  "job_category": "技术类",
+  "job_sub_category": "感知",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "推动感知技术栈从分段式模块向统一表征/端到端架构演进，提升复杂长尾场景泛化能力",
+    "应用模型压缩、量化及算子优化技术，实现SOTA模型在边缘端高帧率运行",
+    "构建基于影子模式或自动标注的数据闭环系统，利用仿真与真实数据解决感知极端工况，提升测试效率",
+    "将AI工具与方法应用于算法研发全流程，提升开发效率与智能化水平"
+  ],
+  "required_skills": [
+    {
+      "name": "多视图几何",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "最优化算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多源传感器融合",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大规模深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "经典自动驾驶/机器人/无人机算法架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "BEVFormer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UniAD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "单目视觉",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多目视觉",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LiDAR",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "毫米波雷达",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BEVDet",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "OccNet",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶SOTA追踪",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "具身智能SOTA追踪",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "感知系统落地经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模型训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型加速框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "第一性原理思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术栈重构胆识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "gerrit",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "repo",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "版本控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "tool"
+    },
+    {
+      "name": "代码评审",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "顶会论文发表",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "NuScenes竞赛获奖",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI辅助工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "深厚的理论功底：计算机、自动化、数学等相关专业硕士/博士，对多视图几何、最优化算法、多源传感器融合及大规模深度学习有深刻理解，熟悉经典的自动驾驶/机器人/无人机的整体算法架构，了解行业前沿的算法框架（如 BEVFormer、UniAD 等）",
+    "扎实的传感器基础：对单目/多目视觉系统、LiDAR、毫米波雷达等常见传感器的基本原理有一定认知，了解各类传感器的优劣势和适用场景",
+    "SOTA 追踪能力：熟练掌握 BEVDet、OccNet、UniAD 等自动驾驶领域前沿架构，持续追踪自动驾驶、具身智能领域的 SOTA（State-of-the-Art）技术，能够敏锐判断新技术在低功耗硬件上的迁移可行性。",
+    "实战经验：有自动驾驶、机器人或大规模感知系统落地经验，熟悉常见的模型训练和加速框架，具备高性能 C++ 编程能力。",
+    "系统级视野：能够从 First Principles Thinking 出发拆解复杂任务，不盲从既有路径，具备重构现有技术栈的胆识与专业判断力。",
+    "工程方法论：熟悉 gerrit/repo 工作流，有大型项目版本控制与代码评审经验，能高效管理复杂的技术迭代。",
+    "【加分项】",
+    "学术影响力：在 CVPR, ICCV, ECCV, ICRA, IROS 等顶会发表过高质量论文或在知名竞赛（如 NuScenes 挑战赛）中取得优异成绩。",
+    "熟练运用AI辅助工具（如代码生成、数据分析、模型调优等）进行算法开发与优化",
+    "具备利用AI技术解决复杂工程问题的能力，并能评估其在实际场景中的有效性与局限性。"
+  ]
+}

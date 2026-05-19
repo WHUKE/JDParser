@@ -1,0 +1,216 @@
+{
+  "source_file": "4091103193.txt",
+  "job_title": "具身智能数据算法专家",
+  "location": "北京市、深圳市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "技术类",
+  "job_sub_category": "具身智能",
+  "job_level": "专家",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责构建具身智能模型训练所需的多模态数据处理平台，支持从采集、清洗、对齐、标注、训练评估及质量优化的全流程数据闭环",
+    "搭建并优化仿真环境/真实机器人环境中的数据生成与采集管线，推动环境交互数据的规模化和自动化",
+    "研究和实现数据驱动的具身智能训练/对齐方法，提升模型在规划、决策、操控等任务上的泛化能力和鲁棒性",
+    "负责模型评估体系建设，从模型训练到评测一站式完成，为最终的模型性能提供可靠数据支撑",
+    "关注业界前沿研究趋势（如VLA、World Model、RLHF等），将其转化为数据方法与系统实践",
+    "统筹方向建设与跨部门合作，驱动具身智能数据算法、平台与应用的系统性落地",
+    "负责将AI工具与方法应用于算法研发全流程，提升开发效率与解决方案的智能化水平"
+  ],
+  "required_skills": [
+    {
+      "name": "具身智能",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模仿学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "图像数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "多模态数据处理"
+    },
+    {
+      "name": "视频数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "多模态数据处理"
+    },
+    {
+      "name": "语言数据处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "多模态数据处理"
+    },
+    {
+      "name": "动作轨迹处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "多模态数据处理"
+    },
+    {
+      "name": "传感器信号处理",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "多模态数据处理"
+    },
+    {
+      "name": "数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据格式转换",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时间同步",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "系统架构",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据并行处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "系统架构",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI辅助工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "代码生成",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool",
+      "parent": "AI辅助工具"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool",
+      "parent": "AI辅助工具"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool",
+      "parent": "AI辅助工具"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "评估能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "大模型",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据闭环",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶数据闭环",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "数据闭环"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、人工智能、机器人、自动化等相关专业硕士及以上学历",
+    "熟悉具身智能多模态、强化学习、模仿学习等领域，具备 (图像、视频、语言、动作轨迹、传感器信号等）多模态数据处理经验",
+    "熟悉数据处理、格式转换、时间同步等处理流程；有分布式系统，数据并行处理和性能优化的经验。",
+    "熟练运用AI辅助工具（如代码生成、数据分析、模型调优等）进行算法开发与优化",
+    "具备利用AI技术解决复杂工程问题的能力，并能评估其在实际场景中的有效性与局限性。在大模型、具身智能、机器人相关领域有论文发表、开源贡献或竞赛成果者优先；对具身智能、机器人或自动驾驶数据闭环有深入理解者优先；具备优秀的沟通与团队管理能力，能够跨团队推动硬件、数据与算法协同落地者优先。"
+  ]
+}

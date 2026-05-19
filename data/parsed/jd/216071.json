@@ -1,0 +1,105 @@
+{
+  "source_file": "216071.txt",
+  "job_title": "评测算法",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "模型评测",
+  "company_name": "京东",
+  "responsibilities": [
+    "参与建设覆盖文本、音视频及具身模型的统一评测体系，设计并落地模型评测方法与指标体系",
+    "面向基座模型，构建通用能力评测（理解、推理、事实性、安全性、鲁棒性等），支撑模型版本对比与演进决策",
+    "面向业务侧（客服、导购、搜索、推荐等），抽象业务目标，设计专项评测指标、用例集与评测方案",
+    "负责自动化评测与判分策略（规则 / 模型判分 / 多模型互评），并协同人工标注体系提升评测可信度",
+    "参与评测数据集建设，包括数据采样、难例挖掘、数据版本管理与评测结果分析",
+    "与工程团队协作，打通模型数据 – 实验 – 评测全链路闭环"
+  ],
+  "required_skills": [
+    {
+      "name": "LLM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语音",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "具身智能",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务问题转化为可量化评测指标",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "评测稳定性与可复现性认知",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "统计显著性",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模型评测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Benchmark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化评测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据标注",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机、人工智能、自动化、机器人等相关专业",
+    "熟悉至少一个方向：LLM/多模态/语音/具身智能数据、训练或评测",
+    "有模型评测、Benchmark、自动化评测或数据标注相关经验优先",
+    "具备将“业务问题”转化为“可量化评测指标”的能力",
+    "对评测结果的稳定性、可复现性、统计显著性有基本认知。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

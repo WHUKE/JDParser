@@ -1,0 +1,176 @@
+{
+  "source_file": "1986290773078986752.txt",
+  "job_title": "高防产品网络SRE工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "所属产品：边缘平台及CDN流量类",
+  "job_sub_category": "高防产品网络运维",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责高防产品稳定性治理，保障其网络方面的稳定性，并对对安全产品的网络架构、布局等进行中长期跟踪、规划和设计",
+    "协同公司其他部门推动云安全网络资源的建设、落地，以支撑云安全产品的市场化，对云安全产品的资源实际可用性负责",
+    "定期分析梳理云安全网络资源的流量模型和存在问题，并进行有针对性的干预，推动研发团队实现网络能力自动化调度",
+    "对业务部门和客户需求进行整理，推动协调周边相关团队进行建设，形成最终为客户服务的产品能力"
+  ],
+  "required_skills": [
+    {
+      "name": "TCP/IP协议",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "BGP",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ISIS",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SDN",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NFV",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运营商骨干网架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "城域网架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IDC网络架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "路由策略",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络流量模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "DDoS防护",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "书面表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "口头表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文档撰写能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "运营商网络建设经验",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "运营商网络运营经验",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "项目管理经验",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "CCIE",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "certification"
+    },
+    {
+      "name": "HCIE",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "certification"
+    },
+    {
+      "name": "JNCIE",
+      "proficiency": "不限",
+      "category": "网络",
+      "skill_type": "certification"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、通信等相关专业本科以上学历",
+    "5年以上运营商、IDC网络架构工作经验，运营商、IP网络集成商相关背景",
+    "熟悉国内外运营商骨干网、城域网和IDC等网络结构、路由策略、演进趋势、流量流向模型等",
+    "精通TCP/IP协议族，尤其是BGP、ISIS等路由协议，了解SDN、NFV相关理念及技术",
+    "熟悉网络安全行业，尤其是DDoS等产品与IP网络相结合的应用场景",
+    "具有良好的沟通能力，良好的书面和口头表达能力，较高的文档撰写水平",
+    "具备运营商骨干网络建设、运营和项目经验者优先",
+    "具备CCIE、HCIE、JNCIE等证书优先。"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "source_file": "3843097230.txt",
+  "job_title": "无人车业务部-融合定位算法专家",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "融合定位",
+  "job_level": "专家/资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责提升当前多传感器融合定位系统在各类长尾场景上的能力",
+    "负责探索基于深度学习模型的3D视觉的应用能力，例如deep odometry, deep 3D matching and reconstruction",
+    "与高精地图、感知、PnC等算法团队合作，能够完成从研发到工程化到上线落地的过程"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机视觉",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多传感器融合",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPS卫星定位原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PVT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "GPS卫星定位原理"
+    },
+    {
+      "name": "精密单点定位",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "GPS卫星定位原理"
+    },
+    {
+      "name": "RTK算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "GPS卫星定位原理"
+    },
+    {
+      "name": "卫星差分后处理算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain",
+      "parent": "GPS卫星定位原理"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "独立分析问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术方案制定能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "开发上线能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "深度学习项目经验",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "计算机视觉项目经验",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "融合定位项目经验",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "发表高质量论文",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "硕士以上学历优先，计算机相关专业（人工智能，模式识别，计算机科学，数学等)",
+    "熟练掌握计算机视觉及多传感器融合相关的知识。熟悉深度学习相关知识。具有独立分析问题、制定技术方案、开发上线的能力",
+    "熟悉GPS卫星定位原理，如PVT、精密单点定位（PPP）、RTK算法、卫星差分后处理算法等",
+    "具备较好的编程能力，熟练掌握C/C++或Python编程语言。",
+    "3年以上计算机视觉或2年以上自动驾驶相关工作经验优先",
+    "在机器人领域或者计算机视觉或机器学习相关领域发表过高质量论文",
+    "在Github上有深度学习、计算机视觉、融合定位等相关高质量项目。"
+  ]
+}

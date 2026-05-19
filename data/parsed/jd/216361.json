@@ -1,0 +1,203 @@
+{
+  "source_file": "216361.txt",
+  "job_title": "后端AI交互研发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "多模态AI交互",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责多模态AI交互系统后端核心服务的设计与开发，重点支撑语音交互、多模态理解、LLM 推理、对话Agent等模块的高性能落地，保障系统高并发、低延迟运行",
+    "参与VLM/LLM提示词工程、后训练（Post Training）相关工程化落地，提升模型实际应用效果",
+    "与算法、前端、产品团队紧密协作，高效推进AI功能到生产环境的闭环落地",
+    "参与系统维护和升级，确保系统的长期稳定运行"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Java集合框架",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RabbitMQ",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM应用架构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM应用架构"
+    },
+    {
+      "name": "MCP",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM应用架构"
+    },
+    {
+      "name": "Agent",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "LLM应用架构"
+    },
+    {
+      "name": "LLM推理服务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VLM推理服务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型后训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "对话系统",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语音链路",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语音处理",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "具身智能",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人控制",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AIoT",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机及相关专业，熟练掌握Java核心技术（JVM、多线程、集合等），具备Python开发能力",
+    "具备分布式系统实战经验，熟悉微服务框架、Kafka/RabbitMQ 消息队列、Redis 缓存等技术",
+    "具备AI相关后端开发经验，了解LLM应用架构（RAG/MCP/Agent），有LLM/VLM推理服务、模型后训练（Post Training）工程化落地经验",
+    "符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。",
+    "加分项：",
+    "参与过对话系统、语音助手、智能客服等项目，熟悉对话流程设计与后端实现",
+    "了解语音链路、语音处理知识",
+    "了解具身智能、机器人控制、AIoT等场景，有相关项目落地经验。"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "source_file": "5fba9bdf-df1f-40ad-a410-86a8edc3d2e4.txt",
+  "job_title": "前端研发工程师（J97230）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年及以上",
+  "experience_min": 2,
+  "experience_max": 2,
+  "job_category": "前端开发",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责自我演化Agent产品的前端架构设计与核心功能实现，构建安全稳定、高性能的前端系统，持续提升工程质量与用户体验",
+    "将复杂的Agent行为流程、状态流转与任务执行过程进行结构化可视化与交互设计，增强用户对模型决策与执行过程的理解、调试与控制能力",
+    "与产品经理、UI/UX设计师及后端工程师紧密协作，参与需求拆解与技术方案设计，从前端视角提供可行性与复杂度评估，推动产品高质量迭代",
+    "持续优化前端工程体系，包括性能优化、可维护性、组件化与规范建设，支撑产品规模化演进"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络协议",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前后端协作机制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码质量意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "功能模块设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "大模型与Agent应用认知",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，2 年及以上前端开发经验",
+    "扎实掌握 HTML、CSS、JavaScript 等 Web 前端基础技术，理解常见网络协议及前后端协作机制",
+    "具备良好的工程习惯与代码质量意识，能够独立承担功能模块设计与实现",
+    "学习能力强，对大模型产品、Agent 系统或智能应用方向有浓厚兴趣与基础认知"
+  ]
+}

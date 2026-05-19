@@ -1,0 +1,157 @@
+{
+  "source_file": "214457.txt",
+  "job_title": "大模型算法工程师",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "大语言模型与多模态",
+  "company_name": "京东",
+  "responsibilities": [
+    "大语言模型/多模态大模型SFT微调、指令跟随、后训练RLHF精调与偏好对齐",
+    "大语言模型/多模态大模型强化学习Reasoning模型算法、Reward模型、Verifier等算法研发",
+    "大语言模型/多模态强化Reasoning大模型长CoTs效率效果优化与RL Scaling-law研究",
+    "大语言/多模态大模型Agent算法研发",
+    "大语言/多模态大模型强化学习Test-time Compute在线推理算法研发"
+  ],
+  "required_skills": [
+    {
+      "name": "编程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "常见算法与数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "认真务实",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "科学规划能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "探究精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任感",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "对AGI的热情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "顶会论文发表",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "STEM竞赛经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源大模型工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "硕士及以上学历，计算机、数学、人工智能及STEM等相关专业",
+    "拥有扎实的计算机科学功底和编程能力，熟悉常见算法和数据结构，具有良好的编程习惯",
+    "熟悉语言或多模态模型的基本算法、模型结构及基础技术，相信AGI和对相关工作抱有热情",
+    "工作认真务实，科学规划，具有极致的探究精神且知行合一，具备较强的责任感；加分项：",
+    "有大模型相关的顶会论文的工作者优先；有STEM竞赛经历者优先",
+    "熟悉强化学习算法和框架相关技术和细节，曾深度参与后训练/强化推理大模型/Agent等项目",
+    "具有扎实的工程能力，熟悉开源大模型相关工具使用，有积极提升效果效率的意识。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

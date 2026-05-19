@@ -1,0 +1,205 @@
+{
+  "source_file": "3854282468.txt",
+  "job_title": "Android/iOS/FE 业务研发 (美团APP)",
+  "location": "北京市、上海市",
+  "experience": "3年及以上",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责美团APP业务链路功能开发，深度参与需求讨论与功能定义，编写高质量代码，完成移动产品研发，推动业务",
+    "持续改进现有业务架构，进行底层优化，快速支撑业务",
+    "负责用户体验优化，解决疑难问题",
+    "探索研发提效方案，持续提升开发效率"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机网络",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "操作系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "内存管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "操作系统"
+    },
+    {
+      "name": "Android",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "iOS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程语言",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "底层技术",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "独立负责业务项目",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户端架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "应用框架搭建",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术选型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "积极心态",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "产研合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术影响力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "接口设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "可复用组件开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "3年及以上Android/ iOS /FE  开发经验（能力突出者,年限可放宽）",
+    "计算机基础扎实，熟悉掌握网络、操作系统、数据结构，代码架构、算法、内存管理等",
+    "熟练掌握Android/iOS /FE 知识，熟悉编程语言，深入理解底层技术",
+    "具备独立负责业务项目的能力",
+    "熟悉客户端常见架构，具备架构设计能力，至少独立负责过一个完整的应用技术框架搭建、关键技术选型等工作",
+    "有强烈的责任心和团队精神，心态积极正向。善于沟通，积极推进产研合作，提升团队技术影响力",
+    "具备良好的架构和接口设计能力，深入理解面向对象设计的基本原则，熟练运用设计模式，能够实现质量可靠、性能卓越且高可复用的组件。"
+  ]
+}

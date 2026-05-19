@@ -1,0 +1,134 @@
+{
+  "source_file": "1623eafe-5eb2-4621-b8e4-4f4bf3e008d6.txt",
+  "job_title": "数据库平台研发工程师（J96209）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "后端开发",
+  "job_sub_category": "云数据库平台",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责云数据库平台的整体架构设计与核心模块开发，持续优化云数据库产品的性能与稳定性",
+    "将开源数据库引擎或自研数据库进行云化改造，以标准化云服务形式交付客户使用",
+    "构建高可扩展的云数据库后端服务平台，支持快速迭代新功能并保障服务可靠性",
+    "开发数据库运维自动化工具链，将运维经验转化为标准化产品能力，提升客户运维效率",
+    "参与数据库平台技术方案评审，主导关键技术难题攻关与性能调优工作"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "故障定位与分析能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队沟通协调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Oceanbase",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "数据库内核开发",
+      "proficiency": "不限",
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库云化改造",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云计算平台开发",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，3年以上分布式系统或数据库平台开发经验",
+    "熟悉Java、Golang或者Python语言，具备良好的编程风格，善于编写程序解决工作中遇到的问题",
+    "具备独立分析定位问题的能力，能通过日志/监控系统快速解决线上故障",
+    "良好的团队协作意识，擅长跨团队沟通协作推动项目落地",
+    "熟悉MySQL/PostgreSQL/Redis/Oceanbase等数据库原理，有数据库内核开发或云化改造经验者优先",
+    "了解Kubernetes/Docker等容器技术，有云计算平台开发经验者加分"
+  ]
+}

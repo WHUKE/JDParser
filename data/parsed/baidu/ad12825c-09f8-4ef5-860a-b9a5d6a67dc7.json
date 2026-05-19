@@ -1,0 +1,118 @@
+{
+  "source_file": "ad12825c-09f8-4ef5-860a-b9a5d6a67dc7.txt",
+  "job_title": "后端研发工程师（J90839）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2-4年",
+  "experience_min": 2,
+  "experience_max": 4,
+  "job_category": "后端开发",
+  "job_sub_category": "Agent系统",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "与算法深度协同，设计与实现复杂场景的Agent系统",
+    "设计与实现大规模分布式Rollout系统，支持大量并发会话与任务",
+    "设计与实现云原生服务，构建云端高可用，弹性伸缩的多租户系统",
+    "持续优化Agent系统运行效率，优化大规模任务的资源利用率"
+  ],
+  "required_skills": [
+    {
+      "name": "数据结构与算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "容器技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard",
+      "parent": "容器技术"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云计算",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "存储",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云厂商PaaS产品",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Agent系统开发",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，基础扎实，深刻理解数据结构与算法",
+    "2～4年后端开发经验，熟悉 Docker、Kubernetes 生态，具备云计算、容器、存储、网络等方向的相关系统设计及开发经验",
+    "熟练掌握 Golang / Python / C++至少一门，云厂商PaaS产品、Agent产品后端经验优先"
+  ]
+}

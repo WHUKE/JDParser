@@ -1,0 +1,139 @@
+{
+  "source_file": "1922126152059707392.txt",
+  "job_title": "腾讯地图-地图出行领域AI算法专家",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大语言模型",
+  "job_level": "专家",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责地图出行领域大语言模型（LLM）的设计、训练、调优与评估，结合地图出行场景需求进行模型优化创新",
+    "架构设计合理的AI架构，解决地图出行场景中的业务和技术挑战",
+    "持续跟踪并分析AI大模型领域业届进展，探索技术突破方向，指导团队技术发展路径"
+  ],
+  "required_skills": [
+    {
+      "name": "Transformer",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "预训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微调",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "对齐",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型蒸馏",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "量化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PPO算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "强化学习"
+    },
+    {
+      "name": "GRPO算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "强化学习"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模分布式训练",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析问题和解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队领导能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术热忱",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、人工智能、数学或相关专业硕士及以上学历，5年以上NLP/语言大模型研发经验",
+    "主导参与过成熟大模型项目，有大语言模型领域全球领先企业工作经验优先",
+    "精通Transformer模型及其变种原理与架构，熟悉预训练、微调、对齐、模型蒸馏、量化等技术，熟悉PPO及GRPO等策略优化算法，具备强化学习训练经验优先",
+    "熟练掌握Python，熟悉PyTorch/TensorFlow等框架，具备大规模分布式训练经验",
+    "对技术保持高昂的热忱，具备优秀的分析问题和解决问题的能力，能够引领团队完成技术攻关。"
+  ]
+}

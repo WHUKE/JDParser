@@ -1,0 +1,111 @@
+{
+  "source_file": "1927639153244217344.txt",
+  "job_title": "微信小店-数据科学-治理方向",
+  "location": "广州",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "数据分析",
+  "job_sub_category": "治理方向",
+  "responsibilities": [
+    "负责微信电商治理的数据分析，问题洞察发现，保障微信电商体系下的用户安全购物体验及公平合规的商家达人经营环境",
+    "搭建电商系统运营及治理指标体系，运用统计学知识，刻画治理策略对微信电商生态的影响",
+    "利用abtest、因果推断等方法驱动运营决策"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "因果推断",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PSM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "因果推断"
+    },
+    {
+      "name": "DID",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "因果推断"
+    },
+    {
+      "name": "因果森林",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "因果推断"
+    },
+    {
+      "name": "统计方法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "假设检验",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "统计方法"
+    },
+    {
+      "name": "回归分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "统计方法"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商分析经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "内容生态分析经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、统计学、数学硕士及以上学历",
+    "具备机器学习算法基础，熟悉观测数据因果推断方法（PSM、DID、因果森林等方法），熟练应用统计方法（假设检验、回归分析）及机器学习建模",
+    "需掌握Python/SQL处理数据的方法",
+    "具备电商、内容生态分析经验者优先。"
+  ]
+}

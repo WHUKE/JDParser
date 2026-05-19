@@ -1,0 +1,160 @@
+{
+  "source_file": "4156684687.txt",
+  "job_title": "重建/仿真算法专家",
+  "location": "北京市/深圳市/上海市",
+  "education": "硕士",
+  "experience": "2年",
+  "experience_min": 2,
+  "experience_max": 2,
+  "job_category": "技术类",
+  "job_sub_category": "三维重建",
+  "job_level": "专家",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "研发空间智能核心技术，进行室内／室外／航拍／卫星影像等全场景高质量空间理解、重建与生成，静态与动态场景的仿真，包括但不限于基于图像、视频、点云、Mesh和3DGS等多种模态数据的空间智能基座与应用",
+    "参与并实现端到端多视角三维重建流水线：数据预处理、相机／传感器标定与对齐、稠密重建与渲染模块的设计与开发",
+    "优化算法性能（计算与内存），并参与模型推理加速、量化或裁剪等工程化工作以满足实时／大规模训练需求"
+  ],
+  "required_skills": [
+    {
+      "name": "英文写作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "SFM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MVS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "COLMAP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Glomap",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DUSt3R",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MASt3R",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "VGGT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "3DGS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "可微渲染",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Diffusion",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模型部署",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推理优化",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "实时渲染",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "引擎集成",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机视觉、图形学、人工智能等相关专业的硕士生／博士生，具备良好的英文写作能力",
+    "熟悉三维重建 SFM/MVS/SLAM/COLMAP/Glomap等传统三维重建算法，并有落地经验或者相关论文",
+    "熟悉DUSt3R、MASt3R、VGGT等端到端学习算法，并有相关落地经验或者相关论文",
+    "具有自动驾驶相关算法或仿真项目经验，有3DGS、可微渲染相关方向的论文、开源项目或实际工程经验",
+    "有 diffusion 或其他生成式模型开发经验，熟悉 PyTorch、TensorFlow等深度学习框架",
+    "有模型部署、推理优化或实时渲染／引擎集成经验者优先。"
+  ]
+}

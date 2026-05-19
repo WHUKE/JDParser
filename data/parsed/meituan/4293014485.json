@@ -1,0 +1,111 @@
+{
+  "source_file": "4293014485.txt",
+  "job_title": "具身智能大模型算法专家",
+  "location": "北京、深圳",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "具身智能",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "深入理解美团无人机业务场景，探究以类人形具身算法数据采集与算法训练的最优配合范式，设计高效的数据闭环方案，以提升具身智能模型在真实物理世界中的泛化能力。",
+    "针对非结构化环境下的感知与决策难题，研发创新性的具身智能算法，并探索其在无人机/机器人系统中的实际部署边界与应用价值。",
+    "依托公司真实场景数据与高校合作资源，定义并解决具身智能领域的关键科学问题，参与前沿学术会议的高质量论文产出。",
+    "负责将AI工具与方法应用于算法研发全流程，提升开发效率与解决方案的智能化水平。"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI辅助工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主动性",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Isaac Sim",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SAPIEN",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器人部署",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "人工智能",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "计算机图形学",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人学",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "学历背景： 计算机、自动化、机器人等相关专业在读，对人工智能、计算机图形学、机器人学有深入的理论理解。",
+    "编程能力： 精通 Python 及 PyTorch 等主流框架，具备扎实的算法实现能力；熟悉 C++ 者优先",
+    "科研热情： 对具身智能有浓厚兴趣，具备出色的自驱力，能够主动在复杂外卖场景中挖掘技术价值，而非单纯执行。",
+    "熟练运用AI辅助工具（如代码生成、数据分析、模型调优等）进行算法开发与优化",
+    "具备利用AI技术解决复杂工程问题的能力，并能评估其在实际场景中的有效性与局限性。",
+    "在 CVPR、ICCV、ICRA、IROS、NeurIPS 等顶级会议或期刊发表过高质量论文。有大规模仿真训练（如 Isaac、Sapien）或真实机器人部署经验。"
+  ]
+}

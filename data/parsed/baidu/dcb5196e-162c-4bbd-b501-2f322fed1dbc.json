@@ -1,0 +1,127 @@
+{
+  "source_file": "dcb5196e-162c-4bbd-b501-2f322fed1dbc.txt",
+  "job_title": "云平台开发测试工程师（J98290）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "1年",
+  "experience_min": 1,
+  "experience_max": 1,
+  "job_category": "测试",
+  "job_level": "初级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责交易平台产品的质量保证工作",
+    "负责测试用例设计、包括但不限于功能、性能、效果及高可用等测试维度",
+    "开发测试工具和自动测试框架、自动测试脚本",
+    "评估项目质量风险，与开发人员就项目进度和问题进行沟通",
+    "参与代码评审、持续集成等工作，确保代码质量和交付效率",
+    "与开发团队紧密合作，推动产品持续改进，提升用户体验"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云平台",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主动性",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "交易计费系统测试",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业，统招本科及以上学历，一年及以上工作经验",
+    "能熟练应用以下一门及多门技术：python、go、shell、C/C++/Java等",
+    "云平台或相关领域开发测试工作经验，有交易计费系统测试经验优先",
+    "具备良好的沟通协调能力，学习能力强，有较强的分析、解决问题的能力",
+    "工作积极主动，能够自觉推进工作进度，有强烈的责任心"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "source_file": "216314.txt",
+  "job_title": "AI产品经理",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "本科及以上学历。具备AI平台产品、大模型应用或智能客服/对话平台产品的经验，深度参与过LLM相关的产品从0到1过程者优先。",
+  "job_category": "研发类",
+  "job_sub_category": "AI平台产品",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "主导AI客服大模型托管平台或模型服务层的产品规划与设计，包括模型接入、部署、版本管理、算力分配、安全合规等核心能力",
+    "负责设计面向业务方的Prompt工程工具链、RAG配置界面、以及AI Agent编排框架等，实现大模型的低门槛、高效率应用",
+    "负责智能客服场景的产品方案设计与策略制定，包括意图识别、多轮对话、知识问答和辅助人工决策等AI核心模块的优化",
+    "与算法、工程团队紧密合作，驱动托管模型在客服业务中的快速上线与效果验证，并负责模型效果的持续调优与迭代",
+    "建立和完善AI模型应用的效果评估体系，包括模型性能、服务准确率、响应速度等关键指标",
+    "通过数据分析，指导模型的运营策略与产品功能升级，确保技术投入带来显著的业务价值提升"
+  ],
+  "required_skills": [
+    {
+      "name": "大语言模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型托管",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型服务化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "检索增强生成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示工程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "意图识别",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多轮对话管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "知识问答系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型效果评估",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通推动能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "0到1产品孵化经验",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景与经验： 本科及以上学历。具备AI平台产品、大模型应用或智能客服/对话平台产品的经验，深度参与过LLM相关的产品从0到1过程者优先。",
+    "大模型/托管能力要求（核心）：必须深入理解大模型（LLM）的托管、部署和应用生态，熟悉模型服务化的挑战和解决方案。具备Agent、RAG、Prompt Engineering等大模型应用技术的产品经验，能够设计高效、灵活的模型编排和调优工具。",
+    "技术与数据素养：具备良好的技术理解能力，能够与算法、工程团队进行高效沟通，将复杂技术要求转化为产品功能。具备数据驱动思维，能通过数据指标分析指导产品优化方向。",
+    "综合素质： 优秀的跨部门协作、沟通推动能力；高度的责任心与抗压能力；具备复杂AI/技术平台项目的管理经验。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

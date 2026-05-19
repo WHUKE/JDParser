@@ -1,0 +1,233 @@
+{
+  "source_file": "4290422143.txt",
+  "job_title": "无人车业务部-后端工程师（无人配送运力系统）",
+  "location": "北京市、深圳市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "高并发",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责无人配送运力方向车辆及运营基础信息体系的系统设计与研发，支撑规模化车队的日常运营与资源管理",
+    "负责运力侧资产管理平台的建设与演进，涵盖实物资产与虚拟资产的全生命周期管理能力",
+    "负责车辆管控能力的系统化建设，支撑车端软硬件迭代、配置下发及用车计划管理",
+    "负责车辆实时信息与关键事件的系统能力建设，保障运营过程中车辆数据的实时性与准确性",
+    "积极参与技术方案评审，持续优化系统架构，提升系统稳定性与可扩展性"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高可用系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据建模",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "稳定性保障",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据准确性保障",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "资损防控",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据核对",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异常兜底",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Owner意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "设备资产管理系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "IoT设备接入",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "物联网",
+      "skill_type": "domain"
+    },
+    {
+      "name": "车联网",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "物联网",
+      "skill_type": "domain"
+    },
+    {
+      "name": "OTA平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "物联网",
+      "skill_type": "domain"
+    },
+    {
+      "name": "运力业务系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "调度业务系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "物流业务系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "配送业务系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard",
+      "parent": "消息队列"
+    },
+    {
+      "name": "流式计算",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Flink",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard",
+      "parent": "流式计算"
+    }
+  ],
+  "raw_requirements": [
+    "5年以上后端系统研发经验，本科及以上学历",
+    "扎实的 Java 后端开发基础，熟悉 Spring 生态，具备高并发、高可用系统的开发与优化经验",
+    "熟悉 MySQL、Redis、MQ 等常用存储与中间件，具备复杂业务场景下的数据建模与系统设计能力",
+    "具备良好的稳定性与数据准确性意识，有资损防控、数据核对、异常兜底等工程实践经验",
+    "良好的沟通协作能力，能与硬件、运营、调度等多方高效对齐，具备较强的自驱力与 Owner 意识。",
+    "有设备/资产/固定资产管理系统研发经验者优先",
+    "有IoT 设备接入、车联网、OTA 平台相关系统开发经验者优先",
+    "有运力、调度、物流、配送等业务系统开发经验者优先",
+    "有实时数据流（Kafka/Flink）处理经验者优先",
+    "具备物流/配送等业务系统完整研发经验者优先。"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "source_file": "216146.txt",
+  "job_title": "机器人系统工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "机器人操作系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责机器人端侧AI系统的服务模块设计与开发，解决核心资源分配和调度问题",
+    "设计并优化硬件与软件集成方案，定义模块化接口和通信协议",
+    "主导技术选型，评估并引入新技术、框架和工具",
+    "解决系统开发中的关键技术难题，确保系统高效运行和稳定性"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux内核",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异构算力系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ROS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ROS2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard",
+      "parent": "ROS"
+    },
+    {
+      "name": "CyberRT",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "机器人主控系统服务框架",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "通讯框架",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学相关专业本科及以上学历，机器人系统开发经验。",
+    "精通C/C++/Python等编程语言，具备扎实的算法和数据结构基础。",
+    "熟悉分布式系统、消息队列、Linux内核等相关技术，并具备异构算力系统的设计开发能力。",
+    "熟悉机器人操作系统（ROS/ROS2/CyberRT）及其生态，有实际量产项目经验者优先。",
+    "有机器人或者自动驾驶主控系统服务框架、通讯框架相关项目经验者优先。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

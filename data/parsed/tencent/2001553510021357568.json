@@ -1,0 +1,131 @@
+{
+  "source_file": "2001553510021357568.txt",
+  "job_title": "微信-Android开发工程师-基础架构",
+  "location": "广州",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "移动开发",
+  "job_sub_category": "基础架构",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "基础架构，设计核心组件库、构建工具链、推进架构演进，规范团队研发标准和研发质量",
+    "性能优化，优化启动速度、内存、电量、包大小、稳定性、流畅性等核心指标",
+    "系统调优，深入 Framework/Native 层进行性能分析和优化",
+    "技术创新，研究前沿技术，输出最佳实践和技术方案"
+  ],
+  "required_skills": [
+    {
+      "name": "Android开发",
+      "proficiency": "不限",
+      "category": "移动开发",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kotlin",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Android Framework",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ART虚拟机",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "Android Framework"
+    },
+    {
+      "name": "Linux内核机制",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux系统编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题定位",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "编译原理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "字节码",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hook技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大型App架构设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "有 Android 开发经验，精通 Java/Kotlin/C++",
+    "深入理解 Android Framework、ART 虚拟机、Linux 内核机制",
+    "熟悉 Linux 系统编程、性能调优和问题定位",
+    "熟悉编译原理、字节码、Hook 技术优先",
+    "有大型 App 架构设计和性能优化实战经验的优先。"
+  ]
+}

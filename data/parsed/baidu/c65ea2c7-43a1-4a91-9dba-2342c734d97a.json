@@ -1,0 +1,131 @@
+{
+  "source_file": "c65ea2c7-43a1-4a91-9dba-2342c734d97a.txt",
+  "job_title": "前沿部署工程师（J97535）",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "运筹优化",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "现场",
+  "responsibilities": [
+    "深入客户现场，推动LLM4OR技术在产业场景的落地实践与价值验证",
+    "基于自我演进Agent框架，提升求解器、启发式算法、时序预测及AI4Science等方向的算法效果",
+    "面向复杂产业运筹问题，进行高难度算法优化与创新，探索新算法范式",
+    "联动产品与行业方案团队，将算法能力转化为可复用解决方案，支撑规模化应用"
+  ],
+  "required_skills": [
+    {
+      "name": "算法基础",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运筹优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "灵活应变能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术落地能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "好奇心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "智能体框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "求解器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "启发式算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时序预测",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI4Science",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "创业经历",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "运筹/管科/工业工程及相关专业硕士及以上学历，具备扎实的算法基础与良好的分析能力",
+    "在运筹学有技术积累和经验，关注AI前沿技术动态，对于AI+OR等方向有独立见解",
+    "能出差客户现场，具备良好的抗压能力、适应能力，可灵活应对项目现场各类突发问题，高效推进技术落地",
+    "对创新保持高度热情，和相关方不设边界，有创业经历者优先",
+    "热衷于推动AI解决高价值产业问题，具备强烈的好奇心与自驱力"
+  ]
+}

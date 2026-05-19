@@ -1,0 +1,146 @@
+{
+  "source_file": "3518548922.txt",
+  "job_title": "测试工具开发工程师",
+  "location": "深圳市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责无人机、自动化机场等产品产线测试工具软件的开发和维护，包括测试工具框架的设计、开发和优化",
+    "负责测试工具的功能测试、性能测试和稳定性测试，确保测试工具的质量和稳定性",
+    "负责与研发、测试、质量团队合作，根据测试需求设计和开发相应的测试工具",
+    "负责对测试工具进行持续改进和优化，提高测试效率和准确性",
+    "分析测试数据，定位生产瓶颈，推动硬件/固件团队优化产品设计",
+    "搭建CI/CD流水线，实现测试脚本版本管理与自动化部署",
+    "主动探索并运用各类AI工具优化日常工作流程，积极推动AI在业务场景中的落地实践，持续提升个人及团队的工作效率与产出质量"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "领导力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "无人机行业经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人行业经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "智能工厂行业经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "测试工具开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "测试数据分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "功能测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "稳定性测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机、通信、自动化相关专业优先。2 .5年以上批量化产线测试工具开发经验，具有扎实的软件开发基础。",
+    "熟练掌握至少一门编程语言，如Python、Java等。",
+    "具有良好的沟通能力和团队合作精神，能够有效带领团队完成工作。",
+    "具有较强的问题解决能力和自我驱动能力，能够独立完成任务。具备主动学习与探索AI新工具、新方法的意识，能持续将AI能力融入实际工作场景并独立落地；对AI工具有实际使用经验，能清晰阐述利用AI解决复杂问题的思路与方法，保持对AI前沿趋势的敏感度；无人机、机器人、智能工厂等行业经验。"
+  ]
+}

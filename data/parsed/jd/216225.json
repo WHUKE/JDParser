@@ -1,0 +1,185 @@
+{
+  "source_file": "216225.txt",
+  "job_title": "边缘云产品运营（资源商务拓展方向）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "资源商务拓展",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "与运营商进行带宽资源合作，2B商机闭环管理，制定商务解决方案，促进合作支持商机落地",
+    "负责x86专线及汇聚业务拓展，资源招募及商务对接；支持边缘云业务增长，侧重CDN、PCDN运营商资源采购合作",
+    "资源招募及管理，包括商务拓展、签约支持、合同存续管理",
+    "协助进行边缘云业务上下游市场和竞对分析，进行行业机会创新拓展",
+    "协同组织安排，推动业务目标达成"
+  ],
+  "required_skills": [
+    {
+      "name": "谈判能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Microsoft Office",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Microsoft Word",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "工具",
+      "skill_type": "tool",
+      "parent": "Microsoft Office"
+    },
+    {
+      "name": "Microsoft Excel",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "工具",
+      "skill_type": "tool",
+      "parent": "Microsoft Office"
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "工具",
+      "skill_type": "tool",
+      "parent": "Microsoft Office"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "服务意识",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "吃苦耐劳",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "总结和发现问题",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "运营商合作经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "边缘计算行业拓展经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "运营商关系",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "供应商采购管理",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "商务谈判经验",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "CDN市场了解",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "PCDN市场了解",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "资源关系",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "解决方案经验",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "边缘云市场了解",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "优秀的谈判能力和沟通协调能力，能熟练运用办公软件（word.excel.ppt）",
+    "执行力强，有极强的责任心和服务意识，吃苦耐劳",
+    "业务导向，善于总结和发现问题，有较强的学习能力",
+    "有5年以上运营商合作或边缘计算行业拓展经验优先；侧重技能：运营商关系、供应商采购管理、商务谈判经验、对CDN、PCDN市场了解，有资源关系和解决方案经验为先；加分项了解边缘云市场。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

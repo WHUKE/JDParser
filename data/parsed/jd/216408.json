@@ -1,0 +1,90 @@
+{
+  "source_file": "216408.txt",
+  "job_title": "产品经理",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "内容策略",
+  "job_level": "高级",
+  "company_name": "京东",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责京东评价业务产品策略规划与迭代，挖掘优质评价，优化评价决策价值和消费转化",
+    "负责从供给到消费的策略运营，以策略指导及驱动优质评价供给提升",
+    "结合AI能力进行评价数据挖掘和应用，建设AI总结、AI写评等能力，将评价数据转化为消费决策知识"
+  ],
+  "required_skills": [
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "全局思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "用户思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "产品抽象能力",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "沟通协调能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自我驱动力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "电商行业经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，5年以上内容策略产品经验，有电商行业经验者优先",
+    "对数据敏感，具备较强的数据分析和洞察能力",
+    "拥有全局思维，善于发现和解决问题，具备用户思维和产品抽象能力",
+    "具备较强的沟通协调能力，能够协同算法及运营等团队高效协作",
+    "思维活跃，具备较强的学习能力和自我驱动力。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

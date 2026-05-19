@@ -1,0 +1,206 @@
+{
+  "source_file": "2baa7567-1ae0-42ca-846c-dfe8596bca68.txt",
+  "job_title": "检索算法负责人（J91941）",
+  "location": "北京市/上海市/深圳市",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_level": "高级",
+  "company_name": "百度",
+  "workmode": "混合",
+  "responsibilities": [
+    "负责结合大模型，优化检索增强生成（如RAG）的流程，使之更准确、高效",
+    "检索算法（包括但不限于文本检索、知识图谱检索、多模态检索等）的研究、优化与工程落地，提升系统的召回率、准确率和响应速度",
+    "设计并实现高效的检索策略，包括查询理解、语义匹配、排序学习（Learning to Rank）、混合检索（Hybrid Search）等关键技术",
+    "深入知识图谱技术，优化实体链接、关系推理、图嵌入（Graph Embedding）等算法，提升结构化数据的检索效果",
+    "主导检索系统的性能调优，解决高并发、低延迟等工程挑战，确保系统稳定性和可扩展性",
+    "跟踪学术界和工业界最新进展，推动技术迭代和创新"
+  ],
+  "required_skills": [
+    {
+      "name": "搜索引擎",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "知识图谱",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "实体识别",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "知识图谱"
+    },
+    {
+      "name": "关系抽取",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "知识图谱"
+    },
+    {
+      "name": "Neo4j",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "tool"
+    },
+    {
+      "name": "NebulaGraph",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "tool"
+    },
+    {
+      "name": "向量检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "稠密检索模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "查询理解",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语义匹配",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "排序学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "混合检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "实体链接",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "知识图谱"
+    },
+    {
+      "name": "关系推理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "知识图谱"
+    },
+    {
+      "name": "图嵌入",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "知识图谱"
+    },
+    {
+      "name": "高并发系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "低延迟系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "多模态检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨语言检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Query重写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "RAG"
+    },
+    {
+      "name": "检索结果重排序",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "RAG"
+    }
+  ],
+  "raw_requirements": [
+    "学历背景：计算机科学、人工智能、自然语言处理等相关专业硕士及以上学历",
+    "3年以上检索算法相关经验，熟悉搜索引擎、推荐系统或知识图谱中的检索模块",
+    "有知识图谱检索实战经验，包括但不限于：实体识别、关系抽取、图数据库查询优化（如Neo4j、NebulaGraph）",
+    "熟悉经典检索算法和现代语义检索技术（如向量检索、稠密检索模型）",
+    "加分项：发表过检索/知识图谱相关顶会论文（如SIGIR、ACL、WWW）；熟悉多模态检索（文本+图像/视频）或跨语言检索技术；有大模型结合检索（RAG）的调优经验，如Query重写、检索结果重排序"
+  ]
+}

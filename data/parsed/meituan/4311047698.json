@@ -1,0 +1,81 @@
+{
+  "source_file": "4311047698.txt",
+  "job_title": "医药健康 · AI First 高级研发工程师",
+  "location": "北京市、上海市、成都市",
+  "experience": "3年",
+  "experience_min": 3,
+  "experience_max": 3,
+  "job_category": "技术类",
+  "job_sub_category": "Agentic系统",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "面向真实业务场景，善于使用AI，独自完成端到端交付，理解业务痛点 → 定义方案 → 编码实现 → 上线对结果负责。",
+    "用 AI 重塑工作流：识别当前业务中重复性高、人工成本大的环节，大胆尝试 Claw+Skill、Vibe Coding、AI-DLC 等新范式，让 AI 真正进入生产流程，而不只是 copilot。",
+    "沉淀可复用的范式和工具，不只是交付一个功能，而是帮助团队找到\"人+AI\"协作的最优解，把经验固化为 Skill、spec文档、工具和方法。",
+    "推动业产研协作模式升级，减少需求在多个角色间的低效流转，探索更直接、更高效的协作方式，快速验证、及时复盘、持续迭代。"
+  ],
+  "required_skills": [
+    {
+      "name": "AI工具使用",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码审查",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统稳定性",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Agentic系统",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LLM集成",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI产品落地",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "深度使用 AI 工具的人，不是\"会用 ChatGPT\"，是能用 AI 独立完成系统开发",
+    "有扎实工程能力，能审查 AI 生成代码的质量与风险，对线上稳定性有责任感",
+    "有产品 sense，能判断需求价值、理解用户/商家真实诉求",
+    "高度自驱，敢想、偏好行动，在不确定性中能自己找方向，不等路铺好再走有 Agentic 系统、LLM 集成或 AI 产品落地经验者优先"
+  ]
+}

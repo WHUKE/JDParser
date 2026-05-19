@@ -1,0 +1,74 @@
+{
+  "source_file": "1980548388009168896.txt",
+  "job_title": "元宝-桌面端开发工程师",
+  "location": "北京",
+  "education": "不限",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "客户端开发",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "workmode": "混合",
+  "responsibilities": [
+    "负责Windows/Mac客户端研发、技术研究和维护",
+    "负责Windows/Mac端基础设施和流程工具建设",
+    "负责跨平台逻辑开发与维护"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rust",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "跨平台开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Windows API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "macOS API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UI开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Tauri",
+      "proficiency": "不限",
+      "category": "前端框架",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉C++或rust语言，有C++跨平台开发经验",
+    "熟悉windows或者macOS操作系统API及相关UI开发",
+    "有tauri等Hybrid框架开发经验更佳。"
+  ]
+}

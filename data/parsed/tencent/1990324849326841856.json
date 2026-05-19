@@ -1,0 +1,124 @@
+{
+  "source_file": "1990324849326841856.txt",
+  "job_title": "NBA2K系列产品-后台开发工程师-新星引力计划",
+  "location": "上海",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "后端开发",
+  "job_sub_category": "分布式系统",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责分布式游戏服务器端的维护设计和开发工作，提升系统复用性及扩展性，保证版本按计划上线",
+    "负责对服务器端承载、稳定性、安全性、效能等方面的持续迭代优化，降低运营成本，保证玩家获得流畅的游戏体验",
+    "及时响应并解决外网环境中的各类问题，保障游戏服务稳定运行",
+    "将前沿技术应用到游戏后台开发中，包括但不限于机器学习、数据挖掘、算法工程化等"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云原生技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码习惯",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术研究能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析与解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "项目上线经历",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "海量服务",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高性能",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机科学或相关专业，2年以上游戏服务器开发经验",
+    "熟悉C++，能接受转Scala(JVM生态)开发，熟练Linux操作系统，熟悉分布式系统与云原生技术，熟悉常见类型数据库（DB），具备良好的编码习惯",
+    "具备学习和技术研究能力，良好的团队协作能力，良好的问题分析与解决能力",
+    "有项目上线经历，对海量服务、高性能、分布式开发有经验者优先。"
+  ]
+}

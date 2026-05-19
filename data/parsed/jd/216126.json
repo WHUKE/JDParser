@@ -1,0 +1,193 @@
+{
+  "source_file": "216126.txt",
+  "job_title": "消费金融高级研发工程师",
+  "location": "广东省",
+  "education": "本科",
+  "experience": "3-5年",
+  "experience_min": 3,
+  "experience_max": 5,
+  "job_category": "研发类",
+  "job_sub_category": "金融系统",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责海外消费贷核心系统的设计、开发与优化",
+    "参与授信、额度、定价、借还款、账务、资金路由等核心链路建设",
+    "持续推进分布式架构演进、高可用与稳定性建设",
+    "与产品、风控、运营、支付、资金等团队协同，推动复杂业务高质量落地",
+    "合理使用 AI 辅助编码工具，提升研发效率与交付质量"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "不限",
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring Boot",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "Spring Cloud",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "后端框架",
+      "skill_type": "hard",
+      "parent": "Spring"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kafka",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RocketMQ",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高可用系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "金融支付系统开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI辅助编码工具使用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "英语阅读",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "客户导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "英语口语",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "海外金融业务经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "消费贷核心链路经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "金融行业经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "我们希望你具备：",
+    "本科及以上，计算机/软件相关专业优先",
+    "3-5 年 Java 研发经验，基础扎实",
+    "熟悉 Spring Boot / Spring Cloud、MySQL、Redis、Kafka、RocketMQ 等技术栈",
+    "有较强的分布式系统设计能力，具备高可用、稳定性建设经验",
+    "必须具备金融支付系统研发经验",
+    "有金融、消费金融、信贷相关经验更佳",
+    "有 AI 辅助编码实践经验",
+    "具备英文技术文档阅读能力，英语口语流利优先。",
+    "加分项：",
+    "有海外金融业务经验",
+    "有消费贷/信贷核心链路经验",
+    "有海外消费贷相关经验。",
+    "符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

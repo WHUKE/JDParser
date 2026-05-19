@@ -1,0 +1,151 @@
+{
+  "source_file": "216031.txt",
+  "job_title": "营销产品经理",
+  "location": "四川省",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "研发类",
+  "job_sub_category": "AI营销",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责AI营销产品的全生命周期运营，推动效果调优、用户增长和转化提升，实现商业价值最大化",
+    "深入研究并应用人群标签、用户画像、精准投放等策略，构建并优化AI驱动的营销运营体系",
+    "关注市场动态和客户需求，通过数据分析与用户研究洞察价值点，提炼并推广AI营销方法论",
+    "持续优化AI营销产品功能及用户体验，满足市场和客户需求"
+  ],
+  "required_skills": [
+    {
+      "name": "产品全生命周期管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户增长",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "转化率优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "人群标签",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户画像",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "精准投放",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "用户研究",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "AI营销方法论",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "从0到1产品经验",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据驱动营销",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据分析",
+      "skill_type": "domain"
+    },
+    {
+      "name": "业务理解能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "行业洞察",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "产品策略",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新意识",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI技术应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，具备从0到1或从1到N的产品成功案例，对数据驱动的营销增长有深刻理解",
+    "具备卓越的业务理解能力，能够快速把握行业趋势、市场痛点及客户需求，并转化为产品策略",
+    "具备较强的学习能力和创新意识，对AI技术在营销领域的应用充满热情，并能主动探索前瞻性解决方案。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

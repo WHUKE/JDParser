@@ -1,0 +1,154 @@
+{
+  "source_file": "216460.txt",
+  "job_title": "测试开发工程师（EE建设）",
+  "location": "北京市",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "研发类",
+  "job_sub_category": "研发效能",
+  "job_level": "中级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责人形机器人的研发效能体系建设，包括研发流程、研发工具、研发质量等方面的优化和改进",
+    "制定和执行研发效能提升计划，包括但不限于敏捷开发、自动化测试、代码质量规范管理等方面",
+    "参与设计和实现研发效能工具和平台，提高团队协作和效率，包括但不限于代码托管、编译调优、制品管理、资源调度等工具和平台",
+    "分析和评估研发效能数据，提出改进建议和措施"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Git",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "版本控制",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码托管",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "Git"
+    },
+    {
+      "name": "编译调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "制品管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "资源调度",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "hard"
+    },
+    {
+      "name": "敏捷开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "研发效能平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "研发效能流程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "代码质量管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "京东价值观",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "分布式调度",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流水线引擎",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "CI/CD"
+    }
+  ],
+  "raw_requirements": [
+    "3年以上互联网产品团队研发效能相关工作经验",
+    "从事过CI/CD相关基础设施和工具等调优及维护，有分布式调度或流水线引擎搭建经验优先",
+    "优秀的编码能力，精通C++/Python中的至少一种，熟练使用docker，熟悉mysql，熟练掌握Git命令",
+    "熟悉持续集成、代码托管、编译调优、制品管理、资源调度等 至少一个方向对方法论，具备研发效能平台相关设计开发经验，对研发效能整体开发流程规范及实现有较深入认知和理解；符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

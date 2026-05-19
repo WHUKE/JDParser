@@ -1,0 +1,115 @@
+{
+  "source_file": "216633.txt",
+  "job_title": "前端架构师",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "前端架构",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责即时零售业务场景的前端需求开发工作",
+    "与产品、研发、测试同学协作，参与需求讨论、技术调研、方案设计、代码编写以及高质量交付",
+    "可持续优化前端工程架构、研发工具、追求极致效率、性能和稳定性"
+  ],
+  "required_skills": [
+    {
+      "name": "HTML",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CSS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Vue.js",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "前端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "React Native",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard",
+      "parent": "React"
+    },
+    {
+      "name": "Taro",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "移动开发",
+      "skill_type": "hard"
+    },
+    {
+      "name": "前端工程化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "构建工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模块化开发",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术领导力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机及软件工程相关专业优先，过硬的编码能力",
+    "熟练掌握Web前端技术，至少对一种（ Vue或React）常见的前端框架的关键细节比较了解",
+    "熟悉React Native、Taro等跨端框架至少一种，有相关项目开发经验",
+    "对前端工程化与模块化开发有一定了解，并有实践经验",
+    "具备良好的团队协作精神，能利用自身技术能力提升团队整体研发效率，提高团队影响力",
+    "对前端技术有持续的热情，个性乐观开朗，逻辑性强，善于和各种背景的人合作。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

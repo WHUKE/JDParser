@@ -1,0 +1,419 @@
+{
+  "source_file": "216362.txt",
+  "job_title": "具身智能数据算法工程师",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "研发类",
+  "job_sub_category": "具身智能",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责具身智能数据体系建设：采集/同步/存储/处理/标注，覆盖视觉（第一/第三视角）、语音、触觉/力觉、IMU、动捕、机器人状态与动作等",
+    "建设并迭代数据到模型闭环：围绕具身整体链路，组织人类示范、遥操作、第一视角视频等多源数据，支撑具身智能大模型预训练",
+    "推进数据质量与可用性：数据清洗、去重、对齐、分布控制与增强，提升模型在真实物理环境中的泛化与鲁棒性",
+    "负责评测体系建设：制定数据与模型的评测指标/基准集/回归集，搭建可复现的评测流程与看板，驱动数据与训练迭代"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ETL",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "调度",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "版本管理",
+      "proficiency": "不限",
+      "category": "版本控制",
+      "skill_type": "tool"
+    },
+    {
+      "name": "数据可追溯性",
+      "proficiency": "不限",
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "相机",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度相机",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "IMU",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "力觉传感器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "触觉传感器",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动捕",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据采集",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时间同步",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "标定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "对齐",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "误差分析",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据质量控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "机器人数据",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "视觉",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模仿学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "VLA",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "多模态预训练",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI/机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分布偏移",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "噪声标注",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "时序对齐",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据处理",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "ROS",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "ROS2",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "机器人中间件",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "传感器SDK",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "tool"
+    },
+    {
+      "name": "机器人数据采集",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "视觉几何",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SLAM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "三维重建",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "相机内外参",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "手眼标定",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "坐标系管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "对象存储",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "tool"
+    },
+    {
+      "name": "数据湖",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "tool"
+    },
+    {
+      "name": "向量检索",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "元数据系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "tool"
+    },
+    {
+      "name": "数据版本管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "版本控制",
+      "skill_type": "tool"
+    },
+    {
+      "name": "数据标注平台",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "主动学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "弱监督学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动化质量检测",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "benchmark设计",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "论文发表",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "开源项目",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "客户为先",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机/自动化/机器人/电子等相关专业；具备自动驾驶、机器人数据、视觉/多模态相关经验",
+    "扎实的工程能力：熟练使用 Python/C++ 至少一种；具备数据处理与流水线开发经验（ETL、调度、版本管理、可追溯）",
+    "熟悉多传感器数据链路：相机/深度相机/IMU/力觉/触觉/动捕等的采集、时间同步、标定、对齐、误差分析与质量控制",
+    "理解具身智能/机器人训练数据形态，了解模仿学习、强化学习、VLA 或多模态预训练的数据需求与常见坑（分布偏移、噪声标注、时序对齐等）。bonus：",
+    "熟悉 ROS/ROS2、机器人中间件与常见传感器 SDK；有真实机器人平台（人形/轮式/机械臂等）数据采集经验",
+    "熟悉视觉几何与 SLAM/三维重建/动捕体系（相机内外参、手眼标定、坐标系管理）",
+    "有大规模数据存储与检索经验（对象存储、数据湖、向量检索、元数据系统、数据版本管理）",
+    "有数据标注平台/主动学习/弱监督/自动化质检体系搭建经验",
+    "参与过公开数据集/benchmark 设计或发表过相关论文/开源项目。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

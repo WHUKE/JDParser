@@ -1,0 +1,73 @@
+{
+  "source_file": "077856db-1541-496f-ae1b-bac2ff6c2add.txt",
+  "job_title": "数据引擎和产品高级研发工程师/架构师（J98465）",
+  "location": "北京市",
+  "education": "本科",
+  "job_category": "大数据",
+  "job_sub_category": "数据引擎",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "参与AI数据处理产品和引擎（Ray/Lance/Doris/ES/OpenSearch/Milvus等），大数据产品和引擎（Hadoop/Spark/Flink/Hive/Iceberg/Paimon/HBase/Kafka/RocketMQ等）的研发，覆盖AI 大数据、数据湖计算等场景",
+    "参与百度智能云的研发工作，建设具有高性价比、高资源弹性的数据产品",
+    "对外支持云客户，对内支持集团业务，实现内外技术协同循环",
+    "探索AI 时代的新技术，设计下一代领先的大数据产品"
+  ],
+  "required_skills": [
+    {
+      "name": "高性能服务开发",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源社区经验",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Code Agent",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "AI工具链集成",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云产品",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "架构思维",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "toB业务",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业",
+    "具备高性能服务研发经验，具备大数据开源社区经验",
+    "熟练Code Agent(如Claude Code等) 等开发提效工具，能将AI 工具链融入日常开发流程，具备Code Agent独立完成复杂项目或者产品研发的经验",
+    "熟悉云产品、具备架构思维、懂toB业务者优先"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "source_file": "216372.txt",
+  "job_title": "智算集群运维工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "GPU集群运维",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责GPU算力集群的规模化建设，包括设备上架验收、系统初始化、固件升级、网络接入及容器化环境部署等全流程工作",
+    "制定并持续优化基础设施运维标准，包括硬件巡检SOP、网络性能评估规范、存储容量规划指南等",
+    "建设集群一体化监控能力，覆盖GPU核心指标、高速互联网络链路质量、存储IOPS与延迟等多维度数据采集与可视化展示",
+    "承担核心时段应急响应职责，快速定位训练任务异常根因，实施故障隔离与恢复，配合相关团队完成事后复盘与改进",
+    "设计并维护自动化运维工具链，提升节点批量管理、故障自动巡检、资源交付时效等自动化水平",
+    "跟踪集群资源使用效率，分析GPU利用率趋势、存储容量增长与网络带宽占用情况，为容量规划与成本控制提供数据支撑"
+  ],
+  "required_skills": [
+    {
+      "name": "GPU服务器体系结构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "NVIDIA GPU运维",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "硬件故障诊断与部件更换",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RDMA",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "InfiniBand",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "RDMA"
+    },
+    {
+      "name": "RoCEv2",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "RDMA"
+    },
+    {
+      "name": "网络拓扑",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "流量调度",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "链路拥塞排查",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能瓶颈排查",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "并行文件系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "存储集群管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "故障恢复",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Ansible",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Shell",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "自动化运维体系构建",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "运维工具开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "故障应急响应",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "冷静判断",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速恢复",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "文档沉淀",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "经验分享",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "经验背景：全日制本科及以上学历，计算机相关专业，5 年以上系统运维经验，其中至少 1年面向 GPU 集群或高性能计算（HPC）环境的运维经历",
+    "硬件与底层：深入理解 GPU 服务器体系结构，具备 NVIDIA卡的实际运维经验，能够独立完成硬件故障诊断与部件更换",
+    "高速网络：精通 RDMA 网络技术栈，具备 InfiniBand 或 RoCEv2 网络的实际运维能力，熟悉网络拓扑与流量调度，能够独立排查链路拥塞与性能瓶颈",
+    "分布式存储：熟悉大规模并行文件系统的日常运维与性能调优，具备存储集群健康管理及故障恢复经验",
+    "云原生与自动化：熟练掌握 Kubernetes 集群运维，能够基于 Ansible、Python、Shell 等工具构建自动化运维体系，具备运维工具或平台的开发能力",
+    "抗压与协作：具备良好的故障应急响应意识，能在高优先级场景下冷静判断、快速恢复；有跨团队协作经验，善于沉淀文档与分享经验。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "source_file": "2098486744.txt",
+  "job_title": "财务科技-Java技术专家（费控方向）",
+  "location": "成都市",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "财务系统",
+  "job_level": "专家",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责费控后端系统建设，交付高可靠性、高性能的分布式系统",
+    "负责系统的规划和技术演进，主动发现并解决当前系统中存在的问题，持续提升架构合理性",
+    "通过AI提升团队研发质效，帮助财务提升运营效率",
+    "培养团队成员，组织技术分享，促进团队成员进步"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "API与协议",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "计算机基础",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "领域驱动设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨部门协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "交易系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "结算系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "核算系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "预算系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "对公支付系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "差旅报销系统",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "技术方案设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "人工智能",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "提示词工程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "智能体",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "思考能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "人工智能"
+    },
+    {
+      "name": "英语",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "language"
+    },
+    {
+      "name": "国际化业务经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机相关专业，扎实的计算机专业基本功，强大的写码能力，Java 5年以上开发经验，熟悉JVM、MySQL、MQ、RPC、缓存等方面，在某一领域有较为深入研究",
+    "有较成熟的交易、结算、核算、预算、对公支付等某一领域经验，参与过重大项目，有技术驱动的系统改进方案落地（包括业务架构，业务流程等）。",
+    "有AI成功的项目经验，在提示词工程、智能体、RAG、思考能力等领域有深入研究，在机器学习和深度学习方面有一定理论基础或学习热情。",
+    "扎实的面向对象设计原则，有DDD经验，掌握设计模式及应用场景，对问题敏感，具备面对复杂系统、复杂问题有化繁为简的能力。",
+    "以客户为中心意识强烈，善于交流，有良好的团队合作精神和协调沟通能力，有与产品、前端、移动端等多方密切配合的经验和意识。",
+    "有带5+人团队经验。",
+    "有境外业务系统建设经验，英语流利，可作为工作语言者。",
+    "有大中型互联网公司差旅报销、预算管控、对公支付等领域经验。"
+  ]
+}

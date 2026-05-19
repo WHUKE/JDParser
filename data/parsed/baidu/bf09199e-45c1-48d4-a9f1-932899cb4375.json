@@ -1,0 +1,118 @@
+{
+  "source_file": "bf09199e-45c1-48d4-a9f1-932899cb4375.txt",
+  "job_title": "广告系统C++研发工程师（J96953）",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "不限",
+  "job_category": "后端开发",
+  "job_sub_category": "广告系统",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度电商广告业务在线检索引擎的研发工作，致力于复杂策略模型算法的工程实现，提升商业产品变现能力",
+    "负责对广告产品需求的架构设计与实现，提供高性能、高并发、低延迟的线上服务",
+    "负责从广告系统策略视角，全流程优化检索、排序、出价、拍卖机制等环节",
+    "对现有系统的不足进行分析，找到目前系统的瓶颈，改进系统算法，提高系统性能"
+  ],
+  "required_skills": [
+    {
+      "name": "C/C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux/Unix",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "脚本编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "多线程编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构和算法",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统分析和设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "搜索系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "推荐系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "广告系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "有搜索/推荐/广告检索系统研发经验优先",
+    "计算机及计算机相关专业本科或本科以上学历",
+    "精通Linux/Unix平台上的C/C++编程，熟悉脚本编程，有良好的编程习惯",
+    "精通网络编程、多线程编程",
+    "对数据结构和算法设计具有深刻的理解，有系统分析和设计的实践经验",
+    "具备优秀的逻辑思维能力，对解决挑战性问题充满热情，善于解决问题和分析问题",
+    "有强烈的上进心和求知欲，善于学习新事物"
+  ]
+}

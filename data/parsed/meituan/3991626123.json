@@ -1,0 +1,135 @@
+{
+  "source_file": "3991626123.txt",
+  "job_title": "无人车业务部-功能安全系统工程师",
+  "location": "北京市、深圳市",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "功能安全",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责底盘域控制器（转向/制动/驱动）功能安全架构设计及系统级安全分析（FMEA/DFA/FTA），通过AI辅助加速分析文档生成与合规性审查",
+    "负责自动驾驶域传感器（Camera/Lidar/Radar/IMU/GNSS）功能安全需求分析，探索AI辅助故障模式挖掘与安全案例自动生成",
+    "负责三电域控制器（OBC/DCDC/BMS）功能安全架构设计，运用AI工具辅助多系统安全需求追踪与变更影响分析",
+    "主导供应商功能安全方案评审与验收，利用AI工具辅助测试用例生成和故障注入测试方案规划",
+    "负责冗余子系统DFA共因失效分析，探索AI辅助相关性失效识别和降级策略推荐",
+    "协同软硬件部门解决运营车辆功能安全问题，主导AI工具在功能安全流程中的落地，建立AI+功能安全的工作规范"
+  ],
+  "required_skills": [
+    {
+      "name": "ASIL D",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ISO 26262",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "功能安全架构设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FMEA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FTA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "DFA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FMEDA",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "L3/L4级自动驾驶功能安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "传感器冗余系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "线控零部件功能安全设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "嵌入式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI工具应用",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "AI辅助FMEA自动化",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI辅助安全文档自动化",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "功能安全产品认证",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "certification"
+    }
+  ],
+  "raw_requirements": [
+    "完整参与过至少1个满足ASIL D等级零部件量产项目",
+    "熟练掌握ISO26262标准，精通功能安全架构设计和需求分析，擅长FMEA/FTA/DFA/FMEDA",
+    "有L3/L4级智能网联车辆传感器冗余系统或冗余线控零部件功能安全设计落地经验",
+    "AI能力：能使用AI工具（大模型/自动化脚本等）重构安全分析工作流程，有AI辅助FMEA/安全文档自动化经验者优先",
+    "有欧美国际大厂自研零部件功能安全系统设计和交付经验优先",
+    "有自动驾驶传感器，底盘线控制动和线控转向控制器功能安全认证经验并获得功能安全产品认证优先",
+    "有国际功能安全认证公司经验优先。"
+  ]
+}

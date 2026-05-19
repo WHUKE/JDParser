@@ -1,0 +1,113 @@
+{
+  "source_file": "2007763594808283136.txt",
+  "job_title": "DC项目组-UE5 Gameplay工程师",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "其他",
+  "job_sub_category": "Gameplay系统",
+  "job_level": "中级",
+  "responsibilities": [
+    "负责游戏内核心玩法系统的架构与实现，包括角色行为模拟、世界互动、建造与管理等系统",
+    "与策划紧密配合，将复杂的游戏规则与数值逻辑转化为稳定、可扩展的代码实现",
+    "负责UI与交互逻辑的开发，构建直观友好的用户界面",
+    "实现客户端与服务器的数据同步，保证游戏数据的准确一致",
+    "参与系统性能优化，解决由复杂业务逻辑引发的性能问题"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "UE4蓝图",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "UE4 Gameplay框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "网络同步机制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "网络",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "逻辑思维",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "需求分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "模拟经营玩法开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "状态管理（游戏）",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "开放世界互动开发",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，3年以上UE4开发经验，有完整项目经历",
+    "熟练掌握C++与UE4蓝图，具备良好的系统设计能力，能独立负责中型功能模块",
+    "熟悉UE4的Gameplay框架与网络同步机制",
+    "逻辑清晰，具备优秀的问题解决能力，能将抽象需求转化为可靠技术方案",
+    "有复杂游戏玩法系统（如模拟经营、状态管理、开放世界互动）开发经验者优先。"
+  ]
+}

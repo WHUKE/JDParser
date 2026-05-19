@@ -1,0 +1,149 @@
+{
+  "source_file": "216666.txt",
+  "job_title": "仓店商品运营",
+  "location": "湖北省",
+  "education": "本科",
+  "experience": "5-10年",
+  "experience_min": 5,
+  "experience_max": 10,
+  "job_category": "研发类",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责仓店商品运营全流程管理，包括商品规划、选品策略制定、库存管理与销售目标达成",
+    "基于业务数据与市场趋势，制定商品运营策略，优化商品组合与定价体系，提升商品周转与销售转化",
+    "监控商品销售表现与库存健康度，处理滞销与缺货问题，保障供应稳定性",
+    "协同供应链、仓储及门店团队，推动商品运营流程标准化与效率提升，支持业务模式创新",
+    "负责商品运营数据分析与复盘，输出运营洞察与改进建议，持续优化运营体系",
+    "参与部门管理相关工作，协助团队建设与流程规范，提升整体运营专业性"
+  ],
+  "required_skills": [
+    {
+      "name": "商品运营知识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "市场洞察力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨部门协调能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "创新意识",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "适应能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "拼搏精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "担当精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "客户导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "诚信",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "感恩",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "团队管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "商品运营项目管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "教育背景：本科及以上学历，专业不限",
+    "工作经验：具备5-10年商品运营或零售行业相关工作经验，有团队管理经验或独立负责过大型商品运营项目者优先",
+    "能力要求：熟悉商品运营全链路流程，具备较强的数据分析能力，能够通过数据驱动商品策略优化；具备较强的市场洞察力，能够把握行业趋势并制定有效的商品规划；具备良好的跨部门协调能力，能够推动商品策略落地执行",
+    "基本素质：具备良好的沟通能力和团队合作精神，能够高效协同各方资源；具有独立分析和解决问题的能力，对工作认真负责，能够承担一定的工作压力；具备创新意识和强烈的责任心，能够适应业务快速发展节奏。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

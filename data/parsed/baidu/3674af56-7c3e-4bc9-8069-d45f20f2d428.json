@@ -1,0 +1,108 @@
+{
+  "source_file": "3674af56-7c3e-4bc9-8069-d45f20f2d428.txt",
+  "job_title": "高级多模态算法工程师（J93602）",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "多模态大模型",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责多模态大模型应用层算法研发与调优，涵盖文本、语音、视觉等模态的联合建模与任务优化",
+    "设计并优化多模态对话、生成、检索、问答等核心能力，提升模型在跨模态场景下的推理与交互体验",
+    "与产品、设计、前端团队紧密协作，推动多模态交互在移动端、Web 端及端侧设备上的落地",
+    "持续跟进业界多模态应用进展（如智能助手、AI 修图/视频、跨模态搜索），快速完成技术评估与产品化",
+    "通过数据分析与用户反馈，优化模型效果，提升业务关键指标（DAU、转化率、留存率等）"
+  ],
+  "required_skills": [
+    {
+      "name": "NLP",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "CV",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语音处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "跨模态应用",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "产品思维",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "执行力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "结果导向",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "多模态应用落地",
+      "proficiency": "不限",
+      "category": "机器学习",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机、人工智能相关专业背景，硕士及以上学历，有多模态应用落地经验者优先",
+    "熟悉 NLP、CV、语音处理中的至少一个方向，了解跨模态应用的主流方案",
+    "熟练掌握 Python，具备使用 PyTorch、TensorFlow 或其他深度学习框架进行模型调优和应用开发的经验",
+    "具备良好的产品思维，能理解业务目标并转化为技术方案",
+    "善于跨团队协作，具备较强的执行力和结果导向，能够推动项目高效落地"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "source_file": "01261409-012d-4f86-ad01-2c6d1bccd60f.txt",
+  "job_title": "大模型服务技术架构师（J97659）",
+  "location": "北京市",
+  "education": "不限",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型应用架构",
+  "job_level": "高级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责政务领域大模型与智能体相关项目的整体技术架构设计与技术路线把控",
+    "项目售前阶段，支撑产品方案里的技术编写，提供技术影响力",
+    "项目交付阶段，承担关键技术攻关与核心模块设计，兜底解决项目过程中的难题，包括工程实现问题和算法效果问题",
+    "产品实现阶段，结合政府业务场景进行需求分析与场景建模，建立系统技术规范与工程标准，输出可落地、可复用的AI能力方案",
+    "参与政务客户AI大模型应用咨询工作，提供场景规划、能力选型及技术路径建议",
+    "相关技术培训与赋能工作，包括内部研发培训、客户技术培训及智能体应用能力宣贯"
+  ],
+  "required_skills": [
+    {
+      "name": "编码能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型原理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "智能体系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统分层设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "能力抽象",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术选型",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "策略算法设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术建模",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型知识构建",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "语义检索",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "任务编排",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "从0到1系统建设",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "项目管理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "技术演讲",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术培训",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "咨询能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术方案编写",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "政务行业知识",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "技术背景（硬性要求）：",
+    "1.【计算机相关】专业背景，具备扎实的编码能力与复杂系统设计能力",
+    "2. 5年以上研发经验，具备大型或复杂系统架构主导经验",
+    "3. 有政务或ToG项目技术主导经验",
+    "能力要求（弹性评价）：",
+    "1. 深入理解【大模型原理】、具备【智能体】系统设计或核心模块开发经验",
+    "2. 具备整体架构视角，能够完成系统分层设计、能力抽象与模块拆分，开源或商业技术选型",
+    "3. 具备良好的技术表达与讲解能力，能够承担技术培训、咨询及方案宣讲工作",
+    "4. 有从0到1企业级系统建设或平台化能力沉淀经验",
+    "项目经历（硬性要求）：",
+    "1.要求在项目经历中参与【策略算法】部分的设计与优化",
+    "2.从业务问题出发进行【技术建模】，并转化为工程化实现方案",
+    "3.有大模型实际落地经验（知识构建、语义检索、任务编排等）"
+  ]
+}

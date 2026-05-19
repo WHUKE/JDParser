@@ -1,0 +1,155 @@
+{
+  "source_file": "2037424262440189952.txt",
+  "job_title": "魔方技术中心-强化学习开发工程师",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "强化学习",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责游戏的AIBot技术的研发和落地，包括但不限于强化学习、模仿学习、元学习等，结合游戏场景，提供技术解决方案",
+    "利用游戏玩家数据建立大数据模型，在拟人化、风格化、定制化方向的研究应用落地",
+    "支持机器学习AI离线训练平台和在线服务的框架设计和搭建",
+    "支持AI算法的创新和优化，提高学习效率和表现效果"
+  ],
+  "required_skills": [
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "最优化理论",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "动手能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "快速学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "编码能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "游戏开发经验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "游戏玩法理解",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "用户体验",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "热爱游戏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大规模深度学习系统",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业，硕士及以上学历，2年以上相关工作经验",
+    "基础扎实，编码过关，熟悉常用的算法和数据结构，熟练掌握C/C++、go、Python等至少一门编程语言，具备较强动手和快速学习能力，能够应用TF、PyTorch等主流框架实现模型搭建与算法调优",
+    "掌握机器学习、强化学习、最优化理论等算法原理，并对及其在游戏中的应用有深入的理解和浓厚的兴趣",
+    "有游戏开发经验优先，热爱游戏，熟悉多种品类的游戏玩法和常见的用户体验问题",
+    "熟悉k8s等容器相关技术，有大规模DeepLearning系统研发经验者优先。"
+  ]
+}

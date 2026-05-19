@@ -1,0 +1,151 @@
+{
+  "source_file": "216653.txt",
+  "job_title": "高可用架构师（营销技术方向）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "研发类",
+  "job_sub_category": "高可用架构",
+  "job_level": "高级",
+  "company_name": "京东",
+  "responsibilities": [
+    "负责营销技术平台的高可用架构设计、演进与落地，保障系统在亿级流量下的稳定性与可靠性",
+    "主导资损防控体系建设，通过技术手段实现事前预防、事中监控与事后溯源，覆盖营销、用增等核心场景",
+    "深入优化系统性能，解决高并发场景下的瓶颈问题，提升系统吞吐与响应能力",
+    "构建全链路技术风险防控机制，包括容灾、限流、降级、预案管理等，确保业务连续性",
+    "推动稳定性文化，通过工具化、平台化建设提升团队风险意识与应急响应效率",
+    "参与重大技术方案评审，在架构层面保障系统的可扩展性、可维护性与安全性"
+  ],
+  "required_skills": [
+    {
+      "name": "分布式系统架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式存储",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "资损防控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "营销系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "domain"
+    },
+    {
+      "name": "资金链路防护",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "domain"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统调试",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "测试工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务敏感度",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目推动力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，5年以上互联网高可用架构或稳定性保障经验",
+    "精通分布式系统架构，熟悉微服务、容器化、消息队列、分布式存储等关键技术",
+    "在高并发、高性能系统设计方面有丰富实战经验，能独立解决复杂技术难题",
+    "熟悉资损防控方法论，具备营销系统、资金链路等敏感场景的防护设计与实施经验",
+    "熟练掌握Java/Go等语言，具备扎实的编码与系统调试能力",
+    "具备较强的业务敏感度，能快速理解营销业务逻辑并转化为技术风控策略",
+    "优秀的沟通协作能力和项目推动力，能在跨团队环境中高效落地技术方案。符合京东价值观：客户为先、创新、拼搏、担当、感恩、诚信。"
+  ]
+}

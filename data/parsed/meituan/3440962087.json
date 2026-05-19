@@ -1,0 +1,328 @@
+{
+  "source_file": "3440962087.txt",
+  "job_title": "Java开发工程师（商城方向）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "技术类",
+  "job_sub_category": "电商",
+  "job_level": "中级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "参与快驴商城展销、营销、交易及售后等核心系统的技术方案设计与功能开发，通过AI大模型能力，构建AI化的客品匹配体系，驱动线上商城转化率与用户体验双提升。",
+    "参与系统性能调优、容量规划、故障排查及日常运维，持续提升核心链路的健壮性与高可用性，保障亿级B2B交易场景下的系统稳定",
+    "深入理解业务场景，具备良好的抽象建模能力，能够化繁为简，持续把控系统高可扩展性与长期可维护性",
+    "驱动项目进展，与算法、产品、数据等团队高效协同，打通AI能力从模型训练到业务系统落地的完整链路，推动AI功能按时高质量上线",
+    "积极拥抱AI时代，参与探索并构建AI驱动的SDD（Spec-Driven Development）开发范式，利用AI工具提升个人及团队的研发效能。"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "多线程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "IO",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard",
+      "parent": "Java"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MyBatis",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "微服务架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "中间件",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "第三方库",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MySQL数据库设计",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "MySQL性能优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "MongoDB",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "面向对象设计原则",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码规范",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "工程实践",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通协作能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "知识沉淀能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "流程优化能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "新技术热情",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI开放心态",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "代码质量意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高可用系统设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "业务系统建设",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "domain"
+    },
+    {
+      "name": "LLM API",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Function Calling",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agent 编排",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Agentic Workflow",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "开源项目源码研究",
+      "proficiency": "不限",
+      "category": "通用技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，2 年以上 Java 后端开发经验，具备扎实的计算机基础",
+    "精通 Java 编程语言，理解 JVM 工作机制，具备扎实的多线程、IO、网络编程能力",
+    "熟练掌握 Spring、MyBatis 等主流开源框架，理解微服务架构理念，熟悉常用中间件与第三方库",
+    "精通 MySQL 数据库设计与性能优化，熟悉 Redis、MongoDB 等常见 NoSQL 组件",
+    "掌握面向对象设计原则，熟悉常用数据结构、算法及设计模式，具备良好的代码规范与工程实践",
+    "具备优秀的逻辑思维能力与问题分析能力，乐于沟通协作，能够沉淀知识并持续优化工作流程",
+    "学习能力强，热爱技术与创新，对互联网技术发展保持持续关注与实践热情。",
+    "具备拥抱AI的开放心态，熟练使用 Cursor、Copilot 等 AI 辅助编程工具提升日常开发效率",
+    "对互联网新技术有浓厚兴趣，具备优秀的学习能力，有深入研究开源项目源码经验者优先",
+    "具备高并发、高可用系统的实战经验，或有相关选品、分组等业务系统建设经验者优先",
+    "崇尚代码质量，有极客精神与“代码洁癖”，注重可维护性与工程美学者优先。",
+    "AI in Products 有工程化落地实战经验，熟悉主流 LLM API、RAG（检索增强生成）、Prompt Engineering、Function Calling 及 Agent 编排技术者优先",
+    "AI at Work 有深度探索，了解 Agentic Workflow 的工作原理，有推动团队研发范式升级的实践经验者优先。"
+  ]
+}

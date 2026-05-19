@@ -1,0 +1,251 @@
+{
+  "source_file": "4325276968.txt",
+  "job_title": "无人机-资深嵌入式软件工程师/专家",
+  "location": "北京市、深圳市",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "无人机/飞控系统",
+  "job_level": "资深",
+  "company_name": "美团",
+  "responsibilities": [
+    "领导嵌入式系统全生命周期管理，包括设计、开发、交付与维护，打造安全可靠、高性能、高可维护的数据驱动嵌入式系统",
+    "深度参与技术，主导系统级设计，必要时直接参与核心开发，解决复杂系统问题",
+    "协同产品经理与工程负责人，将需求转化为可执行计划，管理项目优先级与交付",
+    "制定技术方向，主导芯片选型与架构设计，推动最佳实践，通过代码审查、文档规范与测试设计确保工程质量",
+    "集成主流AI工具到日常工作流程，探索并推动AI提升团队效率",
+    "领导并培养嵌入式软件工程师团队，提供技术指导与职业规划",
+    "发挥嵌入式技术影响力，与硬件、Linux平台及云端团队协作，确保软硬件集成与功能一致性",
+    "追踪嵌入式前沿技术，推动技术转化与应用"
+  ],
+  "required_skills": [
+    {
+      "name": "C语言",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RTOS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "FreeRTOS",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "RTOS"
+    },
+    {
+      "name": "RT-Thread",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard",
+      "parent": "RTOS"
+    },
+    {
+      "name": "裸机开发",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统调试",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AI工具",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术领导力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "机器人技术",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "实时控制系统",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "飞行控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "MCU系统开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "可观测性",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rust",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "电机控制",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "传感器融合",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "电源管理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "嵌入式安全",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "安全启动",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard",
+      "parent": "嵌入式安全"
+    },
+    {
+      "name": "加密算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "安全",
+      "skill_type": "hard"
+    },
+    {
+      "name": "CI/CD",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Jenkins",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool",
+      "parent": "CI/CD"
+    },
+    {
+      "name": "Gerrit",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "tool",
+      "parent": "CI/CD"
+    },
+    {
+      "name": "硬件在环测试",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "测试工具",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机科学、计算机工程、电子工程或相关专业，5年以上嵌入式软件开发经验，精通C/C++，具备RTOS（FreeRTOS/RT-Thread等）及裸机开发实战经验",
+    "具有产品级架构设计影响力，能独立调试软硬件复杂系统，有可验证的业绩成果",
+    "熟练使用主流AI工具",
+    "具备开放学习心态与强烈自驱力。",
+    "2年以上技术领导或管理经验，具备成功主导工程项目及有效管理团队的良好记录",
+    "拥有机器人、实时控制系统、飞行控制或自动驾驶领域从业经验，或具备大规模商用MCU系统产品开发及维护经验",
+    "具有在大型嵌入式系统部署中建立数据驱动观测能力的实战经验",
+    "精通至少一种现代系统编程语言（如嵌入式系统开发常用的Rust）",
+    "熟悉电机控制、传感器融合或电源管理系统相关知识",
+    "具备实施安全启动（secure boot）、加密算法等嵌入式安全方案的经验",
+    "拥有为嵌入式项目构建和维护CI/CD流水线（如Jenkins、Gerrit）及硬件在环（HIL）测试系统的经验",
+    "具有在工程项目中定制，集成 AI 工具，并为项目以及研发团队提效有具体落地案例。"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "source_file": "2029862294032384000.txt",
+  "job_title": "大模型推理引擎研发工程师",
+  "location": "上海",
+  "education": "不限",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大模型推理",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "workmode": "现场",
+  "responsibilities": [
+    "研发及优化大模型推理引擎",
+    "推广公有云客户，创造技术优势引导客户上云",
+    "对接客户业务，分析性能瓶颈，定位、解决问题",
+    "协助业务内部集群部署，持续迭代性能，保持业内领先优势"
+  ],
+  "required_skills": [
+    {
+      "name": "vllm",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "lightllm",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "tensorrt-llm",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "lmdeploy",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "faster transformer",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "CUDA",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "triton (OpenAI)",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "cutlass",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool",
+      "parent": "CUDA"
+    },
+    {
+      "name": "大模型结构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "大模型性能瓶颈分析",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推理性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大模型量化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "int8量化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型量化"
+    },
+    {
+      "name": "fp8量化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型量化"
+    },
+    {
+      "name": "混合精度量化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "大模型量化"
+    },
+    {
+      "name": "模型蒸馏",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型稀疏化",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型剪裁",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推理服务框架",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "分布式模型部署",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型并行",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式模型部署"
+    },
+    {
+      "name": "流水线并行",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "分布式系统",
+      "skill_type": "hard",
+      "parent": "分布式模型部署"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "服务部署经验",
+      "proficiency": "不限",
+      "category": "DevOps工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "tool"
+    },
+    {
+      "name": "容器化服务",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "容器与编排",
+      "skill_type": "tool"
+    },
+    {
+      "name": "Triton Inference Server",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "tool"
+    },
+    {
+      "name": "NVLINK",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPU通信",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GPU体系结构",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "其他",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉主流大模型推理框架，如vllm，lightllm，tensorrt-llm，lmdeploy，faster transformer等",
+    "熟悉CUDA，triton（https://openai.com/research/triton）、cutlass至少一种以上，精通者优先",
+    "熟悉大模型结构，了解大模型性能瓶颈，熟练分析单机及分布式情况下不同性能热点和优化手段",
+    "熟悉大模型量化算法，int8/fp8/混合精度量化，了解模型蒸馏、稀疏化、剪裁技术",
+    "熟悉推理服务框架，具备服务部署经验者优先，了解k8s，容器化服务，Triton Inference Server (https://github.com/triton-inference-server/server)实现原理者优先",
+    "熟悉分布式模型部署及并行策略，如模型并行、流水线并行等，了解NVLINK、GPU通信者优先",
+    "熟练掌握Python及C++",
+    "了解GPU体系结构者优先。"
+  ]
+}

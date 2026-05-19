@@ -1,0 +1,110 @@
+{
+  "source_file": "3069769778.txt",
+  "job_title": "Search Agent大模型算法工程师",
+  "location": "北京/上海",
+  "education": "硕士",
+  "experience": "不限",
+  "job_category": "技术类",
+  "job_sub_category": "搜索Agent",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "深度参与大模型Search Agent产品的研发工作，包括联网搜索、边想边搜、Deep Research等",
+    "跟进大模型的前沿技术，在Longcat模型上做出创新性的研究成果",
+    "结合大模型多模态能力，探索下一代大模型+搜索的新的技术和产品范式"
+  ],
+  "required_skills": [
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大语言模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI/机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型训练调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编程能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分析能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "解决问题能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "自驱力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "顶会论文发表",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "certification"
+    },
+    {
+      "name": "算法竞赛获奖",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "certification"
+    }
+  ],
+  "raw_requirements": [
+    "硕士研究生及以上学历，计算机科学、人工智能、自然语言处理等相关领域",
+    "优秀的编程能力，熟悉PyTorch、TensorFlow深度学习框架",
+    "熟悉深度学习和LLM相关的算法和技术，具备丰富的模型训练调优经验",
+    "出色的分析和解决问题能力，并具有极强的学习能力",
+    "有ACL/NeurIPS等顶会论文者优先，有ACM/ICPC、NOI/IOI、Top Coder、Kaggle等比赛获奖者优先",
+    "自驱力强，能够独立分析问题和解决问题在KDD/SIGIR等顶会发表论文，ACM/Kaggle等算法竞赛获奖经历"
+  ]
+}

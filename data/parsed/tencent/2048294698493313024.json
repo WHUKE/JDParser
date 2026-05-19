@@ -1,0 +1,176 @@
+{
+  "source_file": "2048294698493313024.txt",
+  "job_title": "《王者万象棋》服务器高级开发工程师",
+  "location": "成都",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "后端开发",
+  "job_sub_category": "游戏服务器",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责游戏服务器端设计和开发工作，设计开发游戏系统以及基础架构系统",
+    "对系统的质量负责",
+    "对系统的稳定性、安全性、性能、热更新等方面负责"
+  ],
+  "required_skills": [
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "脚本语言",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络原理",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络编程",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "网络",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式架构",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "网络分区处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模块化设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码规范",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "海量承载优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能热点分析",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异步编程",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "时序处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "容灾设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "异常处理",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工具化能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "游戏热爱",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主流游戏类型实现方式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "热爱游戏，熟悉主流游戏类型实现方式",
+    "熟练使用C/C++/Go语言以及一些脚本",
+    "精通网络原理、网络编程；精通不同的分布式架构，熟练应对网络分区问题",
+    "熟练使用各种主流数据库",
+    "熟练掌握Linux操作系统",
+    "具有复杂模块的开发经验，能对其进行合理分层并落地，具有良好的代码风格和习惯",
+    "熟悉海量承载优化，有实际的性能热点分析和优化经验",
+    "对异步、时序、容灾有自己的思考和实践，能将异常处理融入工作习惯中",
+    "有工具思想，善于总结工作中的重复部分并将其工具化。"
+  ]
+}

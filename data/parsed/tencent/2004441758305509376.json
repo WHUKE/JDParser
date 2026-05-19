@@ -1,0 +1,164 @@
+{
+  "source_file": "2004441758305509376.txt",
+  "job_title": "游戏用户研究-AI算法工程师",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "1-3年",
+  "experience_min": 1,
+  "experience_max": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "大语言模型",
+  "job_level": "中级",
+  "responsibilities": [
+    "结合游戏业务垂直场景，负责深度学习和大语言模型的训练精调、调优及部署",
+    "参与大规模平台用户行为数据集的ETL及特征工程，构建高效数据流水线，落地到用户画像体系并服务到线上AI应用",
+    "跟踪和研究前沿AI技术（如LLM、VLM、SFT、DPO、RAG、MCP等），推动技术落地业务发挥价值",
+    "与技术团队协作，优化算法模型和服务性能，满足产品AI价值落地要求"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Deep Learning",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Large Language Model",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Optimization Algorithms",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Model Fine-tuning",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Large Language Model"
+    },
+    {
+      "name": "LLM Architecture",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Large Language Model"
+    },
+    {
+      "name": "Communication",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Team Collaboration",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Problem Solving",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Innovation",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "Gaming Experience",
+      "proficiency": "不限",
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Vision Language Model",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Supervised Fine-Tuning",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Large Language Model"
+    },
+    {
+      "name": "Direct Preference Optimization",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Large Language Model"
+    },
+    {
+      "name": "Retrieval-Augmented Generation",
+      "proficiency": "不限",
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "Large Language Model"
+    },
+    {
+      "name": "Model Context Protocol",
+      "proficiency": "不限",
+      "category": "AI工具",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "计算机科学、人工智能或数学专业硕士及以上学历，1-3年机器学习或深度学习、LLM/VLM相关开发经验，熟悉经典模型和优化算法",
+    "扎实的机器学习基础和LLM底层核心架构",
+    "具备一定大语言模型应用的模型微调和优化经验，如幻觉问题解决思路提炼和有效落地",
+    "熟悉Linux开发环境和Python语言，了解PyTorch/TensorFlow框架",
+    "良好的沟通能力和团队协作精神，能够清晰表达复杂技术概念，具备解决复杂问题的能力，善于创新思考，喜欢游戏并具备一定游戏经验。"
+  ]
+}

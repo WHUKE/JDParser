@@ -1,0 +1,121 @@
+{
+  "source_file": "4128067035.txt",
+  "job_title": "无人车业务部-模型部署优化工程师",
+  "location": "北京市",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "模型部署优化",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "负责自动驾驶模型在嵌入式平台上的高效部署与性能优化",
+    "设计并实现模型量化、剪枝、蒸馏等轻量化技术，提升推理效率",
+    "协同算法团队完成从模型训练到部署的全流程闭环，确保模型落地质量",
+    "分析并解决模型部署中的精度损失、延迟与资源占用等关键问题",
+    "持续跟踪部署效果，优化系统稳定性与实时性表现"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "TensorRT",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "ONNX",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型量化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型剪枝",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型蒸馏",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "感知模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "规划模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "控制模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "算法基础",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "系统优化",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "嵌入式平台模型适配优化",
+      "proficiency": "不限",
+      "category": "嵌入式",
+      "skill_type": "hard"
+    }
+  ],
+  "raw_requirements": [
+    "硕士研究生及以上学历，计算机、自动化、电子工程等相关专业。",
+    "3年以上模型部署或嵌入式AI开发经验，熟悉C++、Python编程。",
+    "精通TensorRT、ONNX等模型部署框架，具备实际项目落地经验。",
+    "熟悉自动驾驶感知、规划或控制模型，了解典型算法流程。",
+    "具备扎实的算法基础与系统优化能力，能独立解决复杂技术问题。有嵌入式平台模型适配优化经验优先"
+  ]
+}

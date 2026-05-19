@@ -1,0 +1,248 @@
+{
+  "source_file": "1948635315728130048.txt",
+  "job_title": "微信支付-高级金融风控数据挖掘工程师",
+  "location": "深圳",
+  "education": "硕士",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "AI/机器学习",
+  "job_sub_category": "金融风控",
+  "job_level": "高级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "构建金融场景全生命周期风控平台，深度参与风控模型开发，为金融业务提供技术服务",
+    "挖掘用户金融信贷需求，优化信贷营销推荐算法",
+    "通过海量数据提取特征，丰富用户和商户画像",
+    "基于深度学习、因果推断、迁移学习和图计算等技术，探索金融前沿应用"
+  ],
+  "required_skills": [
+    {
+      "name": "机器学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "有监督学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "无监督学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "分类模型",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "聚类",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "社团挖掘",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "文本分析",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "概率论与数理统计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Scala",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Hadoop",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Apache Spark",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "大数据",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "开放心态",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队合作精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "金融风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "消费金融",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "个人信贷",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "企业信贷",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain"
+    },
+    {
+      "name": "反欺诈",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "金融风控"
+    },
+    {
+      "name": "安全对抗",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "金融风控"
+    },
+    {
+      "name": "贷前风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "金融风控"
+    },
+    {
+      "name": "贷中风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "金融风控"
+    },
+    {
+      "name": "贷后风控",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "领域知识",
+      "skill_type": "domain",
+      "parent": "金融风控"
+    }
+  ],
+  "raw_requirements": [
+    "数学、统计、计算机等相关专业硕士及以上学历",
+    "三年以上互联网数据挖掘和应用相关工作经验",
+    "有实际的有监督或无监督模型建模经验，较强的概率与数理统计基础，精通一种或多种算法模型，如分类模型、聚类、社团挖掘、文本分析、深度学习等",
+    "精通SQL、Scala、Python、Java、C/C++等中的至少2-3种编程语言，有基于Hadoop/Spark大数据平台开发经验",
+    "具备金融风控构建经验，对消费金融、个人/企业信贷、反欺诈、安全对抗理解度好，熟悉贷前/中/后风控流程和细节者优先",
+    "具有较强学习能力，具备空杯心态，有较强的团队合作精神和责任心。"
+  ]
+}

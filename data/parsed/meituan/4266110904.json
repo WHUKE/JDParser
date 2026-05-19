@@ -1,0 +1,142 @@
+{
+  "source_file": "4266110904.txt",
+  "job_title": "无人车业务部-决策规划模型算法工程师",
+  "location": "北京市、深圳市",
+  "experience": "2年",
+  "experience_min": 2,
+  "experience_max": 2,
+  "job_category": "技术类",
+  "job_sub_category": "自动驾驶决策规划",
+  "job_level": "中级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责提升自动驾驶决策规划模型能力，利用数据驱动的方法训练安全、高效、拟人的行为模型，评估交付提升实车能力表现",
+    "构建闭环训练算法，包括不限于自回归、Flow Matching等算法，利用模仿学习+强化学习优化策略，优化提升模型的交互能力",
+    "构建数据闭环算法管线，包含corner case生成、伪标签生成、对抗样本生成等方法，提升模型在长尾问题上的表现"
+  ],
+  "required_skills": [
+    {
+      "name": "工程能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "计算机算法基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "决策模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "模仿学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "序列建模",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "预测+决策模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "domain"
+    },
+    {
+      "name": "无图自动驾驶",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "端到端算法",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "量产算法经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "数据闭环算法",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "数据处理",
+      "skill_type": "hard"
+    },
+    {
+      "name": "corner case生成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "hard",
+      "parent": "数据闭环算法"
+    },
+    {
+      "name": "伪标签生成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "数据闭环算法"
+    },
+    {
+      "name": "对抗样本生成",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "数据闭环算法"
+    },
+    {
+      "name": "自回归模型",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Flow Matching",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "扎实工程经验和计算机算法基础，有良好的编程语言基础，熟悉决策模型",
+    "扎实的数据闭环的算法能力，深入理解模仿学习、强化学习、序列建模等模型在决策任务中的应用。",
+    "预测+决策模型、无图、端到端算法经验",
+    "有量产算法经验",
+    "有强化学习经验"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "source_file": "2004181420859346944.txt",
+  "job_title": "多平台动作搜打撤-游戏客户端开发工程师(Gameplay)-新星引力计划",
+  "location": "深圳",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "游戏开发",
+  "job_sub_category": "Gameplay",
+  "job_level": "中级",
+  "company_name": "腾讯",
+  "responsibilities": [
+    "负责动作游戏玩法系统的开发与优化",
+    "负责游戏核心系统开发，包括动画、3C、技能、AI和关卡机制等",
+    "负责游戏中的关键技术预研，有较强的学习及问题解决能力",
+    "负责游戏中的工具链扩展与开发，提升开发效率"
+  ],
+  "required_skills": [
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Lua",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Unreal Engine",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "游戏引擎",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "攻坚能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "热爱游戏",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Unreal Engine Animation",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Unreal Engine AI",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    },
+    {
+      "name": "Unreal Engine Gameplay Ability System",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "游戏引擎",
+      "skill_type": "hard",
+      "parent": "Unreal Engine"
+    }
+  ],
+  "raw_requirements": [
+    "本科以上学历，1 年以上游戏客户端开发经验，熟悉Unreal引擎",
+    "熟练使用C++，熟悉Lua等脚本语言",
+    "在Unreal引|擎动画、技能、AI等某一领域有丰富经验优先",
+    "有优秀的学习能力和攻坚能力，善于沟通，具备良好的团队开发意识，热爱游戏事业。"
+  ]
+}

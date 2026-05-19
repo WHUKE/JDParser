@@ -1,0 +1,250 @@
+{
+  "source_file": "20c4117a-40dd-4ac2-b317-6bebc77ba4f4.txt",
+  "job_title": "PostgreSQL 资深数据库架构师（J96226）",
+  "location": "北京市",
+  "job_category": "后端开发",
+  "job_sub_category": "PostgreSQL内核开发",
+  "job_level": "资深",
+  "company_name": "百度",
+  "responsibilities": [
+    "开发和优化 PostgreSQL 内核功能，包括查询引擎、存储层及扩展接口",
+    "集成并调优向量相关插件（如 pgvector、lantern、pg_embedding），提升 AI/ML 场景性能",
+    "参与云原生架构设计，实现计算存储分离、弹性扩缩容、多租户隔离等特性",
+    "开发数据库分支能力，支持快速克隆与版本管理，用于开发、测试、CI 场景",
+    "基于对象存储或分布式日志实现持久化层，降低成本并提高可用性",
+    "为 AI 应用提供向量索引、元数据联合查询，以及与外部 AI 平台的数据对接能力",
+    "优化高可用与运维功能，包括自动索引推荐、参数调优、异常分析，及 Serverless 冷启动优化",
+    "关注业界开源数据库技术（如 Neon、Supabase），并将适合的成果回馈社区"
+  ],
+  "required_skills": [
+    {
+      "name": "PostgreSQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PostgreSQL 内核开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "MVCC",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "WAL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "复制槽",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "逻辑解码",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "云原生数据库开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "存算分离",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "云原生数据库开发"
+    },
+    {
+      "name": "共享存储",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "云原生数据库开发"
+    },
+    {
+      "name": "Serverless 架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "云原生数据库开发"
+    },
+    {
+      "name": "向量数据库",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PG 插件生态",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "AI 场景数据处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据处理",
+      "skill_type": "domain"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Rust",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Linux I/O 栈",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "操作系统",
+      "skill_type": "hard"
+    },
+    {
+      "name": "性能优化",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高并发问题定位",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "大数据量问题定位",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "Neon",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Aurora",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "PolarDB",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "存算分离数据库开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "云原生数据库开发"
+    },
+    {
+      "name": "开源 PG 扩展开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "PostgreSQL"
+    },
+    {
+      "name": "向量数据库项目经验",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LlamaIndex",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Serverless 数据库开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard",
+      "parent": "Serverless 架构"
+    },
+    {
+      "name": "开源贡献",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "raw_requirements": [
+    "必备条件",
+    "熟悉 PostgreSQL 源码（建议 v12+），有内核模块开发经验（如自定义 AM、Hook、WAL 逻辑）",
+    "理解 MVCC、WAL、复制槽、逻辑解码等机制，能根据云环境调整关键流程",
+    "有云原生数据库开发经验，包括存算分离、共享存储、Serverless 架构",
+    "了解向量数据库原理及相关 PG 插件生态，有 AI 场景数据处理经验",
+    "熟练使用 C/Rust，了解 Linux I/O 栈及性能优化方法，能定位并解决高并发或大数据量问题",
+    "加分条件",
+    "有 Neon、Aurora、PolarDB 等存算分离数据库使用或二次开发经验。",
+    "参与过开源 PG 扩展或向量数据库项目",
+    "熟悉数据库与 AI 框架（如 LangChain、LlamaIndex）的集成方式",
+    "有 Serverless 平台与数据库联动开发经验",
+    "在 GitHub 或技术社区发布过 PG 相关工具、性能测试或提案"
+  ]
+}

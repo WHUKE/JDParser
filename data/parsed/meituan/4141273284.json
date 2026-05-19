@@ -1,0 +1,311 @@
+{
+  "source_file": "4141273284.txt",
+  "job_title": "餐饮业务平台-AI开发工程师",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "3年以上",
+  "experience_min": 3,
+  "job_category": "技术类",
+  "job_sub_category": "NLP",
+  "job_level": "高级",
+  "company_name": "美团",
+  "workmode": "现场",
+  "responsibilities": [
+    "主导或参与“AI×SaaS”融合架构设计，将大模型、智能体、RAG等技术系统化嵌入SaaS产品链路",
+    "推动“AI×标准化”方向，用AI重建业务资产，助力业务高速发展",
+    "负责餐饮SaaS平台核心领域的系统建模、设计与演进，构建高扩展、高可用的领域模型与业务中台",
+    "抽象全局共性能力，支撑多业务场景的灵活编排",
+    "主导日均千万级订单交易平台全链路研发，保障稳定性与弹性伸缩",
+    "负责高并发活动引擎与营销平台架构设计，确保海量流量下的精准执行",
+    "构建统一可靠的线下支付平台，支持公司多业务线复杂支付场景",
+    "设计面向餐饮商家的业财一体化方案及多租户账号权限体系",
+    "持续推进平台架构迭代与稳定性建设，主动识别并化解技术风险",
+    "通过性能优化、容量规划与高可用设计，保障核心系统长期可靠运行"
+  ],
+  "required_skills": [
+    {
+      "name": "计算机基础",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "编码能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "通用技能",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JVM",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Spring Cloud",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "后端框架",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式系统",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "缓存",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "消息队列",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "消息队列",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RPC",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "数据库",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "领域建模",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "架构设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "学习能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "业务抽象能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑分析能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "复杂问题拆解能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "责任心",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "主人翁意识",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "质量意识",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "协作能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "项目管理能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "LLM应用开发",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "Function Calling",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "LLM应用开发"
+    },
+    {
+      "name": "AI Agent架构设计",
+      "proficiency": "了解",
+      "proficiency_rank": 1,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AI Agent架构设计"
+    },
+    {
+      "name": "LlamaIndex",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AI Agent架构设计"
+    },
+    {
+      "name": "AI Infra",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "推理性能优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AI Infra"
+    },
+    {
+      "name": "模型评估体系",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard",
+      "parent": "AI Infra"
+    },
+    {
+      "name": "Fine-tuning",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "AI Infra"
+    },
+    {
+      "name": "MLOps",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "DevOps工具",
+      "skill_type": "hard",
+      "parent": "AI Infra"
+    },
+    {
+      "name": "AI驱动SaaS产品改造",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "领域知识",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "计算机相关专业本科及以上学历，具备扎实的计算机基础与良好的编码素养。",
+    "3年以上Java服务端开发经验，精通Java生态，深入理解JVM、主流开源框架（Spring/Spring Cloud等）及设计模式。",
+    "熟练掌握分布式系统原理，对缓存、消息队列、RPC、数据库等中间件有深入理解和调优经验。",
+    "具备复杂业务系统领域建模和架构设计能力，能产出清晰、可演进的架构方案。AI 工程能力（重要加分项）",
+    "有 LLM 应用开发经验，熟悉 Prompt Engineering、RAG、Function Calling 等工程化实践，能将大模型能力与业务系统深度集成",
+    "了解 AI Agent 架构设计，有基于 LangChain、LlamaIndex 或自研框架构建智能体的实践经验者优先",
+    "关注 AI Infra 方向（如推理性能优化、模型评估体系、Fine-tuning 流程）或有 MLOps 落地经验者加分",
+    "对 AI 如何系统性地改造 B 端 SaaS 产品和系统有独立思考，而非仅停留在 demo 或 PoC 层面软实力与思维：",
+    "对技术趋势保持敏感，拥抱变化，关注 AI 趋势并及时武装自己。",
+    "出色的业务抽象、逻辑分析和复杂问题拆解能力，追求优雅的架构设计。",
+    "强烈的责任心和主人翁意识，对系统稳定性、代码质量有高标准要求。",
+    "良好的沟通协作能力，能驱动跨团队复杂项目落地。"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_file": "8022ecda-e5e6-4a61-b3e9-8dcce17d5b8d.txt",
+  "job_title": "开发测试工程师（横琴）（J98749）",
+  "location": "横琴粤澳深度合作区",
+  "education": "本科",
+  "experience": "1年以上",
+  "experience_min": 1,
+  "job_category": "测试",
+  "job_level": "初级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度智能云混合云产品的测试工作，包括功能、性能、异常、安全以及自动化，测试效能提升等方面",
+    "能够完成所负责产品的测试设计并执行测试计划，确保测试用例有效覆盖",
+    "协作开发团队进行缺陷跟踪和管理，保证测试准出质量",
+    "对测试结果进行分析和报告，对产品测试质量提升进行有效改进",
+    "维护和改进测试流程和方法，提高测试效率和准确性",
+    "参与测试工具和自动化测试脚本的开发、维护"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "云产品测试",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "私有化产品测试",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业",
+    "1年以上测试开发相关工作经验",
+    "有云产品测试经验、私有化产品测试经验者优先",
+    "熟练掌握至少一种测试工具或编程语言（如Python、go、java等）",
+    "良好的团队协作和沟通能力，能够与开发、产品等团队紧密合作"
+  ]
+}

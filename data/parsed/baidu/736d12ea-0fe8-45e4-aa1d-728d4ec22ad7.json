@@ -1,0 +1,153 @@
+{
+  "source_file": "736d12ea-0fe8-45e4-aa1d-728d4ec22ad7.txt",
+  "job_title": "Go/Python研发工程师（J99069）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "2年以上",
+  "experience_min": 2,
+  "job_category": "后端开发",
+  "job_sub_category": "AI工程化",
+  "job_level": "中级",
+  "company_name": "百度",
+  "responsibilities": [
+    "负责百度智能云千帆平台AI工程化方向的后端研发，包括大模型推理调度、Agent&Tools、AI能力中心等系统的设计与实现",
+    "参与平台架构设计与核心模块开发，推进平台稳定性建设",
+    "深入业务需求分析与系统设计，主导关键技术难题攻关，持续进行系统优化与性能提升",
+    "负责平台部分服务的日常运维、问题排查与稳定性保障，推动系统向更高效、更可靠演进",
+    "与算法、产品、前端团队紧密协作，共同推进AI产品功能迭代与用户体验优化"
+  ],
+  "required_skills": [
+    {
+      "name": "Go",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "代码设计能力",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "工程规范意识",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "MySQL",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard"
+    },
+    {
+      "name": "SQL优化",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "数据库",
+      "skill_type": "hard",
+      "parent": "MySQL"
+    },
+    {
+      "name": "Redis",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Memcached",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "缓存",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Docker",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Kubernetes",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "容器与编排",
+      "skill_type": "hard"
+    },
+    {
+      "name": "云原生",
+      "proficiency": "不限",
+      "category": "云平台",
+      "skill_type": "domain"
+    },
+    {
+      "name": "自主学习能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术钻研精神",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "技术分享",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "逻辑思维能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通表达能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题分析与解决能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "AI技术兴趣",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "计算机、软件工程等相关专业本科及以上学历，2年以上后端开发经验",
+    "熟练掌握Go/Python中至少一门语言，具备良好的代码设计能力和工程规范意识",
+    "具备扎实的数据库能力，熟悉MySQL及SQL优化，有Redis、Memcached等缓存系统实践经验",
+    "熟悉Docker及Kubernetes，具备云原生相关开发与部署经验",
+    "对AI技术和应用有浓厚兴趣，具备较强的自主学习能力和技术钻研精神，乐于技术分享与团队协作",
+    "逻辑清晰，沟通表达顺畅，具备优秀的问题分析与解决能力"
+  ]
+}

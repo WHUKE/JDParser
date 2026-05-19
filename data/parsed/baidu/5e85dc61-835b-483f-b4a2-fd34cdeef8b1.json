@@ -1,0 +1,75 @@
+{
+  "source_file": "5e85dc61-835b-483f-b4a2-fd34cdeef8b1.txt",
+  "job_title": "语音唤醒算法工程师（J69541）",
+  "location": "北京市",
+  "job_category": "AI/机器学习",
+  "job_sub_category": "语音唤醒",
+  "company_name": "百度",
+  "responsibilities": [
+    "跟踪kws前沿相关技术",
+    "负责定制唤醒、自定义唤醒等技术研发和业务支持",
+    "负责声源定位技术的研发和业务支持",
+    "负责AEC技术的研发和业务支持"
+  ],
+  "required_skills": [
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "C++",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "抗压能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "吃苦耐劳",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "语音唤醒",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "语音识别",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "熟悉深度学习，有唤醒和语音识别经验加分",
+    "编程能力强，至少熟练掌握C/C++/Python等一门编程语言",
+    "吃苦耐劳，抗压能力强"
+  ]
+}

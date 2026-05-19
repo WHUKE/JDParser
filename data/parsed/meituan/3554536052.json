@@ -1,0 +1,135 @@
+{
+  "source_file": "3554536052.txt",
+  "job_title": "Keeta技术-Java高级开发工程师（用户交易方向）",
+  "location": "北京市",
+  "education": "本科",
+  "experience": "5年以上",
+  "experience_min": 5,
+  "job_category": "技术类",
+  "job_sub_category": "交易系统",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "负责境外业务C端订单系统的建设工作，提升用户体验，实现用户增长",
+    "负责商家订单系统核心功能的设计、架构升级，保证业务需求高效高质量实现",
+    "分析系统优化点，负责架构规划、性能优化、稳定性保障、安全加固等工作",
+    "解决系统开发和运行过程中的技术缺陷和线上问题，持续优化系统质量和性能",
+    "指导和培养人才，参与优化研发流程、项目管理及新人培养",
+    "借助AI Coding工具提升订单系统研发效率，探索AI技术在订单链路智能化、用户体验优化等场景的工程落地"
+  ],
+  "required_skills": [
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "分布式架构",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "设计模式",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "高可用架构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "容错设计",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "GitHub Copilot",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cursor",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "订单系统",
+      "proficiency": "精通",
+      "proficiency_rank": 4,
+      "category": "其他",
+      "skill_type": "domain"
+    },
+    {
+      "name": "高并发系统设计",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "项目管理",
+      "proficiency": "不限",
+      "category": "项目管理",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "跨团队协同能力",
+      "proficiency": "不限",
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [
+    {
+      "name": "中台架构",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "平台化设计",
+      "proficiency": "不限",
+      "category": "架构模式",
+      "skill_type": "hard"
+    },
+    {
+      "name": "国际化业务",
+      "proficiency": "不限",
+      "category": "其他",
+      "skill_type": "domain"
+    }
+  ],
+  "raw_requirements": [
+    "本科及以上学历，5年以上互联网系统研发经验",
+    "具备优秀的业务分析能力、方案整合能力和解决问题能力，能够将复杂的业务问题转变为清晰的系统需求",
+    "在订单领域有丰富的领域知识，具备复杂业务系统的分析与设计经验，有主流互联网电商业务系统搭建经验",
+    "熟练掌握Java开发技术栈，对分布式架构组件有实践经验，熟悉设计模式、高可用性与容错保障等知识体系",
+    "做事有责任感和主动性，面对复杂业务问题，可以从技术和业务多角度推进，最终达成目标",
+    "熟练使用AI辅助编码工具（如GitHub Copilot/Cursor），能将AI工具融入日常开发流程；有订单领域系统建设经验或国际化出海经验者优先。",
+    "有3年以上订单领域系统建设经验，有C端 高可用高并发的系统经验。",
+    "有国际化出海经验",
+    "有中台、平台化设计经验更优",
+    "综合素质：较好的沟通、跨团队协同能力"
+  ]
+}

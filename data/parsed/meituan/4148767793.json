@@ -1,0 +1,212 @@
+{
+  "source_file": "4148767793.txt",
+  "job_title": "服务零售-大模型/AI应用开发工程师",
+  "location": "上海市",
+  "education": "本科",
+  "experience": "5年",
+  "experience_min": 5,
+  "experience_max": 5,
+  "job_category": "技术类",
+  "job_sub_category": "大语言模型",
+  "job_level": "高级",
+  "company_name": "美团",
+  "responsibilities": [
+    "基于大语言模型（LLM）及前沿AI技术，设计并开发创新型AI原生应用（如商家智能化系统、销售智能化系统等）及在现有业务中增强AI能力。",
+    "构建端到端的AI Coding工程化解决方案，负责整体架构设计、核心模块开发、领域模型微调、质量保障、效果评测、工程化流程整合等全链路解决方案，提升研发效率。",
+    "深入理解服务零售领域业务逻辑，设计AI技术与业务场景结合的创新方案，实现领域知识与大模型的高效适配，构建AI友好型系统，跟进AI技术演进并推动前沿技术在业务场景的快速验证。"
+  ],
+  "required_skills": [
+    {
+      "name": "Python",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Java",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "JavaScript",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "编程语言",
+      "skill_type": "hard"
+    },
+    {
+      "name": "算法与数据结构",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "其他",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Prompt Engineering",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RAG",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Fine-tuning",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "Post-Training",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "强化学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "AI Agent",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "机器学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard"
+    },
+    {
+      "name": "深度学习",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "自然语言处理",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "PyTorch",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "深度学习",
+      "skill_type": "hard",
+      "parent": "深度学习"
+    },
+    {
+      "name": "LlamaIndex",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "AutoGen",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "smolagents",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "Cline",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "RooCode",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "AI工具",
+      "skill_type": "hard"
+    },
+    {
+      "name": "模型调优",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "机器学习",
+      "skill_type": "hard",
+      "parent": "机器学习"
+    },
+    {
+      "name": "编码习惯",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "沟通能力",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "团队协作",
+      "proficiency": "熟悉",
+      "proficiency_rank": 2,
+      "category": "软技能",
+      "skill_type": "soft"
+    },
+    {
+      "name": "问题解决能力",
+      "proficiency": "熟练",
+      "proficiency_rank": 3,
+      "category": "软技能",
+      "skill_type": "soft"
+    }
+  ],
+  "preferred_skills": [],
+  "raw_requirements": [
+    "本科及以上学历，计算机相关专业，熟练掌握Python/Java/JavaScript中至少一种语言，具备良好的编码习惯和扎实的算法与数据结构基础。",
+    "具备AI工程化经验，比如：Prompt Engineering、RAG、Fine-tuning、Post-Training、RL、Agent等。",
+    "具备良好的沟通能力和团队协作经验；不局限于传统前后端技术职能边界，擅长从用最合理的方案解决实际问题。",
+    "熟悉机器学习、深度学习、自然语言处理核心原理，有深度学习框架如PyTorch/TensorFlow的使用经验，并有AI开发相关的技术博客或者开源项目产出。",
+    "熟悉AI应用开发生态（如LlamaIndex/AutoGen/smolagents等开发框架，Cline/RooCode等插件），有模型调优经验。",
+    "主导过AIGC项目经验（如代码生成、文本生成、多模态内容生成等）。"
+  ]
+}
