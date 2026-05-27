@@ -78,6 +78,7 @@ class Pipeline:
         # 写入汇总文件
         summary_path = output_dir / "_all.json"
         summary = [jd.to_dict() for jd in results]
+        # Keep the aggregate JSON aligned with per-file parser outputs.
         summary_path.write_text(
             json.dumps(summary, ensure_ascii=False, indent=2),
             encoding="utf-8",

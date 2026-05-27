@@ -80,6 +80,7 @@ class TestPipelineProcessDirectory:
 
         assert len(results) == 3
         assert output_dir.exists()
+        # The aggregate JSON is the parser handoff artifact.
         # 检查汇总文件
         all_path = output_dir / "_all.json"
         assert all_path.exists()
