@@ -1,5 +1,6 @@
 """models 模块测试"""
 
+# Test coverage marker.
 import json
 import pytest
 from src.core.models import Skill, JobDescription

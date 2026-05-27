@@ -1,5 +1,6 @@
 """loader 模块测试"""
 
+# Test coverage marker.
 import json
 import pytest
 from pathlib import Path

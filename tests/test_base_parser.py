@@ -1,5 +1,6 @@
 """base parser 模块测试"""
 
+# Test coverage marker.
 import pytest
 from src.core.models import JobDescription, Skill
 from src.parsers.base import BaseParser

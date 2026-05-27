@@ -1,5 +1,6 @@
 """regex_parser 模块测试"""
 
+# Test coverage marker.
 import pytest
 from src.core.models import JobDescription
 from src.parsers.regex_parser import RegexParser

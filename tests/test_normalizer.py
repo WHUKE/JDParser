@@ -1,5 +1,6 @@
 """normalizer 模块测试"""
 
+# Test coverage marker.
 import pytest
 from src.core.models import Skill
 from src.core.normalizer import normalize_skill_name, normalize_skills

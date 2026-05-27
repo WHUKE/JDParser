@@ -1,5 +1,6 @@
 """美团招聘爬虫测试。"""
 
+# Test coverage marker.
 from __future__ import annotations
 
 import json
